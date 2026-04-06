@@ -4,6 +4,21 @@ import path from "node:path";
 const TMDB_BASE_URL = "https://api.themoviedb.org/3";
 const TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500";
 const OUTPUT_FILE = path.join(process.cwd(), "public", "data", "series-catalog.json");
+const MAX_RESULTS = 320;
+const REQUEST_BATCHES = [
+  { pathname: "/tv/popular", pages: 8, params: {} },
+  { pathname: "/tv/top_rated", pages: 8, params: {} },
+  { pathname: "/tv/on_the_air", pages: 6, params: {} },
+  { pathname: "/tv/airing_today", pages: 4, params: {} },
+  {
+    pathname: "/discover/tv",
+    pages: 6,
+    params: {
+      sort_by: "popularity.desc",
+      "vote_count.gte": "150",
+    },
+  },
+];
 
 async function parseEnvFileValue(key) {
   try {
@@ -65,23 +80,25 @@ function mapSeries(item) {
 }
 
 async function buildCatalog(apiKey) {
-  const requests = [
-    ...Array.from({ length: 5 }, (_, index) => tmdbFetch(apiKey, "/tv/popular", { page: String(index + 1) })),
-    ...Array.from({ length: 4 }, (_, index) => tmdbFetch(apiKey, "/tv/top_rated", { page: String(index + 1) })),
-    ...Array.from({ length: 3 }, (_, index) =>
-      tmdbFetch(apiKey, "/discover/tv", {
+  const requests = REQUEST_BATCHES.flatMap(({ pathname, pages, params }) =>
+    Array.from({ length: pages }, (_, index) =>
+      tmdbFetch(apiKey, pathname, {
+        ...params,
         page: String(index + 1),
-        sort_by: "popularity.desc",
-        "vote_count.gte": "150",
       }),
     ),
-  ];
+  );
 
-  const payloads = await Promise.all(requests);
+  const payloads = await Promise.allSettled(requests);
   const uniqueSeries = new Map();
 
   payloads.forEach((payload) => {
-    const results = Array.isArray(payload.results) ? payload.results : [];
+    if (payload.status !== "fulfilled") {
+      console.warn(`Une requête TMDB a échoué : ${payload.reason}`);
+      return;
+    }
+
+    const results = Array.isArray(payload.value.results) ? payload.value.results : [];
 
     results
       .filter((item) => item?.id && item?.name && item?.poster_path && Array.isArray(item.genre_ids) && item.genre_ids.length > 0)
@@ -92,7 +109,7 @@ async function buildCatalog(apiKey) {
 
   return [...uniqueSeries.values()]
     .sort((left, right) => right.voteAverage - left.voteAverage)
-    .slice(0, 180);
+    .slice(0, MAX_RESULTS);
 }
 
 async function main() {
