@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(76, 29, 149, 0.45), transparent 0, transparent 45%),
+    radial-gradient(circle at bottom right, rgba(14, 116, 144, 0.28), transparent 0, transparent 40%),
+    #050816;
+}
+
+::selection {
+  background: rgba(168, 85, 247, 0.35);
+}

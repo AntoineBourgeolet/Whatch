@@ -1,0 +1,32 @@
+{
+    // Configuration de débogage pour le projet Next.js
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Next.js: serveur",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "npm.cmd run dev"
+        },
+        {
+            "name": "Next.js: navigateur",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Next.js: full stack",
+            "type": "node-terminal",
+            "request": "launch",
+            "command": "npm.cmd run dev",
+            "serverReadyAction": {
+                "action": "debugWithChrome",
+                "killOnServerStop": true,
+                "pattern": "- Local:.+(https?://.+)",
+                "uriFormat": "%s"
+            }
+        }
+    ]
+}
