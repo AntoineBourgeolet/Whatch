@@ -16,6 +16,7 @@ import {
 } from "lucide-react";
 import { useCallback, useEffect, useState } from "react";
 
+import { getRandomDuel, getSeriesRecommendations } from "@/lib/series-catalog";
 import {
   getPreferredGenres,
   getStoredRecommendationActions,
@@ -24,12 +25,6 @@ import {
   saveRecommendationSelection,
 } from "@/lib/storage";
 import type { RecommendationAction, Series, StoredRecommendationPreference, StoredSeriesScore } from "@/types/series";
-
-type ApiResponse = {
-  mode: "duel" | "recommendations";
-  results: Series[];
-  error?: string;
-};
 
 const VISIBLE_RECOMMENDATIONS = 5;
 const RECOMMENDATION_BATCH_SIZE = 10;
@@ -52,29 +47,6 @@ function getRecommendationButtonClasses(action: RecommendationAction, isActive: 
     "inline-flex w-full items-center justify-center gap-2 rounded-xl border px-3 py-2.5 text-xs font-semibold transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-fuchsia-400/60",
     isActive ? activeClasses : "border-white/10 bg-slate-900/80 text-slate-100 hover:border-white/20 hover:bg-slate-800",
   ].join(" ");
-}
-
-async function fetchSeriesRecommendations(genres: number[], excludeIds: number[] = [], count = RECOMMENDATION_BATCH_SIZE) {
-  const params = new URLSearchParams({
-    mode: "recommendations",
-    genres: genres.join(","),
-    count: String(count),
-  });
-
-  if (excludeIds.length) {
-    params.set("excludeIds", excludeIds.join(","));
-  }
-
-  const response = await fetch(`/api/series?${params.toString()}`, {
-    cache: "no-store",
-  });
-  const data = (await response.json()) as ApiResponse;
-
-  if (!response.ok) {
-    throw new Error(data.error ?? "Impossible de charger les recommandations.");
-  }
-
-  return data.results;
 }
 
 function SeriesCard({
@@ -147,20 +119,13 @@ export function DuelPage() {
       setLoading(true);
       setError(null);
 
-      const response = await fetch("/api/series?mode=duel", {
-        cache: "no-store",
-      });
-      const data = (await response.json()) as ApiResponse;
+      const results = await getRandomDuel();
 
-      if (!response.ok) {
-        throw new Error(data.error ?? "Impossible de charger un duel.");
-      }
-
-      if (!Array.isArray(data.results) || data.results.length !== 2) {
+      if (!Array.isArray(results) || results.length !== 2) {
         throw new Error("Le duel reçu est incomplet.");
       }
 
-      setDuel(data.results);
+      setDuel(results);
       setRoundKey((value) => value + 1);
       setSelectedId(null);
     } catch (caughtError) {
@@ -246,7 +211,7 @@ export function DuelPage() {
               ...Object.keys(nextActions).map(Number),
             ]),
           ];
-          const freshResults = await fetchSeriesRecommendations(genres, excludedIds, 6);
+          const freshResults = await getSeriesRecommendations(genres, excludedIds, 6);
 
           if (freshResults.length > 0) {
             const [nextRecommendation, ...rest] = freshResults;
@@ -300,7 +265,7 @@ export function DuelPage() {
               ...recommendationPool.map((item) => item.id),
             ]),
           ];
-          const freshResults = await fetchSeriesRecommendations(genres, excludedIds, RECOMMENDATION_BATCH_SIZE);
+          const freshResults = await getSeriesRecommendations(genres, excludedIds, RECOMMENDATION_BATCH_SIZE);
           const freshFilteredResults = freshResults.filter((series) => !storedActions[String(series.id)]);
           const combinedResults = [...nextVisible, ...nextPool, ...freshFilteredResults];
 
@@ -319,7 +284,7 @@ export function DuelPage() {
         return;
       }
 
-      const results = await fetchSeriesRecommendations(genres, storedIds, RECOMMENDATION_BATCH_SIZE);
+      const results = await getSeriesRecommendations(genres, storedIds, RECOMMENDATION_BATCH_SIZE);
       const filteredResults = results.filter((series) => !storedActions[String(series.id)]);
 
       setRecommendationActions(storedActions);
