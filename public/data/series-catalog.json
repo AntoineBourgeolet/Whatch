@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T12:26:45.317Z",
+  "updatedAt": "2026-04-13T18:29:25.467Z",
   "results": [
     {
       "id": 237020,
@@ -133,18 +133,6 @@
       "firstAirDate": "2012-01-04"
     },
     {
-      "id": 137228,
-      "name": "La Casa de los Famosos",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/os706RrUUFdW8sWuo1qmmCDv6OE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qNT2VZqK3ZQsXr5wBBXqO4kdVtk.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 8.892,
-      "firstAirDate": "2021-08-24"
-    },
-    {
       "id": 223911,
       "name": "Renegade Immortal",
       "overview": "Il raconte l'histoire de Wang Lin, un jeune homme ordinaire vivant à la campagne, qui, poussé par son cœur, se lance dans la quête de l'immortalité. Son objectif n'est pas seulement d'atteindre la longévité, mais aussi de se débarrasser des fourmis qui se cachent derrière. Il croyait fermement en l'humanité et s'est engagé sur la voie de la cultivation avec des qualifications médiocres. Après avoir connu des hauts et des bas, grâce à sa sagesse, il a progressivement atteint le sommet et s'est fait un nom dans le monde de la cultivation par ses propres moyens.",
@@ -173,6 +161,18 @@
       ],
       "voteAverage": 8.8,
       "firstAirDate": "2022-04-28"
+    },
+    {
+      "id": 137726,
+      "name": "毛雪汪",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kYBvEOxNhD3IfzapT6x1uPnTEFa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3UtKvTXlqLNHoADgkKxdj5QppPN.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 8.8,
+      "firstAirDate": "2021-11-01"
     },
     {
       "id": 224839,
@@ -283,18 +283,6 @@
       "firstAirDate": "2025-11-28"
     },
     {
-      "id": 250307,
-      "name": "The Pitt",
-      "overview": "Dans l'Amérique d'aujourd'hui, les professionnels de la santé sont confrontés à de nombreux défis au sein d'un hôpital de Pittsburgh, en Pennsylvanie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.707,
-      "firstAirDate": "2025-01-09"
-    },
-    {
       "id": 60059,
       "name": "Better Call Saul",
       "overview": "Six ans avant de croiser le chemin de Walter White, Saul Goodman, connu sous le nom de Jimmy McGill, est un avocat qui peine à joindre les deux bouts, à Albuquerque, au Nouveau-Mexique. Pour boucler ses fins de mois, il n'aura d'autres choix que se livrer à quelques petites escroqueries. Chemin faisant, il va faire des rencontres qui vont se révéler déterminantes dans son parcours : Nacho Varga, ou encore Mike Ehrmantraut, un criminel spécialisé dans le \"nettoyage\", qui deviendra son futur homme de main.",
@@ -335,19 +323,16 @@
       "firstAirDate": "2009-04-05"
     },
     {
-      "id": 60625,
-      "name": "Rick et Morty",
-      "overview": "Rick, un scientifique sociopathe, entraîne son nigaud de petit-fils Morty dans des aventures extrêmement périlleuses aux quatre coins de l’univers.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+      "id": 250307,
+      "name": "The Pitt",
+      "overview": "Dans l'Amérique d'aujourd'hui, les professionnels de la santé sont confrontés à de nombreux défis au sein d'un hôpital de Pittsburgh, en Pennsylvanie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3JxOVjbW2Kp2kYSh4N89OsWe2A4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
       "genres": [
-        16,
-        35,
-        10765,
-        10759
+        18
       ],
       "voteAverage": 8.7,
-      "firstAirDate": "2013-12-02"
+      "firstAirDate": "2025-01-09"
     },
     {
       "id": 234763,
@@ -361,6 +346,21 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2023-11-09"
+    },
+    {
+      "id": 60625,
+      "name": "Rick et Morty",
+      "overview": "Rick, un scientifique sociopathe, entraîne son nigaud de petit-fils Morty dans des aventures extrêmement périlleuses aux quatre coins de l’univers.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tOpp4yPODFeaEr1KLz5fQ9jkJFx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+      "genres": [
+        16,
+        35,
+        10765,
+        10759
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "2013-12-02"
     },
     {
       "id": 92685,
@@ -377,6 +377,19 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2020-01-10"
+    },
+    {
+      "id": 42573,
+      "name": "Slam Dunk",
+      "overview": "Hanamichi Sakuragi est un grand voyou, rebelle à ses heures et dont la principale caractéristique est d'être malheureux en amour !  Il tombe amoureux de la jolie Haruko qui une très grande fan de basket\n\nDonc il se jette à corps perdu dans ce sport dont il ne connait absolument rien et qui n'a jamais aimé ! Mais un amour n'est pas forcément réciproque... C'est ce que Sakuragi va découvrir et c'est ce qui va ensuite le motiver à donner le meilleur de lui-même.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tl44cjAK0UiQSH6aRLs1ActnGEp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/dEANXnVRmFkSD8jcJlZ0oy8EnB1.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "1993-10-16"
     },
     {
       "id": 220150,
@@ -501,19 +514,6 @@
       ],
       "voteAverage": 8.661,
       "firstAirDate": "1999-01-10"
-    },
-    {
-      "id": 42573,
-      "name": "Slam Dunk",
-      "overview": "Hanamichi Sakuragi est un grand voyou, rebelle à ses heures et dont la principale caractéristique est d'être malheureux en amour !  Il tombe amoureux de la jolie Haruko qui une très grande fan de basket\n\nDonc il se jette à corps perdu dans ce sport dont il ne connait absolument rien et qui n'a jamais aimé ! Mais un amour n'est pas forcément réciproque... C'est ce que Sakuragi va découvrir et c'est ce qui va ensuite le motiver à donner le meilleur de lui-même.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tl44cjAK0UiQSH6aRLs1ActnGEp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/dEANXnVRmFkSD8jcJlZ0oy8EnB1.jpg",
-      "genres": [
-        16,
-        35
-      ],
-      "voteAverage": 8.655,
-      "firstAirDate": "1993-10-16"
     },
     {
       "id": 200709,
@@ -706,20 +706,6 @@
       "firstAirDate": "2012-06-15"
     },
     {
-      "id": 127532,
-      "name": "Solo Leveling",
-      "overview": "Ce qui ne vous tue pas vous rend plus fort ! Mais ce dicton ne s'applique pas au chasseur le plus faible de toute l’humanité, Jinwoo Sung. Après avoir été mortellement blessé lorsqu’il est tombé par hasard sur un double donjon caché, Jinwoo est miraculeusement rescapé. Au bord de la mort, il entrevoit une quête et saisit une opportunité qui lui permet dès lors de gagner en puissance très rapidement. À présent, il souhaite découvrir les secrets de ses pouvoirs et du donjon qui les a engendrés.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.61,
-      "firstAirDate": "2024-01-07"
-    },
-    {
       "id": 60863,
       "name": "Haikyu!!",
       "overview": "Shôyô Hinata, surnommé Shô, aime plus que tout jouer au volley-ball et ce, malgré sa petite taille. Malheureusement, suite à une sévère défaite, son club de collège a été dissous, tous les membres étant partis. Mais Shô est bien décidé à jouer de nouveau et choisit son futur lycée en fonction de son ambition. Il intègre donc le lycée Karasuno, où a joué son idole, le Petit Géant, tout en espérant faire aussi bien que lui.",
@@ -747,6 +733,18 @@
       ],
       "voteAverage": 8.603,
       "firstAirDate": "2008-03-08"
+    },
+    {
+      "id": 2316,
+      "name": "The Office",
+      "overview": "Le quotidien d'un groupe d'employés de bureau dans une fabrique de papier en Pennsylvanie. Michael Scott, le responsable régional, pense être le mec le plus drôle du bureau. Il ne se doute pas que ses employés le tolèrent uniquement parce que c'est lui qui signe les chèques. S'efforçant de paraître cool et apprécié de tous, Michael est en fait perçu comme étant pathétique…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2dApsoX4bd98szjrbj5i3syYOh2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2005-03-24"
     },
     {
       "id": 220542,
@@ -1018,20 +1016,6 @@
       "firstAirDate": "2001-04-01"
     },
     {
-      "id": 45790,
-      "name": "JoJo's Bizarre Adventure",
-      "overview": "Angleterre, 1981. Afin d'honorer ancienne dette, Lord George Joestar adopte Dio Brando, le fils de son sauveur Dario. Mais sous l'apparence du fils modèle, Dio souhaite s'emparer de la fortune des Joestar et humilier le fils du lord, Jonathan Joestar surnommé Jojo. Une rivalité nait entre eux et explose à cause d'un masque aztèque aux capacités mystérieuses. Dio s'en empare et devient un vampire, que seul la maîtrise du hamon permettra à Jonathan d'espérer le vaincre. Voici le point de départ du destin entremêlé de la famille Joestar et de Dio. Chaque illustre membre l'affrontera, lui ou des adversaires qui lui sont liés grâce au hamon, puis aux stands, la matérialisation de leur esprit combatif doté de force et de capacités insoupçonnées. Parmi eux, Joseph l'aventurier arrogant, Jotaro et son stand invincible Star Platinium, Josuke l'ami au grand cœur, Giorno le fils de Dio et gangster à la chevelure dorée et Jolyne, la fille à la volonté de fer.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1cmyZGJXr0N1a4cmIaJfafqNBR8.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2012-10-06"
-    },
-    {
       "id": 101172,
       "name": "Tun Shi Xing Kong (Swallowed Star)",
       "overview": "Adaptation du roman de Wo Chi Xi Hong Shi. L'histoire se déroule dans le même univers que Xue Ying Ling Zhu.",
@@ -1058,18 +1042,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2026-04-06"
-    },
-    {
-      "id": 2316,
-      "name": "The Office",
-      "overview": "Le quotidien d'un groupe d'employés de bureau dans une fabrique de papier en Pennsylvanie. Michael Scott, le responsable régional, pense être le mec le plus drôle du bureau. Il ne se doute pas que ses employés le tolèrent uniquement parce que c'est lui qui signe les chèques. S'efforçant de paraître cool et apprécié de tous, Michael est en fait perçu comme étant pathétique…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2dApsoX4bd98szjrbj5i3syYOh2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.594,
-      "firstAirDate": "2005-03-24"
     },
     {
       "id": 62914,
@@ -1360,6 +1332,20 @@
       "firstAirDate": "2022-06-18"
     },
     {
+      "id": 45790,
+      "name": "JoJo's Bizarre Adventure",
+      "overview": "Angleterre, 1981. Afin d'honorer ancienne dette, Lord George Joestar adopte Dio Brando, le fils de son sauveur Dario. Mais sous l'apparence du fils modèle, Dio souhaite s'emparer de la fortune des Joestar et humilier le fils du lord, Jonathan Joestar surnommé Jojo. Une rivalité nait entre eux et explose à cause d'un masque aztèque aux capacités mystérieuses. Dio s'en empare et devient un vampire, que seul la maîtrise du hamon permettra à Jonathan d'espérer le vaincre. Voici le point de départ du destin entremêlé de la famille Joestar et de Dio. Chaque illustre membre l'affrontera, lui ou des adversaires qui lui sont liés grâce au hamon, puis aux stands, la matérialisation de leur esprit combatif doté de force et de capacités insoupçonnées. Parmi eux, Joseph l'aventurier arrogant, Jotaro et son stand invincible Star Platinium, Josuke l'ami au grand cœur, Giorno le fils de Dio et gangster à la chevelure dorée et Jolyne, la fille à la volonté de fer.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1cmyZGJXr0N1a4cmIaJfafqNBR8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.553,
+      "firstAirDate": "2012-10-06"
+    },
+    {
       "id": 240411,
       "name": "DAN DA DAN",
       "overview": "Momo Ayase et Ken Takakura sont deux lycéens que tout oppose. Tandis que la première ne croit qu'aux esprits, le second ne jure que par les extraterrestres. Incapables de se convaincre, ils se lancent alors un défi : Momo devra se rendre dans un hôpital où des créatures de l'espace sont censées se trouver et Ken dans un tunnel hanté... Or, chacun va faire une rencontre d'un autre genre qui va bouleverser leurs vies et lier leurs sorts. C'est le début d'une romance survoltée où l'occulte, le paranormal et le surnaturel se bousculent dans un chaos haletant !",
@@ -1485,8 +1471,21 @@
         35,
         10765
       ],
-      "voteAverage": 8.531,
+      "voteAverage": 8.532,
       "firstAirDate": "2019-07-05"
+    },
+    {
+      "id": 246621,
+      "name": "Mehmed: Fetihler Sultanı",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/bJxf4Y8UKOBsWoE3gB6N0hfB04G.jpg",
+      "genres": [
+        10768,
+        18
+      ],
+      "voteAverage": 8.529,
+      "firstAirDate": "2024-02-27"
     },
     {
       "id": 83880,
@@ -1738,6 +1737,20 @@
       "firstAirDate": "1998-04-03"
     },
     {
+      "id": 126506,
+      "name": "Smiling Friends",
+      "overview": "Smiling Friends Inc. est une petite entreprise dont le but principal est d'apporter du bonheur et de faire sourire les gens. La série suit la vie quotidienne et les mésaventures de ses représentants, le paresseux et cynique Charlie, et le joyeux et optimiste Pim, alors qu'ils tentent de remonter le moral et de réconforter les personnes en difficulté qui appellent la hotline de leur entreprise. Ils reçoivent des demandes apparemment simples mais les emplois s'avèrent plus compliqués qu'il n'y paraît, ce qui rend difficile d'apporter le bonheur au monde.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qjHTkQ3QUlw6sxkIhugqNYsRJnR.jpg",
+      "genres": [
+        16,
+        35,
+        10765
+      ],
+      "voteAverage": 8.505,
+      "firstAirDate": "2020-04-01"
+    },
+    {
       "id": 126485,
       "name": "Les Pouvoirs de l'Ombre",
       "overview": "Trois adolescents essaient de dissimuler leurs super-pouvoirs, tandis que leurs parents luttent pour les empêcher d’être utilisés par d’autres personnes.",
@@ -1810,20 +1823,6 @@
       "firstAirDate": "2019-01-09"
     },
     {
-      "id": 126506,
-      "name": "Smiling Friends",
-      "overview": "Smiling Friends Inc. est une petite entreprise dont le but principal est d'apporter du bonheur et de faire sourire les gens. La série suit la vie quotidienne et les mésaventures de ses représentants, le paresseux et cynique Charlie, et le joyeux et optimiste Pim, alors qu'ils tentent de remonter le moral et de réconforter les personnes en difficulté qui appellent la hotline de leur entreprise. Ils reçoivent des demandes apparemment simples mais les emplois s'avèrent plus compliqués qu'il n'y paraît, ce qui rend difficile d'apporter le bonheur au monde.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qjHTkQ3QUlw6sxkIhugqNYsRJnR.jpg",
-      "genres": [
-        16,
-        35,
-        10765
-      ],
-      "voteAverage": 8.501,
-      "firstAirDate": "2020-04-01"
-    },
-    {
       "id": 114410,
       "name": "Chainsaw Man",
       "overview": "Denji est un adolescent qui vit avec son chien-démon-tronçonneuse, Pochita. À cause d’une énorme dette que son père a laissée derrière lui, le garçon se retrouve dans la misère la plus totale, cherchant avec Pochita à rembourser l’argent en récoltant des cadavres de démons pour le compte d’une organisation.\n\nUn jour, Denji est trahi et tué. Encore conscient, il passe un contrat avec Pochita et renaît sous le nom de Chainsaw Man, un homme au cœur de démon…",
@@ -1851,6 +1850,18 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2018-10-16"
+    },
+    {
+      "id": 2004,
+      "name": "Malcolm",
+      "overview": "Petit génie malgré lui, Malcolm vit dans une famille hors du commun. Le jeune surdoué n'hésite pas à se servir de son intelligence pour faire les 400 coups avec ses frères : Francis, l'aîné, envoyé dans une école militaire après une bêtise de trop, Reese, une brute pas très maligne, et Dewey, le petit dernier, souffre-douleur général. Les parents tentent tant bien que mal de canaliser l'énergie de ces petits démons. Si Lois est despotique et veut tout contrôler, Hal, en revanche, est irresponsable et ne pense qu'à s'amuser.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aRd5NJafhAAPXupmTamJGBXonSq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2000-01-09"
     },
     {
       "id": 12313,
@@ -2086,18 +2097,6 @@
       "firstAirDate": "2001-03-30"
     },
     {
-      "id": 58474,
-      "name": "Cosmos: Une odyssée à travers l'univers",
-      "overview": "La série révolutionnaire de Carl Sagan voit dans \"Cosmos : Une odyssée à travers l'univers\" un successeur en 13 épisodes. Nous mettons à nouveau le cap sur les étoiles. A bord du vaisseau de l'imaginaire, piloté par l'astrophysicien Neil deGrasse Tyson, \"Cosmos : Une odyssée à travers l'univers\" narre de manière spectaculaire l'histoire de la connaissance et de l'humanité. Découvrir de nouveaux mondes qui gravitent autour du soleil, retracer les origines par des étoiles lointaines et voyager à travers l'univers pour une vision du cosmos à grande échelle, cette série est une expérience transcendante, celle qui explore la vraie nature de la science, son émotion, son esprit et son indéniable effet sur nous tous. La science est une voie vers l'avenir et \"Cosmos : Une odyssée à travers l'univers\" nous y emmène.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aBfrU3NiTk2VSUw0QKmyoP2tIFy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2Nwbv0hrN8sThLvgooShcPqmFrO.jpg",
-      "genres": [
-        99
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2014-03-09"
-    },
-    {
       "id": 154521,
       "name": "Les Kardashian",
       "overview": "La famille que vous connaissez et aimez est ici avec une toute nouvelle série, donnant un accès complet à leur vie.  Kris, Kourtney, Kim, Khloé, Kendall et Kylie ramènent les caméras pour révéler la vérité derrière les gros titres.  Des pressions intenses de la gestion d'entreprises d'un milliard de dollars aux joies hilarantes de la récréation et des abandons scolaires, cette série amène les téléspectateurs dans le giron avec une histoire d'une honnêteté fascinante sur l'amour et la vie sous les projecteurs.",
@@ -2276,19 +2275,6 @@
       "firstAirDate": "2017-10-03"
     },
     {
-      "id": 1600,
-      "name": "Ned ou Comment survivre aux études",
-      "overview": "Ned et ses deux meilleurs amis, Moze et Cookie, ont un challenge à relever :  survivre dans un milieu extrêmement hostile : le collège.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r9O9hhS4XlcVD7ycKetBui1JkWo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uxpYsuTkfSMdTzR2LIkkjMiaybv.jpg",
-      "genres": [
-        35,
-        10762
-      ],
-      "voteAverage": 8.488,
-      "firstAirDate": "2004-09-12"
-    },
-    {
       "id": 225180,
       "name": "Blue Eye Samurai",
       "overview": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
@@ -2300,6 +2286,19 @@
       ],
       "voteAverage": 8.488,
       "firstAirDate": "2023-11-03"
+    },
+    {
+      "id": 1600,
+      "name": "Ned ou Comment survivre aux études",
+      "overview": "Ned et ses deux meilleurs amis, Moze et Cookie, ont un challenge à relever :  survivre dans un milieu extrêmement hostile : le collège.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/r9O9hhS4XlcVD7ycKetBui1JkWo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uxpYsuTkfSMdTzR2LIkkjMiaybv.jpg",
+      "genres": [
+        35,
+        10762
+      ],
+      "voteAverage": 8.488,
+      "firstAirDate": "2004-09-12"
     },
     {
       "id": 6357,
@@ -2451,18 +2450,6 @@
       ],
       "voteAverage": 8.47,
       "firstAirDate": "2022-09-13"
-    },
-    {
-      "id": 2004,
-      "name": "Malcolm",
-      "overview": "Petit génie malgré lui, Malcolm vit dans une famille hors du commun. Le jeune surdoué n'hésite pas à se servir de son intelligence pour faire les 400 coups avec ses frères : Francis, l'aîné, envoyé dans une école militaire après une bêtise de trop, Reese, une brute pas très maligne, et Dewey, le petit dernier, souffre-douleur général. Les parents tentent tant bien que mal de canaliser l'énergie de ces petits démons. Si Lois est despotique et veut tout contrôler, Hal, en revanche, est irresponsable et ne pense qu'à s'amuser.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aRd5NJafhAAPXupmTamJGBXonSq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/si3OheCrSpEyK2JUtZOThsZPUR4.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.461,
-      "firstAirDate": "2000-01-09"
     },
     {
       "id": 71712,
@@ -2789,19 +2776,6 @@
       "firstAirDate": "2009-09-10"
     },
     {
-      "id": 33238,
-      "name": "Running Man",
-      "overview": "Les présentateurs de l'émission sont au nombre de 7, ils affrontent seul ou ensemble les invités afin de gagner la « course finale » et de gagner des « Running Ball ». Ces dernières sont utiles pour éviter tout genre de punitions qui varient selon les épisodes. Les présentateurs sont la plupart du temps mélangés avec les invités pour rendre les défis plus équitables étant donné que les présentateurs connaissent déjà à l'avance certains jeux contrairement aux invités.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/15SMnscZqd7HZ0bzruatOcKUlOV.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
-      "genres": [
-        35,
-        10764
-      ],
-      "voteAverage": 8.3,
-      "firstAirDate": "2010-07-11"
-    },
-    {
       "id": 4057,
       "name": "Esprits criminels",
       "overview": "L'équipe des profilers étudie les comportements et les esprits torturés des criminels les plus dangereux du pays, afin d'anticiper les crimes d'un éventuel tueur. Chaque membre de cette unité d'élite a sa personnalité, son histoire mais aussi sa spécialité. Ils sont tous dépendants les uns des autres et les résultats dépendent aussi de cette complémentarité.",
@@ -2814,6 +2788,19 @@
       ],
       "voteAverage": 8.3,
       "firstAirDate": "2005-09-22"
+    },
+    {
+      "id": 33238,
+      "name": "Running Man",
+      "overview": "Les présentateurs de l'émission sont au nombre de 7, ils affrontent seul ou ensemble les invités afin de gagner la « course finale » et de gagner des « Running Ball ». Ces dernières sont utiles pour éviter tout genre de punitions qui varient selon les épisodes. Les présentateurs sont la plupart du temps mélangés avec les invités pour rendre les défis plus équitables étant donné que les présentateurs connaissent déjà à l'avance certains jeux contrairement aux invités.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/15SMnscZqd7HZ0bzruatOcKUlOV.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+      "genres": [
+        35,
+        10764
+      ],
+      "voteAverage": 8.3,
+      "firstAirDate": "2010-07-11"
     },
     {
       "id": 96316,
@@ -2882,20 +2869,6 @@
       "firstAirDate": "1997-07-27"
     },
     {
-      "id": 42009,
-      "name": "Black Mirror",
-      "overview": "Les histoires tordues se succèdent dans cette série d'anthologie hallucinante qui révèle les plus grandes innovations de l'humanité, mais aussi ses côtés les plus sombres.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9acfIYfBuB4GFVROipM9YrqxsXd.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
-      "genres": [
-        10765,
-        18,
-        9648
-      ],
-      "voteAverage": 8.283,
-      "firstAirDate": "2011-12-04"
-    },
-    {
       "id": 62650,
       "name": "Chicago Med",
       "overview": "Le quotidien mouvementé du personnel d'un des plus importants hôpitaux de Chicago. Leur mission : sauver des vies, en se confrontant aux cas médicaux les plus critiques. Seuls leur courage et leur compassion leur permet au quotidien de faire face aux challenges parfois insurmontables de la médecine, ainsi qu'aux dilemmes éthiques propres à leur noble discipline.",
@@ -2947,20 +2920,6 @@
       "firstAirDate": "2018-06-20"
     },
     {
-      "id": 1405,
-      "name": "Dexter",
-      "overview": "Brillant expert scientifique du service médico-légal de la police de Miami, Dexter Morgan est spécialisé dans l'analyse de prélèvements et d'éclaboussures de sang. Mais Dexter cache un terrible secret : c'est également un tueur en série ! Un serial killer pas comme les autres, avec sa propre vision de la justice, qui, grâce au code fourni par son père adoptif, ne s'en prend qu'à des personnes coupables de meurtres affreux ou de délits répréhensibles. Mais Dexter n'attend pas que la justice les libère ou les relâche, faute de preuves. Il les assassine, avant même que la police ne remonte jusqu'à eux et efface ses traces. Sa demi-sœur, Debra, travaille dans le même commissariat que lui et n'a de cesse de traquer tous les meurtriers, quels qu'ils soient... sans savoir qu'elle en fréquente un, tous les jours !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8.229,
-      "firstAirDate": "2006-10-01"
-    },
-    {
       "id": 79481,
       "name": "Battle through the Heavens",
       "overview": "Dans un pays où aucune magie n'est présente. Une terre où les forts font les règles et les faibles doivent obéir. Une terre remplie de trésors et de beauté séduisants, mais aussi remplie de dangers imprévus. Il y a trois ans, Xiao Yan, qui avait montré des talents qu'aucun n'avait vus depuis des décennies, a soudainement tout perdu. Ses pouvoirs, sa réputation et sa promesse à sa mère. Quelle sorte lui a fait perdre tous ses pouvoirs ? Et pourquoi sa fiancée est-elle soudainement apparue ?",
@@ -2997,6 +2956,35 @@
       ],
       "voteAverage": 8.208,
       "firstAirDate": "2005-03-27"
+    },
+    {
+      "id": 1405,
+      "name": "Dexter",
+      "overview": "Brillant expert scientifique du service médico-légal de la police de Miami, Dexter Morgan est spécialisé dans l'analyse de prélèvements et d'éclaboussures de sang. Mais Dexter cache un terrible secret : c'est également un tueur en série ! Un serial killer pas comme les autres, avec sa propre vision de la justice, qui, grâce au code fourni par son père adoptif, ne s'en prend qu'à des personnes coupables de meurtres affreux ou de délits répréhensibles. Mais Dexter n'attend pas que la justice les libère ou les relâche, faute de preuves. Il les assassine, avant même que la police ne remonte jusqu'à eux et efface ses traces. Sa demi-sœur, Debra, travaille dans le même commissariat que lui et n'a de cesse de traquer tous les meurtriers, quels qu'ils soient... sans savoir qu'elle en fréquente un, tous les jours !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ptQtKhlJYtPlp5ecvJXvIGyjCjf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2006-10-01"
+    },
+    {
+      "id": 33765,
+      "name": "My Little Pony : Les Amies, c'est magique",
+      "overview": "Twilight Sparkle est une jeune licorne qui s'intéresse plus à ses livres qu'à ses amis. Un jour, la princesse Celestia, son mentor, lui confie une mission d'une grande importance : se faire des amis. C'est ainsi qu'au village de Poneyville, elle fera connaissance de cinq poneys avec qui elle vivra des aventures amusantes et féériques, et qui lui feront découvrir que les amies, c'est magique !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cGiXskdvpYu1x0eOM0d3ssMXrph.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/omL3sd4bctdEmA8aqj1zlBqRZHS.jpg",
+      "genres": [
+        16,
+        35,
+        10765,
+        10762
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2010-10-10"
     },
     {
       "id": 75219,
@@ -3041,6 +3029,20 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2022-04-04"
+    },
+    {
+      "id": 91801,
+      "name": "Welcome to Demon School! Iruma-kun",
+      "overview": "Iruma Sullivan, 14 ans, est un jeune humain qui se retrouve un jour pris au piège dans le monde des démons. De plus, celui qui s'est autoproclamé comme son grand-père adoptif est le proviseur de sa nouvelle école ! Pour survivre, Iruma va devoir affronter un étudiant hautain qui le défie en duel, une fille introvertie et bien d'autres démons tous plus effrayants les uns que les autres ! Mais ce garçon au grand cœur va tenter de surmonter ces épreuves, notamment grâce à sa gentillesse qui désarçonne ses ennemis…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
+      "genres": [
+        16,
+        35,
+        10765
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2019-10-05"
     },
     {
       "id": 228429,
@@ -3244,6 +3246,21 @@
       "firstAirDate": "2026-04-10"
     },
     {
+      "id": 1411,
+      "name": "Person of Interest",
+      "overview": "Un agent paramilitaire de la CIA, présumé mort, est recruté par un millionnaire reclu pour travailler sur un projet top-secret : prévenir le crime avant qu'il ne se produise ! Un ingénieux programme élaboré par Finch identifie chaque jour des personnes qui vont être impliquées dans un crime. Victime ou coupable ? Reese va devoir mener l'enquête pour découvrir qui est en danger et empêcher qu'un nouveau meurtre soit commis...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1UkDX6CK8hJ0oUtUycDTp5Vh9wO.jpg",
+      "genres": [
+        18,
+        10759,
+        80,
+        10765
+      ],
+      "voteAverage": 8.1,
+      "firstAirDate": "2011-09-22"
+    },
+    {
       "id": 2352,
       "name": "Une nounou d'enfer",
       "overview": "Le jour où Fran Fine débarque chez Maxwell Sheffield, c'est un véritable tourbillon qui emporte toute la monotonie de la maison. Ancienne représentante en cosmétiques, elle va désormais s'occuper des enfants de M. Sheffield et devenir une « nounou d'enfer » !",
@@ -3336,21 +3353,6 @@
       ],
       "voteAverage": 8.093,
       "firstAirDate": "2013-03-03"
-    },
-    {
-      "id": 1411,
-      "name": "Person of Interest",
-      "overview": "Un agent paramilitaire de la CIA, présumé mort, est recruté par un millionnaire reclu pour travailler sur un projet top-secret : prévenir le crime avant qu'il ne se produise ! Un ingénieux programme élaboré par Finch identifie chaque jour des personnes qui vont être impliquées dans un crime. Victime ou coupable ? Reese va devoir mener l'enquête pour découvrir qui est en danger et empêcher qu'un nouveau meurtre soit commis...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/1UkDX6CK8hJ0oUtUycDTp5Vh9wO.jpg",
-      "genres": [
-        18,
-        10759,
-        80,
-        10765
-      ],
-      "voteAverage": 8.085,
-      "firstAirDate": "2011-09-22"
     },
     {
       "id": 873,
@@ -3460,20 +3462,8 @@
         10759,
         18
       ],
-      "voteAverage": 8.043,
+      "voteAverage": 8.044,
       "firstAirDate": "2017-11-02"
-    },
-    {
-      "id": 46296,
-      "name": "Spartacus",
-      "overview": "C’est dans le sang et le sable des arènes que s’écrit la légende de Spartacus. Puissant guerrier Thrace trahi par un ambitieux légat romain, Spartacus est réduit en esclavage, contraint de devenir gladiateur s’il veut un jour revoir sa femme. Au sein de l’école de gladiateurs du machiavélique Batiatus et de son épouse Lucretia, Spartacus recevra l’enseignement de l’impitoyable Doctore pour devenir le plus redoutable des combattants. Mais entre l’hostilité des autres gladiateurs et les manigances de Lucretia, Spartacus devra tout sacrifier pour pouvoir survivre...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fN2NrM9D3aXkuaq8KGRLnXxvQqr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.032,
-      "firstAirDate": "2010-01-22"
     },
     {
       "id": 456,
@@ -3516,6 +3506,32 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "2015-10-19"
+    },
+    {
+      "id": 60572,
+      "name": "Pokémon",
+      "overview": "L'histoire suit les aventures d'un jeune garçon nommé Sacha dont le but est de devenir un jour Maître Pokémon. Pour cela, il va faire connaissance d'un Pikachu à très mauvais caractère au début, mais qui va vite devenir par la suite son meilleur ami. Sacha va aussi rencontrer d'autres dresseurs avec qui il partagera ses aventures. Lors de son voyage dans plusieurs régions, il va devoir continuer à progresser pour découvrir de nouveaux Pokémon et peut-être les capturer. Et avec ces derniers comme amis, il va aussi devoir affronter des groupes de bandits, surtout la Team Rocket. Mais il va aussi faire face à d'autres personnes malintentionnées. Heureusement, Sacha peut compter sur ses amis pour l'aider. Ensemble et parfois avec d'autres personnages en plus, la grande quête leur réservera bien des surprises...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/HPoy0TYWdHLQ0TNXlKAdlSB6q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "1997-04-01"
+    },
+    {
+      "id": 46296,
+      "name": "Spartacus",
+      "overview": "C’est dans le sang et le sable des arènes que s’écrit la légende de Spartacus. Puissant guerrier Thrace trahi par un ambitieux légat romain, Spartacus est réduit en esclavage, contraint de devenir gladiateur s’il veut un jour revoir sa femme. Au sein de l’école de gladiateurs du machiavélique Batiatus et de son épouse Lucretia, Spartacus recevra l’enseignement de l’impitoyable Doctore pour devenir le plus redoutable des combattants. Mais entre l’hostilité des autres gladiateurs et les manigances de Lucretia, Spartacus devra tout sacrifier pour pouvoir survivre...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fN2NrM9D3aXkuaq8KGRLnXxvQqr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2010-01-22"
     },
     {
       "id": 226637,
@@ -3624,20 +3640,6 @@
       ],
       "voteAverage": 7.975,
       "firstAirDate": "2009-03-09"
-    },
-    {
-      "id": 60572,
-      "name": "Pokémon",
-      "overview": "L'histoire suit les aventures d'un jeune garçon nommé Sacha dont le but est de devenir un jour Maître Pokémon. Pour cela, il va faire connaissance d'un Pikachu à très mauvais caractère au début, mais qui va vite devenir par la suite son meilleur ami. Sacha va aussi rencontrer d'autres dresseurs avec qui il partagera ses aventures. Lors de son voyage dans plusieurs régions, il va devoir continuer à progresser pour découvrir de nouveaux Pokémon et peut-être les capturer. Et avec ces derniers comme amis, il va aussi devoir affronter des groupes de bandits, surtout la Team Rocket. Mais il va aussi faire face à d'autres personnes malintentionnées. Heureusement, Sacha peut compter sur ses amis pour l'aider. Ensemble et parfois avec d'autres personnages en plus, la grande quête leur réservera bien des surprises...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/HPoy0TYWdHLQ0TNXlKAdlSB6q.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 7.966,
-      "firstAirDate": "1997-04-01"
     },
     {
       "id": 4607,
@@ -3816,6 +3818,31 @@
       "firstAirDate": "2014-04-27"
     },
     {
+      "id": 60735,
+      "name": "Flash",
+      "overview": "Jeune expert de la police scientifique de Central City, Barry Allen se retrouve doté d'une vitesse extraordinaire après avoir été frappé par la foudre. Sous le costume de Flash, il utilise ses nouveaux pouvoirs pour combattre le crime.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/Hrta0iq8KEQbdOpSnki2gUMowk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/gNPWlhUXhyWiHv9qxr57tvT0WwS.jpg",
+      "genres": [
+        18,
+        10765
+      ],
+      "voteAverage": 7.8,
+      "firstAirDate": "2014-10-07"
+    },
+    {
+      "id": 269,
+      "name": "Les Frères Scott",
+      "overview": "A Tree Hill, petite ville de Caroline du Sud, tout le monde connaît les frères Scott. S'ils portent le même nom, tout les sépare et les rapproche à la fois. L'un, Nathan, arrogant et sûr de lui, vit les rêves que son père Dan n'a pu satisfaire. L'autre, Lucas, calme et posé, cherche à faire honneur à Karen, sa mère célibataire.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/m7l8e3feBzJu9sosBKTJjAnAbt9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/eDNSgT1xPMKYcEzJ5GG0PCE3NcN.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 7.8,
+      "firstAirDate": "2003-09-23"
+    },
+    {
       "id": 65942,
       "name": "Re:ZERO -Starting Life in Another World-",
       "overview": "Subaru Natsuki a basculé dans un monde fantastique où il fait la connaissance d’Émilia, une jeune fille aux longs cheveux d’argent qu’il jure de protéger. Malheureusement, le jeune homme ne résiste pas longtemps en se faisant tuer rapidement. Pourtant, il revient d’entre les morts, un phénomène qui se répète sans cesse, le ramenant toujours à son point de départ. Subaru entame alors un combat perpétuel dans lequel il essaie, peu à peu, de changer le futur...",
@@ -3831,6 +3858,19 @@
       "firstAirDate": "2016-04-04"
     },
     {
+      "id": 154743,
+      "name": "Chouchouté par l’ange d’à côté",
+      "overview": "Amane est un étudiant taciturne qui ne parle à personne et certainement pas à sa jolie voisine, Mahiru, que ses amies surnomme l’ange. Mais depuis le jour où Amane a prêté son parapluie à Mahiru, cette dernière le voit autrement. Elle a même décidé de lui prouver sa reconnaissance de manière généreuse. Ainsi débute une romance douce, mais un peu contrariante, entre un garçon et sa voisine.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qr5TcyOApwpq2zjqI3qFHzHMWEh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/hZJglA9AC48swSFgzJCHG11B9zV.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 7.8,
+      "firstAirDate": "2023-01-07"
+    },
+    {
       "id": 281010,
       "name": "신이랑 법률사무소",
       "overview": "Un avocat timide qui se met soudainement à voir les fantômes fait équipe avec un avocat d'élite au caractère froid, et ensemble, ils prennent en charge des clients surnaturels dont les affaires inachevées révèlent des vérités enfouies.",
@@ -3843,18 +3883,6 @@
       ],
       "voteAverage": 7.8,
       "firstAirDate": "2026-03-13"
-    },
-    {
-      "id": 269,
-      "name": "Les Frères Scott",
-      "overview": "A Tree Hill, petite ville de Caroline du Sud, tout le monde connaît les frères Scott. S'ils portent le même nom, tout les sépare et les rapproche à la fois. L'un, Nathan, arrogant et sûr de lui, vit les rêves que son père Dan n'a pu satisfaire. L'autre, Lucas, calme et posé, cherche à faire honneur à Karen, sa mère célibataire.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m7l8e3feBzJu9sosBKTJjAnAbt9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/eDNSgT1xPMKYcEzJ5GG0PCE3NcN.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 7.8,
-      "firstAirDate": "2003-09-23"
     },
     {
       "id": 1973,
@@ -3896,32 +3924,6 @@
       ],
       "voteAverage": 7.762,
       "firstAirDate": "2003-09-28"
-    },
-    {
-      "id": 60735,
-      "name": "Flash",
-      "overview": "Jeune expert de la police scientifique de Central City, Barry Allen se retrouve doté d'une vitesse extraordinaire après avoir été frappé par la foudre. Sous le costume de Flash, il utilise ses nouveaux pouvoirs pour combattre le crime.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/Hrta0iq8KEQbdOpSnki2gUMowk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
-      "genres": [
-        18,
-        10765
-      ],
-      "voteAverage": 7.761,
-      "firstAirDate": "2014-10-07"
-    },
-    {
-      "id": 154743,
-      "name": "Chouchouté par l’ange d’à côté",
-      "overview": "Amane est un étudiant taciturne qui ne parle à personne et certainement pas à sa jolie voisine, Mahiru, que ses amies surnomme l’ange. Mais depuis le jour où Amane a prêté son parapluie à Mahiru, cette dernière le voit autrement. Elle a même décidé de lui prouver sa reconnaissance de manière généreuse. Ainsi débute une romance douce, mais un peu contrariante, entre un garçon et sa voisine.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qr5TcyOApwpq2zjqI3qFHzHMWEh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/hZJglA9AC48swSFgzJCHG11B9zV.jpg",
-      "genres": [
-        16,
-        35
-      ],
-      "voteAverage": 7.753,
-      "firstAirDate": "2023-01-07"
     },
     {
       "id": 32798,
@@ -3989,18 +3991,6 @@
       ],
       "voteAverage": 7.713,
       "firstAirDate": "2026-03-06"
-    },
-    {
-      "id": 243875,
-      "name": "Georgie & Mandy's First Marriage",
-      "overview": "Cette suite de Young Sheldon suit Georgie et Mandy alors qu'ils élèvent leur jeune famille au Texas.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/pCr3YYJkkLt9fdGVD7I2Z1l6lzK.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 7.712,
-      "firstAirDate": "2024-10-17"
     },
     {
       "id": 1620,
@@ -4318,17 +4308,6 @@
       "firstAirDate": "2025-04-10"
     },
     {
-      "id": 35007,
-      "name": "De Fabeltjeskrant",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-      "genres": [
-        10762
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "1968-09-29"
-    },
-    {
       "id": 1403,
       "name": "Marvel : Les Agents du S.H.I.E.L.D.",
       "overview": "Suite aux évènements survenus dans THE AVENGERS, l'agent Phil Coulson retourne au sein de l'organisation mondiale du maintien de l'ordre, le S.H.I.E.L.D., pour y mettre sur pied une petite équipe d'agents extrêmement bien entraînés afin de s'attaquer aux affaires non encore classées ayant un trait aux phénomènes nouveaux, étranges et inconnus. Constistuée du très intègre agent Grant Ward, expert en combat et renseignements, de l'agent Melinda May, pilote émérite et experte en arts martiaux et des très brillants, si ce n'est un peu étranges socialement, agents scientifiques Leo Fitz et Jemma Simmons, l'équipe sera épaulée par Skye, nouvelle recrue civile, hacker et fan de super-héros.",
@@ -4371,6 +4350,32 @@
       ],
       "voteAverage": 7.5,
       "firstAirDate": "2011-10-25"
+    },
+    {
+      "id": 70672,
+      "name": "Knowing Brothers",
+      "overview": "Durant l'émission l'invité(e) fait un questionnaire sur lui et pose les questions une par une et les présentateurs doivent avoir le plus de bonnes réponses. S'ils se trompent, ils sont punis. Le concept de l'émission est que les présentateurs soient dans un lycée et que chaque invité soit un \"nouvel\" élève transféré.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+      "genres": [
+        10764,
+        35
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "2015-12-05"
+    },
+    {
+      "id": 306215,
+      "name": "Sevdiğim Sensin",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jlIKAoJNn5lLF2vXMcWSEMkOAnN.jpg",
+      "genres": [
+        18,
+        10766
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "2026-02-12"
     }
   ]
 }
