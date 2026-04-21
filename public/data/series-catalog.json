@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T18:23:32.265Z",
+  "updatedAt": "2026-04-21T00:36:07.439Z",
   "results": [
     {
       "id": 308689,
@@ -77,22 +77,8 @@
         35,
         18
       ],
-      "voteAverage": 9.091,
+      "voteAverage": 9.1,
       "firstAirDate": "2026-04-10"
-    },
-    {
-      "id": 260463,
-      "name": "Tsugai - Daemons of the Shadow Realm",
-      "overview": "Yuru, le chasseur, vit séparé de sa sœur jumelle Asa, enfermée dans une prison pour satisfaire un rituel. Tous deux ignorent la vérité sur leur naissance et lorsque leur paisible village est attaqué par de mystérieux ennemis, Yuru découvre qu’il peut commander un puissant duo de créatures appelé “Tsugai”.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 9.071,
-      "firstAirDate": "2026-04-04"
     },
     {
       "id": 281231,
@@ -160,6 +146,20 @@
       "firstAirDate": "2026-04-01"
     },
     {
+      "id": 260463,
+      "name": "Tsugai - Daemons of the Shadow Realm",
+      "overview": "Yuru, le chasseur, vit séparé de sa sœur jumelle Asa, enfermée dans une prison pour satisfaire un rituel. Tous deux ignorent la vérité sur leur naissance et lorsque leur paisible village est attaqué par de mystérieux ennemis, Yuru découvre qu’il peut commander un puissant duo de créatures appelé “Tsugai”.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.9,
+      "firstAirDate": "2026-04-04"
+    },
+    {
       "id": 137228,
       "name": "La Casa de los Famosos",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -211,6 +211,21 @@
       ],
       "voteAverage": 8.8,
       "firstAirDate": "2005-02-21"
+    },
+    {
+      "id": 223911,
+      "name": "Renegade Immortal",
+      "overview": "Il raconte l'histoire de Wang Lin, un jeune homme ordinaire vivant à la campagne, qui, poussé par son cœur, se lance dans la quête de l'immortalité. Son objectif n'est pas seulement d'atteindre la longévité, mais aussi de se débarrasser des fourmis qui se cachent derrière. Il croyait fermement en l'humanité et s'est engagé sur la voie de la cultivation avec des qualifications médiocres. Après avoir connu des hauts et des bas, grâce à sa sagesse, il a progressivement atteint le sommet et s'est fait un nom dans le monde de la cultivation par ses propres moyens.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3DvoO6sURX3gbE4FpsmNpWNogAa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/DVqJaMRRvD73cPouTCvQ19yJ9c.jpg",
+      "genres": [
+        10759,
+        16,
+        18,
+        10765
+      ],
+      "voteAverage": 8.8,
+      "firstAirDate": "2023-09-25"
     },
     {
       "id": 198182,
@@ -341,24 +356,11 @@
       "firstAirDate": "1999-01-10"
     },
     {
-      "id": 200709,
-      "name": "Héros fragile",
-      "overview": "Yeon Shi Eun est un élève modèle qui se classe parmi les meilleurs de son lycée. Physiquement, Yeon Shi Eun semble faible, mais en utilisant son intelligence et sa psychologie, il lutte contre la violence qui a lieu dans son école.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qWY4cFftaZxvtHet3S9p7NYTZeD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/oLwotnApTObF5bMRrNHCaqpaZce.jpg",
-      "genres": [
-        10759,
-        18
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2022-11-18"
-    },
-    {
       "id": 37854,
       "name": "One Piece",
       "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
       "genres": [
         10759,
         35,
@@ -476,7 +478,7 @@
         10751,
         18
       ],
-      "voteAverage": 8.682,
+      "voteAverage": 8.679,
       "firstAirDate": "2019-04-21"
     },
     {
@@ -538,6 +540,19 @@
       "firstAirDate": "2011-10-02"
     },
     {
+      "id": 200709,
+      "name": "Héros fragile",
+      "overview": "Yeon Shi Eun est un élève modèle qui se classe parmi les meilleurs de son lycée. Physiquement, Yeon Shi Eun semble faible, mais en utilisant son intelligence et sa psychologie, il lutte contre la violence qui a lieu dans son école.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qWY4cFftaZxvtHet3S9p7NYTZeD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/oLwotnApTObF5bMRrNHCaqpaZce.jpg",
+      "genres": [
+        10759,
+        18
+      ],
+      "voteAverage": 8.661,
+      "firstAirDate": "2022-11-18"
+    },
+    {
       "id": 70785,
       "name": "Anne",
       "overview": "Canada, 1890. Anne Shirley, jeune fille de 13 ans maltraitée en orphelinat et par des familles d'accueil, atterrit par erreur dans le foyer d'une vieille dame sans enfant et de son frère. Avec le temps, Anne va illuminer leur vie grâce à son esprit fantasque, sa vive intelligence et son imagination débordante !",
@@ -575,7 +590,7 @@
         18,
         10759
       ],
-      "voteAverage": 8.638,
+      "voteAverage": 8.639,
       "firstAirDate": "2000-10-03"
     },
     {
@@ -615,7 +630,7 @@
         10765,
         10762
       ],
-      "voteAverage": 8.632,
+      "voteAverage": 8.631,
       "firstAirDate": "2007-10-12"
     },
     {
@@ -741,7 +756,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.61,
+      "voteAverage": 8.611,
       "firstAirDate": "2024-01-07"
     },
     {
@@ -784,7 +799,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.606,
+      "voteAverage": 8.607,
       "firstAirDate": "1989-04-15"
     },
     {
@@ -1424,7 +1439,7 @@
         10765,
         35
       ],
-      "voteAverage": 8.544,
+      "voteAverage": 8.545,
       "firstAirDate": "2011-05-03"
     },
     {
@@ -1510,20 +1525,6 @@
       "firstAirDate": "2018-10-16"
     },
     {
-      "id": 259909,
-      "name": "Dexter: Resurrection",
-      "overview": "Après avoir survécu à ses blessures, Dexter se retrouve à New York. Il tente de renouer une relation avec son fils mais des meurtres rituels ensanglantent Big Apple.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/teZOzBZhugzh7UfW6xuPp4wJ5oU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8.533,
-      "firstAirDate": "2025-07-13"
-    },
-    {
       "id": 83880,
       "name": "Notre planète",
       "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
@@ -1550,6 +1551,20 @@
       ],
       "voteAverage": 8.533,
       "firstAirDate": "2010-04-23"
+    },
+    {
+      "id": 259909,
+      "name": "Dexter: Resurrection",
+      "overview": "Après avoir survécu à ses blessures, Dexter se retrouve à New York. Il tente de renouer une relation avec son fils mais des meurtres rituels ensanglantent Big Apple.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/teZOzBZhugzh7UfW6xuPp4wJ5oU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.532,
+      "firstAirDate": "2025-07-13"
     },
     {
       "id": 31910,
@@ -1703,6 +1718,19 @@
       "firstAirDate": "2025-07-06"
     },
     {
+      "id": 108291,
+      "name": "Snowdrop",
+      "overview": "1987. Au plus fort de la contestation démocratique contre le pouvoir dictatorial en Corée du Sud, un jeune étudiant, Im Soo-Ho, fait irruption dans le dortoir d'une université féminine, couvert de sang. Il y rencontre Eun Young-Cho, une brillante étudiante en littérature anglaise avec laquelle il va développer une relation amoureuse, au milieu des tumultes politiques et de la répression du régime...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nVzg8jMn4ljIPDZFPlRVmCTVyKx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.513,
+      "firstAirDate": "2021-12-18"
+    },
+    {
       "id": 76121,
       "name": "Darling in The FranXX",
       "overview": "Dans un lointain futur, la Terre est en ruine et l’humanité s’est retranchée dans une ville fortifiée mobile, Plantation. Un quartier est dédié à la formation de jeunes pilotes qui ne connaissent rien du monde extérieur. Leur seul but dans la vie est d’apprendre à piloter des robots, les Franxx, afin d’affronter un mystérieux ennemi géant mais invisible.",
@@ -1716,19 +1744,6 @@
       ],
       "voteAverage": 8.513,
       "firstAirDate": "2018-01-13"
-    },
-    {
-      "id": 108291,
-      "name": "Snowdrop",
-      "overview": "1987. Au plus fort de la contestation démocratique contre le pouvoir dictatorial en Corée du Sud, un jeune étudiant, Im Soo-Ho, fait irruption dans le dortoir d'une université féminine, couvert de sang. Il y rencontre Eun Young-Cho, une brillante étudiante en littérature anglaise avec laquelle il va développer une relation amoureuse, au milieu des tumultes politiques et de la répression du régime...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nVzg8jMn4ljIPDZFPlRVmCTVyKx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/dyBkTBcRIw5BC78zCauyrRm5EhJ.jpg",
-      "genres": [
-        18,
-        10768
-      ],
-      "voteAverage": 8.513,
-      "firstAirDate": "2021-12-18"
     },
     {
       "id": 68129,
@@ -1745,19 +1760,6 @@
       "firstAirDate": "2016-10-06"
     },
     {
-      "id": 96462,
-      "name": "It's Okay to Not Be Okay",
-      "overview": "Cette série raconte la rencontre entre Moon Gang-tae, aide-soignant qui a appris à taire ses émotions, et Ko Moon-young, une écrivaine brillante mais profondément traumatisée. Avec Sang-tae, le frère autiste de Gang-tae, ils affrontent ensemble leurs blessures d'enfance. La série parle de santé mentale, de traumatismes et d'amour imparfait et montre que guérir commence par s'accepter tel que l'on est.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/HKVk1KiNYzIiRQJQOMZfSeZYvC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-      "genres": [
-        18,
-        35
-      ],
-      "voteAverage": 8.512,
-      "firstAirDate": "2020-06-20"
-    },
-    {
       "id": 108261,
       "name": "Mr. Queen",
       "overview": "À l'époque moderne, Jang Bong-hwan est un chef cuisinier qui travaille pour les plus grands politiciens du pays à la Maison Bleue. Il a un esprit libre, mais il se retrouve un jour dans le corps de la reine Cheorin à l'époque Joseon.",
@@ -1772,6 +1774,19 @@
       "firstAirDate": "2020-12-12"
     },
     {
+      "id": 96462,
+      "name": "It's Okay to Not Be Okay",
+      "overview": "Cette série raconte la rencontre entre Moon Gang-tae, aide-soignant qui a appris à taire ses émotions, et Ko Moon-young, une écrivaine brillante mais profondément traumatisée. Avec Sang-tae, le frère autiste de Gang-tae, ils affrontent ensemble leurs blessures d'enfance. La série parle de santé mentale, de traumatismes et d'amour imparfait et montre que guérir commence par s'accepter tel que l'on est.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/HKVk1KiNYzIiRQJQOMZfSeZYvC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+      "genres": [
+        18,
+        35
+      ],
+      "voteAverage": 8.512,
+      "firstAirDate": "2020-06-20"
+    },
+    {
       "id": 120089,
       "name": "SPY x FAMILY",
       "overview": "La paix entre toutes les nations du monde repose sur la mission la plus délicate que l’agent Twilight n’a jamais eu : se faire passer pour un simple père de famille. En effet, cette couverture lui permettra d’infiltrer une école de l’aristocratie afin de se rapprocher d'un politicien très important. Pour ce faire, Il a la couverture parfaite, sauf que sa femme est en réalité une redoutable tueuse à gages. Chacun ignore l'identité de l'autre, sauf leur fille adoptive qui est télépathe…",
@@ -1784,6 +1799,20 @@
       ],
       "voteAverage": 8.509,
       "firstAirDate": "2022-04-09"
+    },
+    {
+      "id": 126506,
+      "name": "Smiling Friends",
+      "overview": "Smiling Friends Inc. est une petite entreprise dont le but principal est d'apporter du bonheur et de faire sourire les gens. La série suit la vie quotidienne et les mésaventures de ses représentants, le paresseux et cynique Charlie, et le joyeux et optimiste Pim, alors qu'ils tentent de remonter le moral et de réconforter les personnes en difficulté qui appellent la hotline de leur entreprise. Ils reçoivent des demandes apparemment simples mais les emplois s'avèrent plus compliqués qu'il n'y paraît, ce qui rend difficile d'apporter le bonheur au monde.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l1Qdw9DsJaomE8BXeVfkF6h1qaa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qjHTkQ3QUlw6sxkIhugqNYsRJnR.jpg",
+      "genres": [
+        16,
+        35,
+        10765
+      ],
+      "voteAverage": 8.509,
+      "firstAirDate": "2020-04-01"
     },
     {
       "id": 19885,
@@ -2052,6 +2081,19 @@
       "firstAirDate": "2018-10-27"
     },
     {
+      "id": 117648,
+      "name": "La Ferme de Clarkson",
+      "overview": "Plongez dans le quotidien tantôt intense, tantôt tortueux mais souvent hilarant du plus improbable des agriculteurs britanniques : Jeremy Clarkson. Pendant une année entière, Jeremy et ses nombreux comparses devront faire face à une météo capricieuse, des animaux désobéissants, des champs instables et une pandémie inattendue. Suivez Jeremy Clarkson tel que vous ne l'avez jamais vu auparavant.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/i50h4Gz6e9BMGak5l6gg5qfIjcv.jpg",
+      "genres": [
+        10764,
+        35
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2021-06-11"
+    },
+    {
       "id": 67075,
       "name": "Mob Psycho 100",
       "overview": "Shigeo Kageyama, surnommé Mob, est un lycéen tout ce qu’il y a de plus ordinaire. Pourtant, il possède de puissants pouvoirs psychiques, mais il préfère rester discret, afin d’avoir une vie la plus normale possible. De plus, il comprend en grandissant que ce pouvoir peut être dangereux et qu’il augmente en même temps que sa charge émotionnelle. Mais pourra-t-il contenir longtemps ses émotions ?",
@@ -2065,19 +2107,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2016-07-12"
-    },
-    {
-      "id": 117648,
-      "name": "La Ferme de Clarkson",
-      "overview": "Plongez dans le quotidien tantôt intense, tantôt tortueux mais souvent hilarant du plus improbable des agriculteurs britanniques : Jeremy Clarkson. Pendant une année entière, Jeremy et ses nombreux comparses devront faire face à une météo capricieuse, des animaux désobéissants, des champs instables et une pandémie inattendue. Suivez Jeremy Clarkson tel que vous ne l'avez jamais vu auparavant.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4bmztj8jaWVhC0jTrXw1irmz2TI.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/i50h4Gz6e9BMGak5l6gg5qfIjcv.jpg",
-      "genres": [
-        10764,
-        35
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2021-06-11"
     },
     {
       "id": 106600,
@@ -2302,19 +2331,6 @@
       "firstAirDate": "2023-04-02"
     },
     {
-      "id": 1600,
-      "name": "Ned ou Comment survivre aux études",
-      "overview": "Ned et ses deux meilleurs amis, Moze et Cookie, ont un challenge à relever :  survivre dans un milieu extrêmement hostile : le collège.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r9O9hhS4XlcVD7ycKetBui1JkWo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uxpYsuTkfSMdTzR2LIkkjMiaybv.jpg",
-      "genres": [
-        35,
-        10762
-      ],
-      "voteAverage": 8.491,
-      "firstAirDate": "2004-09-12"
-    },
-    {
       "id": 73223,
       "name": "Black Clover",
       "overview": "Dans un monde régi par la magie, Yuno et Asta ont grandi ensemble avec un seul but en tête : devenir le prochain Empereur-Mage du royaume de Clover. Mais si le premier est naturellement doué, le deuxième, quant à lui, ne sait pas manipuler la magie. C'est ainsi que lors de la cérémonie d'attribution de leur grimoire, Yuno reçoit le légendaire grimoire au trèfle à quatre feuilles tandis qu'Asta, lui, repart bredouille. Or, plus tard, un ancien et mystérieux ouvrage noir décoré d'un trèfle à cinq feuilles surgit devant lui ! Un grimoire d’anti-magie…",
@@ -2365,6 +2381,19 @@
       ],
       "voteAverage": 8.487,
       "firstAirDate": "2003-09-15"
+    },
+    {
+      "id": 1600,
+      "name": "Ned ou Comment survivre aux études",
+      "overview": "Ned et ses deux meilleurs amis, Moze et Cookie, ont un challenge à relever :  survivre dans un milieu extrêmement hostile : le collège.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/r9O9hhS4XlcVD7ycKetBui1JkWo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uxpYsuTkfSMdTzR2LIkkjMiaybv.jpg",
+      "genres": [
+        35,
+        10762
+      ],
+      "voteAverage": 8.486,
+      "firstAirDate": "2004-09-12"
     },
     {
       "id": 225180,
@@ -2562,7 +2591,7 @@
       "genres": [
         35
       ],
-      "voteAverage": 8.416,
+      "voteAverage": 8.417,
       "firstAirDate": "1994-09-22"
     },
     {
@@ -2725,7 +2754,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.356,
+      "voteAverage": 8.357,
       "firstAirDate": "2004-10-05"
     },
     {
@@ -3005,7 +3034,7 @@
         18,
         9648
       ],
-      "voteAverage": 8.23,
+      "voteAverage": 8.229,
       "firstAirDate": "2006-10-01"
     },
     {
@@ -3207,7 +3236,7 @@
         9648,
         10765
       ],
-      "voteAverage": 8.171,
+      "voteAverage": 8.17,
       "firstAirDate": "1998-10-07"
     },
     {
@@ -3304,6 +3333,19 @@
       "firstAirDate": "2023-08-31"
     },
     {
+      "id": 195670,
+      "name": "XO, Kitty",
+      "overview": "Guidée par ses sentiments jusqu'à un lycée prestigieux à Séoul, Kitty l'entremetteuse découvre que la vie, l'amour et la famille sont plus compliqués que ce qu'elle imaginait.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cP0jXNfVlgBmSHuDdbfc0RByPGL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
+      "genres": [
+        35,
+        18
+      ],
+      "voteAverage": 8.104,
+      "firstAirDate": "2023-05-18"
+    },
+    {
       "id": 65334,
       "name": "Miraculous, les aventures de Ladybug et Chat Noir",
       "overview": "Paris, aujourd'hui. Marinette et Adrien sont deux collégiens comme les autres, à la différence près qu’ils ont été choisis pour sauver Paris ! Leur mission : capturer les Akumas du mystérieux Papillon qui transforment les parisiens en super vilains. Grâce à leur kwami, nos deux collégiens se métamorphosent en superhéros : Ladybug, et Chat Noir.",
@@ -3344,19 +3386,6 @@
       ],
       "voteAverage": 8.1,
       "firstAirDate": "2005-08-29"
-    },
-    {
-      "id": 195670,
-      "name": "XO, Kitty",
-      "overview": "Guidée par ses sentiments jusqu'à un lycée prestigieux à Séoul, Kitty l'entremetteuse découvre que la vie, l'amour et la famille sont plus compliqués que ce qu'elle imaginait.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cP0jXNfVlgBmSHuDdbfc0RByPGL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/h0CQ36rm9cSLznve5ocCDtYlnwN.jpg",
-      "genres": [
-        35,
-        18
-      ],
-      "voteAverage": 8.1,
-      "firstAirDate": "2023-05-18"
     },
     {
       "id": 302063,
@@ -3400,6 +3429,19 @@
       ],
       "voteAverage": 8.088,
       "firstAirDate": "2011-09-22"
+    },
+    {
+      "id": 279471,
+      "name": "Malcolm : Rien n’a changé",
+      "overview": "Vingt ans plus tard, Malcolm et sa famille n'ont toujours rien appris.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1bFcDD83b0cW0nQ7wr6EHsUCZPE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uekZzyLReK777QKO9xKwiPOelCQ.jpg",
+      "genres": [
+        35,
+        18
+      ],
+      "voteAverage": 8.084,
+      "firstAirDate": "2026-04-10"
     },
     {
       "id": 1413,
@@ -3595,6 +3637,20 @@
       "firstAirDate": "1966-09-08"
     },
     {
+      "id": 71790,
+      "name": "S.W.A.T.",
+      "overview": "Un lieutenant du S.W.A.T est tiraillé entre sa loyauté envers ses origines modestes, dont ses amis de la rue avec qui il a grandi et qui n'ont pas aussi bien tourné que lui, et son devoir envers ses co-équipiers. Une dualité qui finit par prendre tout son sens lorsqu'il se voit chargé d'organiser une unité hautement qualifiée pour résoudre les crimes à Los Angeles.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tFYMNXnUGI2EAV6BWHS7MyR8dX0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+      "genres": [
+        80,
+        10759,
+        18
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2017-11-02"
+    },
+    {
       "id": 4556,
       "name": "Scrubs",
       "overview": "Scrubs est une série centrée sur la vie du personnel de l'hôpital du Sacré-Cœur et particulièrement sur celle de John Dorian, alias « J.D. ». Au début de la série, J.D. est un jeune interne qui entre à l'hôpital, tout comme son meilleur ami et colocataire, l'apprenti-chirurgien Christopher Turk. Ils sont accompagnés dans leurs premiers pas par leur camarade Elliot Reid, jeune femme brillante mais névrosée au charme de laquelle J.D. n'est pas insensible, et par Carla Espinosa, infirmière au caractère bien trempé qui ne laisse pas Turk indifférent.",
@@ -3691,7 +3747,7 @@
       "id": 315816,
       "name": "茉莉花ちゃんの好感度はぶっ壊れている",
       "overview": "Un lycéen peut voir la jauge d’affection des filles, mais celle de son amie d’enfance Marika est brisée, rendant ses vrais sentiments impossibles à lire.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qsjIgTsE8uS5IJuzCQPmUrnRh3x.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/A8dwD5GUUGgCXjTxuSWWGM6g6u1.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w500/fxkcclraLCONUZEJLylKACAgRdt.jpg",
       "genres": [
         16,
@@ -3724,20 +3780,6 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "2020-08-31"
-    },
-    {
-      "id": 71790,
-      "name": "S.W.A.T.",
-      "overview": "Un lieutenant du S.W.A.T est tiraillé entre sa loyauté envers ses origines modestes, dont ses amis de la rue avec qui il a grandi et qui n'ont pas aussi bien tourné que lui, et son devoir envers ses co-équipiers. Une dualité qui finit par prendre tout son sens lorsqu'il se voit chargé d'organiser une unité hautement qualifiée pour résoudre les crimes à Los Angeles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tFYMNXnUGI2EAV6BWHS7MyR8dX0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
-      "genres": [
-        80,
-        10759,
-        18
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2017-11-02"
     },
     {
       "id": 226637,
@@ -3891,6 +3933,19 @@
       "firstAirDate": "2014-03-19"
     },
     {
+      "id": 4586,
+      "name": "Gilmore Girls",
+      "overview": "La série raconte la relation complice et même privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16 ans. Entre leurs histoires d'amour respectives et les relations avec les grands-parents de Rory ou les personnages secondaires rencontrés au travail de Lorelai ou au lycée d'élite de Rory dans la petite ville de Stars Hollow, Lorelai et Rory n'ont pas le temps de s'ennuyer.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
+      "genres": [
+        35,
+        18
+      ],
+      "voteAverage": 7.9,
+      "firstAirDate": "2000-10-05"
+    },
+    {
       "id": 95603,
       "name": "Kuruluş Osman",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3932,19 +3987,6 @@
       "firstAirDate": "2004-10-03"
     },
     {
-      "id": 4586,
-      "name": "Gilmore Girls",
-      "overview": "La série raconte la relation complice et même privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16 ans. Entre leurs histoires d'amour respectives et les relations avec les grands-parents de Rory ou les personnages secondaires rencontrés au travail de Lorelai ou au lycée d'élite de Rory dans la petite ville de Stars Hollow, Lorelai et Rory n'ont pas le temps de s'ennuyer.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8U2ndZrneigI2zkvGuTJtt1ZsxK.jpg",
-      "genres": [
-        35,
-        18
-      ],
-      "voteAverage": 7.895,
-      "firstAirDate": "2000-10-05"
-    },
-    {
       "id": 1877,
       "name": "Phinéas et Ferb",
       "overview": "Phineas et Ferb sont des demi-frères passant leurs vacances d'été à martyriser leur soeur, à s'imaginer des aventures extraordinaires dans leur jardin... sans se douter que leur ornithorynque de compagnie est un agent secret !",
@@ -3956,7 +3998,7 @@
         10751,
         10765
       ],
-      "voteAverage": 7.892,
+      "voteAverage": 7.894,
       "firstAirDate": "2007-08-17"
     },
     {
@@ -4120,7 +4162,7 @@
         10765,
         10768
       ],
-      "voteAverage": 7.738,
+      "voteAverage": 7.736,
       "firstAirDate": "2019-11-01"
     },
     {
@@ -4136,6 +4178,18 @@
       ],
       "voteAverage": 7.735,
       "firstAirDate": "2010-09-20"
+    },
+    {
+      "id": 243875,
+      "name": "Georgie & Mandy's First Marriage",
+      "overview": "Cette suite de Young Sheldon suit Georgie et Mandy alors qu'ils élèvent leur jeune famille au Texas.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 7.725,
+      "firstAirDate": "2024-10-17"
     },
     {
       "id": 279388,
@@ -4160,7 +4214,7 @@
         18,
         10759
       ],
-      "voteAverage": 7.708,
+      "voteAverage": 7.71,
       "firstAirDate": "2023-11-16"
     },
     {
@@ -4202,18 +4256,6 @@
       ],
       "voteAverage": 7.7,
       "firstAirDate": "2023-01-07"
-    },
-    {
-      "id": 243875,
-      "name": "Georgie & Mandy's First Marriage",
-      "overview": "Cette suite de Young Sheldon suit Georgie et Mandy alors qu'ils élèvent leur jeune famille au Texas.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 7.7,
-      "firstAirDate": "2024-10-17"
     },
     {
       "id": 212907,
@@ -4323,48 +4365,6 @@
       ],
       "voteAverage": 7.62,
       "firstAirDate": "2003-09-23"
-    },
-    {
-      "id": 111803,
-      "name": "The White Lotus",
-      "overview": "Dans une station balnéaire au paysage de carte postale, des clients profitent de leurs vacances dans un cadre idyllique, pris en charge par un personnel des plus agréables et serviables. Très vite, il devient clair que le bonheur apparent et les sourires de façade sont trompeurs.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gtpgpoJpizu21FLJCVDFfySOfoq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
-      "genres": [
-        35,
-        18,
-        9648
-      ],
-      "voteAverage": 7.603,
-      "firstAirDate": "2021-07-11"
-    },
-    {
-      "id": 57243,
-      "name": "Doctor Who",
-      "overview": "Dernier représentant des Seigneurs du temps et âgé de plus de 900 ans, Le Docteur parcourt l'espace et le temps dans son TARDIS. Amoureux de la race humaine, il se fait régulièrement accompagner par une femme ou un homme. Partagé entre folie et génie, insouciant mais conscient de ses responsabilités, il défendra l'humanité quel que soit le prix à payer.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kPDUsupiSRloYCwhz0JlN52VlPW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
-      "genres": [
-        10759,
-        18,
-        10765
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2005-03-26"
-    },
-    {
-      "id": 245842,
-      "name": "Wistoria: Wand and Sword",
-      "overview": "Dans un monde où règne la magie, Will Serfort est incapable de jeter un sort. Bien qu'il travaille dur, ses camarades de classe ne l'apprécient guère pour cette raison. Cependant, il a une botte secrète : son épée. Will pourra-t-il relever les défis par la seule force de sa lame ?",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2024-07-07"
     }
   ]
 }
