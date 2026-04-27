@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T00:37:45.853Z",
+  "updatedAt": "2026-04-27T06:57:17.263Z",
   "results": [
     {
       "id": 308689,
@@ -52,21 +52,6 @@
       ],
       "voteAverage": 9.5,
       "firstAirDate": "2011-01-23"
-    },
-    {
-      "id": 295434,
-      "name": "仮面ライダーゼッツ",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/b20PiLSeusBfXhzNhWRfK8oJC4n.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/kk2cB8l44jZGTHFpX8oB99bCa75.jpg",
-      "genres": [
-        10759,
-        10765,
-        35,
-        18
-      ],
-      "voteAverage": 9.25,
-      "firstAirDate": "2025-09-07"
     },
     {
       "id": 289424,
@@ -208,7 +193,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.756,
+      "voteAverage": 8.757,
       "firstAirDate": "2005-02-21"
     },
     {
@@ -224,6 +209,20 @@
       ],
       "voteAverage": 8.755,
       "firstAirDate": "2021-11-06"
+    },
+    {
+      "id": 37854,
+      "name": "One Piece",
+      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "genres": [
+        10759,
+        35,
+        16
+      ],
+      "voteAverage": 8.725,
+      "firstAirDate": "1999-10-20"
     },
     {
       "id": 301507,
@@ -275,20 +274,6 @@
       "firstAirDate": "2015-02-08"
     },
     {
-      "id": 37854,
-      "name": "One Piece",
-      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "genres": [
-        10759,
-        35,
-        16
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "1999-10-20"
-    },
-    {
       "id": 31911,
       "name": "Fullmetal Alchemist : Brotherhood",
       "overview": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist.\n\nMais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
@@ -302,6 +287,20 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2009-04-05"
+    },
+    {
+      "id": 1429,
+      "name": "L'Attaque des Titans",
+      "overview": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cEnxvrGIGwLz7ZfCx3g8oULJxrr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "genres": [
+        16,
+        10765,
+        10759
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "2013-04-07"
     },
     {
       "id": 92685,
@@ -396,22 +395,8 @@
         35,
         10765
       ],
-      "voteAverage": 8.679,
+      "voteAverage": 8.677,
       "firstAirDate": "2023-08-31"
-    },
-    {
-      "id": 1429,
-      "name": "L'Attaque des Titans",
-      "overview": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cEnxvrGIGwLz7ZfCx3g8oULJxrr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "genres": [
-        16,
-        10765,
-        10759
-      ],
-      "voteAverage": 8.678,
-      "firstAirDate": "2013-04-07"
     },
     {
       "id": 60625,
@@ -452,7 +437,7 @@
         80,
         18
       ],
-      "voteAverage": 8.664,
+      "voteAverage": 8.663,
       "firstAirDate": "1999-01-10"
     },
     {
@@ -914,19 +899,6 @@
       "firstAirDate": "2021-03-22"
     },
     {
-      "id": 4613,
-      "name": "Frères d'armes",
-      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
-      "genres": [
-        18,
-        10768
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2001-09-09"
-    },
-    {
       "id": 80564,
       "name": "Banana Fish",
       "overview": "New York. Ash Lynx est un garçon d’une beauté exceptionnelle, ultra-fort au combat. A 17 ans, il est déjà chef de bande. Une nuit, un homme abattu par son subordonné lui transmet le mot \"Banana Fish\" et une adresse. C’est un mot que Griffin, le frère aîné d’Ash, infirme, a souvent mentionné. Au même moment, Ash rencontre d’Eiji Okumura, un garçon japonais venu en tant qu’assistant photographe.",
@@ -1029,6 +1001,32 @@
       "firstAirDate": "2023-04-14"
     },
     {
+      "id": 220850,
+      "name": "炼气十万年",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dZF7DTXgyoyshdALJLOrQ9Zj4Xz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/iGJ9eOBsWcOPOQkZmH8LwWub4eL.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2023-02-18"
+    },
+    {
+      "id": 73036,
+      "name": "냉장고를 부탁해",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q0ZjzXScH2bZgqIWlT2xAQOPAH8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uBp9d5J58yzjafKiWsz7cdctmIY.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2014-11-17"
+    },
+    {
       "id": 35790,
       "name": "Sakura, chasseuse de cartes",
       "overview": "La vie de Sakura bascule le jour où, dans la bibliothèque de son père, elle ouvre le livre de Clow et laisse accidentellement s'échapper les cartes magiques qui s'y trouvaient. Devenue chasseuse de cartes, elle doit, avec l'aide de Kero, le gardien du livre, retrouver les cartes disparues...",
@@ -1095,6 +1093,19 @@
       ],
       "voteAverage": 8.585,
       "firstAirDate": "2013-10-03"
+    },
+    {
+      "id": 4613,
+      "name": "Frères d'armes",
+      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.583,
+      "firstAirDate": "2001-09-09"
     },
     {
       "id": 35610,
@@ -1265,7 +1276,7 @@
         35,
         18
       ],
-      "voteAverage": 8.556,
+      "voteAverage": 8.558,
       "firstAirDate": "2014-10-10"
     },
     {
@@ -1553,6 +1564,21 @@
       "firstAirDate": "2019-12-14"
     },
     {
+      "id": 88803,
+      "name": "Vinland Saga",
+      "overview": "À la fin du premier millénaire, les guerriers les plus forts et les plus cruels de leur temps se sont répandus à travers le monde entier : les Vikings. Thorfinn, le fils de l’homme réputé comme étant le plus fort des guerriers, décide de passer sa vie sur les champs de batailles malgré son jeune âge tout en rêvant d’atteindre le légendaire continent que l’on appelle « Vinland ». Dans le tourbillon d’une époque troublée, la saga d’un vrai guerrier commence.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/xamCBQePUy9xI42GvtphLuGqd09.jpg",
+      "genres": [
+        16,
+        10768,
+        10759,
+        18
+      ],
+      "voteAverage": 8.522,
+      "firstAirDate": "2019-07-08"
+    },
+    {
       "id": 45950,
       "name": "High School DxD",
       "overview": "Issei Hyôdô est un lycéen inscrit à l'académie Kuô, un établissement qui n'accueillait que des filles jusqu'à récemment. Bien que la gent féminine constitue l'écrasante majorité de ce lieu d'études, Issei se désespère de n'avoir toujours pas de petite amie. C’est alors qu'il fait la connaissance de Yûma, qui va lui demander de sortir avec lui...",
@@ -1623,20 +1649,6 @@
       "firstAirDate": "2018-10-04"
     },
     {
-      "id": 40143,
-      "name": "Shaman King",
-      "overview": "Manta est un collégien très ordinaire. Un jour, traversant un cimetière pour gagner du temps, il rencontre Yoh, un shaman. Yoh peut voir les fantômes, et fusionner avec eux pour utiliser leurs compétences. Son rêve est de devenir Shaman King, le shaman possédant le fantôme ultime, le Great Spirit, la connaissance universelle. Mais la route est semée d'embûches, et de nombreux autres shamans ont le même objectif : gagner le Shaman Fight !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/conBjZLX8KBc18vdQjSNegZytln.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/f7DC5Qu0MJBtbAK9zCOU2rzz6NG.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.515,
-      "firstAirDate": "2001-07-04"
-    },
-    {
       "id": 101172,
       "name": "Tun Shi Xing Kong (Swallowed Star)",
       "overview": "Adaptation du roman de Wo Chi Xi Hong Shi. L'histoire se déroule dans le même univers que Xue Ying Ling Zhu.",
@@ -1691,6 +1703,20 @@
       ],
       "voteAverage": 8.513,
       "firstAirDate": "2016-10-06"
+    },
+    {
+      "id": 40143,
+      "name": "Shaman King",
+      "overview": "Manta est un collégien très ordinaire. Un jour, traversant un cimetière pour gagner du temps, il rencontre Yoh, un shaman. Yoh peut voir les fantômes, et fusionner avec eux pour utiliser leurs compétences. Son rêve est de devenir Shaman King, le shaman possédant le fantôme ultime, le Great Spirit, la connaissance universelle. Mais la route est semée d'embûches, et de nombreux autres shamans ont le même objectif : gagner le Shaman Fight !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/conBjZLX8KBc18vdQjSNegZytln.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/f7DC5Qu0MJBtbAK9zCOU2rzz6NG.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.509,
+      "firstAirDate": "2001-07-04"
     },
     {
       "id": 19885,
@@ -1913,21 +1939,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "1996-12-23"
-    },
-    {
-      "id": 88803,
-      "name": "Vinland Saga",
-      "overview": "À la fin du premier millénaire, les guerriers les plus forts et les plus cruels de leur temps se sont répandus à travers le monde entier : les Vikings. Thorfinn, le fils de l’homme réputé comme étant le plus fort des guerriers, décide de passer sa vie sur les champs de batailles malgré son jeune âge tout en rêvant d’atteindre le légendaire continent que l’on appelle « Vinland ». Dans le tourbillon d’une époque troublée, la saga d’un vrai guerrier commence.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xamCBQePUy9xI42GvtphLuGqd09.jpg",
-      "genres": [
-        16,
-        10768,
-        10759,
-        18
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2019-07-08"
     },
     {
       "id": 125910,
@@ -2232,21 +2243,6 @@
       "firstAirDate": "2003-09-15"
     },
     {
-      "id": 204154,
-      "name": "Scavengers Reign",
-      "overview": "La série suit les survivants du cargo interstellaire endommagé Demeter 227 qui se sont échoués sur Vesta, une planète extraterrestre riche en faune et en flore, mais pleine de dangers.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
-      "genres": [
-        10765,
-        18,
-        16,
-        10759
-      ],
-      "voteAverage": 8.486,
-      "firstAirDate": "2023-10-19"
-    },
-    {
       "id": 1600,
       "name": "Ned ou Comment survivre aux études",
       "overview": "Ned et ses deux meilleurs amis, Moze et Cookie, ont un challenge à relever :  survivre dans un milieu extrêmement hostile : le collège.",
@@ -2299,6 +2295,21 @@
       ],
       "voteAverage": 8.481,
       "firstAirDate": "2019-02-15"
+    },
+    {
+      "id": 204154,
+      "name": "Scavengers Reign",
+      "overview": "La série suit les survivants du cargo interstellaire endommagé Demeter 227 qui se sont échoués sur Vesta, une planète extraterrestre riche en faune et en flore, mais pleine de dangers.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bFlVZV8TQbs8hcIY7PVYonYFMgK.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rrREM1cowfMZ8SmrJ9KCFO3y4j6.jpg",
+      "genres": [
+        10765,
+        18,
+        16,
+        10759
+      ],
+      "voteAverage": 8.479,
+      "firstAirDate": "2023-10-19"
     },
     {
       "id": 65648,
@@ -2363,7 +2374,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.471,
+      "voteAverage": 8.472,
       "firstAirDate": "1986-10-11"
     },
     {
@@ -2591,6 +2602,20 @@
       "firstAirDate": "2016-03-27"
     },
     {
+      "id": 72517,
+      "name": "Classroom of the Elite",
+      "overview": "Kiyotaka Ayanokôji intègre le prestigieux lycée de haut niveau de Tokyo où, une fois le diplôme en poche, quasiment 100 % des élèves trouvent un travail ou sont reçus à l’université. Pas de chance, il se retrouve dans la 2de D où finissent tous les élèves à problèmes ! Mais au bout d’un mois, Kiyotaka et ses camarades de classe découvrent l’envers du décor et le terrible système sur lequel repose le fonctionnement de cette école…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
+      "genres": [
+        16,
+        18,
+        9648
+      ],
+      "voteAverage": 8.4,
+      "firstAirDate": "2017-07-12"
+    },
+    {
       "id": 124003,
       "name": "Perfect World",
       "overview": "Né dans un monde unique où les villages se battent pour obtenir le pouvoir et le contrôle, le personnage principal, Shi Hao, est un génie béni par les cieux né dans les conditions les plus pauvres. Son clan, cependant, a un passé mystérieux. Pour s'élever et devenir le génie qu'il est censé être, le clan fait tout son possible pour l'aider à se développer alors qu'il combat des monstres fanatiques et s'engage dans des luttes de pouvoir avec d'autres clans. Son voyage le mènera à travers des terres inconnues jusqu'à ce qu'il soit capable de devenir une personne capable de vraiment secouer le monde.",
@@ -2616,20 +2641,6 @@
       ],
       "voteAverage": 8.4,
       "firstAirDate": "2019-11-16"
-    },
-    {
-      "id": 72517,
-      "name": "Classroom of the Elite",
-      "overview": "Kiyotaka Ayanokôji intègre le prestigieux lycée de haut niveau de Tokyo où, une fois le diplôme en poche, quasiment 100 % des élèves trouvent un travail ou sont reçus à l’université. Pas de chance, il se retrouve dans la 2de D où finissent tous les élèves à problèmes ! Mais au bout d’un mois, Kiyotaka et ses camarades de classe découvrent l’envers du décor et le terrible système sur lequel repose le fonctionnement de cette école…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/d3yNn379emGP8xztqeOsB9oLNG2.jpg",
-      "genres": [
-        16,
-        18,
-        9648
-      ],
-      "voteAverage": 8.398,
-      "firstAirDate": "2017-07-12"
     },
     {
       "id": 44006,
@@ -2710,7 +2721,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.345,
+      "voteAverage": 8.333,
       "firstAirDate": "2026-03-15"
     },
     {
@@ -2806,7 +2817,7 @@
         18,
         9648
       ],
-      "voteAverage": 8.283,
+      "voteAverage": 8.282,
       "firstAirDate": "2011-12-04"
     },
     {
@@ -2896,22 +2907,6 @@
       ],
       "voteAverage": 8.25,
       "firstAirDate": "2026-04-21"
-    },
-    {
-      "id": 306721,
-      "name": "Star Detective PreCure!",
-      "overview": "Le jour de son 14e anniversaire, Anna Akechi rencontre une fée magique et se retrouve soudainement transportée de 2027 à 1999 ! Elle se lie d'amitié avec Mikuru, une jeune fille pleine d'entrain qui rêve de devenir détective. Lorsque de mystérieux vols font naître des rumeurs sur les Voleurs Fantômes, les deux jeunes filles se transforment en Detective Precure et utilisent leur courage, leur esprit de déduction et leur amitié pour résoudre des affaires et découvrir le secret du voyage dans le temps d'Anna.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/bOgsRcvQcetWXtVnPgKtYYf9aSV.jpg",
-      "genres": [
-        16,
-        10762,
-        10759,
-        35,
-        10765
-      ],
-      "voteAverage": 8.25,
-      "firstAirDate": "2026-02-01"
     },
     {
       "id": 33238,
@@ -3184,6 +3179,19 @@
       "firstAirDate": "2005-09-19"
     },
     {
+      "id": 202297,
+      "name": "Fire Country : Pompiers sur Appel",
+      "overview": "En quête de rédemption et d'une peine de prison raccourcie, le jeune condamné Bode Donovan rejoint un programme de lutte contre les incendies qui le ramène dans sa petite ville natale du nord de la Californie, où lui et d'autres détenus travaillent aux côtés de pompiers d'élite pour éteindre d'énormes incendies dans la région.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2qhBMwFtQIUQId8nhaywVqKTPLw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
+      "genres": [
+        18,
+        80
+      ],
+      "voteAverage": 8.107,
+      "firstAirDate": "2022-10-07"
+    },
+    {
       "id": 253193,
       "name": "A Dream Within a Dream",
       "overview": "L'actrice Song Xiao Yu tente de se hisser au sommet de son art. Mais sa vie prend un tournant absurde lorsqu’elle se retrouve mystérieusement transportée dans le script qu’elle était en train de lire et qu’elle en devient l'héroïne, Song Yi Meng. Connaissant la fin tragique qui l’attend, tuée par le personnage principal, Nan Heng, Xiao essaie de changer l’intrigue. Malheureusement, quoi qu’elle fasse, elle se réveille toujours dans la même position, entre les mains de Nan Heng. Guidée par le désespoir d’offrir un destin plus doux à Yi Meng, Xiao Yu met au point un plan pour tuer Nan Heng. Parviendra-t-elle à ses fins, ou un rebondissement imprévu viendra-t-il tout chambouler ?",
@@ -3196,18 +3204,17 @@
       "firstAirDate": "2025-06-26"
     },
     {
-      "id": 44217,
-      "name": "Vikings",
-      "overview": "Les exploits d'un groupe de vikings de la fin du 8ème siècle jusqu'au milieu du 11ème, mené par Ragnar Lodbrok, l'un des plus populaires héros viking de tous les temps, qui a régné quelques temps sur le Danemark et la Suède...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xmcOeS0BKCBg5MwM3dfMrSUqyNh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+      "id": 278573,
+      "name": "Perfect Crown",
+      "overview": "Dans une monarchie constitutionnelle du XXIe siècle, une femme qui a tout pour elle mais reste une roturière croise le chemin d’un prince qui, malgré sa lignée royale, se sent impuissant — donnant naissance à un amour qui défie les barrières sociales.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/j37wlFXIPcSVEjWOi1KBxzWK0in.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
       "genres": [
-        10759,
-        18,
-        10768
+        35,
+        18
       ],
       "voteAverage": 8.1,
-      "firstAirDate": "2013-03-03"
+      "firstAirDate": "2026-04-10"
     },
     {
       "id": 65733,
@@ -3277,6 +3284,33 @@
       ],
       "voteAverage": 8.1,
       "firstAirDate": "2025-10-10"
+    },
+    {
+      "id": 289560,
+      "name": "CIA",
+      "overview": "Lorsque deux partenaires improbables - un agent de la CIA à la langue bien pendue et qui ne respecte pas les règles, et un agent du FBI expérimenté et intelligent qui croit en l'État de droit - sont affectés au poste de la CIA à New York, ils doivent apprendre à travailler ensemble pour enquêter sur les affaires et les criminels qui représentent une menace sur le sol américain, et découvrir que leurs différences peuvent en fait être leur force.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.1,
+      "firstAirDate": "2026-02-23"
+    },
+    {
+      "id": 44217,
+      "name": "Vikings",
+      "overview": "Les exploits d'un groupe de vikings de la fin du 8ème siècle jusqu'au milieu du 11ème, mené par Ragnar Lodbrok, l'un des plus populaires héros viking de tous les temps, qui a régné quelques temps sur le Danemark et la Suède...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xmcOeS0BKCBg5MwM3dfMrSUqyNh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+      "genres": [
+        10759,
+        18,
+        10768
+      ],
+      "voteAverage": 8.092,
+      "firstAirDate": "2013-03-03"
     },
     {
       "id": 1411,
@@ -3349,6 +3383,20 @@
       "firstAirDate": "2010-10-31"
     },
     {
+      "id": 108978,
+      "name": "Reacher",
+      "overview": "Ancien officier de Police Militaire, Jack Reacher est arrêté pour un meurtre qu'il n'a pas commis et découvre une conspiration sanglante où baignent flics véreux, hommes d'affaire louches et politiciens corrompus. Avec son astuce pour seule arme, il va déjouer ce qui se trame à Margrave en Géorgie. La première saison de «Reacher» est adaptée du Best-seller de Lee Child «Du fond de l'abîme»",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
+      "genres": [
+        10759,
+        18,
+        80
+      ],
+      "voteAverage": 8.069,
+      "firstAirDate": "2022-02-03"
+    },
+    {
       "id": 2288,
       "name": "Prison Break",
       "overview": "Michael Scofield s'engage dans une véritable lutte contre la montre : son frère Lincoln est dans le couloir de la mort, en attente de son exécution. Persuadé de son innocence mais à court de solutions, Michael décide de se faire incarcérer à son tour dans le pénitencier d'état de Fox River pour organiser leur évasion...",
@@ -3361,20 +3409,6 @@
       ],
       "voteAverage": 8.068,
       "firstAirDate": "2005-08-29"
-    },
-    {
-      "id": 108978,
-      "name": "Reacher",
-      "overview": "Ancien officier de Police Militaire, Jack Reacher est arrêté pour un meurtre qu'il n'a pas commis et découvre une conspiration sanglante où baignent flics véreux, hommes d'affaire louches et politiciens corrompus. Avec son astuce pour seule arme, il va déjouer ce qui se trame à Margrave en Géorgie. La première saison de «Reacher» est adaptée du Best-seller de Lee Child «Du fond de l'abîme»",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/voKEhzb4ExOmR0WSvQgLTTqRUEu.jpg",
-      "genres": [
-        10759,
-        18,
-        80
-      ],
-      "voteAverage": 8.068,
-      "firstAirDate": "2022-02-03"
     },
     {
       "id": 4556,
@@ -3427,7 +3461,7 @@
         10751,
         18
       ],
-      "voteAverage": 8.032,
+      "voteAverage": 8.033,
       "firstAirDate": "2017-09-25"
     },
     {
@@ -3439,7 +3473,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.027,
+      "voteAverage": 8.028,
       "firstAirDate": "2010-01-22"
     },
     {
@@ -3734,21 +3768,6 @@
       "firstAirDate": "2023-06-24"
     },
     {
-      "id": 254002,
-      "name": "Critical Role",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/keSNwdzmSgQzluKmqTI6kwDOFa7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/aqjNyP1wSPcMau2rCqwNfFeLR3V.jpg",
-      "genres": [
-        10765,
-        10759,
-        35,
-        18
-      ],
-      "voteAverage": 7.9,
-      "firstAirDate": "2015-03-12"
-    },
-    {
       "id": 57775,
       "name": "ちびまる子ちゃん",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3912,7 +3931,7 @@
         18,
         80
       ],
-      "voteAverage": 7.784,
+      "voteAverage": 7.785,
       "firstAirDate": "2001-11-06"
     },
     {
@@ -4160,6 +4179,19 @@
       "firstAirDate": "2001-09-30"
     },
     {
+      "id": 285838,
+      "name": "If Wishes Could Kill",
+      "overview": "Une mystérieuse application promet d'exaucer des vœux — avant de déclencher un compte à rebours vers la mort. Un groupe d'ados pris au piège doit briser l'engrenage pour survivre.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oKSt05GBc2ZZ5G2BxTqLikNml1V.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/zV9WYOfFr4MAnzXXD8PR5J6JnN3.jpg",
+      "genres": [
+        9648,
+        18
+      ],
+      "voteAverage": 7.6,
+      "firstAirDate": "2026-04-24"
+    },
+    {
       "id": 224,
       "name": "Match of the Day",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -4213,6 +4245,20 @@
       "firstAirDate": "2001-05-06"
     },
     {
+      "id": 245842,
+      "name": "Wistoria: Wand and Sword",
+      "overview": "Dans un monde où règne la magie, Will Serfort est incapable de jeter un sort. Bien qu'il travaille dur, ses camarades de classe ne l'apprécient guère pour cette raison. Cependant, il a une botte secrète : son épée. Will pourra-t-il relever les défis par la seule force de sa lame ?",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 7.594,
+      "firstAirDate": "2024-07-07"
+    },
+    {
       "id": 1435,
       "name": "The Good Wife",
       "overview": "L'épouse d'un homme politique voit sa vie bouleversée par l'incarcération de son mari à la suite d'un scandale sexuel et une affaire de corruption largement relayés par les médias. Dépassant la trahison et l'humiliation publique, Alicia Florrick décide reprendre sa carrière d'avocate après une pause de 13 ans loin des tribunaux. Elle rejoint un ami de longue date au sein d'un prestigieux cabinet de Chicago. Très vite, Alicia réalise que la compétition va être rude avec de jeunes recrues ambitieuses et déterminées. Mais au moins pour une fois, elle est prête à prendre en main sa propre destinée et détruire son image d'épouse modèle...",
@@ -4237,20 +4283,6 @@
       ],
       "voteAverage": 7.588,
       "firstAirDate": "2011-10-02"
-    },
-    {
-      "id": 245842,
-      "name": "Wistoria: Wand and Sword",
-      "overview": "Dans un monde où règne la magie, Will Serfort est incapable de jeter un sort. Bien qu'il travaille dur, ses camarades de classe ne l'apprécient guère pour cette raison. Cependant, il a une botte secrète : son épée. Will pourra-t-il relever les défis par la seule force de sa lame ?",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 7.57,
-      "firstAirDate": "2024-07-07"
     },
     {
       "id": 241609,
@@ -4321,44 +4353,6 @@
       ],
       "voteAverage": 7.5,
       "firstAirDate": "2011-10-25"
-    },
-    {
-      "id": 243006,
-      "name": "NCIS : Origins",
-      "overview": "L'histoire commence en 1991, des années avant les événements de NCIS, et suit le jeune Leroy Jethro Gibbs. Débutant sa carrière en tant que nouvel agent spécial au bureau du NCIS à Camp Pendleton, Gibbs se fait une place au sein d’une équipe hétéroclite et courageusement dirigée par la légende du NCIS Mike Franks.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bwzKkL8u5oXsgmVFFe1qu4kLJGG.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mcAQ6fiayjgq7SMTCoAo40UwKA2.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "2024-10-14"
-    },
-    {
-      "id": 70672,
-      "name": "Knowing Brothers",
-      "overview": "Durant l'émission l'invité(e) fait un questionnaire sur lui et pose les questions une par une et les présentateurs doivent avoir le plus de bonnes réponses. S'ils se trompent, ils sont punis. Le concept de l'émission est que les présentateurs soient dans un lycée et que chaque invité soit un \"nouvel\" élève transféré.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
-      "genres": [
-        10764,
-        35
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "2015-12-05"
-    },
-    {
-      "id": 65282,
-      "name": "나 혼자 산다",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "2013-03-22"
     }
   ]
 }
