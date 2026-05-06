@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T06:58:31.745Z",
+  "updatedAt": "2026-05-06T12:41:13.831Z",
   "results": [
     {
       "id": 240382,
@@ -298,6 +298,20 @@
       "firstAirDate": "2025-11-28"
     },
     {
+      "id": 37854,
+      "name": "One Piece",
+      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "genres": [
+        10759,
+        35,
+        16
+      ],
+      "voteAverage": 8.724,
+      "firstAirDate": "1999-10-20"
+    },
+    {
       "id": 250307,
       "name": "The Pitt",
       "overview": "Dans l'Amérique d'aujourd'hui, les professionnels de la santé sont confrontés à de nombreux défis au sein d'un hôpital de Pittsburgh, en Pennsylvanie.",
@@ -360,20 +374,6 @@
       ],
       "voteAverage": 8.701,
       "firstAirDate": "2025-03-07"
-    },
-    {
-      "id": 37854,
-      "name": "One Piece",
-      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "genres": [
-        10759,
-        35,
-        16
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "1999-10-20"
     },
     {
       "id": 1429,
@@ -499,19 +499,6 @@
       "firstAirDate": "1999-01-10"
     },
     {
-      "id": 200709,
-      "name": "Héros fragile",
-      "overview": "Yeon Shi Eun est un élève modèle qui se classe parmi les meilleurs de son lycée. Physiquement, Yeon Shi Eun semble faible, mais en utilisant son intelligence et sa psychologie, il lutte contre la violence qui a lieu dans son école.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qWY4cFftaZxvtHet3S9p7NYTZeD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
-      "genres": [
-        10759,
-        18
-      ],
-      "voteAverage": 8.665,
-      "firstAirDate": "2022-11-18"
-    },
-    {
       "id": 92685,
       "name": "Luz à Osville",
       "overview": "Luz, une adolescente humaine pleine d’assurance, tombe accidentellement sur un portail permettant d’accéder à un monde magique où elle se liera d’amitié avec une sorcière rebelle, Eda, et un démon guerrier adorable, King. Bien qu’elle ne possède pas de pouvoirs magiques, Luz poursuit son rêve de devenir une sorcière en servant Eda comme apprentie au Manoir de la Chouette et trouve finalement une nouvelle famille dans un environnement improbable.",
@@ -540,6 +527,19 @@
       ],
       "voteAverage": 8.665,
       "firstAirDate": "2011-10-02"
+    },
+    {
+      "id": 200709,
+      "name": "Héros fragile",
+      "overview": "Yeon Shi Eun est un élève modèle qui se classe parmi les meilleurs de son lycée. Physiquement, Yeon Shi Eun semble faible, mais en utilisant son intelligence et sa psychologie, il lutte contre la violence qui a lieu dans son école.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qWY4cFftaZxvtHet3S9p7NYTZeD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
+      "genres": [
+        10759,
+        18
+      ],
+      "voteAverage": 8.665,
+      "firstAirDate": "2022-11-18"
     },
     {
       "id": 70785,
@@ -648,19 +648,6 @@
       ],
       "voteAverage": 8.627,
       "firstAirDate": "2007-10-12"
-    },
-    {
-      "id": 1438,
-      "name": "Sur écoute",
-      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/layPSOJGckJv3PXZDIVluMq69mn.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.626,
-      "firstAirDate": "2002-06-02"
     },
     {
       "id": 13916,
@@ -817,20 +804,6 @@
       "firstAirDate": "2016-12-02"
     },
     {
-      "id": 95479,
-      "name": "Jujutsu Kaisen",
-      "overview": "Souffrance, regrets, humiliations... les sentiments négatifs que ressentent les humains se transforment peu à peu en fléaux se cachant dans notre existence. Sévissant dans le monde entier, ils sont capables d'entraîner les gens dans de terribles malheurs et, parfois même, jusqu'à la mort. De plus, ces créatures ne peuvent être exorcisées que par un autre fléau.\n\nLycéen ordinaire, Yuji Itadori est toutefois doté d'une force physique hors du commun. Un jour, pour sauver un ami attaqué par un fléau, il mange un des doigts du démon à deux visages, devenant à son tour un fléau. Dès lors, il partage son corps avec le démon...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2020-10-03"
-    },
-    {
       "id": 31132,
       "name": "Regular Show",
       "overview": "La série se focalise sur deux compères, un geai bleu nommé Mordecai et un raton-laveur nommé Rigby, tous deux employés dans un parc. Leurs tentatives pour s'amuser plutôt que de travailler les entraînent dans des mésaventures souvent surréalistes…",
@@ -885,6 +858,19 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "1980-09-28"
+    },
+    {
+      "id": 1438,
+      "name": "Sur écoute",
+      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2002-06-02"
     },
     {
       "id": 40075,
@@ -970,6 +956,33 @@
       "firstAirDate": "2021-03-22"
     },
     {
+      "id": 4613,
+      "name": "Frères d'armes",
+      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2001-09-09"
+    },
+    {
+      "id": 82728,
+      "name": "Bluey",
+      "overview": "Suivez les aventures de Bluey, qui vit avec sa mère, son père et sa sœur. Son énergie irrésistible et son esprit d'aventurière, l'emportent dans une série de situations tout autant drôles qu'imprévisibles.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/g88VMPtog8sl8riaIRtz4U80dMK.jpg",
+      "genres": [
+        16,
+        35,
+        10762
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2018-10-01"
+    },
+    {
       "id": 43,
       "name": "31 Minutos",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -1011,6 +1024,20 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2022-06-18"
+    },
+    {
+      "id": 95479,
+      "name": "Jujutsu Kaisen",
+      "overview": "Souffrance, regrets, humiliations... les sentiments négatifs que ressentent les humains se transforment peu à peu en fléaux se cachant dans notre existence. Sévissant dans le monde entier, ils sont capables d'entraîner les gens dans de terribles malheurs et, parfois même, jusqu'à la mort. De plus, ces créatures ne peuvent être exorcisées que par un autre fléau.\n\nLycéen ordinaire, Yuji Itadori est toutefois doté d'une force physique hors du commun. Un jour, pour sauver un ami attaqué par un fléau, il mange un des doigts du démon à deux visages, devenant à son tour un fléau. Dès lors, il partage son corps avec le démon...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/gmECX1DvFgdUPjtio2zaL8BPYPu.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2020-10-03"
     },
     {
       "id": 35790,
@@ -1108,33 +1135,6 @@
       ],
       "voteAverage": 8.585,
       "firstAirDate": "2013-10-03"
-    },
-    {
-      "id": 4613,
-      "name": "Frères d'armes",
-      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
-      "genres": [
-        18,
-        10768
-      ],
-      "voteAverage": 8.582,
-      "firstAirDate": "2001-09-09"
-    },
-    {
-      "id": 82728,
-      "name": "Bluey",
-      "overview": "Suivez les aventures de Bluey, qui vit avec sa mère, son père et sa sœur. Son énergie irrésistible et son esprit d'aventurière, l'emportent dans une série de situations tout autant drôles qu'imprévisibles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/g88VMPtog8sl8riaIRtz4U80dMK.jpg",
-      "genres": [
-        16,
-        35,
-        10762
-      ],
-      "voteAverage": 8.578,
-      "firstAirDate": "2018-10-01"
     },
     {
       "id": 35610,
@@ -1806,20 +1806,6 @@
       "firstAirDate": "2016-10-06"
     },
     {
-      "id": 66433,
-      "name": "Moon Lovers Scarlet Heart Ryeo",
-      "overview": "Lors d'une éclipse solaire totale, Hae-Soo est transportée au temps de la dynastie Goryeo, où elle rencontre les nombreux fils du roi Taejo, condamnés à s’entre-tuer pour le trône.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7Ji4MvbqOnAnwGJV5Z953AkuE0X.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/yMEHwomIKzfFEq0xaHVHtyEuKBM.jpg",
-      "genres": [
-        18,
-        10765,
-        10768
-      ],
-      "voteAverage": 8.508,
-      "firstAirDate": "2016-08-29"
-    },
-    {
       "id": 19885,
       "name": "Sherlock",
       "overview": "Les aventures de Sherlock Holmes et de son acolyte de toujours, le docteur Watson, sont transposées au XXIème siècle...",
@@ -1919,19 +1905,19 @@
       "firstAirDate": "2001-03-30"
     },
     {
-      "id": 30981,
-      "name": "Monster",
-      "overview": "Kenzo Tenma est un médecin japonais travaillant en Allemagne. En 1986, il décide de sauver la vie d'un jeune garçon, désobéissant ainsi aux ordres de son directeur qui lui demandait de sauver en priorité celle du maire de la ville. Quelques jours plus tard, le directeur et deux autres responsables de l'hôpital sont empoisonnés. \n\nNeuf ans sont passées, en 1995, un événement similaire se produit et oblige Tenma à fuir. Sa fuite et sa quête de justice vont l'amener à découvrir une horrible vérité. Le jeune garçon qu'il avait sauvé dix plus tôt est en fait un véritable monstre : un être brillant, beau, mais avant tout un terrifiant tueur... \n\n",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+      "id": 83095,
+      "name": "The Rising of the Shield Hero",
+      "overview": "Naofumi est projeté dans un monde proche en tout lieu d'un jeu de rôle d'heroic fantasy. Mais alors que d'autres héros ont été dotés d'armes offensives redoutables, Naofumi hérite d'un bouclier aux capacités limitées pour progresser dans ce jeu où le danger peut surgir à chaque instant. Trahi par sa partenaire et vilipendé par la population, le jeune homme ne peut désormais compter que sur lui-même pour survivre dans cet univers hostile... et peut-être sur une jeune fille désœuvrée aux ressources insoupçonnées.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/y4N1MW2LjaO4l5dXCvnJvVWL345.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ygJ9BOiLwExwFdxQeZiiUA6TqME.jpg",
       "genres": [
         16,
-        18,
-        9648,
-        80
+        10759,
+        10765,
+        18
       ],
       "voteAverage": 8.502,
-      "firstAirDate": "2004-04-07"
+      "firstAirDate": "2019-01-09"
     },
     {
       "id": 68349,
@@ -2025,6 +2011,20 @@
       "firstAirDate": "2020-06-20"
     },
     {
+      "id": 66433,
+      "name": "Moon Lovers Scarlet Heart Ryeo",
+      "overview": "Lors d'une éclipse solaire totale, Hae-Soo est transportée au temps de la dynastie Goryeo, où elle rencontre les nombreux fils du roi Taejo, condamnés à s’entre-tuer pour le trône.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7Ji4MvbqOnAnwGJV5Z953AkuE0X.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/yMEHwomIKzfFEq0xaHVHtyEuKBM.jpg",
+      "genres": [
+        18,
+        10765,
+        10768
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2016-08-29"
+    },
+    {
       "id": 117376,
       "name": "Vincenzo",
       "overview": "Profitant d'une visite dans son pays natal, un avocat mafieux italo-coréen s'attaque à un puissant conglomérat pharmaceutique et rend justice à sa manière.",
@@ -2052,21 +2052,6 @@
       "firstAirDate": "2020-08-19"
     },
     {
-      "id": 83095,
-      "name": "The Rising of the Shield Hero",
-      "overview": "Naofumi est projeté dans un monde proche en tout lieu d'un jeu de rôle d'heroic fantasy. Mais alors que d'autres héros ont été dotés d'armes offensives redoutables, Naofumi hérite d'un bouclier aux capacités limitées pour progresser dans ce jeu où le danger peut surgir à chaque instant. Trahi par sa partenaire et vilipendé par la population, le jeune homme ne peut désormais compter que sur lui-même pour survivre dans cet univers hostile... et peut-être sur une jeune fille désœuvrée aux ressources insoupçonnées.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y4N1MW2LjaO4l5dXCvnJvVWL345.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ygJ9BOiLwExwFdxQeZiiUA6TqME.jpg",
-      "genres": [
-        16,
-        10759,
-        10765,
-        18
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2019-01-09"
-    },
-    {
       "id": 30991,
       "name": "Cowboy Bebop",
       "overview": "2071. Suite à un accident survenu sur la Lune, la vie sur la planète Terre est devenue impossible. Les Humains ont dû partir, coloniser d'autres planètes. Cet exode a créé un chaos dans tout l'univers, laissant une totale liberté aux criminels les plus dangereux. Un vrai terrain de jeu pour les chasseurs de primes. Parmi cette clique : le Bebop, un vaisseau spatial abritant Spike Spiegel et Jet...",
@@ -2082,20 +2067,6 @@
       "firstAirDate": "1998-04-03"
     },
     {
-      "id": 15260,
-      "name": "Adventure Time",
-      "overview": "Pétri de fierté et de moralité, le jeune Finn rêve d'un destin héroïque sur la terre de Ooo. Au cours de ses aventures, le jeune garçon, inséparable de Jake, son fidèle compagnon à quatre pattes doté de pouvoirs, croise la route d'une multitude de personnages, comme Marceline, la reine vampire âgée de 1003 ans, la princesse Chewing-Gum, qui règne sur le royaume de la Confiserie, le machiavélique roi des Glaces, le comte de la Citronelle ou encore Miss Rainicorne.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
-      "genres": [
-        16,
-        35,
-        10765
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2010-04-05"
-    },
-    {
       "id": 114410,
       "name": "Chainsaw Man",
       "overview": "Denji est un adolescent qui vit avec son chien-démon-tronçonneuse, Pochita. À cause d’une énorme dette que son père a laissée derrière lui, le garçon se retrouve dans la misère la plus totale, cherchant avec Pochita à rembourser l’argent en récoltant des cadavres de démons pour le compte d’une organisation.\n\nUn jour, Denji est trahi et tué. Encore conscient, il passe un contrat avec Pochita et renaît sous le nom de Chainsaw Man, un homme au cœur de démon…",
@@ -2109,6 +2080,35 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2022-10-12"
+    },
+    {
+      "id": 30981,
+      "name": "Monster",
+      "overview": "Kenzo Tenma est un médecin japonais travaillant en Allemagne. En 1986, il décide de sauver la vie d'un jeune garçon, désobéissant ainsi aux ordres de son directeur qui lui demandait de sauver en priorité celle du maire de la ville. Quelques jours plus tard, le directeur et deux autres responsables de l'hôpital sont empoisonnés. \n\nNeuf ans sont passées, en 1995, un événement similaire se produit et oblige Tenma à fuir. Sa fuite et sa quête de justice vont l'amener à découvrir une horrible vérité. Le jeune garçon qu'il avait sauvé dix plus tôt est en fait un véritable monstre : un être brillant, beau, mais avant tout un terrifiant tueur... \n\n",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+      "genres": [
+        16,
+        18,
+        9648,
+        80
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2004-04-07"
+    },
+    {
+      "id": 15260,
+      "name": "Adventure Time",
+      "overview": "Pétri de fierté et de moralité, le jeune Finn rêve d'un destin héroïque sur la terre de Ooo. Au cours de ses aventures, le jeune garçon, inséparable de Jake, son fidèle compagnon à quatre pattes doté de pouvoirs, croise la route d'une multitude de personnages, comme Marceline, la reine vampire âgée de 1003 ans, la princesse Chewing-Gum, qui règne sur le royaume de la Confiserie, le machiavélique roi des Glaces, le comte de la Citronelle ou encore Miss Rainicorne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
+      "genres": [
+        16,
+        35,
+        10765
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2010-04-05"
     },
     {
       "id": 230923,
@@ -2232,19 +2232,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2020-11-29"
-    },
-    {
-      "id": 246621,
-      "name": "Mehmed: Fetihler Sultanı",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/A8fHgHmcEQU1UcOcXhW3NXtwwcZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/bJxf4Y8UKOBsWoE3gB6N0hfB04G.jpg",
-      "genres": [
-        10768,
-        18
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2024-02-27"
     },
     {
       "id": 67075,
@@ -2666,6 +2653,18 @@
       "firstAirDate": "2021-04-23"
     },
     {
+      "id": 259702,
+      "name": "La Maison aux Esprits",
+      "overview": "La Maison aux Esprits est une magnifique saga familiale qui raconte l’histoire épique d’une famille fière et passionnée, d’amours secrets et de révolution sanglante. Les passions, les luttes et les secrets de la famille Trueba s’étendent sur un siècle de bouleversements sociaux violents, culminant en une crise qui projette le patriarche fier et tyrannique et sa petite-fille bien-aimée dans des camps opposés.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cmcyjStlNANdFzqb6pXEo4wNlHs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/kt87GDnUHXU8F4EHmiafVRAMmak.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.4,
+      "firstAirDate": "2026-04-29"
+    },
+    {
       "id": 82684,
       "name": "Moi, quand je me réincarne en Slime",
       "overview": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand Sage », grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées...",
@@ -2801,6 +2800,19 @@
       ],
       "voteAverage": 8.304,
       "firstAirDate": "2009-09-10"
+    },
+    {
+      "id": 96316,
+      "name": "Rent-a-Girlfriend",
+      "overview": "Kazuya Kinoshita est un étudiant de 20 ans qui a échoué dans ses études. Il a toutefois réussi à embrasser sa petite amie une fois, mais elle l'a largué au bout d'un mois ! Ne voulant plus jamais revivre une telle situation, il part en quête d'une nouvelle copine en s'aidant d'une application spéciale permettant de louer une petite amie. C'est ainsi qu'il fait la connaissance de Chizuru Mizuhara qu'il trouve tout à fait à son goût. Mais la suite ne se déroule pas comme prévu et Kazuya s'embarque dans une situation plutôt gênante...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/awUOcWMgjHcKwhVzz5xbZBaXEfo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/yozfbzwLhGe81YKTDoNDRdJrIuC.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 8.3,
+      "firstAirDate": "2020-07-11"
     },
     {
       "id": 4057,
@@ -3132,22 +3144,6 @@
       "firstAirDate": "2022-10-03"
     },
     {
-      "id": 194916,
-      "name": "ちいかわ",
-      "overview": "La vie quotidienne, tantôt joyeuse, tantôt triste et un brin stressante, d'une petite créature adorable nommée Chiikawa. Chiikawa savoure de délicieux repas en compagnie d'abeilles et de lapins, travaille dur chaque jour pour récolter les fruits de son labeur, et garde toujours le sourire.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/knJg7Uyhg66GPHfGRwadD2r2uew.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qZXhYuCZR6lkspbu400oWwh6uCs.jpg",
-      "genres": [
-        16,
-        35,
-        10751,
-        10762,
-        10765
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2022-04-04"
-    },
-    {
       "id": 289996,
       "name": "Três Graças",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3159,18 +3155,6 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2025-10-20"
-    },
-    {
-      "id": 4556,
-      "name": "Scrubs",
-      "overview": "Scrubs est une série centrée sur la vie du personnel de l'hôpital du Sacré-Cœur et particulièrement sur celle de John Dorian, alias « J.D. ». Au début de la série, J.D. est un jeune interne qui entre à l'hôpital, tout comme son meilleur ami et colocataire, l'apprenti-chirurgien Christopher Turk. Ils sont accompagnés dans leurs premiers pas par leur camarade Elliot Reid, jeune femme brillante mais névrosée au charme de laquelle J.D. n'est pas insensible, et par Carla Espinosa, infirmière au caractère bien trempé qui ne laisse pas Turk indifférent.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rRKTV46DKVP8AfdCQDyQMAtJeCl.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.195,
-      "firstAirDate": "2001-10-02"
     },
     {
       "id": 124364,
@@ -3250,7 +3234,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.149,
+      "voteAverage": 8.158,
       "firstAirDate": "2026-04-06"
     },
     {
@@ -3448,19 +3432,6 @@
       "firstAirDate": "2020-12-25"
     },
     {
-      "id": 213326,
-      "name": "The Most Heretical Last Boss Queen",
-      "overview": "Impitoyable despote ayant commis d’innommables crimes et antagoniste du jeu de romance « Vers la lumière avec toi », Pride Royal Ivy est la princesse du royaume de Freesia. À l’aube de ses huit ans, la jeune fille recouvre la mémoire de sa vie passée et de la fan inconditionnelle de cet “otome game”. Déterminée à échapper au funeste destin qui l’attend, Pride se promet de redorer son image auprès de ses concitoyens en mettant à profit ses souvenirs passés.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jbxYoxP2CB0X8OAnzydOFDObebq.jpg",
-      "genres": [
-        16,
-        10765
-      ],
-      "voteAverage": 8.058,
-      "firstAirDate": "2023-07-07"
-    },
-    {
       "id": 71790,
       "name": "S.W.A.T.",
       "overview": "Un lieutenant du S.W.A.T est tiraillé entre sa loyauté envers ses origines modestes, dont ses amis de la rue avec qui il a grandi et qui n'ont pas aussi bien tourné que lui, et son devoir envers ses co-équipiers. Une dualité qui finit par prendre tout son sens lorsqu'il se voit chargé d'organiser une unité hautement qualifiée pour résoudre les crimes à Los Angeles.",
@@ -3568,6 +3539,19 @@
       "firstAirDate": "2018-09-09"
     },
     {
+      "id": 306215,
+      "name": "Sevdiğim Sensin",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jlIKAoJNn5lLF2vXMcWSEMkOAnN.jpg",
+      "genres": [
+        10751,
+        18
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2026-02-12"
+    },
+    {
       "id": 30983,
       "name": "Détective Conan",
       "overview": "Shinichi Kudo est un jeune lycéen de renom au Japon. Grâce à sa perspicacité et son intelligence, il est souvent amené à résoudre des affaires criminelles pour la police. Un jour, dans un parc d’attraction, il est témoin d’une étrange affaire qu'il voudra élucider : malgré son expérience et sa vigilance habituelle, Shinichi est enlevé par les membres d’une mystérieuse organisation, \"les hommes en noir\". Ces derniers lui font alors avaler une étrange pilule. Shinichi s'évanoui pour se réveiller dans le corps d'un enfant de 7 ans...",
@@ -3583,19 +3567,6 @@
       "firstAirDate": "1996-01-08"
     },
     {
-      "id": 306215,
-      "name": "Sevdiğim Sensin",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jlIKAoJNn5lLF2vXMcWSEMkOAnN.jpg",
-      "genres": [
-        10751,
-        18
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2026-02-12"
-    },
-    {
       "id": 91555,
       "name": "All Elite Wrestling: Dynamite",
       "overview": "All Elite Wrestling (AEW) est une fédération de catch américaine basée à Jacksonville en Floride. La compagnie a été fondée par l’entrepreneur et dirigeant de football américain Tony Khan. Les lutteurs professionnels Cody Rhodes, ainsi que Matt et Nick Jackson, membre connus sous le nom de The Elite, sont les premiers talents sous contrat avec la compagnie en tant que lutteur. Ils sont aussi les vice-présidents exécutifs.",
@@ -3607,19 +3578,6 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "2019-10-02"
-    },
-    {
-      "id": 245318,
-      "name": "Margo a des problèmes d'argent",
-      "overview": "Fille d'une ancienne serveuse chez Hooters et d'un ex-catcheur pro, Margo, écrivaine en herbe, vient d'arrêter ses études. Face à l'arrivée d'un bébé et d'une pile de factures grandissante qu'elle ne peut payer, Margo doit trouver une solution pour s'en sortir.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vnxkopX2BRNlUbE5xtb6S62eSN6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/5O9CNnYuH1U0L3ym7q7q93eH99u.jpg",
-      "genres": [
-        18,
-        35
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2026-04-14"
     },
     {
       "id": 60761,
@@ -3697,6 +3655,19 @@
       ],
       "voteAverage": 7.953,
       "firstAirDate": "2004-09-22"
+    },
+    {
+      "id": 245318,
+      "name": "Margo a des problèmes d'argent",
+      "overview": "Fille d'une ancienne serveuse chez Hooters et d'un ex-catcheur pro, Margo, écrivaine en herbe, vient d'arrêter ses études. Face à l'arrivée d'un bébé et d'une pile de factures grandissante qu'elle ne peut payer, Margo doit trouver une solution pour s'en sortir.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vnxkopX2BRNlUbE5xtb6S62eSN6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/5O9CNnYuH1U0L3ym7q7q93eH99u.jpg",
+      "genres": [
+        18,
+        35
+      ],
+      "voteAverage": 7.952,
+      "firstAirDate": "2026-04-14"
     },
     {
       "id": 285838,
@@ -3889,7 +3860,7 @@
         35,
         10763
       ],
-      "voteAverage": 7.814,
+      "voteAverage": 7.805,
       "firstAirDate": "2014-04-27"
     },
     {
@@ -4358,6 +4329,31 @@
       ],
       "voteAverage": 7.506,
       "firstAirDate": "1962-10-01"
+    },
+    {
+      "id": 70672,
+      "name": "Knowing Brothers",
+      "overview": "Durant l'émission l'invité(e) fait un questionnaire sur lui et pose les questions une par une et les présentateurs doivent avoir le plus de bonnes réponses. S'ils se trompent, ils sont punis. Le concept de l'émission est que les présentateurs soient dans un lycée et que chaque invité soit un \"nouvel\" élève transféré.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+      "genres": [
+        10764,
+        35
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "2015-12-05"
+    },
+    {
+      "id": 65282,
+      "name": "나 혼자 산다",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "2013-03-22"
     }
   ]
 }
