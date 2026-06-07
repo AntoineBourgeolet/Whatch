@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T18:30:01.225Z",
+  "updatedAt": "2026-06-07T00:52:39.546Z",
   "results": [
     {
       "id": 281233,
@@ -57,16 +57,18 @@
       "firstAirDate": "2011-01-23"
     },
     {
-      "id": 278158,
-      "name": "เด็กชายไม่ไปสวรรค์",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rfHDnKXwuxhxup2n2gVZA4BrvMM.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/AqAGgoAlvWGBVAlEvIXTvcETzVG.jpg",
+      "id": 196950,
+      "name": "L'Atelier des Sorciers",
+      "overview": "Coco a toujours été fascinée par la magie, mais seuls les sorciers la pratiquent à l'abri des regards. Un jour, lorsqu’un sorcier nommé Kieffrey arrive dans son village, Coco découvre le secret absolu de la magie, mais commet également un acte irréparable. Elle devient alors l’apprentie de Kieffrey qui l’emmène dans un monde dont elle ne soupçonnait pas l’existence…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dH1ZLuGubotqtQbRSCSvYswb3HP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
       "genres": [
-        18
+        16,
+        18,
+        10765
       ],
-      "voteAverage": 9.3,
-      "firstAirDate": "2026-05-30"
+      "voteAverage": 9.257,
+      "firstAirDate": "2026-04-06"
     },
     {
       "id": 299167,
@@ -78,7 +80,7 @@
         37,
         18
       ],
-      "voteAverage": 9.266,
+      "voteAverage": 9.251,
       "firstAirDate": "2026-05-15"
     },
     {
@@ -93,20 +95,6 @@
       ],
       "voteAverage": 9.2,
       "firstAirDate": "2023-06-22"
-    },
-    {
-      "id": 196950,
-      "name": "L'Atelier des Sorciers",
-      "overview": "Coco a toujours été fascinée par la magie, mais seuls les sorciers la pratiquent à l'abri des regards. Un jour, lorsqu’un sorcier nommé Kieffrey arrive dans son village, Coco découvre le secret absolu de la magie, mais commet également un acte irréparable. Elle devient alors l’apprentie de Kieffrey qui l’emmène dans un monde dont elle ne soupçonnait pas l’existence…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dH1ZLuGubotqtQbRSCSvYswb3HP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-      "genres": [
-        16,
-        18,
-        10765
-      ],
-      "voteAverage": 9.2,
-      "firstAirDate": "2026-04-06"
     },
     {
       "id": 259837,
@@ -132,7 +120,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 9.006,
+      "voteAverage": 9.001,
       "firstAirDate": "2026-05-13"
     },
     {
@@ -229,20 +217,6 @@
       "firstAirDate": "2026-04-04"
     },
     {
-      "id": 260463,
-      "name": "Tsugai - Daemons of the Shadow Realm",
-      "overview": "Yuru, le chasseur, vit séparé de sa sœur jumelle Asa, enfermée dans une prison pour satisfaire un rituel. Tous deux ignorent la vérité sur leur naissance et lorsque leur paisible village est attaqué par de mystérieux ennemis, Yuru découvre qu’il peut commander un puissant duo de créatures appelé “Tsugai”.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.9,
-      "firstAirDate": "2026-04-04"
-    },
-    {
       "id": 300131,
       "name": "KILL BLUE",
       "overview": "Juzo Ogami, tueur à gages légendaire, n’a jamais échoué dans une mission. Mais après l’une d’elles, il se fait piquer par une mystérieuse guêpe et se réveille dans le corps d’un garçon de 13 ans. Et pour rendre les choses encore plus étranges, il reçoit un nouvel ordre pour le moins bizarre : infiltrer un collège. Désormais, l'assassin autrefois redouté doit jongler entre le chaos de la vie scolaire et son travail meurtrier, tout en cherchant un moyen de retrouver son corps d'adulte.",
@@ -255,6 +229,20 @@
       ],
       "voteAverage": 8.9,
       "firstAirDate": "2026-04-11"
+    },
+    {
+      "id": 260463,
+      "name": "Tsugai - Daemons of the Shadow Realm",
+      "overview": "Yuru, le chasseur, vit séparé de sa sœur jumelle Asa, enfermée dans une prison pour satisfaire un rituel. Tous deux ignorent la vérité sur leur naissance et lorsque leur paisible village est attaqué par de mystérieux ennemis, Yuru découvre qu’il peut commander un puissant duo de créatures appelé “Tsugai”.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mNqW2jnAogZa0nJ94q1LUum8Hos.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.838,
+      "firstAirDate": "2026-04-04"
     },
     {
       "id": 209867,
@@ -352,6 +340,20 @@
       "firstAirDate": "2005-02-21"
     },
     {
+      "id": 37854,
+      "name": "One Piece",
+      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
+      "genres": [
+        10759,
+        35,
+        16
+      ],
+      "voteAverage": 8.737,
+      "firstAirDate": "1999-10-20"
+    },
+    {
       "id": 85077,
       "name": "The Chosen",
       "overview": "Un pêcheur charismatique aux prises avec des dettes. Une femme troublée aux prises avec ses démons. Un comptable doué, mis au ban de sa famille et de son peuple. Voyez comment Jésus atteint chacun d'entre eux et bien plus encore, alors qu'il accomplit ses premiers miracles et se lance dans son ministère pour changer le monde. Découvrez-le à travers les yeux de ceux qui l'ont connu.",
@@ -390,18 +392,16 @@
       "firstAirDate": "2019-05-06"
     },
     {
-      "id": 220102,
-      "name": "Spider-Noir",
-      "overview": "Ben Reilly, détective privé, est engagé pour enquêter sur ce qui semble être de banales affaires... jusqu'à ce que des gangsters, des monstres et une mystérieuse femme fatale tissent une toile qui va le confronter à son ancienne vie de seul et unique super-héros de New York : L'Araignée.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+      "id": 301507,
+      "name": "Heated Rivalry",
+      "overview": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
       "genres": [
-        80,
-        18,
-        9648
+        18
       ],
-      "voteAverage": 8.711,
-      "firstAirDate": "2026-05-25"
+      "voteAverage": 8.712,
+      "firstAirDate": "2025-11-28"
     },
     {
       "id": 31911,
@@ -417,18 +417,6 @@
       ],
       "voteAverage": 8.71,
       "firstAirDate": "2009-04-05"
-    },
-    {
-      "id": 301507,
-      "name": "Heated Rivalry",
-      "overview": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.71,
-      "firstAirDate": "2025-11-28"
     },
     {
       "id": 60059,
@@ -467,20 +455,6 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2025-01-09"
-    },
-    {
-      "id": 37854,
-      "name": "One Piece",
-      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
-      "genres": [
-        10759,
-        35,
-        16
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "1999-10-20"
     },
     {
       "id": 271607,
@@ -574,6 +548,20 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2023-01-29"
+    },
+    {
+      "id": 220102,
+      "name": "Spider-Noir",
+      "overview": "Ben Reilly, détective privé, est engagé pour enquêter sur ce qui semble être de banales affaires... jusqu'à ce que des gangsters, des monstres et une mystérieuse femme fatale tissent une toile qui va le confronter à son ancienne vie de seul et unique super-héros de New York : L'Araignée.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/reAZlLG6YMkBuxPT1XKuCH97TM1.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.692,
+      "firstAirDate": "2026-05-25"
     },
     {
       "id": 290019,
@@ -794,7 +782,7 @@
         10751,
         10766
       ],
-      "voteAverage": 8.633,
+      "voteAverage": 8.634,
       "firstAirDate": "2017-06-19"
     },
     {
@@ -808,7 +796,7 @@
         10765,
         10762
       ],
-      "voteAverage": 8.632,
+      "voteAverage": 8.633,
       "firstAirDate": "2007-10-12"
     },
     {
@@ -824,6 +812,19 @@
       ],
       "voteAverage": 8.628,
       "firstAirDate": "2012-10-02"
+    },
+    {
+      "id": 1438,
+      "name": "Sur écoute",
+      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.628,
+      "firstAirDate": "2002-06-02"
     },
     {
       "id": 74313,
@@ -965,18 +966,6 @@
       "firstAirDate": "2015-09-14"
     },
     {
-      "id": 1408,
-      "name": "Dr House",
-      "overview": "Le docteur Gregory House est un brillant médecin à tendance misanthrope, qui dirige une équipe d'internistes au sein de l'hôpital fictif de Princeton-Plainsboro dans le New Jersey. House est un personnage arrogant, cynique, anticonformiste et asocial. Il souffre d'une claudication provenant d'une douleur chronique à la jambe droite due à un infarctus du muscle de la cuisse. Il marche avec une canne et abuse de Vicodin, un analgésique opiacé, pour soulager sa douleur.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2Bw00vWztWFeTFpWTuPbUMkyDCA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2004-11-16"
-    },
-    {
       "id": 31132,
       "name": "Regular Show",
       "overview": "La série se focalise sur deux compères, un geai bleu nommé Mordecai et un raton-laveur nommé Rigby, tous deux employés dans un parc. Leurs tentatives pour s'amuser plutôt que de travailler les entraînent dans des mésaventures souvent surréalistes…",
@@ -990,19 +979,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2010-09-06"
-    },
-    {
-      "id": 1438,
-      "name": "Sur écoute",
-      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/layPSOJGckJv3PXZDIVluMq69mn.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2002-06-02"
     },
     {
       "id": 60863,
@@ -1118,34 +1094,6 @@
       "firstAirDate": "2021-03-22"
     },
     {
-      "id": 94954,
-      "name": "Hazbin Hotel",
-      "overview": "Charlie Morningstar, la Princesse de l'Enfer, lutte pour convaincre les démons et les anges que n'importe quelle âme peut être rachetée. Venez chanter devant cette comédie musicale animée pour adultes sur la rédemption.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/d8j99fkmRnQzfygdsOX0sQYexmY.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
-      "genres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2024-01-18"
-    },
-    {
-      "id": 31356,
-      "name": "Big Time Rush",
-      "overview": "Le destin de quatre amis d’enfance bascule du jour au lendemain quand ils quittent leur petite ville du Minnesota pour Los Angeles. Les garçons Kendall Knight, James Diamond, Carlos Garcia, et Logan Mitchell forment le groupe Big Time Rush qui devient très vite le nouveau groupe pop à la mode aux États-Unis et bientôt dans le monde entier !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/34y5JjZYj2paoxA0RXEppU5LRpb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/v8NIhg212wWoW4wb3Psqvjzbwfr.jpg",
-      "genres": [
-        35,
-        10762
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2009-11-28"
-    },
-    {
       "id": 80564,
       "name": "Banana Fish",
       "overview": "New York. Ash Lynx est un garçon d’une beauté exceptionnelle, ultra-fort au combat. A 17 ans, il est déjà chef de bande. Une nuit, un homme abattu par son subordonné lui transmet le mot \"Banana Fish\" et une adresse. C’est un mot que Griffin, le frère aîné d’Ash, infirme, a souvent mentionné. Au même moment, Ash rencontre d’Eiji Okumura, un garçon japonais venu en tant qu’assistant photographe.",
@@ -1160,6 +1108,20 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2018-07-06"
+    },
+    {
+      "id": 61663,
+      "name": "Your Lie in April",
+      "overview": "Kôsei Arima était un pianiste de génie jusqu’à ce que la mort subite de sa mère le prive de sa capacité à jouer. Chaque jour est alors une peine pour le jeune homme. Mais un jour, il rencontre une violoniste prénommée Kaori Miyazono. Il est immédiatement fasciné par son jeu excentrique et son côté insouciant, indépendant, et parfois colérique. Sa vie monotone s’apprête à changer pour toujours. Cette série a gagné le 37e Kodansha Manga Award ! Venez vivre une histoire empreinte de jeunesse, de musique et de romance !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xswPti7YWJfvqFf52P5VAN1QMuJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
+      "genres": [
+        16,
+        35,
+        18
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2014-10-10"
     },
     {
       "id": 2192,
@@ -1233,6 +1195,19 @@
       "firstAirDate": "2013-04-09"
     },
     {
+      "id": 4613,
+      "name": "Frères d'armes",
+      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.591,
+      "firstAirDate": "2001-09-09"
+    },
+    {
       "id": 220542,
       "name": "Les Carnets de l'apothicaire",
       "overview": "Formée dès son plus jeune âge par son père apothicaire, Mao Mao est un jour vendue comme servante au palais de l'empereur. Prisonnière dans les arcanes du pouvoir, elle attire l’attention de Jinshi, un séduisant haut fonctionnaire qui la promeut lorsqu’il découvre son talent pour confectionner des potions. Désormais goûteuse, Mao Mao met ses connaissances au service des gens du palais pour les soigner, mais aussi pour déjouer les mystères et les complots qui se trament...",
@@ -1260,19 +1235,6 @@
       ],
       "voteAverage": 8.59,
       "firstAirDate": "1999-09-04"
-    },
-    {
-      "id": 4613,
-      "name": "Frères d'armes",
-      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
-      "genres": [
-        18,
-        10768
-      ],
-      "voteAverage": 8.59,
-      "firstAirDate": "2001-09-09"
     },
     {
       "id": 2316,
@@ -1370,6 +1332,34 @@
       "firstAirDate": "2000-10-16"
     },
     {
+      "id": 31356,
+      "name": "Big Time Rush",
+      "overview": "Le destin de quatre amis d’enfance bascule du jour au lendemain quand ils quittent leur petite ville du Minnesota pour Los Angeles. Les garçons Kendall Knight, James Diamond, Carlos Garcia, et Logan Mitchell forment le groupe Big Time Rush qui devient très vite le nouveau groupe pop à la mode aux États-Unis et bientôt dans le monde entier !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/34y5JjZYj2paoxA0RXEppU5LRpb.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/v8NIhg212wWoW4wb3Psqvjzbwfr.jpg",
+      "genres": [
+        35,
+        10762
+      ],
+      "voteAverage": 8.573,
+      "firstAirDate": "2009-11-28"
+    },
+    {
+      "id": 94954,
+      "name": "Hazbin Hotel",
+      "overview": "Charlie Morningstar, la Princesse de l'Enfer, lutte pour convaincre les démons et les anges que n'importe quelle âme peut être rachetée. Venez chanter devant cette comédie musicale animée pour adultes sur la rédemption.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d8j99fkmRnQzfygdsOX0sQYexmY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
+      "genres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "voteAverage": 8.571,
+      "firstAirDate": "2024-01-18"
+    },
+    {
       "id": 36189,
       "name": "Boris",
       "overview": "L’intrigue de « Boris » se déroule dans les coulisses d’une série italienne à petit budget intitulée « Gli occhi del cuore » (« Les Yeux du cœur »).",
@@ -1396,6 +1386,19 @@
       "firstAirDate": "1995-10-04"
     },
     {
+      "id": 97186,
+      "name": "Love, Victor",
+      "overview": "Victor, un lycéen qui vient d'intégrer le lycée Creekwood, cache un secret : il est gay. En plein questionnement, il décide de se tourner vers Simon en espérant que ce dernier, qui a vécu les mêmes angoisses que lui auparavant, parviendra à l'aider à naviguer les eaux troubles de l'adolescence.\n\nReboot/Suite du film Love, Simon.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pcT1vivabBnBk0tZgVBO1I8aK75.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/s77W7avppGDWFL6ZZs813jQ6we6.jpg",
+      "genres": [
+        35,
+        18
+      ],
+      "voteAverage": 8.569,
+      "firstAirDate": "2020-06-17"
+    },
+    {
       "id": 61617,
       "name": "La Forêt de l'étrange",
       "overview": "C'est l'histoire de deux frères, Greg et Wirt, qui se retrouvent perdus, à la dérive du temps dans une étrange forêt appelée l'Inconnu. Espérant trouver le chemin du retour, Wirt et Greg sont forcés d'errer dans ce lieu étrange, aidés par un ancien bûcheron sage et Béatrice, un petit oiseau bleu.",
@@ -1412,17 +1415,16 @@
       "firstAirDate": "2014-11-03"
     },
     {
-      "id": 97186,
-      "name": "Love, Victor",
-      "overview": "Victor, un lycéen qui vient d'intégrer le lycée Creekwood, cache un secret : il est gay. En plein questionnement, il décide de se tourner vers Simon en espérant que ce dernier, qui a vécu les mêmes angoisses que lui auparavant, parviendra à l'aider à naviguer les eaux troubles de l'adolescence.\n\nReboot/Suite du film Love, Simon.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pcT1vivabBnBk0tZgVBO1I8aK75.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/s77W7avppGDWFL6ZZs813jQ6we6.jpg",
+      "id": 1408,
+      "name": "Dr House",
+      "overview": "Le docteur Gregory House est un brillant médecin à tendance misanthrope, qui dirige une équipe d'internistes au sein de l'hôpital fictif de Princeton-Plainsboro dans le New Jersey. House est un personnage arrogant, cynique, anticonformiste et asocial. Il souffre d'une claudication provenant d'une douleur chronique à la jambe droite due à un infarctus du muscle de la cuisse. Il marche avec une canne et abuse de Vicodin, un analgésique opiacé, pour soulager sa douleur.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2Bw00vWztWFeTFpWTuPbUMkyDCA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
       "genres": [
-        35,
         18
       ],
-      "voteAverage": 8.569,
-      "firstAirDate": "2020-06-17"
+      "voteAverage": 8.568,
+      "firstAirDate": "2004-11-16"
     },
     {
       "id": 95479,
@@ -1451,20 +1453,6 @@
       ],
       "voteAverage": 8.566,
       "firstAirDate": "2016-07-15"
-    },
-    {
-      "id": 61663,
-      "name": "Your Lie in April",
-      "overview": "Kôsei Arima était un pianiste de génie jusqu’à ce que la mort subite de sa mère le prive de sa capacité à jouer. Chaque jour est alors une peine pour le jeune homme. Mais un jour, il rencontre une violoniste prénommée Kaori Miyazono. Il est immédiatement fasciné par son jeu excentrique et son côté insouciant, indépendant, et parfois colérique. Sa vie monotone s’apprête à changer pour toujours. Cette série a gagné le 37e Kodansha Manga Award ! Venez vivre une histoire empreinte de jeunesse, de musique et de romance !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xswPti7YWJfvqFf52P5VAN1QMuJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/x6jWDL4H9TaBLGEvyej0qKiirBU.jpg",
-      "genres": [
-        16,
-        35,
-        18
-      ],
-      "voteAverage": 8.565,
-      "firstAirDate": "2014-10-10"
     },
     {
       "id": 135157,
@@ -1552,6 +1540,19 @@
       "firstAirDate": "2016-01-14"
     },
     {
+      "id": 259666,
+      "name": "Nadie nos va a extrañar",
+      "overview": "Dans le Mexique des années 1990, avant la crise économique, cinq losers sont à la tête d'un commerce illégal dans leur lycée. La vente de devoirs à leurs camarades de classe leur apporte argent et popularité, mais les hormones et une mort inattendue risquent de tout saboter...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
+      "genres": [
+        18,
+        35
+      ],
+      "voteAverage": 8.554,
+      "firstAirDate": "2024-08-09"
+    },
+    {
       "id": 9302,
       "name": "Digimon : Tamers",
       "overview": "Le destin de Takato Matsuda, Ruki Matsuno, et Lee Jenrya est bouleversé lorsqu'ils font la rencontre de \"Digimon\" réel, issu du jeu de carte auquel ils jouent. Chacun des enfants, appelés aussi, \"Digimon Tamers\", ont des opinions très différents sur la façon dont les 'digimons\" doivent être traités...",
@@ -1566,19 +1567,6 @@
       "firstAirDate": "2001-04-01"
     },
     {
-      "id": 259666,
-      "name": "Nadie nos va a extrañar",
-      "overview": "Dans le Mexique des années 1990, avant la crise économique, cinq losers sont à la tête d'un commerce illégal dans leur lycée. La vente de devoirs à leurs camarades de classe leur apporte argent et popularité, mais les hormones et une mort inattendue risquent de tout saboter...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jmV6NIzZxGzRoljFPwao6sh4Nny.jpg",
-      "genres": [
-        18,
-        35
-      ],
-      "voteAverage": 8.549,
-      "firstAirDate": "2024-08-09"
-    },
-    {
       "id": 79744,
       "name": "The Rookie : Le Flic de Los Angeles",
       "overview": "John Nolan, le rookie le plus âgé du LAPD, utilise son expérience de vie, sa détermination et son sens de l’humour pour suivre des recrues âgées de 20 ans de moins que lui.",
@@ -1591,21 +1579,6 @@
       ],
       "voteAverage": 8.546,
       "firstAirDate": "2018-10-16"
-    },
-    {
-      "id": 32118,
-      "name": "Generator Rex",
-      "overview": "Une explosion massive a libéré une quantité démesurée de nanites, mystérieux nanorobots, dans l'atmosphère, infectant progressivement la totalité des êtres vivants sur la planète. Ces nanites peuvent s'activer dans le corps de leurs hôtes, transformant ces derniers en monstres. Afin de lutter contre cette menace, une organisation du nom de Providence a été fondée. Rex, contrôlant parfaitement ses nanites, y produit diverses armes et équipements bio-mécaniques, et possède la faculté de désactiver les nanites à l'intérieur du corps des autres, les soignant ainsi de leur mutation.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jXiKtz7PPWOI4zKl5CdtrKyLUh8.jpg",
-      "genres": [
-        16,
-        10759,
-        10762,
-        10765
-      ],
-      "voteAverage": 8.544,
-      "firstAirDate": "2010-04-23"
     },
     {
       "id": 240411,
@@ -1623,18 +1596,19 @@
       "firstAirDate": "2024-10-04"
     },
     {
-      "id": 61222,
-      "name": "BoJack Horseman",
-      "overview": "Retrouvez le cheval le plus adulé des années 1990, 20 ans plus tard. Il a beau avoir un caractère de cochon, au fond, c'est quand même un chouette type.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
+      "id": 32118,
+      "name": "Generator Rex",
+      "overview": "Une explosion massive a libéré une quantité démesurée de nanites, mystérieux nanorobots, dans l'atmosphère, infectant progressivement la totalité des êtres vivants sur la planète. Ces nanites peuvent s'activer dans le corps de leurs hôtes, transformant ces derniers en monstres. Afin de lutter contre cette menace, une organisation du nom de Providence a été fondée. Rex, contrôlant parfaitement ses nanites, y produit diverses armes et équipements bio-mécaniques, et possède la faculté de désactiver les nanites à l'intérieur du corps des autres, les soignant ainsi de leur mutation.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jXiKtz7PPWOI4zKl5CdtrKyLUh8.jpg",
       "genres": [
         16,
-        35,
-        18
+        10759,
+        10762,
+        10765
       ],
-      "voteAverage": 8.539,
-      "firstAirDate": "2014-08-22"
+      "voteAverage": 8.544,
+      "firstAirDate": "2010-04-23"
     },
     {
       "id": 83121,
@@ -1705,6 +1679,20 @@
       ],
       "voteAverage": 8.536,
       "firstAirDate": "2019-12-14"
+    },
+    {
+      "id": 31910,
+      "name": "Naruto Shippuden",
+      "overview": "Cela fait désormais trois ans que Naruto est parti de Konoha en entraînement spécial avec le Sannin légendaire Jiraya, avec toujours en tête son fol espoir de retrouver son ami Sasuke et de le ramener parmi les siens au village. Cette suite des aventures du ninja à la tignasse dorée reprend avec son retour dans le village de Konoha, marquées par diverses retrouvailles avec ses amis de toujours et le danger imminent que représente l'organisation Akatsuki à son encontre... ",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qOxedwaJzdms2alAmIEHEnDeDzg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.535,
+      "firstAirDate": "2007-02-15"
     },
     {
       "id": 28136,
@@ -1915,6 +1903,19 @@
       "firstAirDate": "2019-11-01"
     },
     {
+      "id": 83880,
+      "name": "Notre planète",
+      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+      "genres": [
+        99,
+        10751
+      ],
+      "voteAverage": 8.511,
+      "firstAirDate": "2019-04-05"
+    },
+    {
       "id": 76121,
       "name": "Darling in The FranXX",
       "overview": "Dans un lointain futur, la Terre est en ruine et l’humanité s’est retranchée dans une ville fortifiée mobile, Plantation. Un quartier est dédié à la formation de jeunes pilotes qui ne connaissent rien du monde extérieur. Leur seul but dans la vie est d’apprendre à piloter des robots, les Franxx, afin d’affronter un mystérieux ennemi géant mais invisible.",
@@ -1928,19 +1929,6 @@
       ],
       "voteAverage": 8.511,
       "firstAirDate": "2018-01-13"
-    },
-    {
-      "id": 83880,
-      "name": "Notre planète",
-      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
-      "genres": [
-        99,
-        10751
-      ],
-      "voteAverage": 8.511,
-      "firstAirDate": "2019-04-05"
     },
     {
       "id": 117648,
@@ -1999,20 +1987,6 @@
       "firstAirDate": "2016-10-06"
     },
     {
-      "id": 138502,
-      "name": "X-Men '97",
-      "overview": "Un groupe de mutants s'efforce de protéger un monde qui les hait et les craint.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.506,
-      "firstAirDate": "2024-03-20"
-    },
-    {
       "id": 120089,
       "name": "SPY x FAMILY",
       "overview": "La paix entre toutes les nations du monde repose sur la mission la plus délicate que l’agent Twilight n’a jamais eu : se faire passer pour un simple père de famille. En effet, cette couverture lui permettra d’infiltrer une école de l’aristocratie afin de se rapprocher d'un politicien très important. Pour ce faire, Il a la couverture parfaite, sauf que sa femme est en réalité une redoutable tueuse à gages. Chacun ignore l'identité de l'autre, sauf leur fille adoptive qui est télépathe…",
@@ -2025,6 +1999,20 @@
       ],
       "voteAverage": 8.506,
       "firstAirDate": "2022-04-09"
+    },
+    {
+      "id": 19885,
+      "name": "Sherlock",
+      "overview": "Les aventures de Sherlock Holmes et de son acolyte de toujours, le docteur Watson, sont transposées au XXIème siècle...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nBRtABdAHf4SWSAWHelXz0H6tY9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.506,
+      "firstAirDate": "2010-07-25"
     },
     {
       "id": 15260,
@@ -2167,6 +2155,20 @@
       "firstAirDate": "2011-05-03"
     },
     {
+      "id": 61222,
+      "name": "BoJack Horseman",
+      "overview": "Retrouvez le cheval le plus adulé des années 1990, 20 ans plus tard. Il a beau avoir un caractère de cochon, au fond, c'est quand même un chouette type.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
+      "genres": [
+        16,
+        35,
+        18
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2014-08-22"
+    },
+    {
       "id": 126506,
       "name": "Smiling Friends",
       "overview": "Smiling Friends Inc. est une petite entreprise dont le but principal est d'apporter du bonheur et de faire sourire les gens. La série suit la vie quotidienne et les mésaventures de ses représentants, le paresseux et cynique Charlie, et le joyeux et optimiste Pim, alors qu'ils tentent de remonter le moral et de réconforter les personnes en difficulté qui appellent la hotline de leur entreprise. Ils reçoivent des demandes apparemment simples mais les emplois s'avèrent plus compliqués qu'il n'y paraît, ce qui rend difficile d'apporter le bonheur au monde.",
@@ -2179,20 +2181,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2020-04-01"
-    },
-    {
-      "id": 31910,
-      "name": "Naruto Shippuden",
-      "overview": "Cela fait désormais trois ans que Naruto est parti de Konoha en entraînement spécial avec le Sannin légendaire Jiraya, avec toujours en tête son fol espoir de retrouver son ami Sasuke et de le ramener parmi les siens au village. Cette suite des aventures du ninja à la tignasse dorée reprend avec son retour dans le village de Konoha, marquées par diverses retrouvailles avec ses amis de toujours et le danger imminent que représente l'organisation Akatsuki à son encontre... ",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qOxedwaJzdms2alAmIEHEnDeDzg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/z0YhJvomqedHF85bplUJEotkN5l.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2007-02-15"
     },
     {
       "id": 108291,
@@ -2208,18 +2196,18 @@
       "firstAirDate": "2021-12-18"
     },
     {
-      "id": 19885,
-      "name": "Sherlock",
-      "overview": "Les aventures de Sherlock Holmes et de son acolyte de toujours, le docteur Watson, sont transposées au XXIème siècle...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nBRtABdAHf4SWSAWHelXz0H6tY9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8rvLEmdI4gLrMO1rLqbNdnNcPFE.jpg",
+      "id": 138502,
+      "name": "X-Men '97",
+      "overview": "Un groupe de mutants s'efforce de protéger un monde qui les hait et les craint.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
       "genres": [
-        80,
-        18,
-        9648
+        16,
+        10759,
+        10765
       ],
       "voteAverage": 8.5,
-      "firstAirDate": "2010-07-25"
+      "firstAirDate": "2024-03-20"
     },
     {
       "id": 106600,
@@ -2426,18 +2414,6 @@
       "firstAirDate": "2014-03-09"
     },
     {
-      "id": 333,
-      "name": "Dae Jang Geum",
-      "overview": "\"Jewel in the Palace\" (Dae Jang Geum) est basé sur l'histoire vraie de Jang Geum, une jeune fille de la classe ouvrière de Joseon qui parvient à obtenir un emploi comme apprentie cuisinière du palais royal. Mais la jalousie d'une famille avide de pouvoir qui a longtemps dirigé la cuisine royale provoque l'exil de Jang Geum dans l'île de Jeju. Jang Geum y rencontre une femme médecin qui lui permet de revenir au palais en tant que médecin en formation. Avec dévouement et persévérance, Jang Geum surmonte d'énormes obstacles pour finalement atteindre le plus haut poste occupé par une femme médecin à la cour royale. Elle va contribuer à sauver la vie de nombreuses personnes de la famille royale, tout en aidant le jeune savant Min Jeong Ho ( Ji Jin Hee) à déjouer les complots des puissants du royaume.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wTiBK9Fj0qIXgkgYiPHZ0HoXfnh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.491,
-      "firstAirDate": "2003-09-15"
-    },
-    {
       "id": 75214,
       "name": "Violet Evergarden",
       "overview": "Après la guerre, Violet Evergarden doit trouver du travail. Meurtrie et hébétée, elle devient rédactrice de lettres pour dénouer son passé et comprendre qui elle est.",
@@ -2450,6 +2426,18 @@
       ],
       "voteAverage": 8.491,
       "firstAirDate": "2018-01-11"
+    },
+    {
+      "id": 333,
+      "name": "Dae Jang Geum",
+      "overview": "\"Jewel in the Palace\" (Dae Jang Geum) est basé sur l'histoire vraie de Jang Geum, une jeune fille de la classe ouvrière de Joseon qui parvient à obtenir un emploi comme apprentie cuisinière du palais royal. Mais la jalousie d'une famille avide de pouvoir qui a longtemps dirigé la cuisine royale provoque l'exil de Jang Geum dans l'île de Jeju. Jang Geum y rencontre une femme médecin qui lui permet de revenir au palais en tant que médecin en formation. Avec dévouement et persévérance, Jang Geum surmonte d'énormes obstacles pour finalement atteindre le plus haut poste occupé par une femme médecin à la cour royale. Elle va contribuer à sauver la vie de nombreuses personnes de la famille royale, tout en aidant le jeune savant Min Jeong Ho ( Ji Jin Hee) à déjouer les complots des puissants du royaume.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wTiBK9Fj0qIXgkgYiPHZ0HoXfnh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/oHZ9e5WlZfuHBbZZsQzfR0baxt2.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.491,
+      "firstAirDate": "2003-09-15"
     },
     {
       "id": 204154,
@@ -2494,21 +2482,6 @@
       "firstAirDate": "2023-04-02"
     },
     {
-      "id": 42444,
-      "name": "Saint Seiya - Les Chevaliers du Zodiaque",
-      "overview": "Selon la légende, des jeunes guerriers investis de grands pouvoirs étaient chargés de protéger Athéna, la Déesse de la Guerre. Des années après, c'est désormais la princesse Saori Kido, réincarnation de la Déesse, qui doit recevoir une protection. Cent jeunes orphelins sont alors envoyés à travers le monde suivre une éprouvante formation de chevaliers sacrés. Une fois ces épreuves passées, ils recoivent des armures célestes les plaçant chacun sous la protection d'une constellation. Mais, les combats ne font que commencer...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sEmJTFeaEMKcz3BmnDaIOCrlPgi.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
-      "genres": [
-        16,
-        18,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.483,
-      "firstAirDate": "1986-10-11"
-    },
-    {
       "id": 225180,
       "name": "Blue Eye Samurai",
       "overview": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
@@ -2533,6 +2506,21 @@
       ],
       "voteAverage": 8.482,
       "firstAirDate": "2022-06-29"
+    },
+    {
+      "id": 42444,
+      "name": "Saint Seiya - Les Chevaliers du Zodiaque",
+      "overview": "Selon la légende, des jeunes guerriers investis de grands pouvoirs étaient chargés de protéger Athéna, la Déesse de la Guerre. Des années après, c'est désormais la princesse Saori Kido, réincarnation de la Déesse, qui doit recevoir une protection. Cent jeunes orphelins sont alors envoyés à travers le monde suivre une éprouvante formation de chevaliers sacrés. Une fois ces épreuves passées, ils recoivent des armures célestes les plaçant chacun sous la protection d'une constellation. Mais, les combats ne font que commencer...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sEmJTFeaEMKcz3BmnDaIOCrlPgi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/sMJD1x7JH3I7tRgaPe4hoUjzZ6K.jpg",
+      "genres": [
+        16,
+        18,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.48,
+      "firstAirDate": "1986-10-11"
     },
     {
       "id": 154521,
@@ -2636,20 +2624,8 @@
         10765,
         10759
       ],
-      "voteAverage": 8.455,
+      "voteAverage": 8.454,
       "firstAirDate": "2019-07-25"
-    },
-    {
-      "id": 124146,
-      "name": "Svengoolie",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rAlUtmmXLyBTSuVewY0M7OxBbCg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/m2dodMISgohD60a80OYf9MgokNT.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.455,
-      "firstAirDate": "1995-01-07"
     },
     {
       "id": 127529,
@@ -2676,7 +2652,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.447,
+      "voteAverage": 8.448,
       "firstAirDate": "2022-02-20"
     },
     {
@@ -2721,21 +2697,6 @@
       "firstAirDate": "2021-04-23"
     },
     {
-      "id": 82684,
-      "name": "Moi, quand je me réincarne en Slime",
-      "overview": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand Sage », grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vFCKoryd6keo4iziLlRHhHuO5Wc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
-      "genres": [
-        10759,
-        16,
-        10765,
-        35
-      ],
-      "voteAverage": 8.416,
-      "firstAirDate": "2018-10-02"
-    },
-    {
       "id": 1409,
       "name": "Sons of Anarchy",
       "overview": "L'histoire se déroule à Charming, ville fictive du comté de San Joaquin en Californie. Une lutte de territoires entre dealers et trafiquants d'armes vient perturber les affaires d'un club de bikers (Motorcycle Club, ou MC en anglais). Ce club, nommé , Sons of Anarchy Motorcycle Club Redwood Original couramment abrégé en SAMCRO, fait régner l'ordre dans Charming. Clay Morrow, président de SAMCRO et patron du garage Teller-Morrow, ainsi que Jax Teller, vice-président, mènent le club.\n\nLes Sons of Anarchy sont à la fois craints par la population mais également très respectés et admirés pour leur code d’honneur et leur capacité à maintenir l’ordre et rendre justice dans les situations délicates.",
@@ -2747,6 +2708,21 @@
       ],
       "voteAverage": 8.415,
       "firstAirDate": "2008-09-03"
+    },
+    {
+      "id": 82684,
+      "name": "Moi, quand je me réincarne en Slime",
+      "overview": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand Sage », grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vFCKoryd6keo4iziLlRHhHuO5Wc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+      "genres": [
+        10759,
+        16,
+        10765,
+        35
+      ],
+      "voteAverage": 8.414,
+      "firstAirDate": "2018-10-02"
     },
     {
       "id": 82856,
@@ -2868,6 +2844,19 @@
       "firstAirDate": "2019-11-16"
     },
     {
+      "id": 297438,
+      "name": "Akane-Banashi",
+      "overview": "Depuis son enfance, Akane se passionne pour le rakugo, un art traditionnel du conte japonais où un éventail et un carré de tissu suffisent à faire naître une multitude de personnages. Marquée par l’échec de son père, injustement évincé de ce milieu par le maître incontesté de la discipline, elle se jure de reprendre son flambeau et de restaurer son honneur. Akane s’engage alors dans un parcours semé d’embûches, déterminée à se hisser parmi les meilleurs.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
+      "genres": [
+        16,
+        18
+      ],
+      "voteAverage": 8.389,
+      "firstAirDate": "2026-04-04"
+    },
+    {
       "id": 74016,
       "name": "The Resident",
       "overview": "Un jeune médecin idéaliste commence son premier jour en exercice sous la supervision d'un docteur aguerri et blasé, pour qui l'éthique est un concept désuet. Les vies peuvent être épargnées ou perdues, mais les attentes seront toujours brisées.",
@@ -2976,16 +2965,31 @@
       "firstAirDate": "2009-09-10"
     },
     {
-      "id": 85552,
-      "name": "Euphoria",
-      "overview": "À 17 ans, Rue Bennett, fraîchement sortie de désintox, cherche à donner un sens à son existence. Elle se lie très vite à Jules Vaughn, une fille trans récemment arrivée en ville après le divorce de ses parents. Dans leur sillage gravitent Nate Jacobs, un sportif dont les problèmes de colère masquent des complexes sexuels ; Maddy Perez, la petite amie de Nate ; Chris McKay, star de l'équipe de football qui peine à suivre les cours ; Cassie Howard, dont le passif sexuel continue de la poursuivre ; Lexi Howard, jeune sœur de Cassie et amie d'enfance de Rue ; et Kat Hernandez, en pleine exploration de sa sexualité.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+      "id": 73586,
+      "name": "Yellowstone",
+      "overview": "Dans le Montana, la famille Dutton possède le plus grand ranch des États-Unis près du parc national de Yellowstone. Menée par le patriarche John, la famille se bat contre des politiciens et des promoteurs immobiliers.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
       "genres": [
+        37,
         18
       ],
       "voteAverage": 8.3,
-      "firstAirDate": "2019-06-16"
+      "firstAirDate": "2018-06-20"
+    },
+    {
+      "id": 308014,
+      "name": "Berlin et La Dame à l'hermine",
+      "overview": "Avide d'un nouveau coup, Berlin réunit son équipe à Séville et fait d'un ambitieux duc la victime de son propre plan : voler un chef-d'œuvre de Léonard de Vinci.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eXfuS4tZm51jfUz1RPNSwHYk8cX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+      "genres": [
+        18,
+        80,
+        10759
+      ],
+      "voteAverage": 8.3,
+      "firstAirDate": "2026-05-15"
     },
     {
       "id": 2190,
@@ -3001,20 +3005,18 @@
       "firstAirDate": "1997-08-13"
     },
     {
-      "id": 303460,
-      "name": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
-      "overview": "Après avoir été transporté dans un autre monde, Hibiki se découvre une aptitude en apparence anodine, mais qui va lui permettre de survivre dans ce monde impitoyable.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8nKINQCBmp3uvA393G8VIc6wOub.jpg",
+      "id": 85590,
+      "name": "Güldür Güldür Show",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/A4PuQEG2XSJxQVks4l3Ox83Dnde.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/q0PI5MCG6KvCGPZzIr4nJefZw1h.jpg",
       "genres": [
-        16,
-        10759,
-        10765,
+        10764,
         35,
-        18
+        10767
       ],
       "voteAverage": 8.3,
-      "firstAirDate": "2026-04-04"
+      "firstAirDate": "2013-02-27"
     },
     {
       "id": 4057,
@@ -3027,7 +3029,7 @@
         18,
         9648
       ],
-      "voteAverage": 8.297,
+      "voteAverage": 8.299,
       "firstAirDate": "2005-09-22"
     },
     {
@@ -3043,6 +3045,18 @@
       ],
       "voteAverage": 8.297,
       "firstAirDate": "2022-08-21"
+    },
+    {
+      "id": 85552,
+      "name": "Euphoria",
+      "overview": "À 17 ans, Rue Bennett, fraîchement sortie de désintox, cherche à donner un sens à son existence. Elle se lie très vite à Jules Vaughn, une fille trans récemment arrivée en ville après le divorce de ses parents. Dans leur sillage gravitent Nate Jacobs, un sportif dont les problèmes de colère masquent des complexes sexuels ; Maddy Perez, la petite amie de Nate ; Chris McKay, star de l'équipe de football qui peine à suivre les cours ; Cassie Howard, dont le passif sexuel continue de la poursuivre ; Lexi Howard, jeune sœur de Cassie et amie d'enfance de Rue ; et Kat Hernandez, en pleine exploration de sa sexualité.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/y2Oydc1hoN8aV1ObovRoweL5msE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.287,
+      "firstAirDate": "2019-06-16"
     },
     {
       "id": 60622,
@@ -3070,21 +3084,6 @@
       ],
       "voteAverage": 8.281,
       "firstAirDate": "2026-04-28"
-    },
-    {
-      "id": 308014,
-      "name": "Berlin et La Dame à l'hermine",
-      "overview": "Avide d'un nouveau coup, Berlin réunit son équipe à Séville et fait d'un ambitieux duc la victime de son propre plan : voler un chef-d'œuvre de Léonard de Vinci.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eXfuS4tZm51jfUz1RPNSwHYk8cX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
-      "genres": [
-        18,
-        80,
-        10759,
-        35
-      ],
-      "voteAverage": 8.279,
-      "firstAirDate": "2026-05-15"
     },
     {
       "id": 4629,
@@ -3126,19 +3125,6 @@
       "firstAirDate": "2015-11-17"
     },
     {
-      "id": 73586,
-      "name": "Yellowstone",
-      "overview": "Dans le Montana, la famille Dutton possède le plus grand ranch des États-Unis près du parc national de Yellowstone. Menée par le patriarche John, la famille se bat contre des politiciens et des promoteurs immobiliers.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
-      "genres": [
-        37,
-        18
-      ],
-      "voteAverage": 8.265,
-      "firstAirDate": "2018-06-20"
-    },
-    {
       "id": 1400,
       "name": "Seinfeld",
       "overview": "Dans son propre rôle de comique, le bavard Jerry Seinfeld mène une vie qui ne le gâte pas tout le temps, notamment à cause des femmes. Avec son collaborateur malhonnête et son voisin loufoque, Jerry analyse toutes les petites choses du quotidien et les absurdités de la société.",
@@ -3162,6 +3148,19 @@
       ],
       "voteAverage": 8.257,
       "firstAirDate": "2010-07-11"
+    },
+    {
+      "id": 283428,
+      "name": "The Ramparts of Ice",
+      "overview": "Koyuki peine à nouer des liens avec les autres et passe ses années de lycée seule… jusqu'à ce qu'elle rencontre Minato, un garçon déterminé à faire fondre sa carapace de glace.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+      "genres": [
+        16,
+        18
+      ],
+      "voteAverage": 8.25,
+      "firstAirDate": "2026-04-02"
     },
     {
       "id": 1405,
@@ -3232,6 +3231,22 @@
       "firstAirDate": "2011-06-23"
     },
     {
+      "id": 303460,
+      "name": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
+      "overview": "Après avoir été transporté dans un autre monde, Hibiki se découvre une aptitude en apparence anodine, mais qui va lui permettre de survivre dans ce monde impitoyable.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lHGyS1Ks0QdTtqw3aMjsdTbCC6T.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/8nKINQCBmp3uvA393G8VIc6wOub.jpg",
+      "genres": [
+        16,
+        10759,
+        10765,
+        35,
+        18
+      ],
+      "voteAverage": 8.214,
+      "firstAirDate": "2026-04-04"
+    },
+    {
       "id": 1416,
       "name": "Grey's Anatomy",
       "overview": "Meredith Grey, fille d'un chirurgien très réputé, commence son internat de première année en médecine chirurgicale dans un hôpital de Seattle. La jeune femme s'efforce de maintenir de bonnes relations avec ses camarades internes, mais dans ce métier difficile la compétition fait rage.",
@@ -3240,20 +3255,8 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.2,
+      "voteAverage": 8.209,
       "firstAirDate": "2005-03-27"
-    },
-    {
-      "id": 65494,
-      "name": "The Crown",
-      "overview": "Cette série dramatique retrace les rivalités politiques, intrigues et événements qui ont marqué le règne de la reine Élisabeth II et la seconde moitié du XXe siècle.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/snrhOM9JOY3i7UGNDZBfBakiq4n.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2016-11-04"
     },
     {
       "id": 79481,
@@ -3326,6 +3329,19 @@
       "firstAirDate": "2014-08-09"
     },
     {
+      "id": 1911,
+      "name": "Bones",
+      "overview": "Temperance Brennan est une anthropologue hautement qualifiée qui travaille à l'Institut Jeffersonian. En examinant les squelettes de personnes décédées, elle est capable d'en reconstituer la vie et les circonstances de la mort. De telles capacités n'échappent pas au FBI qui fait appel à ses services dans le cadre d'affaires criminelles lorsque les méthodes traditionnelles d'identification des corps ne donnent rien. Temperance travaille en collaboration avec l'agent spécial Seeley Booth, ancien sniper de l'armée qui se méfie de la science et des scientifiques.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jY8jLmNzWEsnHlTuI5FSzAb1ouo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.19,
+      "firstAirDate": "2005-09-13"
+    },
+    {
       "id": 4604,
       "name": "Smallville",
       "overview": "Dans une petite bourgade qui a connu une pluie de météorites quelques années plus tôt, le jeune Clark Kent est élevé par une famille de fermiers. Contraint de cacher ses pouvoirs exceptionnels, il va apprendre à les utiliser pour aller au secours de son prochain.",
@@ -3338,32 +3354,6 @@
       ],
       "voteAverage": 8.19,
       "firstAirDate": "2001-10-16"
-    },
-    {
-      "id": 1911,
-      "name": "Bones",
-      "overview": "Temperance Brennan est une anthropologue hautement qualifiée qui travaille à l'Institut Jeffersonian. En examinant les squelettes de personnes décédées, elle est capable d'en reconstituer la vie et les circonstances de la mort. De telles capacités n'échappent pas au FBI qui fait appel à ses services dans le cadre d'affaires criminelles lorsque les méthodes traditionnelles d'identification des corps ne donnent rien. Temperance travaille en collaboration avec l'agent spécial Seeley Booth, ancien sniper de l'armée qui se méfie de la science et des scientifiques.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jY8jLmNzWEsnHlTuI5FSzAb1ouo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.189,
-      "firstAirDate": "2005-09-13"
-    },
-    {
-      "id": 283428,
-      "name": "The Ramparts of Ice",
-      "overview": "Koyuki peine à nouer des liens avec les autres et passe ses années de lycée seule… jusqu'à ce qu'elle rencontre Minato, un garçon déterminé à faire fondre sa carapace de glace.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-      "genres": [
-        16,
-        18
-      ],
-      "voteAverage": 8.167,
-      "firstAirDate": "2026-04-02"
     },
     {
       "id": 1981,
@@ -3486,6 +3476,19 @@
       ],
       "voteAverage": 8.1,
       "firstAirDate": "2024-10-27"
+    },
+    {
+      "id": 55165,
+      "name": "Следствие вели...",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fTRRrjf3KPpiFx1knqPpvczZdf2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/pTjml856AMpYbr0qI0iKZVX60q4.jpg",
+      "genres": [
+        9648,
+        99
+      ],
+      "voteAverage": 8.1,
+      "firstAirDate": "2006-01-20"
     },
     {
       "id": 95258,
@@ -4065,20 +4068,6 @@
       "firstAirDate": "2014-04-27"
     },
     {
-      "id": 204646,
-      "name": "On Patrol: Live",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2ravWNzlxManKzM7Vj6TFL5rVlW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/b97auIBgondyVnI1nPqF8hoKTDM.jpg",
-      "genres": [
-        99,
-        80,
-        10764
-      ],
-      "voteAverage": 7.813,
-      "firstAirDate": "2022-07-22"
-    },
-    {
       "id": 32692,
       "name": "Blue Bloods",
       "overview": "Chez les Reagan, la \"Loi\" est une histoire de famille. Henry était commissaire général de New York, son fils Frank lui a succédé. Et la tradition perdure avec les enfants de ce dernier: Danny est inspecteur à la crim', Erin travaille au bureau du procureur et Jamie, le petit dernier, vient d'entrer dans la police. Quant à Joseph, qui était un des meilleurs inspecteurs dans les rangs de la police, sa mort pourrait être liée à la société secrète baptisée \"The Blue Templar\", regroupant des flics pourris... Les Reagan ne règnent pas sur New York, ils essaient d'y faire régner l'Ordre et la Justice.",
@@ -4130,18 +4119,6 @@
       ],
       "voteAverage": 7.8,
       "firstAirDate": "2023-01-07"
-    },
-    {
-      "id": 70620,
-      "name": "Echappées Belles",
-      "overview": "Échappées belles est un magazine de découverte hebdomadaire français. Chaque semaine, l'un des présentateurs de l'émission emmène les téléspectateurs à la découverte d'une destination à travers des reportages et des rencontres. Il est présenté à tour de rôle par Sophie Jovillard, Jérôme Pitorin, Ismaël Khelifa, Tiga, Sabine Quindou, Théo Curin et Anto Cocagne.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/AexziGDe7P6ovqfdOWkME0JrwLI.jpg",
-      "genres": [
-        99
-      ],
-      "voteAverage": 7.8,
-      "firstAirDate": "2006-09-30"
     },
     {
       "id": 1973,
@@ -4212,20 +4189,6 @@
       "firstAirDate": "2026-04-11"
     },
     {
-      "id": 4177,
-      "name": "Perry Mason",
-      "overview": "La série met en scène les affaires traitées par Perry Mason, célèbre avocat de Los Angeles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zk2RBhWyrbI6gXfN4zueagq1nZT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/iq4BjyVsDxzg24XnjoGP0Xi2Tz5.jpg",
-      "genres": [
-        9648,
-        18,
-        80
-      ],
-      "voteAverage": 7.706,
-      "firstAirDate": "1957-09-21"
-    },
-    {
       "id": 1620,
       "name": "Les Experts : Miami",
       "overview": "La police scientifique de Miami, le CSI, a fort à faire. Spécialisée dans les enquêtes criminelles ou les disparitions, ses membres sont tous d'éminents scientifiques qui s'appuient sur leurs connaissances en biologie, balistique, l'analyse des empreintes digitales ou encore des explosifs. Leur chef, Horatio Caine, une forte personnalité, est également spécialisé dans les affaires de déminage et d'incendies. Qu'il s'agisse du meurtre d'une famille entière, de la disparition d'étudiants ou de poseurs de bombes, l'équipe soudée travaille toujours d'arrache-pied.",
@@ -4238,6 +4201,20 @@
       ],
       "voteAverage": 7.704,
       "firstAirDate": "2002-09-23"
+    },
+    {
+      "id": 4177,
+      "name": "Perry Mason",
+      "overview": "La série met en scène les affaires traitées par Perry Mason, célèbre avocat de Los Angeles.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zk2RBhWyrbI6gXfN4zueagq1nZT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/iq4BjyVsDxzg24XnjoGP0Xi2Tz5.jpg",
+      "genres": [
+        9648,
+        18,
+        80
+      ],
+      "voteAverage": 7.7,
+      "firstAirDate": "1957-09-21"
     },
     {
       "id": 226687,
@@ -4376,6 +4353,31 @@
       ],
       "voteAverage": 7.6,
       "firstAirDate": "2001-09-30"
+    },
+    {
+      "id": 78648,
+      "name": "놀라운 토요일",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pnibkuL74C33GoKLTXAmF4nl3a6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/pNdUVPm6RwvG9Ycd2cuYpLbM7lk.jpg",
+      "genres": [
+        35,
+        10764
+      ],
+      "voteAverage": 7.6,
+      "firstAirDate": "2018-04-07"
+    },
+    {
+      "id": 203003,
+      "name": "开始推理吧",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/64xFi1olZzxBFFX93fIVGa6tU7h.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/wJygv7NrIH30GVhG14r5A9WwwxV.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.6,
+      "firstAirDate": "2022-06-03"
     }
   ]
 }
