@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T08:52:57.651Z",
+  "updatedAt": "2026-07-02T13:55:01.001Z",
   "results": [
     {
       "id": 287695,
@@ -24,21 +24,6 @@
       ],
       "voteAverage": 10,
       "firstAirDate": "2026-05-15"
-    },
-    {
-      "id": 312761,
-      "name": "Hidden Secrets",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/j5ofD8iYMtT3rCb76N9QLWnOPAE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/9nZrNhVzvn5EKaTkJGZYv0EdNyr.jpg",
-      "genres": [
-        16,
-        10751,
-        9648,
-        10765
-      ],
-      "voteAverage": 10,
-      "firstAirDate": "2024-06-12"
     },
     {
       "id": 308185,
@@ -77,6 +62,19 @@
       ],
       "voteAverage": 9.484,
       "firstAirDate": "2026-06-05"
+    },
+    {
+      "id": 281233,
+      "name": "Beyond Time's Gaze",
+      "overview": "Le monde n’était qu’une demeure temporaire pour tous les êtres, et le temps s’écoulait comme des voyageurs de passage. Là où le ciel brisé ouvrait son œil inquiétant, la vie s’éteignait et les zones devenaient interdites. Dans l’apocalypse, les conséquences suivaient leur cours, et la vie renaissait de la mort.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hjC37cu4PeXsckuOnd9zn3j5hKY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ut9idhPK3dEkUTB9Vhlzzj1tb8c.jpg",
+      "genres": [
+        16,
+        10765
+      ],
+      "voteAverage": 9.4,
+      "firstAirDate": "2025-12-28"
     },
     {
       "id": 299167,
@@ -285,20 +283,6 @@
       "firstAirDate": "2025-07-27"
     },
     {
-      "id": 224839,
-      "name": "Shrouding the Heavens",
-      "overview": "Lors d'une réunion après l'obtention de leur diplôme, Ye Fan et ses camarades de classe sont accidentellement transportés sur une planète inconnue.  Pour survivre et espérer retourner un jour sur Terre, ils doivent se lancer dans la voie de la cultivation. Ye Fan, qui possédait initialement une aptitude médiocre, découvre qu'il est en fait détenteur d'un Corps Sacré rare et puissant. À travers des épreuves mortelles, des batailles contre des races démoniaques et la découverte de trésors ancestraux, il doit briser ses limites et surmonter des obstacles insurmontables pour atteindre l'immortalité et percer les secrets du cercueil de bronze et de son propre destin.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/z9JNGlJ8eGy6S6SOlBhpmxjjXGT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/9ie1wY5WMvfVPNaDBGoO0fsBxdj.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.8,
-      "firstAirDate": "2023-05-03"
-    },
-    {
       "id": 209867,
       "name": "Frieren",
       "overview": "L’elfe Frieren a vaincu le roi des démons aux côtés du groupe mené par le jeune héros Himmel. Après dix années d’efforts, ils ont ramené la paix dans le royaume. Parce qu’elle est une elfe, Frieren peut vivre plus de mille ans. Elle part seule en voyage, promettant à ses amis qu'elle reviendra les voir. Cinquante ans plus tard, Frieren est de retour, elle n'a pas changé, mais ces retrouvailles sont aussi les derniers instants passés avec Himmel, devenu un vieillard qui s’éteint paisiblement sous ses yeux. Attristée de n’avoir pas passé plus de temps à connaître les gens qu’elle aime, elle décide de reprendre son voyage et de partir à la rencontre de nouvelles personnes...",
@@ -382,16 +366,18 @@
       "firstAirDate": "2021-11-06"
     },
     {
-      "id": 301507,
-      "name": "Heated Rivalry",
-      "overview": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
+      "id": 37854,
+      "name": "One Piece",
+      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
       "genres": [
-        18
+        10759,
+        35,
+        16
       ],
-      "voteAverage": 8.745,
-      "firstAirDate": "2025-11-28"
+      "voteAverage": 8.744,
+      "firstAirDate": "1999-10-20"
     },
     {
       "id": 250307,
@@ -439,7 +425,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.715,
+      "voteAverage": 8.716,
       "firstAirDate": "2019-05-06"
     },
     {
@@ -484,47 +470,30 @@
       "firstAirDate": "2026-06-26"
     },
     {
-      "id": 37854,
-      "name": "One Piece",
-      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "id": 301507,
+      "name": "Heated Rivalry",
+      "overview": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/QbRbCULZVBcrN2uydpmIOQLV5O.jpg",
       "genres": [
+        18
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "2025-11-28"
+    },
+    {
+      "id": 127532,
+      "name": "Solo Leveling",
+      "overview": "Ce qui ne vous tue pas vous rend plus fort ! Mais ce dicton ne s'applique pas au chasseur le plus faible de toute l’humanité, Jinwoo Sung. Après avoir été mortellement blessé lorsqu’il est tombé par hasard sur un double donjon caché, Jinwoo est miraculeusement rescapé. Au bord de la mort, il entrevoit une quête et saisit une opportunité qui lui permet dès lors de gagner en puissance très rapidement. À présent, il souhaite découvrir les secrets de ses pouvoirs et du donjon qui les a engendrés.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+      "genres": [
+        16,
         10759,
-        35,
-        16
+        10765
       ],
       "voteAverage": 8.7,
-      "firstAirDate": "1999-10-20"
-    },
-    {
-      "id": 1429,
-      "name": "L'Attaque des Titans",
-      "overview": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cEnxvrGIGwLz7ZfCx3g8oULJxrr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "genres": [
-        16,
-        10765,
-        10759
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2013-04-07"
-    },
-    {
-      "id": 42705,
-      "name": "Hajime no Ippo : The Fighting",
-      "overview": "Ippo est un jeune lycéen de 16 ans qui n'a pas d'amis car il occupe tous son temps libre à aider sa mère pour tenir son affaire de pêche. Mais il ne sait pas encore qu'un prestigieux destin l'attend ; alors qu'il se faisait martyriser par la bande d'Amezawa, Takamura (un grand boxeur japonais) vient lui porter secours. Les voyous hors d'état de nuire Takamura emmène le jeune lycéen dans son club de boxe. Ippo remis sur pied, Takamura lui proposera de se défouler sur un sac du club avec un dessin de Furyô dessus. Là se révélera une grande force et Ippo se découvrira une passion pour la boxe. Après avoir visionné une cassette et passé le test de Takamura avec brio, il entrera dans le club de boxe de Kamogawa. À la surprise générale il tiendra tête à l'un des génies du club de boxe ce qui va attirer l'attention de l’entraîneur du club.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/umMYjHm7FjsyllUnC8lWDy9rrZQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
-      "genres": [
-        16,
-        35,
-        18,
-        10759
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2000-10-03"
+      "firstAirDate": "2024-01-07"
     },
     {
       "id": 1430,
@@ -580,6 +549,20 @@
       "firstAirDate": "2023-02-04"
     },
     {
+      "id": 1429,
+      "name": "L'Attaque des Titans",
+      "overview": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cEnxvrGIGwLz7ZfCx3g8oULJxrr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+      "genres": [
+        16,
+        10765,
+        10759
+      ],
+      "voteAverage": 8.68,
+      "firstAirDate": "2013-04-07"
+    },
+    {
       "id": 60625,
       "name": "Rick et Morty",
       "overview": "Rick, un scientifique sociopathe, entraîne son nigaud de petit-fils Morty dans des aventures extrêmement périlleuses aux quatre coins de l’univers.",
@@ -622,20 +605,6 @@
       "firstAirDate": "2011-10-02"
     },
     {
-      "id": 127532,
-      "name": "Solo Leveling",
-      "overview": "Ce qui ne vous tue pas vous rend plus fort ! Mais ce dicton ne s'applique pas au chasseur le plus faible de toute l’humanité, Jinwoo Sung. Après avoir été mortellement blessé lorsqu’il est tombé par hasard sur un double donjon caché, Jinwoo est miraculeusement rescapé. Au bord de la mort, il entrevoit une quête et saisit une opportunité qui lui permet dès lors de gagner en puissance très rapidement. À présent, il souhaite découvrir les secrets de ses pouvoirs et du donjon qui les a engendrés.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.67,
-      "firstAirDate": "2024-01-07"
-    },
-    {
       "id": 261145,
       "name": "L'Incroyable Cirque Numérique",
       "overview": "Pris au piège dans un étrange monde virtuel, une femme et cinq autres humains se retrouvent à la merci d'une IA loufoque et en proie à leurs propres traumatismes.",
@@ -647,7 +616,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.67,
+      "voteAverage": 8.669,
       "firstAirDate": "2023-10-13"
     },
     {
@@ -676,21 +645,8 @@
         16,
         35
       ],
-      "voteAverage": 8.668,
+      "voteAverage": 8.667,
       "firstAirDate": "1993-10-16"
-    },
-    {
-      "id": 89456,
-      "name": "Primal",
-      "overview": "L'amitié improbable entre un homme des cavernes à l'aube de l'évolution et un dinosaure dont l'espèce est sur le point de s'éteindre. Les deux s'unissent pour leur survie dans un monde primaire et violent.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
-      "genres": [
-        10759,
-        16
-      ],
-      "voteAverage": 8.655,
-      "firstAirDate": "2019-10-08"
     },
     {
       "id": 271607,
@@ -706,17 +662,32 @@
       "firstAirDate": "2025-07-06"
     },
     {
-      "id": 280945,
-      "name": "Bon Appétit, Your Majesty",
-      "overview": "Une grande cheffe voyage dans le temps jusqu'à l'ère Joseon et y rencontre un roi. Si ses plats contemporains ravissent le palais du tyran, elle n'est pas au bout de ses peines.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+      "id": 89456,
+      "name": "Primal",
+      "overview": "L'amitié improbable entre un homme des cavernes à l'aube de l'évolution et un dinosaure dont l'espèce est sur le point de s'éteindre. Les deux s'unissent pour leur survie dans un monde primaire et violent.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mf12pRakr3eYdJtv6klQtoznnbU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/tbHQDtoDZGJsfe7Kx6BEShcrZAa.jpg",
       "genres": [
-        18,
-        10765
+        10759,
+        16
       ],
-      "voteAverage": 8.654,
-      "firstAirDate": "2025-08-23"
+      "voteAverage": 8.655,
+      "firstAirDate": "2019-10-08"
+    },
+    {
+      "id": 42705,
+      "name": "Hajime no Ippo : The Fighting",
+      "overview": "Ippo est un jeune lycéen de 16 ans qui n'a pas d'amis car il occupe tous son temps libre à aider sa mère pour tenir son affaire de pêche. Mais il ne sait pas encore qu'un prestigieux destin l'attend ; alors qu'il se faisait martyriser par la bande d'Amezawa, Takamura (un grand boxeur japonais) vient lui porter secours. Les voyous hors d'état de nuire Takamura emmène le jeune lycéen dans son club de boxe. Ippo remis sur pied, Takamura lui proposera de se défouler sur un sac du club avec un dessin de Furyô dessus. Là se révélera une grande force et Ippo se découvrira une passion pour la boxe. Après avoir visionné une cassette et passé le test de Takamura avec brio, il entrera dans le club de boxe de Kamogawa. À la surprise générale il tiendra tête à l'un des génies du club de boxe ce qui va attirer l'attention de l’entraîneur du club.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/umMYjHm7FjsyllUnC8lWDy9rrZQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
+      "genres": [
+        16,
+        35,
+        18,
+        10759
+      ],
+      "voteAverage": 8.653,
+      "firstAirDate": "2000-10-03"
     },
     {
       "id": 70785,
@@ -745,6 +716,19 @@
       ],
       "voteAverage": 8.647,
       "firstAirDate": "2023-08-31"
+    },
+    {
+      "id": 280945,
+      "name": "Bon Appétit, Your Majesty",
+      "overview": "Une grande cheffe voyage dans le temps jusqu'à l'ère Joseon et y rencontre un roi. Si ses plats contemporains ravissent le palais du tyran, elle n'est pas au bout de ses peines.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kqFofZ0hOQ7Y3VUQQ59lpHaCJpM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ttbmzTZHTzqDK4JniKonMrsQath.jpg",
+      "genres": [
+        18,
+        10765
+      ],
+      "voteAverage": 8.643,
+      "firstAirDate": "2025-08-23"
     },
     {
       "id": 234763,
@@ -867,7 +851,7 @@
         80,
         18
       ],
-      "voteAverage": 8.631,
+      "voteAverage": 8.63,
       "firstAirDate": "2002-06-02"
     },
     {
@@ -908,7 +892,7 @@
         10762,
         10751
       ],
-      "voteAverage": 8.625,
+      "voteAverage": 8.624,
       "firstAirDate": "2008-03-08"
     },
     {
@@ -999,20 +983,6 @@
       "firstAirDate": "2015-09-14"
     },
     {
-      "id": 220542,
-      "name": "Les Carnets de l'apothicaire",
-      "overview": "Formée dès son plus jeune âge par son père apothicaire, Mao Mao est un jour vendue comme servante au palais de l'empereur. Prisonnière dans les arcanes du pouvoir, elle attire l’attention de Jinshi, un séduisant haut fonctionnaire qui la promeut lorsqu’il découvre son talent pour confectionner des potions. Désormais goûteuse, Mao Mao met ses connaissances au service des gens du palais pour les soigner, mais aussi pour déjouer les mystères et les complots qui se trament...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/47pSay5Ao7SFeyQBZVkW5ifyhAZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "genres": [
-        16,
-        18,
-        9648
-      ],
-      "voteAverage": 8.604,
-      "firstAirDate": "2023-10-22"
-    },
-    {
       "id": 43,
       "name": "31 Minutos",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -1082,6 +1052,20 @@
       "firstAirDate": "2013-04-09"
     },
     {
+      "id": 220542,
+      "name": "Les Carnets de l'apothicaire",
+      "overview": "Formée dès son plus jeune âge par son père apothicaire, Mao Mao est un jour vendue comme servante au palais de l'empereur. Prisonnière dans les arcanes du pouvoir, elle attire l’attention de Jinshi, un séduisant haut fonctionnaire qui la promeut lorsqu’il découvre son talent pour confectionner des potions. Désormais goûteuse, Mao Mao met ses connaissances au service des gens du palais pour les soigner, mais aussi pour déjouer les mystères et les complots qui se trament...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/47pSay5Ao7SFeyQBZVkW5ifyhAZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "genres": [
+        16,
+        18,
+        9648
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2023-10-22"
+    },
+    {
       "id": 35790,
       "name": "Sakura, chasseuse de cartes",
       "overview": "La vie de Sakura bascule le jour où, dans la bibliothèque de son père, elle ouvre le livre de Clow et laisse accidentellement s'échapper les cartes magiques qui s'y trouvaient. Devenue chasseuse de cartes, elle doit, avec l'aide de Kero, le gardien du livre, retrouver les cartes disparues...",
@@ -1138,6 +1122,19 @@
       "firstAirDate": "2024-08-09"
     },
     {
+      "id": 4613,
+      "name": "Frères d'armes",
+      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.592,
+      "firstAirDate": "2001-09-09"
+    },
+    {
       "id": 21650,
       "name": "I'm in the Band : Ma vie de rocker",
       "overview": "Tripp Campbell se met dans l'idée d'aider son groupe de rock préféré des années 80, Iron Weasel, à faire son grand retour. Mais il semblerait que leur permettre de retrouver leur ancienne célébrité sera plus difficile que prévu...",
@@ -1148,19 +1145,6 @@
       ],
       "voteAverage": 8.591,
       "firstAirDate": "2009-11-27"
-    },
-    {
-      "id": 4613,
-      "name": "Frères d'armes",
-      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
-      "genres": [
-        18,
-        10768
-      ],
-      "voteAverage": 8.591,
-      "firstAirDate": "2001-09-09"
     },
     {
       "id": 119464,
@@ -1610,6 +1594,20 @@
       "firstAirDate": "2011-05-03"
     },
     {
+      "id": 11466,
+      "name": "Kaamelott",
+      "overview": "Vème siècle, île de Bretagne. Alors que l'Empire romain s'effondre et que le christianisme s'impose peu à peu face aux dieux païens, le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur ; entouré de ses fidèles chevaliers, il s'attelle à la mission que les Dieux lui ont confié : rechercher le Saint Graal. Mais cette quête s'annonce plus que difficile, car Arthur est très mal entouré. Ses chevaliers de la Table Ronde sont un faible renfort contre les défis qui se dressent sur la route : peureux, naïfs, stupides ou au contraire violents, archaïques et désordonnés, les troupes de Bretagne ne comprennent pas l'enjeu de la quête du Graal et peinent à se rendre utiles. L'entourage familial du roi n'est guère plus sensé : son quotidien déjà bien chargé est parsemé de conflits avec sa femme Guenièvre ou sa belle-famille.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d6P4O0LzE4WFp4GnSkzauUTmC2P.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1Tcv90k3MzWKsq1zJbxVlsT7YXr.jpg",
+      "genres": [
+        35,
+        18,
+        10765
+      ],
+      "voteAverage": 8.542,
+      "firstAirDate": "2005-01-03"
+    },
+    {
       "id": 259909,
       "name": "Dexter: Resurrection",
       "overview": "Après avoir survécu à ses blessures, Dexter se retrouve à New York. Il tente de renouer une relation avec son fils mais des meurtres rituels ensanglantent Big Apple.",
@@ -1624,18 +1622,19 @@
       "firstAirDate": "2025-07-13"
     },
     {
-      "id": 11466,
-      "name": "Kaamelott",
-      "overview": "Vème siècle, île de Bretagne. Alors que l'Empire romain s'effondre et que le christianisme s'impose peu à peu face aux dieux païens, le royaume de Kaamelott s'organise autour de son souverain, le roi Arthur ; entouré de ses fidèles chevaliers, il s'attelle à la mission que les Dieux lui ont confié : rechercher le Saint Graal. Mais cette quête s'annonce plus que difficile, car Arthur est très mal entouré. Ses chevaliers de la Table Ronde sont un faible renfort contre les défis qui se dressent sur la route : peureux, naïfs, stupides ou au contraire violents, archaïques et désordonnés, les troupes de Bretagne ne comprennent pas l'enjeu de la quête du Graal et peinent à se rendre utiles. L'entourage familial du roi n'est guère plus sensé : son quotidien déjà bien chargé est parsemé de conflits avec sa femme Guenièvre ou sa belle-famille.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/d6P4O0LzE4WFp4GnSkzauUTmC2P.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/1Tcv90k3MzWKsq1zJbxVlsT7YXr.jpg",
+      "id": 240411,
+      "name": "DAN DA DAN",
+      "overview": "Momo Ayase et Ken Takakura sont deux lycéens que tout oppose. Tandis que la première ne croit qu'aux esprits, le second ne jure que par les extraterrestres. Incapables de se convaincre, ils se lancent alors un défi : Momo devra se rendre dans un hôpital où des créatures de l'espace sont censées se trouver et Ken dans un tunnel hanté... Or, chacun va faire une rencontre d'un autre genre qui va bouleverser leurs vies et lier leurs sorts. C'est le début d'une romance survoltée où l'occulte, le paranormal et le surnaturel se bousculent dans un chaos haletant !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
       "genres": [
+        16,
+        10759,
         35,
-        18,
         10765
       ],
       "voteAverage": 8.54,
-      "firstAirDate": "2005-01-03"
+      "firstAirDate": "2024-10-04"
     },
     {
       "id": 83121,
@@ -1815,7 +1814,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.516,
+      "voteAverage": 8.52,
       "firstAirDate": "2024-03-20"
     },
     {
@@ -1986,6 +1985,20 @@
       "firstAirDate": "2012-01-06"
     },
     {
+      "id": 15260,
+      "name": "Adventure Time",
+      "overview": "Pétri de fierté et de moralité, le jeune Finn rêve d'un destin héroïque sur la terre de Ooo. Au cours de ses aventures, le jeune garçon, inséparable de Jake, son fidèle compagnon à quatre pattes doté de pouvoirs, croise la route d'une multitude de personnages, comme Marceline, la reine vampire âgée de 1003 ans, la princesse Chewing-Gum, qui règne sur le royaume de la Confiserie, le machiavélique roi des Glaces, le comte de la Citronelle ou encore Miss Rainicorne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
+      "genres": [
+        16,
+        35,
+        10765
+      ],
+      "voteAverage": 8.509,
+      "firstAirDate": "2010-04-05"
+    },
+    {
       "id": 68129,
       "name": "Yuri!!! On Ice",
       "overview": "Yuri Katsuki portait sur ses épaules tous les espoirs du Japon pour remporter le Grand Prix de patinage artistique, mais il y a subi une écrasante défaite. Il retourne dans sa ville natale et songe alors à prendre sa retraite, malgré une persistante envie de patiner. Un jour, le quintuple champion du monde Viktor Nikiforov, accompagné d’un jeune russe, Yuri Plisetsky, vient le trouver pour qu’il reprenne la compétition…",
@@ -2054,20 +2067,6 @@
       ],
       "voteAverage": 8.504,
       "firstAirDate": "2021-01-10"
-    },
-    {
-      "id": 220102,
-      "name": "Spider-Noir",
-      "overview": "Ben Reilly, détective privé, est engagé pour enquêter sur ce qui semble être de banales affaires... jusqu'à ce que des gangsters, des monstres et une mystérieuse femme fatale tissent une toile qui va le confronter à son ancienne vie de seul et unique super-héros de New York : L'Araignée.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
-      "genres": [
-        18,
-        9648,
-        80
-      ],
-      "voteAverage": 8.502,
-      "firstAirDate": "2026-05-25"
     },
     {
       "id": 68349,
@@ -2152,21 +2151,6 @@
       "firstAirDate": "2010-04-23"
     },
     {
-      "id": 240411,
-      "name": "DAN DA DAN",
-      "overview": "Momo Ayase et Ken Takakura sont deux lycéens que tout oppose. Tandis que la première ne croit qu'aux esprits, le second ne jure que par les extraterrestres. Incapables de se convaincre, ils se lancent alors un défi : Momo devra se rendre dans un hôpital où des créatures de l'espace sont censées se trouver et Ken dans un tunnel hanté... Or, chacun va faire une rencontre d'un autre genre qui va bouleverser leurs vies et lier leurs sorts. C'est le début d'une romance survoltée où l'occulte, le paranormal et le surnaturel se bousculent dans un chaos haletant !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dse3OM0apuA6HZt4gznRMmUirM3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
-      "genres": [
-        16,
-        10759,
-        35,
-        10765
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2024-10-04"
-    },
-    {
       "id": 86031,
       "name": "Dr. STONE",
       "overview": "Plusieurs milliers d'années après un mystérieux phénomène qui a transformé toute l'humanité en pierre, Senku, un lycéen extrêmement intelligent et animé par un esprit scientifique, se réveille. Face à ce monde figé, où toutes les civilisations se sont effondrées, il décide d'utiliser la science pour le reconstruire. Avec l'aide de son ami d'enfance, l'infatigable Taiju Ôki qui s'est lui aussi réveillé, ils vont devoir repartir de zéro. Ainsi commence une incroyable aventure pour se réapproprier des milliers d'années d'histoire de la science, de l'Âge de pierre à leurs jours…",
@@ -2235,20 +2219,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2021-12-18"
-    },
-    {
-      "id": 15260,
-      "name": "Adventure Time",
-      "overview": "Pétri de fierté et de moralité, le jeune Finn rêve d'un destin héroïque sur la terre de Ooo. Au cours de ses aventures, le jeune garçon, inséparable de Jake, son fidèle compagnon à quatre pattes doté de pouvoirs, croise la route d'une multitude de personnages, comme Marceline, la reine vampire âgée de 1003 ans, la princesse Chewing-Gum, qui règne sur le royaume de la Confiserie, le machiavélique roi des Glaces, le comte de la Citronelle ou encore Miss Rainicorne.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3uE9SUywNbj1qSAuYCGgbTTYku5.jpg",
-      "genres": [
-        16,
-        35,
-        10765
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2010-04-05"
     },
     {
       "id": 106600,
@@ -2403,16 +2373,18 @@
       "firstAirDate": "2020-11-29"
     },
     {
-      "id": 306484,
-      "name": "Guarded",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9PoefciS3EoJzLQYKKiGVuqjuDU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jGRzXvnyuWOe4Uxs8QWfp2VHM12.jpg",
+      "id": 220102,
+      "name": "Spider-Noir",
+      "overview": "Ben Reilly, détective privé, est engagé pour enquêter sur ce qui semble être de banales affaires... jusqu'à ce que des gangsters, des monstres et une mystérieuse femme fatale tissent une toile qui va le confronter à son ancienne vie de seul et unique super-héros de New York : L'Araignée.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tCup7Z7ax4FQJUciHGHKXUqC8GT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/6t2FvBr9DS8MOq0m5FAwPBCdAW5.jpg",
       "genres": [
-        18
+        18,
+        9648,
+        80
       ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2025-10-15"
+      "voteAverage": 8.499,
+      "firstAirDate": "2026-05-25"
     },
     {
       "id": 67075,
@@ -2628,21 +2600,6 @@
       ],
       "voteAverage": 8.433,
       "firstAirDate": "2016-01-25"
-    },
-    {
-      "id": 82684,
-      "name": "Moi, quand je me réincarne en Slime",
-      "overview": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand Sage », grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vFCKoryd6keo4iziLlRHhHuO5Wc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
-      "genres": [
-        10759,
-        16,
-        10765,
-        35
-      ],
-      "voteAverage": 8.426,
-      "firstAirDate": "2018-10-02"
     },
     {
       "id": 58841,
@@ -3471,20 +3428,6 @@
       "firstAirDate": "1989-12-17"
     },
     {
-      "id": 40424,
-      "name": "Initial D",
-      "overview": "Au Mont Akina, les courses entre pilotes chevronnés ne cessent de se dérouler tous les week-ends. Mais l'équipe locale des Speedstars semble dépassée par l'arrivée massive de stars du volant. Devant l'impossibilité de relever un défi qui leur est proposé, une seule solution apparaît : faire confiance la légende urbaine qui court sur un mystérieux pilote local qui dévale la montagne à toute allure. Personne n'irait alors soupçonner Takumi Fujiwara, un lycéen de dix-huit ans assez rêveur et ne connaissant rien aux voitures, d'être ce génie du volant. Le jeune homme ne fait que livrer le tofu familial dans la région… Par conséquent, il connaît les routes du coin par cœur qu'il aborde au volant de sa Trueno 86, une vieille voiture encore performante… à une vitesse hallucinante.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/CMG53GMx0OFFmF4dzhlFuebarq.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/zBIIyH8yfdlfvvpEiG9PLwoVXc6.jpg",
-      "genres": [
-        16,
-        10759,
-        18
-      ],
-      "voteAverage": 8.004,
-      "firstAirDate": "1998-04-18"
-    },
-    {
       "id": 253,
       "name": "Star Trek",
       "overview": "Cette série raconte les aventures vécues, au XXIIIe siècle, par James T. Kirk, capitaine du vaisseau Enterprise NCC-1701 et son équipage. Leur mission quinquennale est d'explorer la galaxie afin d'y découvrir d'autres formes de vie et d'enrichir ainsi les connaissances humaines.",
@@ -3496,6 +3439,20 @@
       ],
       "voteAverage": 8.002,
       "firstAirDate": "1966-09-08"
+    },
+    {
+      "id": 40424,
+      "name": "Initial D",
+      "overview": "Au Mont Akina, les courses entre pilotes chevronnés ne cessent de se dérouler tous les week-ends. Mais l'équipe locale des Speedstars semble dépassée par l'arrivée massive de stars du volant. Devant l'impossibilité de relever un défi qui leur est proposé, une seule solution apparaît : faire confiance la légende urbaine qui court sur un mystérieux pilote local qui dévale la montagne à toute allure. Personne n'irait alors soupçonner Takumi Fujiwara, un lycéen de dix-huit ans assez rêveur et ne connaissant rien aux voitures, d'être ce génie du volant. Le jeune homme ne fait que livrer le tofu familial dans la région… Par conséquent, il connaît les routes du coin par cœur qu'il aborde au volant de sa Trueno 86, une vieille voiture encore performante… à une vitesse hallucinante.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/CMG53GMx0OFFmF4dzhlFuebarq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/zBIIyH8yfdlfvvpEiG9PLwoVXc6.jpg",
+      "genres": [
+        16,
+        10759,
+        18
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "1998-04-18"
     },
     {
       "id": 79481,
@@ -3550,32 +3507,17 @@
       "firstAirDate": "2025-09-15"
     },
     {
-      "id": 298994,
-      "name": "Villageois LVL 999",
-      "overview": "Naître villageois, c’est avoir la malchance de vivre une vie fragile de dur labeur au service des autres, dans ce monde impitoyable de tous les dangers. Pourtant, l’un d’entre eux parvient à atteindre un niveau qui fait pâlir les plus valeureux héros : 999 !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/b62MUHX0v8aVVyqH9P0zlEYhf9n.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/z7lSMYbkFAuGTvnYRDM9ssekqTe.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2026-07-02"
-    },
-    {
-      "id": 211416,
-      "name": "DDTプロレスリング",
+      "id": 239901,
+      "name": "云秀行",
       "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aNNuq3y2lLHoG0PmVm73GsXgbxo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2n14yZCRS3jCCTkKQu7z0SX1p8W.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6NoxYhG4ksBsPGtc7aIUtTAqWCM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/dStkVJ2dQPe2Ak9X4McM1606vNn.jpg",
       "genres": [
-        10759,
         18,
         35
       ],
       "voteAverage": 8,
-      "firstAirDate": ""
+      "firstAirDate": "2026-06-20"
     },
     {
       "id": 60572,
@@ -3590,19 +3532,6 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "1997-04-01"
-    },
-    {
-      "id": 91555,
-      "name": "All Elite Wrestling: Dynamite",
-      "overview": "All Elite Wrestling (AEW) est une fédération de catch américaine basée à Jacksonville en Floride. La compagnie a été fondée par l’entrepreneur et dirigeant de football américain Tony Khan. Les lutteurs professionnels Cody Rhodes, ainsi que Matt et Nick Jackson, membre connus sous le nom de The Elite, sont les premiers talents sous contrat avec la compagnie en tant que lutteur. Ils sont aussi les vice-présidents exécutifs.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uXst536FXtszhbUJzFikifRKvrK.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/9t110PF9GL9XVAasdeG2GFqeAb6.jpg",
-      "genres": [
-        10759,
-        18
-      ],
-      "voteAverage": 7.994,
-      "firstAirDate": "2019-10-02"
     },
     {
       "id": 1419,
@@ -3986,20 +3915,6 @@
       "firstAirDate": "2005-03-26"
     },
     {
-      "id": 1431,
-      "name": "Les Experts",
-      "overview": "À Las Vegas, un groupe d'experts scientifiques de la police recueille des indices sur les scènes de crime pour résoudre des enquêtes complexes. Un temps conduite par Gil Grissom, un entomologiste qui garde toujours son sang-froid, l'équipe enchaîne les affaires délicates : meurtres sanglants, viols, disparitions, leur taux d'efficacité est impressionnant. D.B. Russell, qui prend la suite des opérations après le départ de Gil Grissom et l'intérim de Raymond Langston, tente de maintenir la réputation d'excellence du service.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fx304X0L9dykk0yZixBfhUDqH53.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2000-10-06"
-    },
-    {
       "id": 212568,
       "name": "Fufu Kokan: Modorenai Yoru",
       "overview": "Reiji et sa femme ont rejoint leurs amis pour une escapade dans une auberge japonaise traditionnelle, espérant concevoir un enfant. Cependant, leurs projets ont pris une tournure inattendue lorsque Reiji a été séduit par la femme de son ami, tandis que sa propre femme entretenait une liaison passionnée avec leur ami commun. Entre désirs interdits et excitation de repousser les limites, tous les quatre se sont plongés dans la tentation. En s'abandonnant à leurs passions charnelles, pourraient-ils un jour retrouver l'innocence de leur mariage ?",
@@ -4049,6 +3964,20 @@
       ],
       "voteAverage": 7.6,
       "firstAirDate": "2013-08-04"
+    },
+    {
+      "id": 1431,
+      "name": "Les Experts",
+      "overview": "À Las Vegas, un groupe d'experts scientifiques de la police recueille des indices sur les scènes de crime pour résoudre des enquêtes complexes. Un temps conduite par Gil Grissom, un entomologiste qui garde toujours son sang-froid, l'équipe enchaîne les affaires délicates : meurtres sanglants, viols, disparitions, leur taux d'efficacité est impressionnant. D.B. Russell, qui prend la suite des opérations après le départ de Gil Grissom et l'intérim de Raymond Langston, tente de maintenir la réputation d'excellence du service.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fx304X0L9dykk0yZixBfhUDqH53.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 7.6,
+      "firstAirDate": "2000-10-06"
     },
     {
       "id": 3022,
@@ -4117,6 +4046,19 @@
       ],
       "voteAverage": 7.538,
       "firstAirDate": "1962-10-01"
+    },
+    {
+      "id": 254492,
+      "name": "Hana-Kimi",
+      "overview": "Pour se rapprocher de son idole, Mizuki se déguise en garçon dans son école pour garçons. Problème : ils sont maintenant colocataires.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 7.538,
+      "firstAirDate": "2026-01-04"
     },
     {
       "id": 764,
@@ -4195,19 +4137,17 @@
       "firstAirDate": "1999-04-29"
     },
     {
-      "id": 286791,
-      "name": "Digimon : Beatbreak",
-      "overview": "Tomoro Tenma vit dans un monde où les pensées et les émotions humaines (appelées “e-Pulse“) alimentent des appareils IA, les Sapotama. Mais lorsque des Digimon commencent à se matérialiser à partir des Sapotama et à se nourrir d'e-Pulse, le monde est en danger. Après l'apparition de Gekkomon depuis son appareil, Tomoro rejoint Glowing Dawn, une équipe enquêtant sur les Digimon rebelles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bdKO0jm7Bwp6ft2JEg7DiVHCON3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
+      "id": 300126,
+      "name": "LIAR GAME",
+      "overview": "Lorsque Nao Kanzaki reçoit un colis contenant 100 millions de yens, elle apprend qu’elle a été sélectionnée pour participer au LIAR GAME. Dans ce tournoi, les mensonges et la trahison règnent en maîtres. Naïve et honnête, Nao se tourne vers Shinichi Akiyama, un brillant ancien escroc, pour survivre à ce jeu terrifiant.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1bBCTwdIDdau06vQaNWc7bHErqq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
       "genres": [
         16,
-        10759,
-        10765,
-        10762
+        18
       ],
       "voteAverage": 7.5,
-      "firstAirDate": "2025-10-05"
+      "firstAirDate": "2026-04-07"
     },
     {
       "id": 60218,
@@ -4290,18 +4230,6 @@
       "firstAirDate": "1997-01-12"
     },
     {
-      "id": 237748,
-      "name": "Esprits brillants",
-      "overview": "Le Dr Oliver Wolf, un éminent neurologue, et son équipe d’internes n'ont de cesse d'explorer l’esprit humain, tout en essayant de gérer leurs relations et de maintenir leur santé mentale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6l4xaXIqs5eFnGgr0T3QEBs2oBc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qV6tQhqNyb3NXCx8MWELOf9glTu.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 7.4,
-      "firstAirDate": "2024-09-23"
-    },
-    {
       "id": 549,
       "name": "New York, police judiciaire",
       "overview": "À New York, détectives et assistants du procureur tentent de résoudre les affaires les plus délicates. Les uns sur le terrain, les autres devant les tribunaux.",
@@ -4352,6 +4280,73 @@
       ],
       "voteAverage": 7.3,
       "firstAirDate": "2020-04-30"
+    },
+    {
+      "id": 3752,
+      "name": "Fort Boyard",
+      "overview": "Guidés par Olivier Minne dans les couloirs de Fort Boyard, les invités tentent de remporter le plus de gains pour des associations.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nFQyP89WGXtsDeD7ShiERRZ0kVy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/vj5UkNjfPC1AC2ES1daJb64RWD8.jpg",
+      "genres": [
+        10751,
+        10764,
+        10759
+      ],
+      "voteAverage": 7.3,
+      "firstAirDate": "1990-07-07"
+    },
+    {
+      "id": 62688,
+      "name": "Supergirl",
+      "overview": "Les aventures de Kara Zor-El, la cousine de Superman. À 24 ans, après seulement quatre années passées sur Terre, la jeune femme se sent impuissante face à ses pouvoirs extraordinaires qu'on lui a appris à ne pas utiliser. Mais un désastre inattendu va la forcer à les révéler et c'est ainsi qu'elle commence à aider les habitants de sa ville, qui ne tardent pas à la surnommer Supergirl...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/hTnMOqUxYWSXqggzlY13NATnuTv.jpg",
+      "genres": [
+        18,
+        10765,
+        10759
+      ],
+      "voteAverage": 7.277,
+      "firstAirDate": "2015-10-26"
+    },
+    {
+      "id": 252107,
+      "name": "Star City",
+      "overview": "Dans une réalité alternative dans laquelle l'Union soviétique est la première nation à mettre un pied sur la lune, la course à l'espace est retracée de derrière le rideau de fer, montrant la vie des cosmonautes, des ingénieurs et des officiers du renseignement du programme spatial soviétique, ainsi que les risques que chacun d'eux a pris pour propulser l'humanité vers une nouvelle ère.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h9ven3crLuEtIrPQJyiF1LvvxFS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
+      "genres": [
+        18,
+        10765,
+        10768
+      ],
+      "voteAverage": 7.235,
+      "firstAirDate": "2026-05-28"
+    },
+    {
+      "id": 78533,
+      "name": "Jersey Shore : Family Vacation",
+      "overview": "Après avoir fait la fête à Vegas, la bande se rend à Atlantic City pour y passer un séjour estival prolongé sur la côte tout en se remémorant leurs plus belles anecdotes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/Ak8PTWC5bcJb9HL1Kj7oMD0WPSd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/cOQndkhMvznOac1T6JKltjzMX8N.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.2,
+      "firstAirDate": "2018-04-05"
+    },
+    {
+      "id": 203744,
+      "name": "Sugar",
+      "overview": "John Sugar est un détective privé élégant qui arpente les coins sombres d'un L.A. ensoleillé. Bien qu'il ne voie que le bon côté de l'humanité, Sugar est hanté par un secret trop dangereux pour être révélé.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+      "genres": [
+        18,
+        9648
+      ],
+      "voteAverage": 7.194,
+      "firstAirDate": "2024-04-04"
     }
   ]
 }
