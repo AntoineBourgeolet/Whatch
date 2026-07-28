@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T08:29:54.088Z",
+  "updatedAt": "2026-07-28T14:01:10.873Z",
   "results": [
     {
       "id": 121513,
@@ -39,6 +39,19 @@
       "firstAirDate": "2022-12-12"
     },
     {
+      "id": 198064,
+      "name": "Ready, Steady, Wiggle!",
+      "overview": "Les Wiggles, meilleur groupe pour les moins de 5 ans, divertissent les bambins avec une musique sympa, des chorégraphies simples et des histoires fantaisistes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8oElQ17XJ4DwUDOrC144g7JHnB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jsA7UNNDyTv4Hng2mT6v1pJxLEs.jpg",
+      "genres": [
+        10762,
+        10751
+      ],
+      "voteAverage": 9.8,
+      "firstAirDate": "2013-09-11"
+    },
+    {
       "id": 301412,
       "name": "그대에게 드림",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -64,6 +77,21 @@
       "firstAirDate": "2026-06-26"
     },
     {
+      "id": 122612,
+      "name": "Ten Thousand Worlds",
+      "overview": "Lorsque Lin Feng a réveillé son âme martiale d’épée de niveau roi, sa fiancée, Ji Man Yao, a saisi son âme martiale, ce qui l’a presque tué. Mais cela réveilla sa lignée de Phénix, faisant de lui le maître du cimetière des dieux. Après cela, Lin Feng a été boycotté par le clan Lin mais a reçu l’aide de sa sœur, de son grand-père et du nouveau pouvoir qu’il a obtenu du cimetière des dieux. Finalement, Lin Feng se ressaisit et atteignit le sommet des arts martiaux.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eCwC6xlnQHI2oBkdrUs19u3jyJB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jpTfQzXB7SpsiUrhL4hUbCZRrbu.jpg",
+      "genres": [
+        16,
+        18,
+        10759,
+        10765
+      ],
+      "voteAverage": 9.5,
+      "firstAirDate": "2021-04-06"
+    },
+    {
       "id": 280350,
       "name": "Woeste Grond",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -86,7 +114,7 @@
         18,
         35
       ],
-      "voteAverage": 9.45,
+      "voteAverage": 9.451,
       "firstAirDate": "2026-06-05"
     },
     {
@@ -99,7 +127,7 @@
         35,
         18
       ],
-      "voteAverage": 9.257,
+      "voteAverage": 9.3,
       "firstAirDate": "2026-06-22"
     },
     {
@@ -194,18 +222,6 @@
       "firstAirDate": "2008-01-20"
     },
     {
-      "id": 273240,
-      "name": "Off Campus",
-      "overview": "La romance improbable entre Hannah Wells, étudiante en musique ironique qui déteste le hockey, et Garrett Graham, centre vedette et séducteur de l'université Briar, alors qu'ils concluent un accord pour s'entraider. Mais leur accord se déroulera-t-il comme prévu ?",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.92,
-      "firstAirDate": "2026-05-13"
-    },
-    {
       "id": 259837,
       "name": "The WONDERfools",
       "overview": "Dans cette série d'action déjantée, une bande de bras cassés du coin se découvre des super-pouvoirs et lutte contre le mal sur fond de panique apocalyptique.",
@@ -221,17 +237,44 @@
       "firstAirDate": "2026-05-15"
     },
     {
-      "id": 85009,
-      "name": "锵锵三人行",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zvS0sib3PgjlyPol1iHbalujTCp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/otWvnsGRtLxbrtDrqxXZshWneeN.jpg",
+      "id": 273240,
+      "name": "Off Campus",
+      "overview": "La romance improbable entre Hannah Wells, étudiante en musique ironique qui déteste le hockey, et Garrett Graham, centre vedette et séducteur de l'université Briar, alors qu'ils concluent un accord pour s'entraider. Mais leur accord se déroulera-t-il comme prévu ?",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
       "genres": [
-        10767,
-        10764
+        18
       ],
-      "voteAverage": 8.833,
-      "firstAirDate": "1998-04-01"
+      "voteAverage": 8.9,
+      "firstAirDate": "2026-05-13"
+    },
+    {
+      "id": 107371,
+      "name": "A Will Eternal",
+      "overview": "Nous suivons l'histoire de Bai Xiao Chun, un jeune homme attachant mais exaspérant, souhaitant à tout prix devenir immortel.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jgeAAUyACa4KIdOPafFlWas3em5.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/8kjea5G7lMYRit7U9rSOLLZZOUh.jpg",
+      "genres": [
+        16,
+        10765,
+        18
+      ],
+      "voteAverage": 8.9,
+      "firstAirDate": "2020-08-12"
+    },
+    {
+      "id": 224839,
+      "name": "Shrouding the Heavens",
+      "overview": "Lors d'une réunion après l'obtention de leur diplôme, Ye Fan et ses camarades de classe sont accidentellement transportés sur une planète inconnue.  Pour survivre et espérer retourner un jour sur Terre, ils doivent se lancer dans la voie de la cultivation. Ye Fan, qui possédait initialement une aptitude médiocre, découvre qu'il est en fait détenteur d'un Corps Sacré rare et puissant. À travers des épreuves mortelles, des batailles contre des races démoniaques et la découverte de trésors ancestraux, il doit briser ses limites et surmonter des obstacles insurmontables pour atteindre l'immortalité et percer les secrets du cercueil de bronze et de son propre destin.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z9JNGlJ8eGy6S6SOlBhpmxjjXGT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1HcuGlNEfc6EYZHEZGwgKjAvYa4.jpg",
+      "genres": [
+        16,
+        10759,
+        18
+      ],
+      "voteAverage": 8.9,
+      "firstAirDate": "2023-05-03"
     },
     {
       "id": 209867,
@@ -247,6 +290,20 @@
       ],
       "voteAverage": 8.803,
       "firstAirDate": "2023-09-29"
+    },
+    {
+      "id": 246,
+      "name": "Avatar : Le Dernier Maître de l'air",
+      "overview": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.8,
+      "firstAirDate": "2005-02-21"
     },
     {
       "id": 64010,
@@ -273,19 +330,6 @@
       "firstAirDate": "2021-11-01"
     },
     {
-      "id": 306118,
-      "name": "Arafta",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nFhhSSufy5GmOppj0j4K9yy1ybn.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-      "genres": [
-        18,
-        10751
-      ],
-      "voteAverage": 8.8,
-      "firstAirDate": "2025-11-21"
-    },
-    {
       "id": 85077,
       "name": "The Chosen",
       "overview": "Un pêcheur charismatique aux prises avec des dettes. Une femme troublée aux prises avec ses démons. Un comptable doué, mis au ban de sa famille et de son peuple. Voyez comment Jésus atteint chacun d'entre eux et bien plus encore, alors qu'il accomplit ses premiers miracles et se lance dans son ministère pour changer le monde. Découvrez-le à travers les yeux de ceux qui l'ont connu.",
@@ -300,18 +344,16 @@
       "firstAirDate": "2019-04-21"
     },
     {
-      "id": 246,
-      "name": "Avatar : Le Dernier Maître de l'air",
-      "overview": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/kU98MbVVgi72wzceyrEbClZmMFe.jpg",
+      "id": 219246,
+      "name": "La vie portera ses fruits",
+      "overview": "Cette histoire au long cours d'une jeune fille imaginative et d'un garçon résolu de l'île de Jeju prouve que l'amour défie le temps, au fil des peines et des victoires de la vie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1WQTk3Ot9OGTClKZNPgcUG4JDHt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
       "genres": [
-        16,
-        10759,
-        10765
+        18
       ],
-      "voteAverage": 8.773,
-      "firstAirDate": "2005-02-21"
+      "voteAverage": 8.752,
+      "firstAirDate": "2025-03-07"
     },
     {
       "id": 94605,
@@ -326,32 +368,6 @@
       ],
       "voteAverage": 8.751,
       "firstAirDate": "2021-11-06"
-    },
-    {
-      "id": 219246,
-      "name": "La vie portera ses fruits",
-      "overview": "Cette histoire au long cours d'une jeune fille imaginative et d'un garçon résolu de l'île de Jeju prouve que l'amour défie le temps, au fil des peines et des victoires de la vie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1WQTk3Ot9OGTClKZNPgcUG4JDHt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.75,
-      "firstAirDate": "2025-03-07"
-    },
-    {
-      "id": 37854,
-      "name": "One Piece",
-      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-      "genres": [
-        10759,
-        35,
-        16
-      ],
-      "voteAverage": 8.748,
-      "firstAirDate": "1999-10-20"
     },
     {
       "id": 301507,
@@ -413,6 +429,20 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2008-07-05"
+    },
+    {
+      "id": 37854,
+      "name": "One Piece",
+      "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l8wKSRdH0QPX8vvslKNbmrVBNk2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "genres": [
+        10759,
+        35,
+        16
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "1999-10-20"
     },
     {
       "id": 31911,
@@ -515,19 +545,6 @@
       "firstAirDate": "2023-04-14"
     },
     {
-      "id": 120224,
-      "name": "Neeya Naana",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pJswvJkie98HCbZuxbO3nM96tOG.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/zU80k36UXYvhyVZTWXWKqXOj7vo.jpg",
-      "genres": [
-        10751,
-        10767
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2006-05-07"
-    },
-    {
       "id": 73036,
       "name": "냉장고를 부탁해",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -570,7 +587,7 @@
       "name": "Rick et Morty",
       "overview": "Rick, un scientifique sociopathe, entraîne son nigaud de petit-fils Morty dans des aventures extrêmement périlleuses aux quatre coins de l’univers.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/s11re4xQLZ6pRPv2sqXnK8CCvGn.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/i4PpW1XyRlBuSNSIBRIIwSjEpjl.jpg",
       "genres": [
         16,
         35,
@@ -813,20 +830,6 @@
       "firstAirDate": "2017-06-19"
     },
     {
-      "id": 3498,
-      "name": "Les Sorciers de Waverly Place",
-      "overview": "La série raconte l'histoire d'Alex, adolescente rebelle en échec scolaire et de sa famille, les Russo. Son père Jerry est un ancien sorcier qui a abandonné ses pouvoirs pour épouser une mortelle, Theresa. Elle et ses frères Justin l'aîné et Max ont hérité des pouvoirs de Jerry et sont des sorciers en apprentissage. Les enfants participent à une « compétition familiale des sorciers », à l'issue de laquelle seule une personne conservera ses pouvoirs. Les deux autres deviendront de simples mortels.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7hjYegZDAkZfm2MM8fT7DL3Q1Dt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7CVy5uTj3JNF8wqb2VnfQdjL07V.jpg",
-      "genres": [
-        35,
-        10765,
-        10762
-      ],
-      "voteAverage": 8.631,
-      "firstAirDate": "2007-10-12"
-    },
-    {
       "id": 62741,
       "name": "Kamisama Kiss",
       "overview": "Désespérée d’avoir été abandonnée par son père, criblé de dettes, Nanami se retrouve à la rue et fait la rencontre de l’étrange Mikage. Bouleversé par son histoire, ce dernier lui confie son sceau et sa demeure… qui n’est autre qu’un sanctuaire consacré au dieu de la Terre ! Promue malgré elle au rang de divinité des lieux, la jeune fille va devoir s’adapter à ses nouvelles fonctions, sous le regard quelque peu hostile de Tomoe, son messager attitré. Nanami arrivera-t-elle à devenir une déesse digne de ce nom ?",
@@ -837,8 +840,22 @@
         35,
         10765
       ],
-      "voteAverage": 8.627,
+      "voteAverage": 8.628,
       "firstAirDate": "2012-10-02"
+    },
+    {
+      "id": 13916,
+      "name": "Death Note",
+      "overview": "Après avoir trouvé un mystérieux carnet, un lycéen japonais découvre qu'il a le pouvoir de tuer les personnes dont il y inscrit le nom.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/chnG4pYo89weaBjXHJWvW68E35B.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
+      "genres": [
+        16,
+        9648,
+        10765
+      ],
+      "voteAverage": 8.623,
+      "firstAirDate": "2006-10-04"
     },
     {
       "id": 220542,
@@ -853,35 +870,6 @@
       ],
       "voteAverage": 8.622,
       "firstAirDate": "2023-10-22"
-    },
-    {
-      "id": 57706,
-      "name": "Ranma ½",
-      "overview": "Ranma Saotome, jeune expert en arts martiaux, n’est plus le même depuis qu’il est revenu d’un entraînement en Chine. Là-bas, il chutait avec son père Genma dans une source magique aux vertus mystèrieuses. Depuis, Ranma et son père sont victimes d’étranges métamorphoses au contact de l’eau froide. Soun Tendô, qui a arrangé le mariage de Ranma avec l’une de ses filles, est pour le moins sidéré lorsqu’il découvre que Ranma se révèle finalement être… une fille !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rXNar7lh2g8VFgqmiVgMam8oZXn.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
-      "genres": [
-        35,
-        10759,
-        16,
-        10765
-      ],
-      "voteAverage": 8.622,
-      "firstAirDate": "1989-04-15"
-    },
-    {
-      "id": 13916,
-      "name": "Death Note",
-      "overview": "Après avoir trouvé un mystérieux carnet, un lycéen japonais découvre qu'il a le pouvoir de tuer les personnes dont il y inscrit le nom.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/chnG4pYo89weaBjXHJWvW68E35B.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/koBa94NxTaGe2FoDzlXMuJptsv0.jpg",
-      "genres": [
-        16,
-        9648,
-        10765
-      ],
-      "voteAverage": 8.622,
-      "firstAirDate": "2006-10-04"
     },
     {
       "id": 3854,
@@ -914,6 +902,21 @@
       ],
       "voteAverage": 8.62,
       "firstAirDate": "2012-06-15"
+    },
+    {
+      "id": 57706,
+      "name": "Ranma ½",
+      "overview": "Ranma Saotome, jeune expert en arts martiaux, n’est plus le même depuis qu’il est revenu d’un entraînement en Chine. Là-bas, il chutait avec son père Genma dans une source magique aux vertus mystèrieuses. Depuis, Ranma et son père sont victimes d’étranges métamorphoses au contact de l’eau froide. Soun Tendô, qui a arrangé le mariage de Ranma avec l’une de ses filles, est pour le moins sidéré lorsqu’il découvre que Ranma se révèle finalement être… une fille !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rXNar7lh2g8VFgqmiVgMam8oZXn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/dI2O0d5Dkk8tpuTvCkUKQw3LNMv.jpg",
+      "genres": [
+        35,
+        10759,
+        16,
+        10765
+      ],
+      "voteAverage": 8.619,
+      "firstAirDate": "1989-04-15"
     },
     {
       "id": 67915,
@@ -1054,6 +1057,20 @@
       "firstAirDate": "2026-04-06"
     },
     {
+      "id": 3498,
+      "name": "Les Sorciers de Waverly Place",
+      "overview": "La série raconte l'histoire d'Alex, adolescente rebelle en échec scolaire et de sa famille, les Russo. Son père Jerry est un ancien sorcier qui a abandonné ses pouvoirs pour épouser une mortelle, Theresa. Elle et ses frères Justin l'aîné et Max ont hérité des pouvoirs de Jerry et sont des sorciers en apprentissage. Les enfants participent à une « compétition familiale des sorciers », à l'issue de laquelle seule une personne conservera ses pouvoirs. Les deux autres deviendront de simples mortels.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7hjYegZDAkZfm2MM8fT7DL3Q1Dt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/7CVy5uTj3JNF8wqb2VnfQdjL07V.jpg",
+      "genres": [
+        35,
+        10765,
+        10762
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2007-10-12"
+    },
+    {
       "id": 77696,
       "name": "Run BTS!",
       "overview": "Run BTS! est une émission de télé-réalité sud-coréenne avec les BTS. Au programme : des défis, des activités diverses et bien d'autres surprises!",
@@ -1188,6 +1205,20 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2026-07-18"
+    },
+    {
+      "id": 220850,
+      "name": "One Hundred Thousand Years of Qi Refining",
+      "overview": "Il y a cent mille ans, le clan Tian Lan régnait en maître sur le monde de la cultivation, et tous ses disciples étaient fiers et invincibles. Afin de franchir un nouveau palier dans sa cultivation et d’atteindre l’ascension le plus rapidement possible, Xu Yang, l’unique disciple de la secte, s’était enfermé dans la phase de raffinage du Qi. À sa sortie, le monde de la cultivation était déjà en déclin et il ne restait plus que trois ou cinq disciples au sein du clan Tian Lan. À mesure que le clan s'agrandit, la vérité sur la stagnation de la cultivation de Xu Yang est progressivement révélée, mettant au jour un secret caché qui traverse les trois royaumes que sont celui des humains, des démons et des immortels ! S'agit-il d'une volonté de devenir un dieu, ou d'une volonté de devenir un démon ? La vie et la mort du monde sont entre les mains de Xu Yang !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dZF7DTXgyoyshdALJLOrQ9Zj4Xz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/iGJ9eOBsWcOPOQkZmH8LwWub4eL.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2023-02-18"
     },
     {
       "id": 296202,
@@ -1620,35 +1651,6 @@
       "firstAirDate": "2024-10-04"
     },
     {
-      "id": 32118,
-      "name": "Generator Rex",
-      "overview": "Une explosion massive a libéré une quantité démesurée de nanites, mystérieux nanorobots, dans l'atmosphère, infectant progressivement la totalité des êtres vivants sur la planète. Ces nanites peuvent s'activer dans le corps de leurs hôtes, transformant ces derniers en monstres. Afin de lutter contre cette menace, une organisation du nom de Providence a été fondée. Rex, contrôlant parfaitement ses nanites, y produit diverses armes et équipements bio-mécaniques, et possède la faculté de désactiver les nanites à l'intérieur du corps des autres, les soignant ainsi de leur mutation.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jXiKtz7PPWOI4zKl5CdtrKyLUh8.jpg",
-      "genres": [
-        16,
-        10759,
-        10762,
-        10765
-      ],
-      "voteAverage": 8.538,
-      "firstAirDate": "2010-04-23"
-    },
-    {
-      "id": 259909,
-      "name": "Dexter: Resurrection",
-      "overview": "Après avoir survécu à ses blessures, Dexter se retrouve à New York. Il tente de renouer une relation avec son fils mais des meurtres rituels ensanglantent Big Apple.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/teZOzBZhugzh7UfW6xuPp4wJ5oU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8.537,
-      "firstAirDate": "2025-07-13"
-    },
-    {
       "id": 83121,
       "name": "Kaguya-sama : Love is War",
       "overview": "L’académie Shūchiin compte parmi ses rangs les élèves les plus brillants, sur lesquels tous les espoirs reposent. Un jour, au BDE, la vice-présidente Kaguya Shinomiya et le président Miyuki Shirogane se rencontrent et tout laisse à penser qu’ils se plaisent. Mais six mois s’écoulent sans que rien ne se passe ! Ils sont tous deux aveuglés par leur fierté, et ne cherchent qu’à pousser l’autre à se déclarer. Tout le plaisir de l’amour s’éprouve avant qu’il soit avoué ! Une comédie romantique et psychologique qui va faire sensation ! C’est la guerre !",
@@ -1671,22 +1673,22 @@
         16,
         18
       ],
-      "voteAverage": 8.533,
+      "voteAverage": 8.531,
       "firstAirDate": "2019-07-12"
     },
     {
-      "id": 31910,
-      "name": "Naruto Shippuden",
-      "overview": "Cela fait désormais trois ans que Naruto est parti de Konoha en entraînement spécial avec le Sannin légendaire Jiraya, avec toujours en tête son fol espoir de retrouver son ami Sasuke et de le ramener parmi les siens au village. Cette suite des aventures du ninja à la tignasse dorée reprend avec son retour dans le village de Konoha, marquées par diverses retrouvailles avec ses amis de toujours et le danger imminent que représente l'organisation Akatsuki à son encontre... ",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/trpC27FSu6GIjPVzhuCvTJ3wifD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+      "id": 61222,
+      "name": "BoJack Horseman",
+      "overview": "Retrouvez le cheval le plus adulé des années 1990, 20 ans plus tard. Il a beau avoir un caractère de cochon, au fond, c'est quand même un chouette type.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
       "genres": [
         16,
-        10759,
-        10765
+        35,
+        18
       ],
-      "voteAverage": 8.532,
-      "firstAirDate": "2007-02-15"
+      "voteAverage": 8.53,
+      "firstAirDate": "2014-08-22"
     },
     {
       "id": 83100,
@@ -1910,21 +1912,6 @@
       "firstAirDate": "2013-10-03"
     },
     {
-      "id": 256721,
-      "name": "Gachiakuta",
-      "overview": "Dans une ville flottante où les riches se débarrassent de leurs déchets, comme de leurs habitants indésirables, Rudo est accusé de meurtre et jeté dans la Fosse où vivent des créatures mutantes. Pour survivre, il doit révéler un nouveau pouvoir et rejoindre les Nettoyeurs. Rudo ne cherche pas seulement à combattre les monstres, mais aussi les personnes corrompues qui l'ont jeté dans cet enfer.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mrapJp0qb6Fvo3IW9IrjCK9IgSo.jpg",
-      "genres": [
-        16,
-        10759,
-        18,
-        10765
-      ],
-      "voteAverage": 8.508,
-      "firstAirDate": "2025-07-06"
-    },
-    {
       "id": 89901,
       "name": "Dickinson",
       "overview": "Dans les années 1800, l'adolescence de la poétesse Emily Dickinson et sa confrontation aux questions de genre et aux problèmes de société de son époque...",
@@ -2050,6 +2037,18 @@
       "firstAirDate": "2018-10-27"
     },
     {
+      "id": 125910,
+      "name": "Young Royals",
+      "overview": "Le prince Wilhelm s'adapte à la vie à Hillerska, son nouveau pensionnat prestigieux, mais suivre son cœur s'avère plus compliqué que prévu.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGGAoM8ojRHOXj16n6xWiccKr34.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1A2Wh7Vs1YCmDNeRhBP2eP9ZAJj.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.505,
+      "firstAirDate": "2021-07-01"
+    },
+    {
       "id": 77721,
       "name": "3D Kanojo: Real Girl",
       "overview": "Hikaru Tsuisui est un lycéen que l'on pourrait décrire comme un otaku. Il est tellement renfermé sur lui-même que ses camarades de classe ne le connaissent pas du tout.\n\nIl est un jour de corvée de nettoyage de la piscine scolaire avec la belle et désinvolte Igarashi Iroha qui est populaire auprès de nombreux garçons. Cette rencontre changera le cours de sa vie, mais de quelle façon ?",
@@ -2062,20 +2061,6 @@
       ],
       "voteAverage": 8.504,
       "firstAirDate": "2018-04-04"
-    },
-    {
-      "id": 124364,
-      "name": "FROM",
-      "overview": "Découvrez le mystère d'une ville cauchemardesque dans le centre des États-Unis qui piège tous ceux qui y entrent. Alors que les habitants réticents se battent pour garder un sentiment de normalité et cherchent une issue, ils doivent également survivre aux menaces de la forêt environnante, y compris les créatures terrifiantes qui sortent lorsque le soleil se couche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
-      "genres": [
-        9648,
-        18,
-        10765
-      ],
-      "voteAverage": 8.503,
-      "firstAirDate": "2022-02-20"
     },
     {
       "id": 58474,
@@ -2105,18 +2090,18 @@
       "firstAirDate": "2018-01-11"
     },
     {
-      "id": 94664,
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "overview": "« Ici, je vais me transcender ! » Un anonyme de 34 ans, célibataire endurci, reclus et au chômage se fait écraser par un camion peu après avoir été chassé de la maison familiale. Quelle ne fut pas sa surprise lorsqu'il se réveilla bébé dans un monde d'épées et de magie ! Rudeus, comme il s'appelait désormais, jura alors de réussir sa deuxième vie et de tirer un trait sur l'immonde déchet qu'il avait été 34 ans durant. Dès son jeune âge, il nouera de nombreux liens dans ce nouveau monde, notamment une solide amitié avec trois fillettes, avant de partir pour une aventure aussi palpitante que périlleuse. Une seconde chance lui a été accordée… et elle ne sera pas de tout repos !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "id": 124364,
+      "name": "FROM",
+      "overview": "Découvrez le mystère d'une ville cauchemardesque dans le centre des États-Unis qui piège tous ceux qui y entrent. Alors que les habitants réticents se battent pour garder un sentiment de normalité et cherchent une issue, ils doivent également survivre aux menaces de la forêt environnante, y compris les créatures terrifiantes qui sortent lorsque le soleil se couche.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ubZpbtVOZJulIiqYWOPUl5DvaBY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
       "genres": [
-        10759,
-        16,
+        9648,
+        18,
         10765
       ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2021-01-11"
+      "voteAverage": 8.501,
+      "firstAirDate": "2022-02-20"
     },
     {
       "id": 5811,
@@ -2174,18 +2159,32 @@
       "firstAirDate": "2005-12-08"
     },
     {
-      "id": 61222,
-      "name": "BoJack Horseman",
-      "overview": "Retrouvez le cheval le plus adulé des années 1990, 20 ans plus tard. Il a beau avoir un caractère de cochon, au fond, c'est quand même un chouette type.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qFYDJUIFh8zgEDy3EvnHwhgOl0S.jpg",
+      "id": 259909,
+      "name": "Dexter: Resurrection",
+      "overview": "Après avoir survécu à ses blessures, Dexter se retrouve à New York. Il tente de renouer une relation avec son fils mais des meurtres rituels ensanglantent Big Apple.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/teZOzBZhugzh7UfW6xuPp4wJ5oU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
       "genres": [
-        16,
-        35,
-        18
+        80,
+        18,
+        9648
       ],
       "voteAverage": 8.5,
-      "firstAirDate": "2014-08-22"
+      "firstAirDate": "2025-07-13"
+    },
+    {
+      "id": 31910,
+      "name": "Naruto Shippuden",
+      "overview": "Cela fait désormais trois ans que Naruto est parti de Konoha en entraînement spécial avec le Sannin légendaire Jiraya, avec toujours en tête son fol espoir de retrouver son ami Sasuke et de le ramener parmi les siens au village. Cette suite des aventures du ninja à la tignasse dorée reprend avec son retour dans le village de Konoha, marquées par diverses retrouvailles avec ses amis de toujours et le danger imminent que représente l'organisation Akatsuki à son encontre... ",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/trpC27FSu6GIjPVzhuCvTJ3wifD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2007-02-15"
     },
     {
       "id": 94796,
@@ -2244,16 +2243,19 @@
       "firstAirDate": "2020-04-01"
     },
     {
-      "id": 125910,
-      "name": "Young Royals",
-      "overview": "Le prince Wilhelm s'adapte à la vie à Hillerska, son nouveau pensionnat prestigieux, mais suivre son cœur s'avère plus compliqué que prévu.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uGGAoM8ojRHOXj16n6xWiccKr34.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/1A2Wh7Vs1YCmDNeRhBP2eP9ZAJj.jpg",
+      "id": 256721,
+      "name": "Gachiakuta",
+      "overview": "Dans une ville flottante où les riches se débarrassent de leurs déchets, comme de leurs habitants indésirables, Rudo est accusé de meurtre et jeté dans la Fosse où vivent des créatures mutantes. Pour survivre, il doit révéler un nouveau pouvoir et rejoindre les Nettoyeurs. Rudo ne cherche pas seulement à combattre les monstres, mais aussi les personnes corrompues qui l'ont jeté dans cet enfer.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mrapJp0qb6Fvo3IW9IrjCK9IgSo.jpg",
       "genres": [
-        18
+        16,
+        10759,
+        18,
+        10765
       ],
       "voteAverage": 8.5,
-      "firstAirDate": "2021-07-01"
+      "firstAirDate": "2025-07-06"
     },
     {
       "id": 67075,
@@ -2284,19 +2286,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2012-01-06"
-    },
-    {
-      "id": 96462,
-      "name": "It's Okay to Not Be Okay",
-      "overview": "Cette série raconte la rencontre entre Moon Gang-tae, aide-soignant qui a appris à taire ses émotions, et Ko Moon-young, une écrivaine brillante mais profondément traumatisée. Avec Sang-tae, le frère autiste de Gang-tae, ils affrontent ensemble leurs blessures d'enfance. La série parle de santé mentale, de traumatismes et d'amour imparfait et montre que guérir commence par s'accepter tel que l'on est.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/HKVk1KiNYzIiRQJQOMZfSeZYvC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
-      "genres": [
-        18,
-        35
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2020-06-20"
     },
     {
       "id": 68349,
@@ -2340,6 +2329,20 @@
       "firstAirDate": "1959-10-02"
     },
     {
+      "id": 35935,
+      "name": "Berserk",
+      "overview": "Midland : un royaume pris depuis un siècle dans l’étau d’une guerre sans merci avec ses voisins. Dans ce Moyen Âge barbare et sans pitié, Guts, un jeune mercenaire, lutte sur les champs de bataille pour survivre au quotidien. Malgré son jeune âge, il se bat avec la rage d’un chien fou et traîne derrière lui une épée au gabarit impressionnant. Alors qu’il sort d’une énième bataille, il est contraint par un pari perdu de rejoindre les Faucons, une troupe de mercenaires dirigés par Griffith, un jeune homme charismatique et mystérieux, qui semble promis à une ascension fulgurante…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        10759,
+        10765,
+        16
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "1997-10-08"
+    },
+    {
       "id": 106600,
       "name": "In the SOOP BTS편",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -2352,19 +2355,6 @@
       "firstAirDate": "2020-08-19"
     },
     {
-      "id": 56568,
-      "name": "Nana",
-      "overview": "Nana Komatsu, une jeune étudiante, décide de quitter sa ville natale pour partir rejoindre son petit ami Shôji, qui étudie dans une école d'art à Tokyo.  Dans le train à destination de la capitale, Nana Komatsu se retrouve à côté de Nana Osaki, une jeune fille qui se rend également à Tokyo pour réaliser son rêve de devenir chanteuse professionnelle, comme son petit ami Ren, le guitariste du groupe populaire\"Trapnest\". Les deux jeunes fille partageant le même nom vont rapidement se lier d'amitié bien que complètement différentes. Leurs chemins vont se croiser alors qu'elles cherchent à s'installer dans Tokyo et finissent par décider d'habiter un même appartement afin de se soutenir mutuellement dans leur amour et leur travail.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5XyTQaZcWgn1iqSuxsh5FRzuJjB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/oDjjcXWIWBbeb6hDE28y4LpTaJd.jpg",
-      "genres": [
-        16,
-        18
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2006-04-05"
-    },
-    {
       "id": 130013,
       "name": "쇼! 챔피언",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -2375,6 +2365,19 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2012-02-14"
+    },
+    {
+      "id": 96462,
+      "name": "It's Okay to Not Be Okay",
+      "overview": "Cette série raconte la rencontre entre Moon Gang-tae, aide-soignant qui a appris à taire ses émotions, et Ko Moon-young, une écrivaine brillante mais profondément traumatisée. Avec Sang-tae, le frère autiste de Gang-tae, ils affrontent ensemble leurs blessures d'enfance. La série parle de santé mentale, de traumatismes et d'amour imparfait et montre que guérir commence par s'accepter tel que l'on est.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/HKVk1KiNYzIiRQJQOMZfSeZYvC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+      "genres": [
+        18,
+        35
+      ],
+      "voteAverage": 8.499,
+      "firstAirDate": "2020-06-20"
     },
     {
       "id": 117648,
@@ -2400,22 +2403,8 @@
         10765,
         10768
       ],
-      "voteAverage": 8.497,
+      "voteAverage": 8.494,
       "firstAirDate": "2016-08-29"
-    },
-    {
-      "id": 35935,
-      "name": "Berserk",
-      "overview": "Midland : un royaume pris depuis un siècle dans l’étau d’une guerre sans merci avec ses voisins. Dans ce Moyen Âge barbare et sans pitié, Guts, un jeune mercenaire, lutte sur les champs de bataille pour survivre au quotidien. Malgré son jeune âge, il se bat avec la rage d’un chien fou et traîne derrière lui une épée au gabarit impressionnant. Alors qu’il sort d’une énième bataille, il est contraint par un pari perdu de rejoindre les Faucons, une troupe de mercenaires dirigés par Griffith, un jeune homme charismatique et mystérieux, qui semble promis à une ascension fulgurante…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        10759,
-        10765,
-        16
-      ],
-      "voteAverage": 8.495,
-      "firstAirDate": "1997-10-08"
     },
     {
       "id": 30991,
@@ -2503,6 +2492,19 @@
       "firstAirDate": "2020-12-12"
     },
     {
+      "id": 56568,
+      "name": "Nana",
+      "overview": "Nana Komatsu, une jeune étudiante, décide de quitter sa ville natale pour partir rejoindre son petit ami Shôji, qui étudie dans une école d'art à Tokyo.  Dans le train à destination de la capitale, Nana Komatsu se retrouve à côté de Nana Osaki, une jeune fille qui se rend également à Tokyo pour réaliser son rêve de devenir chanteuse professionnelle, comme son petit ami Ren, le guitariste du groupe populaire\"Trapnest\". Les deux jeunes fille partageant le même nom vont rapidement se lier d'amitié bien que complètement différentes. Leurs chemins vont se croiser alors qu'elles cherchent à s'installer dans Tokyo et finissent par décider d'habiter un même appartement afin de se soutenir mutuellement dans leur amour et leur travail.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5XyTQaZcWgn1iqSuxsh5FRzuJjB.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/oDjjcXWIWBbeb6hDE28y4LpTaJd.jpg",
+      "genres": [
+        16,
+        18
+      ],
+      "voteAverage": 8.487,
+      "firstAirDate": "2006-04-05"
+    },
+    {
       "id": 79818,
       "name": "Le jardin des météores",
       "overview": "Dong Shan Cai, une jeune fille issue d'un milieu modeste, intègre une prestigieuse université réservée aux héritiers des grandes familles. Elle y affronte le célèbre groupe F4, quatre garçons riches, beaux et arrogants qui règnent sur l'école.  Après avoir tenu tête à  leur leader, Dao Ming Si, elle devient la cible... mais aussi la personne qui va bouleverser leur monde. Entre rivalités, amour, fierté est différences sociale, Shan Cai devra choisir entre son cœur et sa dignité.",
@@ -2541,6 +2543,20 @@
       "firstAirDate": "2022-06-29"
     },
     {
+      "id": 94664,
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "overview": "« Ici, je vais me transcender ! » Un anonyme de 34 ans, célibataire endurci, reclus et au chômage se fait écraser par un camion peu après avoir été chassé de la maison familiale. Quelle ne fut pas sa surprise lorsqu'il se réveilla bébé dans un monde d'épées et de magie ! Rudeus, comme il s'appelait désormais, jura alors de réussir sa deuxième vie et de tirer un trait sur l'immonde déchet qu'il avait été 34 ans durant. Dès son jeune âge, il nouera de nombreux liens dans ce nouveau monde, notamment une solide amitié avec trois fillettes, avant de partir pour une aventure aussi palpitante que périlleuse. Une seconde chance lui a été accordée… et elle ne sera pas de tout repos !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "genres": [
+        10759,
+        16,
+        10765
+      ],
+      "voteAverage": 8.47,
+      "firstAirDate": "2021-01-11"
+    },
+    {
       "id": 1399,
       "name": "Game of Thrones",
       "overview": "Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie, des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. La confrérie de la Garde de Nuit, protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur, n'a plus les ressources nécessaires pour assurer la sécurité de tous. Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, complots et rivalités se jouent sur le continent pour s'emparer du Trône de fer, le symbole du pouvoir absolu.",
@@ -2565,33 +2581,6 @@
       ],
       "voteAverage": 8.455,
       "firstAirDate": "2017-09-25"
-    },
-    {
-      "id": 76479,
-      "name": "The Boys",
-      "overview": "Lorsque les super-héros abusent de leurs super-pouvoirs au lieu de les utiliser pour faire le bien, les Boys se lancent dans une quête héroïque pour révéler la vérité sur Les Sept et Vought, le conglomérat qui couvre leurs sales secrets.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
-      "genres": [
-        10765,
-        10759
-      ],
-      "voteAverage": 8.44,
-      "firstAirDate": "2019-07-25"
-    },
-    {
-      "id": 101172,
-      "name": "Swallowed Star",
-      "overview": "L'histoire se déroule dans un univers post-apocalyptique suite à l'émergence d'un virus inconnu, le virus RR, qui a muté la faune terrestre en monstres féroces et territoriaux.  Le protagoniste, Luo Feng, est un jeune homme de 18 ans issu d'une famille pauvre qui aspire à devenir Guerrier pour protéger les siens et améliorer leur vie. Après une attaque de monstre qui menace sa ville, Luo Feng découvre un talent exceptionnel pour le combat. Il rejoint une académie militaire et commence son entraînement. Au fil des épisodes, il doit faire face à des ennemis puissants, des trahisons au sein des grandes familles dirigeantes, et des créatures mythiques (comme les dragons). Luo Feng doit constamment repousser ses limites, exploiter son potentiel caché et s'allier à des mentors puissants (comme Hong et Lei Shen) pour survivre et protéger l'humanité.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
-      "genres": [
-        16,
-        10765,
-        10759
-      ],
-      "voteAverage": 8.432,
-      "firstAirDate": "2020-11-29"
     },
     {
       "id": 63174,
@@ -2620,18 +2609,6 @@
       "firstAirDate": "2014-01-08"
     },
     {
-      "id": 1668,
-      "name": "Friends",
-      "overview": "Les péripéties de 6 jeunes newyorkais liés par une profonde amitié. Entre amour, travail, famille, ils partagent leurs bonheurs et leurs soucis au Central Perk, leur café favori...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.414,
-      "firstAirDate": "1994-09-22"
-    },
-    {
       "id": 44006,
       "name": "Chicago Fire",
       "overview": "Un aperçu captivant de la vie de héros du quotidien engagés dans l'une des professions les plus nobles des États-Unis. Pour les pompiers, les secouristes et les ambulanciers de la caserne 51 de Chicago, aucun métier n'est plus stressant ni plus dangereux, mais en même temps aussi gratifiant et exaltant. Ces hommes et ces femmes courageux font partie de cette élite qui se jette tête la première dans le danger alors que tout le monde s'enfuit dans la direction opposée, et dont les actions font la différence entre la vie et la mort.",
@@ -2642,6 +2619,45 @@
       ],
       "voteAverage": 8.408,
       "firstAirDate": "2012-10-10"
+    },
+    {
+      "id": 94997,
+      "name": "House of the Dragon",
+      "overview": "Près de 200 ans avant les évènements de Game of Thrones, le continent de Westeros est en proie à de nombreux dangers. Une guerre civile se prépare dans différents endroits du royaume : cette guerre sera appelée la Danse des Dragons. De son côté, la maison Targaryen se disloque peu à peu et le règne des dragons est menacé.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "genres": [
+        10765,
+        18,
+        10759
+      ],
+      "voteAverage": 8.4,
+      "firstAirDate": "2022-08-21"
+    },
+    {
+      "id": 76479,
+      "name": "The Boys",
+      "overview": "Lorsque les super-héros abusent de leurs super-pouvoirs au lieu de les utiliser pour faire le bien, les Boys se lancent dans une quête héroïque pour révéler la vérité sur Les Sept et Vought, le conglomérat qui couvre leurs sales secrets.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Tw8TB9ikrcgzJgR0LOvgfnXD74.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+      "genres": [
+        10765,
+        10759
+      ],
+      "voteAverage": 8.4,
+      "firstAirDate": "2019-07-25"
+    },
+    {
+      "id": 1668,
+      "name": "Friends",
+      "overview": "Les péripéties de 6 jeunes newyorkais liés par une profonde amitié. Entre amour, travail, famille, ils partagent leurs bonheurs et leurs soucis au Central Perk, leur café favori...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 8.4,
+      "firstAirDate": "1994-09-22"
     },
     {
       "id": 30984,
@@ -2687,18 +2703,19 @@
       "firstAirDate": "2018-10-02"
     },
     {
-      "id": 94997,
-      "name": "House of the Dragon",
-      "overview": "Près de 200 ans avant les évènements de Game of Thrones, le continent de Westeros est en proie à de nombreux dangers. Une guerre civile se prépare dans différents endroits du royaume : cette guerre sera appelée la Danse des Dragons. De son côté, la maison Targaryen se disloque peu à peu et le règne des dragons est menacé.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lP73xk4HGJ9CPxDWouzKzK6j82o.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "id": 285993,
+      "name": "BLACK TORCH",
+      "overview": "Adolescent au grand cœur capable de communiquer avec le monde animal, Jiro est issu d'une longue lignée de ninjas. Lorsqu'il rencontre Rago, un mystérieux chat mononoke, le monde des humains et celui des esprits entrent en collision ! Une agence d'espionnage secrète s'efforce de limiter les dégâts, mais le pouvoir de Rago n'est pas facile à maîtriser.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qxPsSYAiNhFLETmFJZ0s5HWyYhr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
       "genres": [
-        10765,
-        18,
-        10759
+        16,
+        9648,
+        10759,
+        10765
       ],
-      "voteAverage": 8.378,
-      "firstAirDate": "2022-08-21"
+      "voteAverage": 8.375,
+      "firstAirDate": "2026-07-04"
     },
     {
       "id": 4087,
@@ -2741,6 +2758,20 @@
       ],
       "voteAverage": 8.362,
       "firstAirDate": "1999-03-28"
+    },
+    {
+      "id": 255358,
+      "name": "THE GHOST IN THE SHELL",
+      "overview": "2029, un Japon du futur proche. Le cyborg Motoko Kusanagi envisage une unité de lutte contre les menaces émergentes. Daisuke Aramaki recrute son équipe et forme la Section 9 de la Sécurité publique, alias l'« Unité spéciale ». Un complot se dessine et un hacker émerge : le « Marionnettiste ». Que réserve l'avenir à Kusanagi ? Que veut ce hacker ? Une nouvelle ère d'action cyberpunk commence !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v6D7aBJynhY6opGugGJkofzknw6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.352,
+      "firstAirDate": "2026-07-07"
     },
     {
       "id": 97546,
@@ -2795,6 +2826,20 @@
       "firstAirDate": "2005-09-13"
     },
     {
+      "id": 212907,
+      "name": "La vengeance de Jana",
+      "overview": "En 1913, le monde s'apprête à basculer dans le chaos. Au château de La Promesa, propriété des marquis de Luján, Jana, qui vient d'être engagée, veut se venger de ceux qui ont causé la mort de sa mère et retrouver son frère disparu.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/t6q9xzdt3XGnEvbvMtD9GxpQaW4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/AhLtSrSpAPtpBEmA3T0N3d5MPe8.jpg",
+      "genres": [
+        18,
+        9648,
+        10766
+      ],
+      "voteAverage": 8.307,
+      "firstAirDate": "2023-01-12"
+    },
+    {
       "id": 4057,
       "name": "Esprits criminels",
       "overview": "L'équipe des profilers étudie les comportements et les esprits torturés des criminels les plus dangereux du pays, afin d'anticiper les crimes d'un éventuel tueur. Chaque membre de cette unité d'élite a sa personnalité, son histoire mais aussi sa spécialité. Ils sont tous dépendants les uns des autres et les résultats dépendent aussi de cette complémentarité.",
@@ -2836,19 +2881,31 @@
       "firstAirDate": "2024-01-17"
     },
     {
-      "id": 285993,
-      "name": "BLACK TORCH",
-      "overview": "Adolescent au grand cœur capable de communiquer avec le monde animal, Jiro est issu d'une longue lignée de ninjas. Lorsqu'il rencontre Rago, un mystérieux chat mononoke, le monde des humains et celui des esprits entrent en collision ! Une agence d'espionnage secrète s'efforce de limiter les dégâts, mais le pouvoir de Rago n'est pas facile à maîtriser.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qxPsSYAiNhFLETmFJZ0s5HWyYhr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
+      "id": 39351,
+      "name": "Grimm",
+      "overview": "Lorsque Nick Burkhardt, un détective spécialisé dans les homicides, reçoit la visite de sa tante malade, toutes les choses étranges qu'il a vues jusqu'alors prennent sens. En effet, sa tante l'informe que tous deux sont chasseurs de \"Grimms\" et qu'ils sont chargés de protéger l'humanité contre les créatures surnaturelles. Nick fouille dans le passé de sa tante et découvre qu'il a la même responsabilité que ses ancêtres et qu'il est étroitement lié à la mythologie des Frères Grimm. Alors que Burkhardt tente de dissimuler les dangers de sa nouvelle mission à sa fiancée et à son collègue, il s'embourbe dans les vieilles rivalités de l'univers des frères Grimm.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
       "genres": [
-        16,
+        18,
         9648,
-        10759,
         10765
       ],
       "voteAverage": 8.3,
-      "firstAirDate": "2026-07-04"
+      "firstAirDate": "2011-10-28"
+    },
+    {
+      "id": 4629,
+      "name": "Stargate SG-1",
+      "overview": "Suite à l'invasion de la base Stargate par des extraterrestres, le colonel en retraite, Jack O'Neill, est appelé à la rescousse. Il apprend ainsi l'existence de centaines de Portes des étoiles donnant sur autant de mondes différents. Un groupe d'explorateurs, Stargate SG-1, est alors constitué et envoyé à la découverte de tous ces nouveaux mondes...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/i1pG8vJvGZnYdlFeldq9PvnJC9B.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/yOyzlRw54oYaGvhUBdPr7TFwtrX.jpg",
+      "genres": [
+        10765,
+        10759
+      ],
+      "voteAverage": 8.3,
+      "firstAirDate": "1997-07-27"
     },
     {
       "id": 688,
@@ -2886,19 +2943,6 @@
       ],
       "voteAverage": 8.269,
       "firstAirDate": "2018-06-20"
-    },
-    {
-      "id": 4629,
-      "name": "Stargate SG-1",
-      "overview": "Suite à l'invasion de la base Stargate par des extraterrestres, le colonel en retraite, Jack O'Neill, est appelé à la rescousse. Il apprend ainsi l'existence de centaines de Portes des étoiles donnant sur autant de mondes différents. Un groupe d'explorateurs, Stargate SG-1, est alors constitué et envoyé à la découverte de tous ces nouveaux mondes...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i1pG8vJvGZnYdlFeldq9PvnJC9B.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/yOyzlRw54oYaGvhUBdPr7TFwtrX.jpg",
-      "genres": [
-        10765,
-        10759
-      ],
-      "voteAverage": 8.268,
-      "firstAirDate": "1997-07-27"
     },
     {
       "id": 1400,
@@ -3032,31 +3076,6 @@
       "firstAirDate": "2026-07-03"
     },
     {
-      "id": 124003,
-      "name": "Perfect World",
-      "overview": "Né dans un monde unique où les villages se battent pour obtenir le pouvoir et le contrôle, le personnage principal, Shi Hao, est un génie béni par les cieux né dans les conditions les plus pauvres. Son clan, cependant, a un passé mystérieux. Pour s'élever et devenir le génie qu'il est censé être, le clan fait tout son possible pour l'aider à se développer alors qu'il combat des monstres fanatiques et s'engage dans des luttes de pouvoir avec d'autres clans. Son voyage le mènera à travers des terres inconnues jusqu'à ce qu'il soit capable de devenir une personne capable de vraiment secouer le monde.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mNJPCv2dLADVVSgLlzsMJoXdTmb.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qgTHKXeje3iInDXFaIBsIHpJQzu.jpg",
-      "genres": [
-        16,
-        10759
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2021-04-23"
-    },
-    {
-      "id": 109096,
-      "name": "密室大逃脱 大神版",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hAMORqnXSHNzQbnJ6gykTddW2gQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/f9AEnKHApSKiJ6GAKFcgdCI6fZ.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2019-04-01"
-    },
-    {
       "id": 194916,
       "name": "Chiikawa",
       "overview": "Suivez le quotidien d’une adorable créature baptisée “Chiikawa”.",
@@ -3083,6 +3102,32 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2022-10-03"
+    },
+    {
+      "id": 109096,
+      "name": "密室大逃脱 大神版",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hAMORqnXSHNzQbnJ6gykTddW2gQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/f9AEnKHApSKiJ6GAKFcgdCI6fZ.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2019-04-01"
+    },
+    {
+      "id": 513,
+      "name": "Batman - La relève",
+      "overview": "Trop vieux et incapable de poursuivre sa mission, Bruce Wayne raccroche le costume de Batman. Vingt ans plus tard, Gotham City est devenue une ville ultramoderne mais gangrénée par le crime. Le jeune Terry McGinnis, adolescent difficile, découvre la Batcave : Bruce Wayne, qui vit désormais reclus dans son manoir, est découvert ! Mais un événement tragique va unir les destinées de ces deux êtres torturés. Le père de Terry est assassiné par les hommes de main de l'homme d'affaire Derek Powers. Fou de rage, Terry enfile le costume de Batman et devient le nouveau justicier de Gotham...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iqGcqPWFoYiBwUCEeWpe9UMj2nF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/A8We2BSM6hJ1VWzncssnU2fFsft.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "1999-01-10"
     },
     {
       "id": 4604,
@@ -3121,7 +3166,7 @@
         10765,
         18
       ],
-      "voteAverage": 8.179,
+      "voteAverage": 8.18,
       "firstAirDate": "2023-05-04"
     },
     {
@@ -3134,48 +3179,8 @@
         18,
         35
       ],
-      "voteAverage": 8.168,
+      "voteAverage": 8.167,
       "firstAirDate": "2011-01-09"
-    },
-    {
-      "id": 259140,
-      "name": "Ranma1/2",
-      "overview": "Akane Tendo fait la connaissance de son nouveau fiancé, Ranma Saotomé, prodige des arts martiaux qui possède une particularité : il se transforme en fille au contact de l'eau froide.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paz1BKuMqwOW7FGMe5xqcTEstgx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
-      "genres": [
-        16,
-        10759,
-        35
-      ],
-      "voteAverage": 8.128,
-      "firstAirDate": "2024-10-06"
-    },
-    {
-      "id": 1402,
-      "name": "The Walking Dead",
-      "overview": "Après une apocalypse, ayant transformé la quasi-totalité de la population en zombies, un groupe d'hommes et de femmes, mené par le shérif adjoint Rick Grimes, tente de survivre… Ensemble, ils vont devoir, tant bien que mal, faire face à ce nouveau monde, devenu méconnaissable, à travers leur périple dans le Sud profond des États-Unis.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cVDzRylKifHGS1PFNlePfJ8sxUj.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
-      "genres": [
-        10759,
-        18,
-        10765
-      ],
-      "voteAverage": 8.1,
-      "firstAirDate": "2010-10-31"
-    },
-    {
-      "id": 82428,
-      "name": "All American",
-      "overview": "Spencer James, un jeune athlète issu des quartiers difficiles de la banlieue de Los Angeles, est recruté par le prestigieux Beverly Hills High, afin qu'il rejoigne l'équipe de football américain du lycée. Tout en tentant de s'adapter à ce nouvel environnement très aisé, au sein duquel il n'est pas forcément le bienvenu, Spencer débute alors une nouvelle vie, qui le mènera petit à petit, mais non sans embûches, vers son rêve : devenir footballeur professionnel.\n\nInspirée de la vie du joueur de football américain Spencer Paysinger",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/6npymlbLc0SMqqktCpu7X7K4eJy.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.1,
-      "firstAirDate": "2018-10-10"
     },
     {
       "id": 1411,
@@ -3205,6 +3210,35 @@
       ],
       "voteAverage": 8.097,
       "firstAirDate": "2013-03-03"
+    },
+    {
+      "id": 295434,
+      "name": "Kamen Rider Zeztz",
+      "overview": "Baku Yorozu est un jeune homme ordinaire, menant une vie sans histoire. Toutefois, il détient le pouvoir de contrôler les rêves. Une fois dans le monde des rêves, il devient un agent spécial capable de mener à bien n’importe quelle mission. Dans ce monde onirique, il fait un jour, par hasard, la découverte de Nightmare, une créature monstrueuse décidée à utiliser le monde des rêves pour envahir le monde réel. Mis en difficulté, un mystérieux bienfaiteur lui confie alors une ceinture étrange qui le transforme en Kamen Rider Zeztz, lui offrant ainsi des super-pouvoirs pour protéger la réalité. Fais de ton rêve une réalité… et prépare-toi. Au combat !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tgGRWGYWBZjnY3OUosuCP7cFl0f.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/bPIHW0mZhfZ21Xr7w2Cr3JCFIju.jpg",
+      "genres": [
+        10759,
+        10765,
+        35,
+        18
+      ],
+      "voteAverage": 8.094,
+      "firstAirDate": "2025-09-07"
+    },
+    {
+      "id": 1402,
+      "name": "The Walking Dead",
+      "overview": "Après une apocalypse, ayant transformé la quasi-totalité de la population en zombies, un groupe d'hommes et de femmes, mené par le shérif adjoint Rick Grimes, tente de survivre… Ensemble, ils vont devoir, tant bien que mal, faire face à ce nouveau monde, devenu méconnaissable, à travers leur périple dans le Sud profond des États-Unis.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cVDzRylKifHGS1PFNlePfJ8sxUj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+      "genres": [
+        10759,
+        18,
+        10765
+      ],
+      "voteAverage": 8.085,
+      "firstAirDate": "2010-10-31"
     },
     {
       "id": 65733,
@@ -3346,21 +3380,6 @@
       "firstAirDate": "2009-01-05"
     },
     {
-      "id": 295434,
-      "name": "Kamen Rider Zeztz",
-      "overview": "Baku Yorozu est un jeune homme ordinaire, menant une vie sans histoire. Toutefois, il détient le pouvoir de contrôler les rêves. Une fois dans le monde des rêves, il devient un agent spécial capable de mener à bien n’importe quelle mission. Dans ce monde onirique, il fait un jour, par hasard, la découverte de Nightmare, une créature monstrueuse décidée à utiliser le monde des rêves pour envahir le monde réel. Mis en difficulté, un mystérieux bienfaiteur lui confie alors une ceinture étrange qui le transforme en Kamen Rider Zeztz, lui offrant ainsi des super-pouvoirs pour protéger la réalité. Fais de ton rêve une réalité… et prépare-toi. Au combat !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tgGRWGYWBZjnY3OUosuCP7cFl0f.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/bPIHW0mZhfZ21Xr7w2Cr3JCFIju.jpg",
-      "genres": [
-        10759,
-        10765,
-        35,
-        18
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2025-09-07"
-    },
-    {
       "id": 19538,
       "name": "Fantástico",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3372,20 +3391,6 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "1973-08-05"
-    },
-    {
-      "id": 71728,
-      "name": "Young Sheldon",
-      "overview": "Au Texas, un état où le football et la religion règnent, il n'est pas facile d'être un esprit scientifique hors du commun. Cette série raconte la jeunesse de Sheldon Cooper, personnage atypique et excentrique de la série THE BIG BANG THEORY. Alors que le jeune garçon cherche comment évoluer au sein de sa très normale famille, cette dernière doit aussi trouver un moyen de comprendre cet être à la fois malaisant et attachant.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-      "genres": [
-        35,
-        10751,
-        18
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2017-09-25"
     },
     {
       "id": 113962,
@@ -3575,20 +3580,6 @@
       "firstAirDate": "2023-06-24"
     },
     {
-      "id": 121,
-      "name": "Doctor Who",
-      "overview": "Les aventures du Docteur, un extraterrestre, un Seigneur du Temps originaire de la planète Gallifrey, qui voyage à bord d'un TARDIS (Temps À Relativité Dimensionnelle Inter-Spatiale), une machine pouvant voyager dans l'espace et dans le temps. Le TARDIS a l'apparence d'une cabine de police (construction typiquement britannique ressemblant à une cabine téléphonique), le système de camouflage étant resté bloqué. Comme tous les Seigneur du Temps, le Docteur possède treize vies, ce qui explique sa capacité à changer de corps lorsqu'il est proche de la mort.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
-      "genres": [
-        18,
-        10759,
-        10765
-      ],
-      "voteAverage": 7.9,
-      "firstAirDate": "1963-11-23"
-    },
-    {
       "id": 693,
       "name": "Desperate Housewives",
       "overview": "Derrière une façade tirée d'une carte postale vivent quatre femmes dont l'existence est tout sauf idéale. Susan est maladroite, divorcée et mère d'une adolescente nommée Julie. Lynette est mariée avec Tom et ont quatre enfants tapageurs qui la poussent à bout. Bree est la Martha Stewart du voisinage, dont la perfection dissimule des problèmes majeurs. Enfin Gabrielle, ex-mannequin mariée avec le séduisant et prospère Carlos, espère avoir le beurre et l'argent du beurre. Leurs vies sont suivies et commentées de tout haut par Mary Alice, une ancienne voisine qui s'est suicidée.",
@@ -3630,19 +3621,6 @@
       "firstAirDate": "2024-07-31"
     },
     {
-      "id": 57775,
-      "name": "ちびまる子ちゃん",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/auruoMM9a9c4diotHvI5v7dKFbF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/vuajwjep1FxphPhMEWKv4bfrCnf.jpg",
-      "genres": [
-        16,
-        35
-      ],
-      "voteAverage": 7.833,
-      "firstAirDate": "1990-01-07"
-    },
-    {
       "id": 4588,
       "name": "Urgences",
       "overview": "À Chicago, l'hôpital Cook County dispose d'un service des urgences dans lequel œuvre une équipe de médecins dévoués et courageux, sous la houlette du docteur Mark Greene. Leur quotidien est ponctué de drames et de victoires, mais aussi de difficultés personnelles, professionnelles ou sentimentales.",
@@ -3655,30 +3633,32 @@
       "firstAirDate": "1994-09-19"
     },
     {
-      "id": 269,
-      "name": "Les Frères Scott",
-      "overview": "A Tree Hill, petite ville de Caroline du Sud, tout le monde connaît les frères Scott. S'ils portent le même nom, tout les sépare et les rapproche à la fois. L'un, Nathan, arrogant et sûr de lui, vit les rêves que son père Dan n'a pu satisfaire. L'autre, Lucas, calme et posé, cherche à faire honneur à Karen, sa mère célibataire.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m7l8e3feBzJu9sosBKTJjAnAbt9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/gJOpHgHa37qnglH3dL9g63iztky.jpg",
+      "id": 71715,
+      "name": "Good Girls",
+      "overview": "Trois mères de famille bien comme il faut orchestrent le casse d'un supermarché pour échapper à la ruine et accéder à l'indépendance. Toutes pour une, et une pour toutes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wpgg6G3UHXepH2Zgpt4W60d6gxR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/csOIulXwQxsuCFp3ZZ9cYkJmCwH.jpg",
       "genres": [
-        18
+        18,
+        80
       ],
-      "voteAverage": 7.828,
-      "firstAirDate": "2003-09-23"
+      "voteAverage": 7.818,
+      "firstAirDate": "2018-02-26"
     },
     {
-      "id": 236534,
-      "name": "Tales of Herding Gods",
-      "overview": "Tales of Herding Gods suit Qin Mu, un jeune garçon élevé par neuf anciens mystérieux dans un village reculé. Un jour, la vache qu’il garde se met à parler, révélant que le monde autour de lui est peuplé de dangers surnaturels, de créatures divines et de secrets anciens ; il doit alors affronter des démons, découvrir ses capacités, progresser dans les arts martiaux et façonner son propre chemin vers la force suprême dans un univers riche en action et légendes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jPHitNQ1fuKK6aPZ6eCPiFq9XhG.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/sp1uF4oqusseJQ7yP417LSUAwE2.jpg",
+      "id": 82452,
+      "name": "Avatar : Le dernier maître de l'air",
+      "overview": "Un garçon que l'on appelle l'Avatar doit maîtriser les quatre pouvoirs élémentaires pour sauver un monde en guerre et lutter contre un ennemi cruel résolu à l'arrêter.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
       "genres": [
-        16,
+        10759,
         10765,
-        10759
+        18,
+        10751
       ],
-      "voteAverage": 7.824,
-      "firstAirDate": "2024-10-27"
+      "voteAverage": 7.8,
+      "firstAirDate": "2024-02-22"
     },
     {
       "id": 32726,
@@ -3705,21 +3685,6 @@
       ],
       "voteAverage": 7.798,
       "firstAirDate": "2004-08-06"
-    },
-    {
-      "id": 82452,
-      "name": "Avatar : Le dernier maître de l'air",
-      "overview": "Un garçon que l'on appelle l'Avatar doit maîtriser les quatre pouvoirs élémentaires pour sauver un monde en guerre et lutter contre un ennemi cruel résolu à l'arrêter.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pk1GZM0HCLVBI9uahEX1Kuz2FfT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg",
-      "genres": [
-        10759,
-        10765,
-        18,
-        10751
-      ],
-      "voteAverage": 7.789,
-      "firstAirDate": "2024-02-22"
     },
     {
       "id": 1973,
@@ -3762,30 +3727,17 @@
       "firstAirDate": "2014-10-07"
     },
     {
-      "id": 296206,
-      "name": "Agent Kim Reactivated",
-      "overview": "Quand sa fille disparaît, un père en apparence sans histoire retrouve ses qualités d'agent secret pour la retrouver — et s'attire des ennuis.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "id": 79166,
+      "name": "Grand Blue Dreaming",
+      "overview": "Quand Iori Kitahara part pour l‘université, il décide de s’installer dans la boutique de plongée de son oncle à Izu, Grand Blue. Iori a hâte de vivre la vie d’étudiant parmi le grondement des vagues, le soleil brûlant, et sa cousine qui vit avec lui. Mais Iori tombe sur un groupe de gros bras amateurs de parties de strip pierre-papier-ciseaux, et intègre le club de plongée de la fac, Peek-a-Boo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/pJqAgDico7ZTMAfAXyzldYqj5ME.jpg",
       "genres": [
-        10759,
-        80,
-        18
-      ],
-      "voteAverage": 7.746,
-      "firstAirDate": "2026-06-26"
-    },
-    {
-      "id": 4239,
-      "name": "Mariés, deux enfants",
-      "overview": "Cette série met en scène la vie quotidienne d'une famille américaine.\n\nLe père, profondément machiste, déteste son boulot de vendeur de chaussures, et n'est heureux que dans son canapé devant la télé avec une main dans le pantalon ; sa famille l'exaspère\n\nSa fille, Kelly, est l'exemple type de la blonde complètement idiote, son fils Bud tente désespérément de ramener des filles à la maison, et sa femme Peggy est mère au foyer, mais en 20 ans de mariage elle n'a jamais fait la cuisine, la vaisselle, ni lavé le linge, et adore rester devant la télé quand Al est au travail, ou faire du shopping avec le peu d'argent que gagne son mari.\n\nComme si cela ne suffisait pas, Al doit également supporter Marcy, la voisine qu'il qualifie de « dinde aux mamelles atrophiées » et qui passe son temps à le critiquer avec l'aide de Peggy. Heureusement, il y a Jefferson et Steeve, deux hommes prisonniers de Marcy par le mariage, qui eux aussi fréquentent le « Nibar'bar ».",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u8qgRXYg0CL5PCh4PEtMfjvUyMl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
-      "genres": [
+        16,
         35
       ],
-      "voteAverage": 7.742,
-      "firstAirDate": "1987-04-05"
+      "voteAverage": 7.741,
+      "firstAirDate": "2018-07-14"
     },
     {
       "id": 32798,
@@ -3814,6 +3766,20 @@
       ],
       "voteAverage": 7.71,
       "firstAirDate": "1957-09-21"
+    },
+    {
+      "id": 296206,
+      "name": "Agent Kim Reactivated",
+      "overview": "Quand sa fille disparaît, un père en apparence sans histoire retrouve ses qualités d'agent secret pour la retrouver — et s'attire des ennuis.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "genres": [
+        10759,
+        80,
+        18
+      ],
+      "voteAverage": 7.7,
+      "firstAirDate": "2026-06-26"
     },
     {
       "id": 5092,
@@ -3927,6 +3893,20 @@
       "firstAirDate": "2000-10-06"
     },
     {
+      "id": 110181,
+      "name": "The God of War Dominates",
+      "overview": "Le protagoniste Qin Chen, qui était à l’origine le génie suprême dans le domaine militaire, a été conspiré par le peuple pour tomber dans le canyon de la mort sur la terre interdite du continent. Qin Chen, qui était inévitablement mort, a déclenché de manière inattendue le pouvoir de la mystérieuse épée ancienne.\n\nTrois cents ans plus tard, dans une partie reculée du continent de Tianwu, un garçon du même nom hérita accidentellement du testament de Qin Chen. En tant que petit-fils bien-aimé du roi Dingwu de l’armée nationale de Daqi, en raison de la naissance du père biologique, la mère et le fils ont été traités froidement dans le palais de Dingwu et ont vécu ensemble. Afin de réécrire le mythe de l’homme fort dans l’espoir du soleil, et de protéger tout ce qu’il aime, Qin Chen a résolument pris la responsabilité de maintenir les cinq royaumes du monde et a remis le pied sur la route des arts martiaux.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6kSasnRWt59wDGTSfiTPcaxmG0F.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/54QqXezmKARpwdnRTzuU68z6kuc.jpg",
+      "genres": [
+        10759,
+        10765,
+        16
+      ],
+      "voteAverage": 7.625,
+      "firstAirDate": "2020-03-07"
+    },
+    {
       "id": 57243,
       "name": "Doctor Who",
       "overview": "Dernier représentant des Seigneurs du temps et âgé de plus de 900 ans, Le Docteur parcourt l'espace et le temps dans son TARDIS. Amoureux de la race humaine, il se fait régulièrement accompagner par une femme ou un homme. Partagé entre folie et génie, insouciant mais conscient de ses responsabilités, il défendra l'humanité quel que soit le prix à payer.",
@@ -3994,6 +3974,18 @@
       "firstAirDate": "2018-04-07"
     },
     {
+      "id": 89861,
+      "name": "密室大逃脱",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qQ221G1KxusTIotpTi4cxDk6O13.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/IGYjrwnFCAL2UahS7E1myQE3JT.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.6,
+      "firstAirDate": "2019-03-30"
+    },
+    {
       "id": 15871,
       "name": "Shark Week",
       "overview": "L’événement le plus attendu de l’été est de retour. La Shark Week, c’est plus de 20 heures de programmes sur toute la semaine. Cette année encore, la programmation vous propose des histoires de requins à couper le souffle. Venez percer les secrets de ces magnifiques créatures des mers.\n\nLa Shark Week, c’est aussi des histoires d’hommes incroyables : près d’une trentaine de biologistes marins et d’experts des requins se mobilisent pour vous. Pour observer ces poissons d’exception, ils utilisent les dernières technologies en adoptant une approche innovante et respectueuse de l’environnement.",
@@ -4056,8 +4048,21 @@
         80,
         9648
       ],
-      "voteAverage": 7.528,
+      "voteAverage": 7.529,
       "firstAirDate": "2009-09-22"
+    },
+    {
+      "id": 299989,
+      "name": "Quiet Please !",
+      "overview": "Après avoir déménagé seul, Yi Hyeok, étudiant, a hâte de commencer une vie tranquille et indépendante. Mais ses rêves se voient vite coupés court par son voisin du dessus, Mid Eum, qui a la fâcheuse habitude de mettre sa musique métal à plein volume. Incapable de dormir et désespéré, Yi Hyeok met au point un plan : offrir un cadeau à Mid Eum et discuter avec lui pour le convaincre de baisser le son. Mais ses tentatives pour se présenter ne rencontrent que musique assourdissante et appels sans réponse, ce qui finit par provoquer une bagarre involontaire. Mid Eum, blessé dans son orgueil et rancunier, repousse les tentatives de réconciliation de Yi Hyeok et ce dernier le déclare son ennemi juré. Pourtant, à leur grande surprise, cette rivalité finit par faire naître entre eux un sentiment bien plus agréable.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ihE0jp6V7R6dMwV7YrbYyjdQMvr.jpg",
+      "genres": [
+        35,
+        16
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "2025-09-02"
     },
     {
       "id": 65282,
@@ -4127,18 +4132,6 @@
       "firstAirDate": "2011-10-25"
     },
     {
-      "id": 56559,
-      "name": "Yamishibai - Histoire de fantômes japonais",
-      "overview": "Cette série d'horreur est basée sur le folklore, les mythes japonais et les légendes urbaines. Elle est mise en scène à la manière du kamishibai, une façon dont les conteurs traditionnels japonais illustraient leur récit à l'aide d'un théâtre de papier. Nous suivons ici un vieil homme qui raconte aux jeunes enfants des histoires souvent terrifiantes…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iYsJyfmQgaOXxr8Y72j8IB5EvFQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/kdgX5uDV5HoaiIo8HsCEyx6ncH6.jpg",
-      "genres": [
-        16
-      ],
-      "voteAverage": 7.411,
-      "firstAirDate": "2013-07-15"
-    },
-    {
       "id": 1434,
       "name": "Les Griffin",
       "overview": "La famille Griffin habite à Quahog, charmante petite bourgade américaine. Peter, le père, a érigé la fainéantise en philosophie de vie. Lois, la mère, est à la fois la femme au foyer bonne à tout faire et le cerveau de la famille. Chris, le fils, a hérité de son père ses formes généreuses et ses préoccupations favorites sont manger, surfer sur le web et manger. Megan, la fille, est l'archétype de l'adolescente en crise : elle ne s'aime pas et, en même temps, attend désespérément son prince. Stewie, le petit dernier, a pour ambition de conquérir le monde. Même Brian, le chien, est complètement fou, ou plutôt très intelligent : il parle, philosophe, débat… Bienvenue chez les Griffin !",
@@ -4148,34 +4141,8 @@
         16,
         35
       ],
-      "voteAverage": 7.406,
+      "voteAverage": 7.407,
       "firstAirDate": "1999-01-31"
-    },
-    {
-      "id": 2122,
-      "name": "Les Rois du Texas",
-      "overview": "Les histoires de la famille Hill, des américains moyens vivant à Arlen. Hank, le papa, est fier de vendre du propane. Son épouse Peggy est professeur d'espagnol remplaçante. Leur enfant Bobby est leur fierté. Plus tard, ce dernier se voit mannequin… ou proctologue.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/35UNjudjCBNzwEAqHGgk1cppQhp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
-      "genres": [
-        16,
-        35,
-        10751
-      ],
-      "voteAverage": 7.4,
-      "firstAirDate": "1997-01-12"
-    },
-    {
-      "id": 95897,
-      "name": "Overflow",
-      "overview": "« Grand frère, on prend vraiment un bain ensemble ? » Et ainsi, une expérience de baignade interdite a commencé. Kazushi, sa sœur et son amie d’enfance – un homme et deux femmes – partagent un bain. Après avoir involontairement «débordé», l’amour secret de la sœur se faite ressentir ?! Il s’agit d’une jeune comédie romantique qui ne vous laissera pas dire « C’est fini ! ». Kazushi, un étudiant vivant seul, s’inquiète de la pérsence de sa sœur et de son amie d’enfance dans son appartement. Ayane, la sœur aînée effrontée et sa sœur cadette, Kotone. Leur présence deviendra une vie ascétique semi-compulsive.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
-      "genres": [
-        16
-      ],
-      "voteAverage": 7.4,
-      "firstAirDate": "2020-01-06"
     },
     {
       "id": 70672,
@@ -4218,6 +4185,20 @@
       "firstAirDate": "2020-05-18"
     },
     {
+      "id": 303493,
+      "name": "ซีรีส์",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/YC0i5PrabFdcok34xG2pIcKivz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/zq22918LdWTkBstphgUfxDZUO7i.jpg",
+      "genres": [
+        18,
+        10765,
+        10759
+      ],
+      "voteAverage": 7.4,
+      "firstAirDate": "2026-06-30"
+    },
+    {
       "id": 94232,
       "name": "Que História é Essa, Porchat?",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -4228,6 +4209,20 @@
       ],
       "voteAverage": 7.4,
       "firstAirDate": "2019-08-06"
+    },
+    {
+      "id": 2122,
+      "name": "Les Rois du Texas",
+      "overview": "Les histoires de la famille Hill, des américains moyens vivant à Arlen. Hank, le papa, est fier de vendre du propane. Son épouse Peggy est professeur d'espagnol remplaçante. Leur enfant Bobby est leur fierté. Plus tard, ce dernier se voit mannequin… ou proctologue.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/35UNjudjCBNzwEAqHGgk1cppQhp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
+      "genres": [
+        16,
+        35,
+        10751
+      ],
+      "voteAverage": 7.4,
+      "firstAirDate": "1997-01-12"
     },
     {
       "id": 549,
@@ -4265,6 +4260,19 @@
       ],
       "voteAverage": 7.2,
       "firstAirDate": "1992-04-06"
+    },
+    {
+      "id": 203744,
+      "name": "Sugar",
+      "overview": "John Sugar est un détective privé élégant qui arpente les coins sombres d'un L.A. ensoleillé. Bien qu'il ne voie que le bon côté de l'humanité, Sugar est hanté par un secret trop dangereux pour être révélé.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+      "genres": [
+        18,
+        9648
+      ],
+      "voteAverage": 7.2,
+      "firstAirDate": "2024-04-04"
     },
     {
       "id": 91121,
@@ -4307,19 +4315,6 @@
       "firstAirDate": "2010-11-08"
     },
     {
-      "id": 203744,
-      "name": "Sugar",
-      "overview": "John Sugar est un détective privé élégant qui arpente les coins sombres d'un L.A. ensoleillé. Bien qu'il ne voie que le bon côté de l'humanité, Sugar est hanté par un secret trop dangereux pour être révélé.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
-      "genres": [
-        18,
-        9648
-      ],
-      "voteAverage": 7.159,
-      "firstAirDate": "2024-04-04"
-    },
-    {
       "id": 277439,
       "name": "Cape Fear - Les Nerfs à vif",
       "overview": "Une tempête approche pour un couple heureux d’avocats quand un tueur tristement célèbre resurgit de leur passé à sa sortie de prison.",
@@ -4331,6 +4326,18 @@
       ],
       "voteAverage": 7.148,
       "firstAirDate": "2026-06-04"
+    },
+    {
+      "id": 4238,
+      "name": "Un gars du Queens",
+      "overview": "Doug Heffernan, chauffeur-livreur, et son épouse Carrie, secrétaire dans un cabinet d'avocats, mènent une vie paisible dans le Queens (quartier de New York) jusqu'au jour où l'excentrique père de Carrie vient s'installer chez eux…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/xF4zSVyrOBO60Lwu2wDN0dBjEgk.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 7.146,
+      "firstAirDate": "1998-09-21"
     }
   ]
 }
