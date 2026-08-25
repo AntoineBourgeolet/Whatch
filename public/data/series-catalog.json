@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:06:48.644Z",
+  "updatedAt": "2026-08-25T06:41:28.027Z",
   "results": [
     {
       "id": 69536,
@@ -14,18 +14,6 @@
       ],
       "voteAverage": 10,
       "firstAirDate": "2015-07-14"
-    },
-    {
-      "id": 308185,
-      "name": "Aşkın Gücü",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zkMOBciCmOJyGgYOw7aICvY516C.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4pjlNXDJ2jsfCVphv2hXOO34L6x.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 10,
-      "firstAirDate": "2022-12-12"
     },
     {
       "id": 10478,
@@ -131,17 +119,6 @@
       "firstAirDate": "2025-11-21"
     },
     {
-      "id": 31472,
-      "name": "Pelotón",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 9,
-      "firstAirDate": "2007-01-02"
-    },
-    {
       "id": 287620,
       "name": "Stuart Fails to Save the Universe",
       "overview": "Le propriétaire de la boutique de comics, Stuart Bloom, est chargé de rétablir la réalité après avoir accidentellement brisé un appareil conçu par Sheldon et Leonard, provoquant ainsi une apocalypse du multivers.",
@@ -151,8 +128,19 @@
         35,
         10765
       ],
-      "voteAverage": 9,
+      "voteAverage": 9.045,
       "firstAirDate": "2026-07-23"
+    },
+    {
+      "id": 31472,
+      "name": "Pelotón",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 9,
+      "firstAirDate": "2007-01-02"
     },
     {
       "id": 86086,
@@ -405,19 +393,6 @@
       "firstAirDate": "2019-05-06"
     },
     {
-      "id": 1398,
-      "name": "Les Soprano",
-      "overview": "USA, New Jersey, Tony Soprano, dit « T » descend d'une lignée de caïds dans le crime organisé. Son père Johnny et son oncle Corrado Junior dit « Junior » ont développé le réseau local et les connexions avec la Mafia de New York.\n\nIl doit faire face à des problèmes de succession au sein de la mafia, des vendettas personnelles, et aux enquêtes du FBI. Il souffre de crises d'angoisse et consulte, en secret, un psychiatre, le Dr Jennifer Melfi. Son rang dans la Mafia ne lui autorise aucune faiblesse. Si l'argent coule à flot, Tony doit aussi gérer sa famille, sa mère Livia, sa sœur Janice, sa femme Carmela, sa fille Meadow et son fils Anthony Jr. mais aussi ses amantes et le tout n'est pas des plus reposants...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qxEIC2pMudIdnPTyfSXr0y866I8.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "1999-01-10"
-    },
-    {
       "id": 250307,
       "name": "The Pitt",
       "overview": "Dans l'Amérique d'aujourd'hui, les professionnels de la santé sont confrontés à de nombreux défis au sein d'un hôpital de Pittsburgh, en Pennsylvanie.",
@@ -581,6 +556,19 @@
       ],
       "voteAverage": 8.683,
       "firstAirDate": "2013-12-02"
+    },
+    {
+      "id": 1398,
+      "name": "Les Soprano",
+      "overview": "USA, New Jersey, Tony Soprano, dit « T » descend d'une lignée de caïds dans le crime organisé. Son père Johnny et son oncle Corrado Junior dit « Junior » ont développé le réseau local et les connexions avec la Mafia de New York.\n\nIl doit faire face à des problèmes de succession au sein de la mafia, des vendettas personnelles, et aux enquêtes du FBI. Il souffre de crises d'angoisse et consulte, en secret, un psychiatre, le Dr Jennifer Melfi. Son rang dans la Mafia ne lui autorise aucune faiblesse. Si l'argent coule à flot, Tony doit aussi gérer sa famille, sa mère Livia, sa sœur Janice, sa femme Carmela, sa fille Meadow et son fils Anthony Jr. mais aussi ses amantes et le tout n'est pas des plus reposants...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qxEIC2pMudIdnPTyfSXr0y866I8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.676,
+      "firstAirDate": "1999-01-10"
     },
     {
       "id": 127532,
@@ -764,6 +752,19 @@
       "firstAirDate": "2021-03-25"
     },
     {
+      "id": 1438,
+      "name": "Sur écoute",
+      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.635,
+      "firstAirDate": "2002-06-02"
+    },
+    {
       "id": 72637,
       "name": "Onze",
       "overview": "Gabo est un adolescent passionné de football. Il rêve de jouer pour l'équipe de football de son école et encore plus de passer joueur professionnel. Lorsque Francisco, l'entraîneur d'une prestigieuse équipe, le repère, son rêve devient soudain accessible.",
@@ -806,6 +807,21 @@
       "firstAirDate": "2023-10-22"
     },
     {
+      "id": 3854,
+      "name": "The Spectacular Spider-Man",
+      "overview": "C'est la rentrée des classes pour Peter Parker, un lycéen de 16 ans très doué en sciences mais également l'objet de risée dans son lycée. Ce que tous ignorent par contre, c'est que quelques mois plus tôt, Peter Parker s'est fait piquer par une araignée génétiquement modifiée lui conférant des super pouvoirs. C'est ainsi qu'il est devenu Spider-Man, un super-héros qui a promis de lutter contre le mal dans la ville de New-York suite au meurtre de son oncle Ben.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/oTxEsie330VbVYTEJFqRahw2CkC.jpg",
+      "genres": [
+        10759,
+        16,
+        10762,
+        10751
+      ],
+      "voteAverage": 8.627,
+      "firstAirDate": "2008-03-08"
+    },
+    {
       "id": 77696,
       "name": "Run BTS!",
       "overview": "Run BTS! est une émission de télé-réalité sud-coréenne avec les BTS. Au programme : des défis, des activités diverses et bien d'autres surprises!",
@@ -831,6 +847,20 @@
       ],
       "voteAverage": 8.621,
       "firstAirDate": "1989-04-15"
+    },
+    {
+      "id": 13916,
+      "name": "Death Note",
+      "overview": "Après avoir trouvé un mystérieux carnet, un lycéen japonais découvre qu'il a le pouvoir de tuer les personnes dont il y inscrit le nom.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/chnG4pYo89weaBjXHJWvW68E35B.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
+      "genres": [
+        16,
+        9648,
+        10765
+      ],
+      "voteAverage": 8.62,
+      "firstAirDate": "2006-10-04"
     },
     {
       "id": 280945,
@@ -949,20 +979,6 @@
       "firstAirDate": "2019-06-17"
     },
     {
-      "id": 289219,
-      "name": "Star Wars : Maul - Seigneur de l'ombre",
-      "overview": "Après la Guerre des Clones, Maul projette de reconstruire son organisation criminelle sur une planète épargnée par l'Empire. Il croise la route d'un jeune Padawan désabusé, qui pourrait devenir l'apprenti qu'il cherche, et une aide précieuse dans sa quête de vengeance.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
-      "genres": [
-        10759,
-        16,
-        10765
-      ],
-      "voteAverage": 8.601,
-      "firstAirDate": "2026-04-06"
-    },
-    {
       "id": 62914,
       "name": "#Philo",
       "overview": "Série télévisée sur un professeur de philosophie au lycée, Merlí, qui enseigne de manière originale, et sur les élèves de sa classe, y compris son propre fils, et la relation, l'amitié, l'amour et les problèmes entre les élèves de la classe.",
@@ -974,6 +990,19 @@
       ],
       "voteAverage": 8.601,
       "firstAirDate": "2015-09-14"
+    },
+    {
+      "id": 4613,
+      "name": "Frères d'armes",
+      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.601,
+      "firstAirDate": "2001-09-09"
     },
     {
       "id": 2316,
@@ -1015,19 +1044,6 @@
       "firstAirDate": "2006-03-05"
     },
     {
-      "id": 1438,
-      "name": "Sur écoute",
-      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/layPSOJGckJv3PXZDIVluMq69mn.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2002-06-02"
-    },
-    {
       "id": 3498,
       "name": "Les Sorciers de Waverly Place",
       "overview": "La série raconte l'histoire d'Alex, adolescente rebelle en échec scolaire et de sa famille, les Russo. Son père Jerry est un ancien sorcier qui a abandonné ses pouvoirs pour épouser une mortelle, Theresa. Elle et ses frères Justin l'aîné et Max ont hérité des pouvoirs de Jerry et sont des sorciers en apprentissage. Les enfants participent à une « compétition familiale des sorciers », à l'issue de laquelle seule une personne conservera ses pouvoirs. Les deux autres deviendront de simples mortels.",
@@ -1040,21 +1056,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2007-10-12"
-    },
-    {
-      "id": 3854,
-      "name": "The Spectacular Spider-Man",
-      "overview": "C'est la rentrée des classes pour Peter Parker, un lycéen de 16 ans très doué en sciences mais également l'objet de risée dans son lycée. Ce que tous ignorent par contre, c'est que quelques mois plus tôt, Peter Parker s'est fait piquer par une araignée génétiquement modifiée lui conférant des super pouvoirs. C'est ainsi qu'il est devenu Spider-Man, un super-héros qui a promis de lutter contre le mal dans la ville de New-York suite au meurtre de son oncle Ben.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/oTxEsie330VbVYTEJFqRahw2CkC.jpg",
-      "genres": [
-        10759,
-        16,
-        10762,
-        10751
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2008-03-08"
     },
     {
       "id": 230923,
@@ -1070,20 +1071,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2024-04-08"
-    },
-    {
-      "id": 13916,
-      "name": "Death Note",
-      "overview": "Après avoir trouvé un mystérieux carnet, un lycéen japonais découvre qu'il a le pouvoir de tuer les personnes dont il y inscrit le nom.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/chnG4pYo89weaBjXHJWvW68E35B.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/z8IPicmEKXUO4I2UDdMEqw7RqOE.jpg",
-      "genres": [
-        16,
-        9648,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2006-10-04"
     },
     {
       "id": 67915,
@@ -1112,6 +1099,20 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "1998-04-07"
+    },
+    {
+      "id": 289219,
+      "name": "Star Wars : Maul - Seigneur de l'ombre",
+      "overview": "Après la Guerre des Clones, Maul projette de reconstruire son organisation criminelle sur une planète épargnée par l'Empire. Il croise la route d'un jeune Padawan désabusé, qui pourrait devenir l'apprenti qu'il cherche, et une aide précieuse dans sa quête de vengeance.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/Av4nP5DgAjRpPWOe81SoE0oc8D0.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
+      "genres": [
+        10759,
+        16,
+        10765
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2026-04-06"
     },
     {
       "id": 65930,
@@ -1143,19 +1144,6 @@
       "firstAirDate": "2018-04-25"
     },
     {
-      "id": 4613,
-      "name": "Frères d'armes",
-      "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7w2zhfN03Ff1pOgnUo9tFu0qELt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2yDV0xLyqW88dn5qE7YCRnoYmfy.jpg",
-      "genres": [
-        18,
-        10768
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2001-09-09"
-    },
-    {
       "id": 119464,
       "name": "Navillera",
       "overview": "Un septuagénaire obsédé par un vieux rêve et un jeune de 23 ans très doué se soustraient mutuellement à la dure réalité en relevant le défi de devenir danseurs de ballet. Pour eux, rien n'est impossible.",
@@ -1181,20 +1169,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2018-10-01"
-    },
-    {
-      "id": 95479,
-      "name": "Jujutsu Kaisen",
-      "overview": "Souffrance, regrets, humiliations... les sentiments négatifs que ressentent les humains se transforment peu à peu en fléaux se cachant dans notre existence. Sévissant dans le monde entier, ils sont capables d'entraîner les gens dans de terribles malheurs et, parfois même, jusqu'à la mort. De plus, ces créatures ne peuvent être exorcisées que par un autre fléau.\n\nLycéen ordinaire, Yuji Itadori est toutefois doté d'une force physique hors du commun. Un jour, pour sauver un ami attaqué par un fléau, il mange un des doigts du démon à deux visages, devenant à son tour un fléau. Dès lors, il partage son corps avec le démon...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2020-10-03"
     },
     {
       "id": 95269,
@@ -1338,6 +1312,20 @@
       "firstAirDate": "2026-07-04"
     },
     {
+      "id": 220850,
+      "name": "One Hundred Thousand Years of Qi Refining",
+      "overview": "Il y a cent mille ans, le clan Tian Lan régnait en maître sur le monde de la cultivation, et tous ses disciples étaient fiers et invincibles. Afin de franchir un nouveau palier dans sa cultivation et d’atteindre l’ascension le plus rapidement possible, Xu Yang, l’unique disciple de la secte, s’était enfermé dans la phase de raffinage du Qi. À sa sortie, le monde de la cultivation était déjà en déclin et il ne restait plus que trois ou cinq disciples au sein du clan Tian Lan. À mesure que le clan s'agrandit, la vérité sur la stagnation de la cultivation de Xu Yang est progressivement révélée, mettant au jour un secret caché qui traverse les trois royaumes que sont celui des humains, des démons et des immortels ! S'agit-il d'une volonté de devenir un dieu, ou d'une volonté de devenir un démon ? La vie et la mort du monde sont entre les mains de Xu Yang !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dZF7DTXgyoyshdALJLOrQ9Zj4Xz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/iGJ9eOBsWcOPOQkZmH8LwWub4eL.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2023-02-18"
+    },
+    {
       "id": 37419,
       "name": "ゾイド",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -1380,6 +1368,20 @@
       ],
       "voteAverage": 8.585,
       "firstAirDate": "1992-09-05"
+    },
+    {
+      "id": 95479,
+      "name": "Jujutsu Kaisen",
+      "overview": "Souffrance, regrets, humiliations... les sentiments négatifs que ressentent les humains se transforment peu à peu en fléaux se cachant dans notre existence. Sévissant dans le monde entier, ils sont capables d'entraîner les gens dans de terribles malheurs et, parfois même, jusqu'à la mort. De plus, ces créatures ne peuvent être exorcisées que par un autre fléau.\n\nLycéen ordinaire, Yuji Itadori est toutefois doté d'une force physique hors du commun. Un jour, pour sauver un ami attaqué par un fléau, il mange un des doigts du démon à deux visages, devenant à son tour un fléau. Dès lors, il partage son corps avec le démon...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/w2Shg7bI5WB7LINt1KxB7eihO8s.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.584,
+      "firstAirDate": "2020-10-03"
     },
     {
       "id": 21650,
@@ -1583,6 +1585,20 @@
       ],
       "voteAverage": 8.546,
       "firstAirDate": "2016-01-14"
+    },
+    {
+      "id": 79744,
+      "name": "The Rookie : Le Flic de Los Angeles",
+      "overview": "John Nolan, le rookie le plus âgé du LAPD, utilise son expérience de vie, sa détermination et son sens de l’humour pour suivre des recrues âgées de 20 ans de moins que lui.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "genres": [
+        80,
+        18,
+        35
+      ],
+      "voteAverage": 8.544,
+      "firstAirDate": "2018-10-16"
     },
     {
       "id": 86031,
@@ -1838,6 +1854,21 @@
       "firstAirDate": "2004-04-07"
     },
     {
+      "id": 3793,
+      "name": "Invader ZIM",
+      "overview": "Invader Zim est une série télévisée d'animation américaine créée par Jhonen Vasquez. L'émission a été créée sur Nickelodeon le 30 mars 2001. La série implique un extraterrestre nommé Zim, originaire d'une planète appelée Irk, et sa mission en cours pour conquérir et détruire la Terre. Ses diverses tentatives pour subjuguer et détruire la race humaine sont invariablement minées par une combinaison de sa propre ineptie, de son robot serviteur GIR défectueux et d'un jeune enquêteur paranormal nommé Dib, l'une des très rares personnes suffisamment attentives pour être au courant de l'identité de Zim.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nbphRMU1yjDjcMC5RCPyCxc4Yff.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/eCefaxvMxisEJHahp8Az2eBpwud.jpg",
+      "genres": [
+        16,
+        35,
+        10765,
+        10751
+      ],
+      "voteAverage": 8.512,
+      "firstAirDate": "2001-03-30"
+    },
+    {
       "id": 259909,
       "name": "Dexter: Resurrection",
       "overview": "Après avoir survécu à ses blessures, Dexter se retrouve à New York. Il tente de renouer une relation avec son fils mais des meurtres rituels ensanglantent Big Apple.",
@@ -1864,6 +1895,20 @@
       ],
       "voteAverage": 8.511,
       "firstAirDate": "2016-10-06"
+    },
+    {
+      "id": 15260,
+      "name": "Adventure Time avec Finn et Jake",
+      "overview": "Pétri de fierté et de moralité, le jeune Finn rêve d'un destin héroïque sur la terre de Ooo. Au cours de ses aventures, le jeune garçon, inséparable de Jake, son fidèle compagnon à quatre pattes doté de pouvoirs, croise la route d'une multitude de personnages, comme Marceline, la reine vampire âgée de 1003 ans, la princesse Chewing-Gum, qui règne sur le royaume de la Confiserie, le machiavélique roi des Glaces, le comte de la Citronelle ou encore Miss Rainicorne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
+      "genres": [
+        16,
+        35,
+        10765
+      ],
+      "voteAverage": 8.51,
+      "firstAirDate": "2010-04-05"
     },
     {
       "id": 120089,
@@ -2045,20 +2090,6 @@
       "firstAirDate": "2019-11-01"
     },
     {
-      "id": 79744,
-      "name": "The Rookie : Le Flic de Los Angeles",
-      "overview": "John Nolan, le rookie le plus âgé du LAPD, utilise son expérience de vie, sa détermination et son sens de l’humour pour suivre des recrues âgées de 20 ans de moins que lui.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aOXBLBRg7M5D2Zrs5luKD5cDB8O.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
-      "genres": [
-        80,
-        18,
-        35
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2018-10-16"
-    },
-    {
       "id": 1399,
       "name": "Game of Thrones",
       "overview": "Il y a très longtemps, à une époque oubliée, une force a détruit l'équilibre des saisons. Dans un pays où l'été peut durer plusieurs années et l'hiver toute une vie, des forces sinistres et surnaturelles se pressent aux portes du Royaume des Sept Couronnes. La confrérie de la Garde de Nuit, protégeant le Royaume de toute créature pouvant provenir d'au-delà du Mur protecteur, n'a plus les ressources nécessaires pour assurer la sécurité de tous. Après un été de dix années, un hiver rigoureux s'abat sur le Royaume avec la promesse d'un avenir des plus sombres. Pendant ce temps, complots et rivalités se jouent sur le continent pour s'emparer du Trône de fer, le symbole du pouvoir absolu.",
@@ -2085,20 +2116,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2022-02-20"
-    },
-    {
-      "id": 15260,
-      "name": "Adventure Time avec Finn et Jake",
-      "overview": "Pétri de fierté et de moralité, le jeune Finn rêve d'un destin héroïque sur la terre de Ooo. Au cours de ses aventures, le jeune garçon, inséparable de Jake, son fidèle compagnon à quatre pattes doté de pouvoirs, croise la route d'une multitude de personnages, comme Marceline, la reine vampire âgée de 1003 ans, la princesse Chewing-Gum, qui règne sur le royaume de la Confiserie, le machiavélique roi des Glaces, le comte de la Citronelle ou encore Miss Rainicorne.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qk3eQ8jW4opJ48gFWYUXWaMT4l.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/pe4B3OYBb7qYCdkAz7nKWordbls.jpg",
-      "genres": [
-        16,
-        35,
-        10765
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2010-04-05"
     },
     {
       "id": 71712,
@@ -2205,21 +2222,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2019-07-12"
-    },
-    {
-      "id": 3793,
-      "name": "Invader ZIM",
-      "overview": "Invader Zim est une série télévisée d'animation américaine créée par Jhonen Vasquez. L'émission a été créée sur Nickelodeon le 30 mars 2001. La série implique un extraterrestre nommé Zim, originaire d'une planète appelée Irk, et sa mission en cours pour conquérir et détruire la Terre. Ses diverses tentatives pour subjuguer et détruire la race humaine sont invariablement minées par une combinaison de sa propre ineptie, de son robot serviteur GIR défectueux et d'un jeune enquêteur paranormal nommé Dib, l'une des très rares personnes suffisamment attentives pour être au courant de l'identité de Zim.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nbphRMU1yjDjcMC5RCPyCxc4Yff.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/eCefaxvMxisEJHahp8Az2eBpwud.jpg",
-      "genres": [
-        16,
-        35,
-        10765,
-        10751
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2001-03-30"
     },
     {
       "id": 76121,
@@ -2538,21 +2540,6 @@
       "firstAirDate": "2019-07-25"
     },
     {
-      "id": 82684,
-      "name": "Moi, quand je me réincarne en Slime",
-      "overview": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand Sage », grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vFCKoryd6keo4iziLlRHhHuO5Wc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
-      "genres": [
-        10759,
-        16,
-        10765,
-        35
-      ],
-      "voteAverage": 8.435,
-      "firstAirDate": "2018-10-02"
-    },
-    {
       "id": 212907,
       "name": "La vengeance de Jana",
       "overview": "En 1913, le monde s'apprête à basculer dans le chaos. Au château de La Promesa, propriété des marquis de Luján, Jana, qui vient d'être engagée, veut se venger de ceux qui ont causé la mort de sa mère et retrouver son frère disparu.",
@@ -2617,20 +2604,6 @@
       "firstAirDate": "2012-10-10"
     },
     {
-      "id": 5920,
-      "name": "Mentalist",
-      "overview": "Un mentaliste utilise ses extraordinaires dons d'observation pour résoudre des crimes en tant que consultant du CBI. Une façon pour lui de contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dGRoQRWjGac97wqp6WuLnRsZDpc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8.4,
-      "firstAirDate": "2008-09-23"
-    },
-    {
       "id": 94664,
       "name": "Mushoku Tensei: Jobless Reincarnation",
       "overview": "« Ici, je vais me transcender ! » Un anonyme de 34 ans, célibataire endurci, reclus et au chômage se fait écraser par un camion peu après avoir été chassé de la maison familiale. Quelle ne fut pas sa surprise lorsqu'il se réveilla bébé dans un monde d'épées et de magie ! Rudeus, comme il s'appelait désormais, jura alors de réussir sa deuxième vie et de tirer un trait sur l'immonde déchet qu'il avait été 34 ans durant. Dès son jeune âge, il nouera de nombreux liens dans ce nouveau monde, notamment une solide amitié avec trois fillettes, avant de partir pour une aventure aussi palpitante que périlleuse. Une seconde chance lui a été accordée… et elle ne sera pas de tout repos !",
@@ -2659,17 +2632,19 @@
       "firstAirDate": "2020-07-25"
     },
     {
-      "id": 129412,
-      "name": "Game Changer",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6kel6DiavQEDOOMJQQoz21MrV5B.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/pYNE1C8LkXLecSSxpLBkE8WkpTO.jpg",
+      "id": 82684,
+      "name": "Moi, quand je me réincarne en Slime",
+      "overview": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : « Prédateur », lui permettant de récupérer les aptitudes de ses adversaires, et « Grand Sage », grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vFCKoryd6keo4iziLlRHhHuO5Wc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
       "genres": [
-        35,
-        10764
+        10759,
+        16,
+        10765,
+        35
       ],
       "voteAverage": 8.4,
-      "firstAirDate": "2019-09-20"
+      "firstAirDate": "2018-10-02"
     },
     {
       "id": 1409,
@@ -2683,6 +2658,20 @@
       ],
       "voteAverage": 8.4,
       "firstAirDate": "2008-09-03"
+    },
+    {
+      "id": 5920,
+      "name": "Mentalist",
+      "overview": "Un mentaliste utilise ses extraordinaires dons d'observation pour résoudre des crimes en tant que consultant du CBI. Une façon pour lui de contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dGRoQRWjGac97wqp6WuLnRsZDpc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.389,
+      "firstAirDate": "2008-09-23"
     },
     {
       "id": 94997,
@@ -2724,7 +2713,7 @@
         10765,
         80
       ],
-      "voteAverage": 8.371,
+      "voteAverage": 8.372,
       "firstAirDate": "1993-09-10"
     },
     {
@@ -2817,20 +2806,8 @@
         18,
         10765
       ],
-      "voteAverage": 8.301,
-      "firstAirDate": "2009-09-10"
-    },
-    {
-      "id": 688,
-      "name": "À la Maison Blanche",
-      "overview": "« À la Maison Blanche » vous entraîne dans les coulisses du bureau ovale, pour découvrir comment le président Bartlet et son cabinet gouvernent la nation la plus puissante du monde et tentent de résoudre aussi bien les crises privées qu'internationales.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1MJ4vt3Lx7Ic3cDSXYWJ2cqQWNc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/67nEeu5DGCflZUFRiNNySISEtV9.jpg",
-      "genres": [
-        18
-      ],
       "voteAverage": 8.3,
-      "firstAirDate": "1999-09-22"
+      "firstAirDate": "2009-09-10"
     },
     {
       "id": 223564,
@@ -2869,7 +2846,7 @@
         10765,
         10759
       ],
-      "voteAverage": 8.272,
+      "voteAverage": 8.273,
       "firstAirDate": "1997-07-27"
     },
     {
@@ -2898,6 +2875,18 @@
       ],
       "voteAverage": 8.266,
       "firstAirDate": "2011-10-28"
+    },
+    {
+      "id": 688,
+      "name": "À la Maison Blanche",
+      "overview": "« À la Maison Blanche » vous entraîne dans les coulisses du bureau ovale, pour découvrir comment le président Bartlet et son cabinet gouvernent la nation la plus puissante du monde et tentent de résoudre aussi bien les crises privées qu'internationales.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1MJ4vt3Lx7Ic3cDSXYWJ2cqQWNc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/67nEeu5DGCflZUFRiNNySISEtV9.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.261,
+      "firstAirDate": "1999-09-22"
     },
     {
       "id": 2710,
@@ -2935,7 +2924,7 @@
         10759,
         9648
       ],
-      "voteAverage": 8.246,
+      "voteAverage": 8.244,
       "firstAirDate": "2020-04-15"
     },
     {
@@ -2951,18 +2940,6 @@
       ],
       "voteAverage": 8.224,
       "firstAirDate": "2018-01-03"
-    },
-    {
-      "id": 37680,
-      "name": "Suits, avocats sur mesure",
-      "overview": "Avocat très ambitieux d'une grosse firme de Manhattan, Harvey Specter a besoin de quelqu'un pour l'épauler. Son choix se porte sur Mike Ross, un jeune homme très brillant mais sans diplôme, doté d'un talent certain et d'une mémoire photographique très précieuse. Ensemble, ils forment une équipe gagnante, prête à relever tous les défis. Mike devra cependant user de toutes les ruses pour maintenir sa place sans que personne ne découvre qu'il n'a jamais passé l'examen du barreau.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tVqvztjig1o001EAAZs9wCs3bV6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.222,
-      "firstAirDate": "2011-06-23"
     },
     {
       "id": 33238,
@@ -3016,6 +2993,18 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2001-10-16"
+    },
+    {
+      "id": 37680,
+      "name": "Suits, avocats sur mesure",
+      "overview": "Avocat très ambitieux d'une grosse firme de Manhattan, Harvey Specter a besoin de quelqu'un pour l'épauler. Son choix se porte sur Mike Ross, un jeune homme très brillant mais sans diplôme, doté d'un talent certain et d'une mémoire photographique très précieuse. Ensemble, ils forment une équipe gagnante, prête à relever tous les défis. Mike devra cependant user de toutes les ruses pour maintenir sa place sans que personne ne découvre qu'il n'a jamais passé l'examen du barreau.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tVqvztjig1o001EAAZs9wCs3bV6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2011-06-23"
     },
     {
       "id": 223911,
@@ -3138,6 +3127,20 @@
       "firstAirDate": "2011-01-09"
     },
     {
+      "id": 95350,
+      "name": "Lanterns",
+      "overview": "Deux flics intergalactiques, la nouvelle recrue John Stewart et le légendaire Hal Jordan, sont confrontés à un sombre mystère sur Terre alors qu’ils enquêtent sur un meurtre au fin fond de l’Amérique.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "genres": [
+        18,
+        9648,
+        10765
+      ],
+      "voteAverage": 8.165,
+      "firstAirDate": "2026-08-16"
+    },
+    {
       "id": 254002,
       "name": "Critical Role",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3151,20 +3154,6 @@
       ],
       "voteAverage": 8.16,
       "firstAirDate": "2015-03-12"
-    },
-    {
-      "id": 95350,
-      "name": "Lanterns",
-      "overview": "Deux flics intergalactiques, la nouvelle recrue John Stewart et le légendaire Hal Jordan, sont confrontés à un sombre mystère sur Terre alors qu’ils enquêtent sur un meurtre au fin fond de l’Amérique.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "genres": [
-        18,
-        9648,
-        10765
-      ],
-      "voteAverage": 8.135,
-      "firstAirDate": "2026-08-16"
     },
     {
       "id": 1100,
@@ -3203,6 +3192,19 @@
       "firstAirDate": "2018-10-10"
     },
     {
+      "id": 113962,
+      "name": "Lioness",
+      "overview": "Cruz Manuelos, une jeune Marine un peu brutale mais passionnée, a été recrutée pour rejoindre la mission Lioness afin d'aider à démanteler une organisation terroriste. Joe, la cheffe de station du programme Lioness, est chargée de former, de gérer et de diriger ces agents féminins infiltrés.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "genres": [
+        18,
+        10768
+      ],
+      "voteAverage": 8.1,
+      "firstAirDate": "2023-07-23"
+    },
+    {
       "id": 65733,
       "name": "Doraemon",
       "overview": "Les aventures du chat bleu.",
@@ -3232,20 +3234,6 @@
       ],
       "voteAverage": 8.1,
       "firstAirDate": "2011-10-05"
-    },
-    {
-      "id": 2288,
-      "name": "Prison Break",
-      "overview": "Michael Scofield s'engage dans une véritable lutte contre la montre : son frère Lincoln est dans le couloir de la mort, en attente de son exécution. Persuadé de son innocence mais à court de solutions, Michael décide de se faire incarcérer à son tour dans le pénitencier d'état de Fox River pour organiser leur évasion…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bCFZhGJLYxmEac4viu6orDeOXYJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
-      "genres": [
-        10759,
-        80,
-        18
-      ],
-      "voteAverage": 8.1,
-      "firstAirDate": "2005-08-29"
     },
     {
       "id": 44217,
@@ -3339,7 +3327,7 @@
         10759,
         80
       ],
-      "voteAverage": 8.086,
+      "voteAverage": 8.087,
       "firstAirDate": "2022-02-03"
     },
     {
@@ -3357,17 +3345,18 @@
       "firstAirDate": "2010-10-31"
     },
     {
-      "id": 113962,
-      "name": "Lioness",
-      "overview": "Cruz Manuelos, une jeune Marine un peu brutale mais passionnée, a été recrutée pour rejoindre la mission Lioness afin d'aider à démanteler une organisation terroriste. Joe, la cheffe de station du programme Lioness, est chargée de former, de gérer et de diriger ces agents féminins infiltrés.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lpGufwMx1BpXAwKLLEa2aqFNVdR.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg",
+      "id": 2288,
+      "name": "Prison Break",
+      "overview": "Michael Scofield s'engage dans une véritable lutte contre la montre : son frère Lincoln est dans le couloir de la mort, en attente de son exécution. Persuadé de son innocence mais à court de solutions, Michael décide de se faire incarcérer à son tour dans le pénitencier d'état de Fox River pour organiser leur évasion…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bCFZhGJLYxmEac4viu6orDeOXYJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
       "genres": [
-        18,
-        10768
+        10759,
+        80,
+        18
       ],
-      "voteAverage": 8.079,
-      "firstAirDate": "2023-07-23"
+      "voteAverage": 8.066,
+      "firstAirDate": "2005-08-29"
     },
     {
       "id": 65334,
@@ -3468,20 +3457,6 @@
       "firstAirDate": "2013-04-15"
     },
     {
-      "id": 2734,
-      "name": "New York Unité Spéciale",
-      "overview": "Les inspecteurs qui font partie de la division des Crimes sexuels (SVU) du service de police de la ville de New York (NYPD) enquêtent sur des crimes de nature sexuelle. Alors que les autres émissions de la franchise de \"La loi et l'ordre\" se sont largement concentrées sur les cas de meurtres, les inspecteurs de la division des Crimes sexuels (SVU) ont souvent affaire à des crimes, tel le viol, auquel la victime survit et elle aide les autorités lors de l'enquête.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/95flTYCxEPNFSdZVrHy9nMIeLbw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "1999-09-20"
-    },
-    {
       "id": 91555,
       "name": "All Elite Wrestling: Dynamite",
       "overview": "All Elite Wrestling (AEW) est une fédération de catch américaine basée à Jacksonville en Floride. La compagnie a été fondée par l’entrepreneur et dirigeant de football américain Tony Khan. Les lutteurs professionnels Cody Rhodes, ainsi que Matt et Nick Jackson, membre connus sous le nom de The Elite, sont les premiers talents sous contrat avec la compagnie en tant que lutteur. Ils sont aussi les vice-présidents exécutifs.",
@@ -3543,6 +3518,19 @@
       "firstAirDate": "2018-09-01"
     },
     {
+      "id": 207333,
+      "name": "Cent ans de solitude",
+      "overview": "Dans la ville intemporelle de Macondo, sept générations de la famille Buendía naviguent entre l'amour, l'oubli et l'inéluctabilité de leur passé — et de leur destin.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/Agjh4C1eTTyzRXYIH9HwnXGik33.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+      "genres": [
+        18,
+        10765
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2024-12-11"
+    },
+    {
       "id": 250008,
       "name": "Oh Boy, Was I Wrong About Her",
       "overview": "Sept ans après s'être promis, enfants, de rester amis pour toujours, Hayato retrouve son ancienne copine Haruki. Mais celle qui était avant un vrai garçon manqué est devenue aujourd'hui une ravissante lycéenne ! Tandis qu'elle impressionne tous les garçons, elle retrouve avec Hayato la complicité qu'ils avaient.",
@@ -3554,33 +3542,6 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "2026-07-06"
-    },
-    {
-      "id": 4607,
-      "name": "Lost : Les Disparus",
-      "overview": "Après le crash de leur avion sur une île perdue, les survivants doivent apprendre à cohabiter et survivre dans cet environnement hostile. Bien vite, ils se rendent compte qu'une menace semble planer sur l'île...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lJpYSqKmae4Rk57InDZoFa6mPzU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
-      "genres": [
-        9648,
-        10759,
-        18
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2004-09-22"
-    },
-    {
-      "id": 207333,
-      "name": "Cent ans de solitude",
-      "overview": "Dans la ville intemporelle de Macondo, sept générations de la famille Buendía naviguent entre l'amour, l'oubli et l'inéluctabilité de leur passé — et de leur destin.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/Agjh4C1eTTyzRXYIH9HwnXGik33.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
-      "genres": [
-        18,
-        10765
-      ],
-      "voteAverage": 7.981,
-      "firstAirDate": "2024-12-11"
     },
     {
       "id": 1419,
@@ -3609,6 +3570,34 @@
       ],
       "voteAverage": 7.967,
       "firstAirDate": "2023-06-24"
+    },
+    {
+      "id": 4607,
+      "name": "Lost : Les Disparus",
+      "overview": "Après le crash de leur avion sur une île perdue, les survivants doivent apprendre à cohabiter et survivre dans cet environnement hostile. Bien vite, ils se rendent compte qu'une menace semble planer sur l'île...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lJpYSqKmae4Rk57InDZoFa6mPzU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+      "genres": [
+        9648,
+        10759,
+        18
+      ],
+      "voteAverage": 7.962,
+      "firstAirDate": "2004-09-22"
+    },
+    {
+      "id": 2734,
+      "name": "New York Unité Spéciale",
+      "overview": "Les inspecteurs qui font partie de la division des Crimes sexuels (SVU) du service de police de la ville de New York (NYPD) enquêtent sur des crimes de nature sexuelle. Alors que les autres émissions de la franchise de \"La loi et l'ordre\" se sont largement concentrées sur les cas de meurtres, les inspecteurs de la division des Crimes sexuels (SVU) ont souvent affaire à des crimes, tel le viol, auquel la victime survit et elle aide les autorités lors de l'enquête.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/95flTYCxEPNFSdZVrHy9nMIeLbw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 7.959,
+      "firstAirDate": "1999-09-20"
     },
     {
       "id": 59186,
@@ -3676,20 +3665,6 @@
       "firstAirDate": "2012-09-24"
     },
     {
-      "id": 693,
-      "name": "Desperate Housewives",
-      "overview": "Derrière une façade tirée d'une carte postale vivent quatre femmes dont l'existence est tout sauf idéale. Susan est maladroite, divorcée et mère d'une adolescente nommée Julie. Lynette est mariée avec Tom et ont quatre enfants tapageurs qui la poussent à bout. Bree est la Martha Stewart du voisinage, dont la perfection dissimule des problèmes majeurs. Enfin Gabrielle, ex-mannequin mariée avec le séduisant et prospère Carlos, espère avoir le beurre et l'argent du beurre. Leurs vies sont suivies et commentées de tout haut par Mary Alice, une ancienne voisine qui s'est suicidée.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/hW9NOFs8xUevb90KQYHhbifp9Po.jpg",
-      "genres": [
-        9648,
-        18,
-        35
-      ],
-      "voteAverage": 7.9,
-      "firstAirDate": "2004-10-03"
-    },
-    {
       "id": 4586,
       "name": "Gilmore Girls",
       "overview": "La série raconte la relation complice et même privilégiée de Lorelai avec sa fille Rory qu'elle eut à 16 ans. Entre leurs histoires d'amour respectives et les relations avec les grands-parents de Rory ou les personnages secondaires rencontrés au travail de Lorelai ou au lycée d'élite de Rory dans la petite ville de Stars Hollow, Lorelai et Rory n'ont pas le temps de s'ennuyer.",
@@ -3728,6 +3703,20 @@
       ],
       "voteAverage": 7.896,
       "firstAirDate": "2023-06-18"
+    },
+    {
+      "id": 693,
+      "name": "Desperate Housewives",
+      "overview": "Derrière une façade tirée d'une carte postale vivent quatre femmes dont l'existence est tout sauf idéale. Susan est maladroite, divorcée et mère d'une adolescente nommée Julie. Lynette est mariée avec Tom et ont quatre enfants tapageurs qui la poussent à bout. Bree est la Martha Stewart du voisinage, dont la perfection dissimule des problèmes majeurs. Enfin Gabrielle, ex-mannequin mariée avec le séduisant et prospère Carlos, espère avoir le beurre et l'argent du beurre. Leurs vies sont suivies et commentées de tout haut par Mary Alice, une ancienne voisine qui s'est suicidée.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zLqW1yC10RyjG7qgxJRPRqSzbY6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/hW9NOFs8xUevb90KQYHhbifp9Po.jpg",
+      "genres": [
+        9648,
+        18,
+        35
+      ],
+      "voteAverage": 7.895,
+      "firstAirDate": "2004-10-03"
     },
     {
       "id": 5857,
@@ -3781,6 +3770,19 @@
       "firstAirDate": "2004-08-06"
     },
     {
+      "id": 32692,
+      "name": "Blue Bloods",
+      "overview": "Chez les Reagan, la \"Loi\" est une histoire de famille. Henry était commissaire général de New York, son fils Frank lui a succédé. Et la tradition perdure avec les enfants de ce dernier: Danny est inspecteur à la crim', Erin travaille au bureau du procureur et Jamie, le petit dernier, vient d'entrer dans la police. Quant à Joseph, qui était un des meilleurs inspecteurs dans les rangs de la police, sa mort pourrait être liée à la société secrète baptisée \"The Blue Templar\", regroupant des flics pourris... Les Reagan ne règnent pas sur New York, ils essaient d'y faire régner l'Ordre et la Justice.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 7.788,
+      "firstAirDate": "2010-09-24"
+    },
+    {
       "id": 1973,
       "name": "24 heures chrono",
       "overview": "Agent fédéral et responsable de la Cellule Anti-Terroriste de Los Angeles, Jack Bauer a 24 heures pour mener à bien sa mission, empêcher que des terroristes ne mettent leur plan à exécution, protéger les siens du danger qui les menace et sauver les États-Unis. Chaque saison correspond à 24 heures dans la vie de Jack Bauer, en temps réel.",
@@ -3793,19 +3795,6 @@
       ],
       "voteAverage": 7.787,
       "firstAirDate": "2001-11-06"
-    },
-    {
-      "id": 32692,
-      "name": "Blue Bloods",
-      "overview": "Chez les Reagan, la \"Loi\" est une histoire de famille. Henry était commissaire général de New York, son fils Frank lui a succédé. Et la tradition perdure avec les enfants de ce dernier: Danny est inspecteur à la crim', Erin travaille au bureau du procureur et Jamie, le petit dernier, vient d'entrer dans la police. Quant à Joseph, qui était un des meilleurs inspecteurs dans les rangs de la police, sa mort pourrait être liée à la société secrète baptisée \"The Blue Templar\", regroupant des flics pourris... Les Reagan ne règnent pas sur New York, ils essaient d'y faire régner l'Ordre et la Justice.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q1WlrxnCvNhBjJ4N7V0JQXjnIBN.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/goDtZCB5pFIuuSfYDvApe6iXTID.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 7.785,
-      "firstAirDate": "2010-09-24"
     },
     {
       "id": 236534,
@@ -4051,6 +4040,20 @@
       "firstAirDate": "2013-08-04"
     },
     {
+      "id": 110181,
+      "name": "The God of War Dominates",
+      "overview": "Le protagoniste Qin Chen, qui était à l’origine le génie suprême dans le domaine militaire, a été conspiré par le peuple pour tomber dans le canyon de la mort sur la terre interdite du continent. Qin Chen, qui était inévitablement mort, a déclenché de manière inattendue le pouvoir de la mystérieuse épée ancienne.\n\nTrois cents ans plus tard, dans une partie reculée du continent de Tianwu, un garçon du même nom hérita accidentellement du testament de Qin Chen. En tant que petit-fils bien-aimé du roi Dingwu de l’armée nationale de Daqi, en raison de la naissance du père biologique, la mère et le fils ont été traités froidement dans le palais de Dingwu et ont vécu ensemble. Afin de réécrire le mythe de l’homme fort dans l’espoir du soleil, et de protéger tout ce qu’il aime, Qin Chen a résolument pris la responsabilité de maintenir les cinq royaumes du monde et a remis le pied sur la route des arts martiaux.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6kSasnRWt59wDGTSfiTPcaxmG0F.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/iWS5Z9wsQT8hC0HYAUN6WXLmFNP.jpg",
+      "genres": [
+        10759,
+        10765,
+        16
+      ],
+      "voteAverage": 7.6,
+      "firstAirDate": "2020-03-07"
+    },
+    {
       "id": 1407,
       "name": "Homeland",
       "overview": "Dans ce thriller politique, un agent de la CIA à la santé mentale fragile et en proie à des problèmes familiaux mène une guerre acharnée contre le terrorisme.",
@@ -4290,46 +4293,6 @@
       "firstAirDate": "2026-08-03"
     },
     {
-      "id": 67378,
-      "name": "Have You Been Paying Attention?",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8UrQBNGHJJ71M4qD980CiE0VFup.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/cfi5cAE3m4WVZL5tI1J2z3C7rSv.jpg",
-      "genres": [
-        35,
-        10767
-      ],
-      "voteAverage": 7.333,
-      "firstAirDate": "2013-11-03"
-    },
-    {
-      "id": 123528,
-      "name": "Skeleton Knight in Another World",
-      "overview": "Quand Arc se réveille, il découvre qu'il a été transporté dans un autre monde dans le corps du personnage qu'il jouait dans un MMO. Avec son armure et son corps en forme de squelette, on le surnomme le Chevalier Squelette ! Si son identité était découverte, il pourrait être pris pour un monstre et devenir une cible. Arc décide de passer son temps comme mercenaire pour ne pas attirer l'attention sur lui. Cependant, il n'est pas le genre d'homme pouvant rester les bras croisés lorsqu'il est témoin d'actes malfaisants se dérouler sous ses yeux…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3srLRdCMd5IMLiyyHvdQNstee3W.jpg",
-      "genres": [
-        16,
-        10759,
-        10765,
-        18
-      ],
-      "voteAverage": 7.317,
-      "firstAirDate": "2022-04-07"
-    },
-    {
-      "id": 56559,
-      "name": "Yamishibai - Histoire de fantômes japonais",
-      "overview": "Cette série d'horreur est basée sur le folklore, les mythes japonais et les légendes urbaines. Elle est mise en scène à la manière du kamishibai, une façon dont les conteurs traditionnels japonais illustraient leur récit à l'aide d'un théâtre de papier. Nous suivons ici un vieil homme qui raconte aux jeunes enfants des histoires souvent terrifiantes…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yxntqVbdREPzIKQm3q3upgzGeqg.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/gtwdI7qHNrrLe5R7nWnoDgrbEbV.jpg",
-      "genres": [
-        16
-      ],
-      "voteAverage": 7.31,
-      "firstAirDate": "2013-07-15"
-    },
-    {
       "id": 549,
       "name": "New York Police Judiciaire",
       "overview": "À New York, détectives et assistants du procureur tentent de résoudre les affaires les plus délicates. Les uns sur le terrain, les autres devant les tribunaux.",
@@ -4339,8 +4302,46 @@
         80,
         18
       ],
-      "voteAverage": 7.3,
+      "voteAverage": 7.263,
       "firstAirDate": "1990-09-13"
+    },
+    {
+      "id": 1220,
+      "name": "The Graham Norton Show",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
+      "genres": [
+        35,
+        10767
+      ],
+      "voteAverage": 7.23,
+      "firstAirDate": "2007-02-22"
+    },
+    {
+      "id": 278624,
+      "name": "Lucky",
+      "overview": "Quand un coup de plusieurs millions tourne mal, Lucky, escroc virtuose, prend la fuite pour échapper au FBI et à un trafiquant sans pitié. Elle doit lutter pour sa survie, et pour quitter le métier.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mZD2tsOsW8FTqgS40hOqWic4KkU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+      "genres": [
+        18,
+        80
+      ],
+      "voteAverage": 7.2,
+      "firstAirDate": "2026-07-14"
+    },
+    {
+      "id": 49847,
+      "name": "House Rules",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JTzASS9kdvmeIPZgK27dl6DdQw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/bDXLXkzexJOq9rhQXTqgLMepQac.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.2,
+      "firstAirDate": "2013-05-14"
     }
   ]
 }
