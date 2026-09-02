@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T20:32:42.124Z",
+  "updatedAt": "2026-09-02T02:51:56.249Z",
   "results": [
     {
       "id": 69536,
@@ -129,8 +129,20 @@
         18,
         35
       ],
-      "voteAverage": 9.412,
+      "voteAverage": 9.411,
       "firstAirDate": "2026-06-05"
+    },
+    {
+      "id": 293939,
+      "name": "Terra Forte",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/emDXPQIYkRDvqd3EChIYc39kGmc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uDuNd0fHZw1qfIK6AY4Nh3WWIsu.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 9.375,
+      "firstAirDate": "2025-10-20"
     },
     {
       "id": 299167,
@@ -159,18 +171,6 @@
       "firstAirDate": "2023-06-22"
     },
     {
-      "id": 293939,
-      "name": "Terra Forte",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/emDXPQIYkRDvqd3EChIYc39kGmc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uDuNd0fHZw1qfIK6AY4Nh3WWIsu.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 9.167,
-      "firstAirDate": "2025-10-20"
-    },
-    {
       "id": 278573,
       "name": "Perfect Crown",
       "overview": "Bienvenue en Corée du Sud, dans une monarchie constitutionnelle du 21e siècle où se mêlent tradition et modernité, et où le glamour masque une hiérarchie bien ancrée dans la société. Seong Hui-ju, cadette d'une riche famille et PDG talentueuse, a tout pour elle. Mais son statut de roturière lui vaut le mépris de l'élite. Lassée de la pression exercée par sa famille pour qu'elle se marie, Hui-ju prend son avenir en main. Après avoir rencontré le grand-prince Ian au banquet du roi, elle lui propose un mariage de convenance. Elle a tout, sauf un titre, et lui n'a justement que son titre. Ce couple du siècle parviendra-t-il à briser les barrières sociales pour forger son propre destin ?",
@@ -182,19 +182,6 @@
       ],
       "voteAverage": 9.114,
       "firstAirDate": "2026-04-10"
-    },
-    {
-      "id": 287620,
-      "name": "Stuart Fails to Save the Universe",
-      "overview": "Le propriétaire de la boutique de comics, Stuart Bloom, est chargé de rétablir la réalité après avoir accidentellement brisé un appareil conçu par Sheldon et Leonard, provoquant ainsi une apocalypse du multivers.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-      "genres": [
-        35,
-        10765
-      ],
-      "voteAverage": 9.019,
-      "firstAirDate": "2026-07-23"
     },
     {
       "id": 296286,
@@ -231,6 +218,19 @@
       ],
       "voteAverage": 9,
       "firstAirDate": "2026-08-29"
+    },
+    {
+      "id": 287620,
+      "name": "Stuart Fails to Save the Universe",
+      "overview": "Le propriétaire de la boutique de comics, Stuart Bloom, est chargé de rétablir la réalité après avoir accidentellement brisé un appareil conçu par Sheldon et Leonard, provoquant ainsi une apocalypse du multivers.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tHGxFjaIVCUDsgxYTm1ePVDHySS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+      "genres": [
+        35,
+        10765
+      ],
+      "voteAverage": 8.967,
+      "firstAirDate": "2026-07-23"
     },
     {
       "id": 1396,
@@ -368,20 +368,6 @@
       "firstAirDate": "2025-03-07"
     },
     {
-      "id": 246,
-      "name": "Avatar : Le Dernier Maître de l'air",
-      "overview": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.8,
-      "firstAirDate": "2005-02-21"
-    },
-    {
       "id": 64010,
       "name": "Reply 1988",
       "overview": "Replongez dans la nostalgie de la fin des années 80 en suivant la vie de cinq familles et de leurs cinq adolescents dans un petit quartier de Séoul.",
@@ -421,6 +407,20 @@
       "firstAirDate": "2021-11-01"
     },
     {
+      "id": 246,
+      "name": "Avatar : Le Dernier Maître de l'air",
+      "overview": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.779,
+      "firstAirDate": "2005-02-21"
+    },
+    {
       "id": 259666,
       "name": "No One Will Miss Us",
       "overview": "Dans le Mexique des années 1990, avant la crise économique, cinq losers sont à la tête d'un commerce illégal dans leur lycée. La vente de devoirs à leurs camarades de classe leur apporte argent et popularité, mais les hormones et une mort inattendue risquent de tout saboter...",
@@ -444,7 +444,7 @@
         35,
         16
       ],
-      "voteAverage": 8.749,
+      "voteAverage": 8.75,
       "firstAirDate": "1999-10-20"
     },
     {
@@ -470,8 +470,20 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.747,
+      "voteAverage": 8.741,
       "firstAirDate": "2025-11-28"
+    },
+    {
+      "id": 250307,
+      "name": "The Pitt",
+      "overview": "Dans l'Amérique d'aujourd'hui, les professionnels de la santé sont confrontés à de nombreux défis au sein d'un hôpital de Pittsburgh, en Pennsylvanie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lsLZ9QamxbCQqOtRTffmWE6ctDA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.731,
+      "firstAirDate": "2025-01-09"
     },
     {
       "id": 87108,
@@ -484,21 +496,6 @@
       ],
       "voteAverage": 8.723,
       "firstAirDate": "2019-05-06"
-    },
-    {
-      "id": 31911,
-      "name": "Fullmetal Alchemist : Brotherhood",
-      "overview": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist.\n\nMais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
-      "genres": [
-        16,
-        10759,
-        10765,
-        18
-      ],
-      "voteAverage": 8.713,
-      "firstAirDate": "2009-04-05"
     },
     {
       "id": 60059,
@@ -514,6 +511,21 @@
       "firstAirDate": "2015-02-08"
     },
     {
+      "id": 31911,
+      "name": "Fullmetal Alchemist : Brotherhood",
+      "overview": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist.\n\nMais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2UG177tWHy7xRmMKWJHB7nAUmKd.jpg",
+      "genres": [
+        16,
+        10759,
+        10765,
+        18
+      ],
+      "voteAverage": 8.712,
+      "firstAirDate": "2009-04-05"
+    },
+    {
       "id": 1398,
       "name": "Les Soprano",
       "overview": "USA, New Jersey, Tony Soprano, dit « T » descend d'une lignée de caïds dans le crime organisé. Son père Johnny et son oncle Corrado Junior dit « Junior » ont développé le réseau local et les connexions avec la Mafia de New York.\n\nIl doit faire face à des problèmes de succession au sein de la mafia, des vendettas personnelles, et aux enquêtes du FBI. Il souffre de crises d'angoisse et consulte, en secret, un psychiatre, le Dr Jennifer Melfi. Son rang dans la Mafia ne lui autorise aucune faiblesse. Si l'argent coule à flot, Tony doit aussi gérer sa famille, sa mère Livia, sa sœur Janice, sa femme Carmela, sa fille Meadow et son fils Anthony Jr. mais aussi ses amantes et le tout n'est pas des plus reposants...",
@@ -525,33 +537,6 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "1999-01-10"
-    },
-    {
-      "id": 250307,
-      "name": "The Pitt",
-      "overview": "Dans l'Amérique d'aujourd'hui, les professionnels de la santé sont confrontés à de nombreux défis au sein d'un hôpital de Pittsburgh, en Pennsylvanie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lsLZ9QamxbCQqOtRTffmWE6ctDA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2025-01-09"
-    },
-    {
-      "id": 42705,
-      "name": "Hajime no Ippo : The Fighting",
-      "overview": "Ippo est un jeune lycéen de 16 ans qui n'a pas d'amis car il occupe tous son temps libre à aider sa mère pour tenir son affaire de pêche. Mais il ne sait pas encore qu'un prestigieux destin l'attend ; alors qu'il se faisait martyriser par la bande d'Amezawa, Takamura (un grand boxeur japonais) vient lui porter secours. Les voyous hors d'état de nuire Takamura emmène le jeune lycéen dans son club de boxe. Ippo remis sur pied, Takamura lui proposera de se défouler sur un sac du club avec un dessin de Furyô dessus. Là se révélera une grande force et Ippo se découvrira une passion pour la boxe. Après avoir visionné une cassette et passé le test de Takamura avec brio, il entrera dans le club de boxe de Kamogawa. À la surprise générale il tiendra tête à l'un des génies du club de boxe ce qui va attirer l'attention de l’entraîneur du club.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/umMYjHm7FjsyllUnC8lWDy9rrZQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
-      "genres": [
-        16,
-        35,
-        18,
-        10759
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2000-10-03"
     },
     {
       "id": 70785,
@@ -633,7 +618,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.688,
+      "voteAverage": 8.689,
       "firstAirDate": "2024-03-20"
     },
     {
@@ -720,6 +705,21 @@
       ],
       "voteAverage": 8.671,
       "firstAirDate": "1993-10-16"
+    },
+    {
+      "id": 42705,
+      "name": "Hajime no Ippo : The Fighting",
+      "overview": "Ippo est un jeune lycéen de 16 ans qui n'a pas d'amis car il occupe tous son temps libre à aider sa mère pour tenir son affaire de pêche. Mais il ne sait pas encore qu'un prestigieux destin l'attend ; alors qu'il se faisait martyriser par la bande d'Amezawa, Takamura (un grand boxeur japonais) vient lui porter secours. Les voyous hors d'état de nuire Takamura emmène le jeune lycéen dans son club de boxe. Ippo remis sur pied, Takamura lui proposera de se défouler sur un sac du club avec un dessin de Furyô dessus. Là se révélera une grande force et Ippo se découvrira une passion pour la boxe. Après avoir visionné une cassette et passé le test de Takamura avec brio, il entrera dans le club de boxe de Kamogawa. À la surprise générale il tiendra tête à l'un des génies du club de boxe ce qui va attirer l'attention de l’entraîneur du club.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/umMYjHm7FjsyllUnC8lWDy9rrZQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uvCkSZwCTKnBtBOvDpcOvQA6xBg.jpg",
+      "genres": [
+        16,
+        35,
+        18,
+        10759
+      ],
+      "voteAverage": 8.671,
+      "firstAirDate": "2000-10-03"
     },
     {
       "id": 271607,
@@ -1107,7 +1107,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.608,
+      "voteAverage": 8.606,
       "firstAirDate": "2026-04-06"
     },
     {
@@ -1150,8 +1150,23 @@
         18,
         10768
       ],
-      "voteAverage": 8.601,
+      "voteAverage": 8.602,
       "firstAirDate": "2001-09-09"
+    },
+    {
+      "id": 79141,
+      "name": "Scissor Seven",
+      "overview": "Pour retrouver la mémoire, un coiffeur armé de ciseaux se reconvertit en assassin, mais incapable de faire du mal à une mouche, il finit mêlé à une âpre lutte de pouvoir.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
+      "genres": [
+        16,
+        35,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.602,
+      "firstAirDate": "2018-04-25"
     },
     {
       "id": 3854,
@@ -1211,21 +1226,6 @@
       "firstAirDate": "2023-11-09"
     },
     {
-      "id": 79141,
-      "name": "Scissor Seven",
-      "overview": "Pour retrouver la mémoire, un coiffeur armé de ciseaux se reconvertit en assassin, mais incapable de faire du mal à une mouche, il finit mêlé à une âpre lutte de pouvoir.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/80AhZSbY4eYe7HZnmkqX18ZcAFj.jpg",
-      "genres": [
-        16,
-        35,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2018-04-25"
-    },
-    {
       "id": 62914,
       "name": "#Philo",
       "overview": "Série télévisée sur un professeur de philosophie au lycée, Merlí, qui enseigne de manière originale, et sur les élèves de sa classe, y compris son propre fils, et la relation, l'amitié, l'amour et les problèmes entre les élèves de la classe.",
@@ -1278,20 +1278,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2022-06-18"
-    },
-    {
-      "id": 35610,
-      "name": "InuYasha",
-      "overview": "Kagome, jeune Japonaise de 15 ans, mène une vie paisible au sein de sa famille auprès d’un temple de Tokyo jusqu’au jour où tombant dans un puits, elle fait un bond dans le temps et se retrouve à l’époque Sengoku dans un Japon où monstres et esprits malins abondent. Elle fait alors la rencontre d’Inu-Yasha, un être hybride tenant à la fois de l’humain, du chien et du démon. Celui-ci est à la recherche de la perle de Shikon. A la suite de péripéties, la perle de Shikon est éclatée et Kagome se retrouve en la possession d’un de ses fragments… Kagome et Inu-Yasha vont être contraints de faire équipe pour retrouver les parties manquantes de la perle de Shikon. Sans cesse oscillant entre Japon moderne et Japon féodal, l’aventure peut alors commencer !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2000-10-16"
     },
     {
       "id": 2192,
@@ -1453,7 +1439,7 @@
         10751,
         10762
       ],
-      "voteAverage": 8.573,
+      "voteAverage": 8.575,
       "firstAirDate": "2018-10-01"
     },
     {
@@ -1482,6 +1468,20 @@
       ],
       "voteAverage": 8.572,
       "firstAirDate": "2009-11-28"
+    },
+    {
+      "id": 35610,
+      "name": "InuYasha",
+      "overview": "Kagome, jeune Japonaise de 15 ans, mène une vie paisible au sein de sa famille auprès d’un temple de Tokyo jusqu’au jour où tombant dans un puits, elle fait un bond dans le temps et se retrouve à l’époque Sengoku dans un Japon où monstres et esprits malins abondent. Elle fait alors la rencontre d’Inu-Yasha, un être hybride tenant à la fois de l’humain, du chien et du démon. Celui-ci est à la recherche de la perle de Shikon. A la suite de péripéties, la perle de Shikon est éclatée et Kagome se retrouve en la possession d’un de ses fragments… Kagome et Inu-Yasha vont être contraints de faire équipe pour retrouver les parties manquantes de la perle de Shikon. Sans cesse oscillant entre Japon moderne et Japon féodal, l’aventure peut alors commencer !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.571,
+      "firstAirDate": "2000-10-16"
     },
     {
       "id": 61617,
@@ -1522,7 +1522,7 @@
         16,
         18
       ],
-      "voteAverage": 8.564,
+      "voteAverage": 8.563,
       "firstAirDate": "1995-10-04"
     },
     {
@@ -1580,20 +1580,6 @@
       "firstAirDate": "2023-04-02"
     },
     {
-      "id": 9302,
-      "name": "Digimon : Tamers",
-      "overview": "Le destin de Takato Matsuda, Ruki Matsuno, et Lee Jenrya est bouleversé lorsqu'ils font la rencontre de \"Digimon\" réel, issu du jeu de carte auquel ils jouent. Chacun des enfants, appelés aussi, \"Digimon Tamers\", ont des opinions très différents sur la façon dont les 'digimons\" doivent être traités...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pxv1aOcl5crXKaWN0dsUeqoSpfP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rRoqRhFoUGUoCXSdxDjplML2SSK.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.559,
-      "firstAirDate": "2001-04-01"
-    },
-    {
       "id": 94954,
       "name": "Hazbin Hotel",
       "overview": "Charlie Morningstar, la Princesse de l'Enfer, lutte pour convaincre les démons et les anges que n'importe quelle âme peut être rachetée. Venez chanter devant cette comédie musicale animée pour adultes sur la rédemption.",
@@ -1649,6 +1635,20 @@
       "firstAirDate": "2016-07-15"
     },
     {
+      "id": 9302,
+      "name": "Digimon : Tamers",
+      "overview": "Le destin de Takato Matsuda, Ruki Matsuno, et Lee Jenrya est bouleversé lorsqu'ils font la rencontre de \"Digimon\" réel, issu du jeu de carte auquel ils jouent. Chacun des enfants, appelés aussi, \"Digimon Tamers\", ont des opinions très différents sur la façon dont les 'digimons\" doivent être traités...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pxv1aOcl5crXKaWN0dsUeqoSpfP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rRoqRhFoUGUoCXSdxDjplML2SSK.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.552,
+      "firstAirDate": "2001-04-01"
+    },
+    {
       "id": 65844,
       "name": "Konosuba : Sois béni monde merveilleux !",
       "overview": "Kazuma Satō est un hikikomori qui ne vit que pour les mangas, les animes et les jeux vidéo. Il trouve la mort dans un accident de la circulation. Toutefois, son heure n'est pas encore arrivée puisqu'il se réveille face à une belle déesse qui lui propose de rejoindre un autre monde tout en apportant avec lui quelque chose ou quelqu'un qui lui tient à coeur.\n\nNe sachant quoi répondre, notre héros choisit d'apporter avec lui cette déesse. Une fois sur place, il se retrouve chargé d'une mission qui consiste à vaincre le roi des démons. Ne se sentant pas concerné par cette demande, Kazuma décide de vivre une vie paisible en trouvant un travail pour se loger, se nourrir et vivre confortablement. Toutefois, cela ne durera pas longtemps car la déesse est là pour lui rappeler son rôle et l'armée du roi des démons compte passer à l'action…",
@@ -1660,7 +1660,7 @@
         35,
         10765
       ],
-      "voteAverage": 8.546,
+      "voteAverage": 8.547,
       "firstAirDate": "2016-01-14"
     },
     {
@@ -1703,7 +1703,7 @@
         35,
         10765
       ],
-      "voteAverage": 8.542,
+      "voteAverage": 8.543,
       "firstAirDate": "2019-07-05"
     },
     {
@@ -1716,7 +1716,7 @@
         35,
         16
       ],
-      "voteAverage": 8.541,
+      "voteAverage": 8.54,
       "firstAirDate": "2019-01-12"
     },
     {
@@ -1827,7 +1827,7 @@
         35,
         18
       ],
-      "voteAverage": 8.531,
+      "voteAverage": 8.53,
       "firstAirDate": "2014-08-22"
     },
     {
@@ -1886,6 +1886,20 @@
       "firstAirDate": "2013-09-12"
     },
     {
+      "id": 28136,
+      "name": "Kenshin le Vagabond",
+      "overview": "Au milieu du siècle dernier, le Japon s'apprête à entrer dans l'ère Meiji, passant sans transition du Moyen Age à l'industrialisation. Les samouraïs n'ont plus leur place dans cette société moderne où les guerriers sont moins utiles que les commerçants. Sans emploi, n'ayant plus le droit de porter le sabre, confrontés aux fusils et aux canons, les samouraïs vont peu à peu disparaître pour entrer dans la légende. Kenshin est l'un de ces guerriers perdus. Grand maître de sabre il est devenu un vagabond errant sur les routes du Japon. Mais son esprit chevaleresque et son courage vont faire de cet ancien mercenaire un justicier aimé et respecté.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qft385RNPuxSylHUIm8tv5zkVyT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/AwhfYDJHEsgUzEkd7Dp3fKaeHHU.jpg",
+      "genres": [
+        10759,
+        16,
+        35
+      ],
+      "voteAverage": 8.526,
+      "firstAirDate": "1996-01-10"
+    },
+    {
       "id": 240411,
       "name": "DAN DA DAN",
       "overview": "Momo Ayase et Ken Takakura sont deux lycéens que tout oppose. Tandis que la première ne croit qu'aux esprits, le second ne jure que par les extraterrestres. Incapables de se convaincre, ils se lancent alors un défi : Momo devra se rendre dans un hôpital où des créatures de l'espace sont censées se trouver et Ken dans un tunnel hanté... Or, chacun va faire une rencontre d'un autre genre qui va bouleverser leurs vies et lier leurs sorts. C'est le début d'une romance survoltée où l'occulte, le paranormal et le surnaturel se bousculent dans un chaos haletant !",
@@ -1897,22 +1911,8 @@
         35,
         10765
       ],
-      "voteAverage": 8.525,
+      "voteAverage": 8.52,
       "firstAirDate": "2024-10-04"
-    },
-    {
-      "id": 28136,
-      "name": "Kenshin le Vagabond",
-      "overview": "Au milieu du siècle dernier, le Japon s'apprête à entrer dans l'ère Meiji, passant sans transition du Moyen Age à l'industrialisation. Les samouraïs n'ont plus leur place dans cette société moderne où les guerriers sont moins utiles que les commerçants. Sans emploi, n'ayant plus le droit de porter le sabre, confrontés aux fusils et aux canons, les samouraïs vont peu à peu disparaître pour entrer dans la légende. Kenshin est l'un de ces guerriers perdus. Grand maître de sabre il est devenu un vagabond errant sur les routes du Japon. Mais son esprit chevaleresque et son courage vont faire de cet ancien mercenaire un justicier aimé et respecté.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qft385RNPuxSylHUIm8tv5zkVyT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/AwhfYDJHEsgUzEkd7Dp3fKaeHHU.jpg",
-      "genres": [
-        10759,
-        16,
-        35
-      ],
-      "voteAverage": 8.524,
-      "firstAirDate": "1996-01-10"
     },
     {
       "id": 126506,
@@ -1925,8 +1925,22 @@
         35,
         10765
       ],
-      "voteAverage": 8.518,
+      "voteAverage": 8.519,
       "firstAirDate": "2020-04-01"
+    },
+    {
+      "id": 82739,
+      "name": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "overview": "Le syndrome de la puberté : phénomènes anormaux qui, selon la rumeur qui circule sur le net, sont causés par la sensibilité et l’instabilité ressenties lors de l’adolescence. Sakuta Azusagawa, un lycéen qui étudie près d’Enoshima, rencontre plusieurs jeunes filles souffrant du syndrome de la puberté. L’une d’elles se promène en costume de lapin dans la bibliothèque. Elle se nomme Mai Sakurajima, c’est une élève de terminale qui a mis sa carrière d’actrice en pause. Pour une raison inexpliquée, personne d’autre que lui ne la voit. Comment est-elle devenue invisible ? Alors que Sakuta cherche des réponses au problème de Mai, ils passent plus de temps ensemble, ce qui lui permet d’en apprendre davantage sur ses sentiments enfouis. Cette histoire vous fera voyager dans une ville où le ciel bleu côtoie une mer d’huile et où Sakuta fera la rencontre de différentes jeunes filles plus mystérieuses les unes que les autres.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cvYi7KYiCr7OCKoZlXaFShfH3vz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/8165gnzhyRbkKfm3WFBINdkDQBR.jpg",
+      "genres": [
+        16,
+        35,
+        18
+      ],
+      "voteAverage": 8.518,
+      "firstAirDate": "2018-10-04"
     },
     {
       "id": 114410,
@@ -1972,21 +1986,6 @@
       "firstAirDate": "2016-10-06"
     },
     {
-      "id": 76121,
-      "name": "Darling in The FranXX",
-      "overview": "Dans un lointain futur, la Terre est en ruine et l’humanité s’est retranchée dans une ville fortifiée mobile, Plantation. Un quartier est dédié à la formation de jeunes pilotes qui ne connaissent rien du monde extérieur. Leur seul but dans la vie est d’apprendre à piloter des robots, les Franxx, afin d’affronter un mystérieux ennemi géant mais invisible.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wwk3zyeXdyCx68oJ7ncjDkLNkU9.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
-      "genres": [
-        16,
-        18,
-        10765,
-        35
-      ],
-      "voteAverage": 8.513,
-      "firstAirDate": "2018-01-13"
-    },
-    {
       "id": 67389,
       "name": "Golden Time",
       "overview": "Banri Tada vient d'être admis dans une université de droit de Tokyo. Il a perdu la mémoire suite à un accident juste après la remise des diplômes du lycée. Lors de la rentrée universitaire, il fait connaissance avec Mitsuo Yanagisawa. Mais leur rencontre est écourtée par l'apparition soudaine d'une belle jeune femme tenant un bouquet de roses, Koko Kaga. Celle-ci est l'amie d'enfance de Mitsuo et elle vient lui rappeler leur promesse de mariage.",
@@ -1998,6 +1997,21 @@
       ],
       "voteAverage": 8.513,
       "firstAirDate": "2013-10-03"
+    },
+    {
+      "id": 76121,
+      "name": "Darling in The FranXX",
+      "overview": "Dans un lointain futur, la Terre est en ruine et l’humanité s’est retranchée dans une ville fortifiée mobile, Plantation. Un quartier est dédié à la formation de jeunes pilotes qui ne connaissent rien du monde extérieur. Leur seul but dans la vie est d’apprendre à piloter des robots, les Franxx, afin d’affronter un mystérieux ennemi géant mais invisible.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wwk3zyeXdyCx68oJ7ncjDkLNkU9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/tKh3pc5MEjCIGV7hSJX76qi8aGA.jpg",
+      "genres": [
+        16,
+        18,
+        10765,
+        35
+      ],
+      "voteAverage": 8.511,
+      "firstAirDate": "2018-01-13"
     },
     {
       "id": 259909,
@@ -2038,8 +2052,22 @@
         10759,
         35
       ],
-      "voteAverage": 8.508,
+      "voteAverage": 8.509,
       "firstAirDate": "2022-04-09"
+    },
+    {
+      "id": 35935,
+      "name": "Berserk",
+      "overview": "Midland : un royaume pris depuis un siècle dans l’étau d’une guerre sans merci avec ses voisins. Dans ce Moyen Âge barbare et sans pitié, Guts, un jeune mercenaire, lutte sur les champs de bataille pour survivre au quotidien. Malgré son jeune âge, il se bat avec la rage d’un chien fou et traîne derrière lui une épée au gabarit impressionnant. Alors qu’il sort d’une énième bataille, il est contraint par un pari perdu de rejoindre les Faucons, une troupe de mercenaires dirigés par Griffith, un jeune homme charismatique et mystérieux, qui semble promis à une ascension fulgurante…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
+      "genres": [
+        10759,
+        10765,
+        16
+      ],
+      "voteAverage": 8.509,
+      "firstAirDate": "1997-10-08"
     },
     {
       "id": 88803,
@@ -2071,20 +2099,6 @@
       "firstAirDate": "2016-08-29"
     },
     {
-      "id": 35935,
-      "name": "Berserk",
-      "overview": "Midland : un royaume pris depuis un siècle dans l’étau d’une guerre sans merci avec ses voisins. Dans ce Moyen Âge barbare et sans pitié, Guts, un jeune mercenaire, lutte sur les champs de bataille pour survivre au quotidien. Malgré son jeune âge, il se bat avec la rage d’un chien fou et traîne derrière lui une épée au gabarit impressionnant. Alors qu’il sort d’une énième bataille, il est contraint par un pari perdu de rejoindre les Faucons, une troupe de mercenaires dirigés par Griffith, un jeune homme charismatique et mystérieux, qui semble promis à une ascension fulgurante…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qsxalXLXwGqjlxG6PXfVeXYIMeu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/99Y64VK0KwyRWfaW6VdpDfPKNMo.jpg",
-      "genres": [
-        10759,
-        10765,
-        16
-      ],
-      "voteAverage": 8.508,
-      "firstAirDate": "1997-10-08"
-    },
-    {
       "id": 6357,
       "name": "La Quatrième Dimension",
       "overview": "Nous sommes transportés dans une autre dimension, une dimension faite non seulement de paysages et de sons, mais surtout d'esprits. Un voyage dans une contrée sans fin dont les frontières sont notre imagination. Un voyage au bout des ténèbres où il n'y a qu'une destination : la Quatrième Dimension.",
@@ -2097,21 +2111,6 @@
       ],
       "voteAverage": 8.508,
       "firstAirDate": "1959-10-02"
-    },
-    {
-      "id": 30981,
-      "name": "Monster",
-      "overview": "Kenzo Tenma est un médecin japonais travaillant en Allemagne. En 1986, il décide de sauver la vie d'un jeune garçon, désobéissant ainsi aux ordres de son directeur qui lui demandait de sauver en priorité celle du maire de la ville. Quelques jours plus tard, le directeur et deux autres responsables de l'hôpital sont empoisonnés. \n\nNeuf ans sont passées, en 1995, un événement similaire se produit et oblige Tenma à fuir. Sa fuite et sa quête de justice vont l'amener à découvrir une horrible vérité. Le jeune garçon qu'il avait sauvé dix plus tôt est en fait un véritable monstre : un être brillant, beau, mais avant tout un terrifiant tueur... \n\n",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
-      "genres": [
-        16,
-        18,
-        9648,
-        80
-      ],
-      "voteAverage": 8.508,
-      "firstAirDate": "2004-04-07"
     },
     {
       "id": 110070,
@@ -2183,18 +2182,19 @@
       "firstAirDate": "2018-04-04"
     },
     {
-      "id": 127529,
-      "name": "La Traque dans le sang",
-      "overview": "Deux jeunes boxeurs font équipe avec un prêteur bienveillant pour faire tomber un usurier sans pitié qui s'attaque aux plus fauchés et désespérés.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/932h4WSwKmVz387hDfBfq4ryIFD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+      "id": 30981,
+      "name": "Monster",
+      "overview": "Kenzo Tenma est un médecin japonais travaillant en Allemagne. En 1986, il décide de sauver la vie d'un jeune garçon, désobéissant ainsi aux ordres de son directeur qui lui demandait de sauver en priorité celle du maire de la ville. Quelques jours plus tard, le directeur et deux autres responsables de l'hôpital sont empoisonnés. \n\nNeuf ans sont passées, en 1995, un événement similaire se produit et oblige Tenma à fuir. Sa fuite et sa quête de justice vont l'amener à découvrir une horrible vérité. Le jeune garçon qu'il avait sauvé dix plus tôt est en fait un véritable monstre : un être brillant, beau, mais avant tout un terrifiant tueur... \n\n",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
       "genres": [
+        16,
         18,
-        10759,
+        9648,
         80
       ],
       "voteAverage": 8.505,
-      "firstAirDate": "2023-06-09"
+      "firstAirDate": "2004-04-07"
     },
     {
       "id": 108261,
@@ -2209,6 +2209,20 @@
       ],
       "voteAverage": 8.505,
       "firstAirDate": "2020-12-12"
+    },
+    {
+      "id": 127529,
+      "name": "La Traque dans le sang",
+      "overview": "Deux jeunes boxeurs font équipe avec un prêteur bienveillant pour faire tomber un usurier sans pitié qui s'attaque aux plus fauchés et désespérés.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/932h4WSwKmVz387hDfBfq4ryIFD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+      "genres": [
+        18,
+        10759,
+        80
+      ],
+      "voteAverage": 8.504,
+      "firstAirDate": "2023-06-09"
     },
     {
       "id": 96462,
@@ -2304,20 +2318,6 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2023-08-09"
-    },
-    {
-      "id": 82739,
-      "name": "Rascal Does Not Dream of Bunny Girl Senpai",
-      "overview": "Le syndrome de la puberté : phénomènes anormaux qui, selon la rumeur qui circule sur le net, sont causés par la sensibilité et l’instabilité ressenties lors de l’adolescence. Sakuta Azusagawa, un lycéen qui étudie près d’Enoshima, rencontre plusieurs jeunes filles souffrant du syndrome de la puberté. L’une d’elles se promène en costume de lapin dans la bibliothèque. Elle se nomme Mai Sakurajima, c’est une élève de terminale qui a mis sa carrière d’actrice en pause. Pour une raison inexpliquée, personne d’autre que lui ne la voit. Comment est-elle devenue invisible ? Alors que Sakuta cherche des réponses au problème de Mai, ils passent plus de temps ensemble, ce qui lui permet d’en apprendre davantage sur ses sentiments enfouis. Cette histoire vous fera voyager dans une ville où le ciel bleu côtoie une mer d’huile et où Sakuta fera la rencontre de différentes jeunes filles plus mystérieuses les unes que les autres.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cvYi7KYiCr7OCKoZlXaFShfH3vz.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/8165gnzhyRbkKfm3WFBINdkDQBR.jpg",
-      "genres": [
-        16,
-        35,
-        18
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2018-10-04"
     },
     {
       "id": 117376,
@@ -2428,20 +2428,6 @@
       "firstAirDate": "2021-12-18"
     },
     {
-      "id": 40143,
-      "name": "Shaman King",
-      "overview": "Manta est un collégien très ordinaire. Un jour, traversant un cimetière pour gagner du temps, il rencontre Yoh, un shaman. Yoh peut voir les fantômes, et fusionner avec eux pour utiliser leurs compétences. Son rêve est de devenir Shaman King, le shaman possédant le fantôme ultime, le Great Spirit, la connaissance universelle. Mais la route est semée d'embûches, et de nombreux autres shamans ont le même objectif : gagner le Shaman Fight !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/conBjZLX8KBc18vdQjSNegZytln.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/f7DC5Qu0MJBtbAK9zCOU2rzz6NG.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2001-07-04"
-    },
-    {
       "id": 279914,
       "name": "Sľub",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -2518,7 +2504,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.495,
+      "voteAverage": 8.493,
       "firstAirDate": "1986-10-11"
     },
     {
@@ -2565,6 +2551,20 @@
       "firstAirDate": "2026-04-04"
     },
     {
+      "id": 40143,
+      "name": "Shaman King",
+      "overview": "Manta est un collégien très ordinaire. Un jour, traversant un cimetière pour gagner du temps, il rencontre Yoh, un shaman. Yoh peut voir les fantômes, et fusionner avec eux pour utiliser leurs compétences. Son rêve est de devenir Shaman King, le shaman possédant le fantôme ultime, le Great Spirit, la connaissance universelle. Mais la route est semée d'embûches, et de nombreux autres shamans ont le même objectif : gagner le Shaman Fight !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/conBjZLX8KBc18vdQjSNegZytln.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/f7DC5Qu0MJBtbAK9zCOU2rzz6NG.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.49,
+      "firstAirDate": "2001-07-04"
+    },
+    {
       "id": 117648,
       "name": "Clarkson à la ferme",
       "overview": "Plongez dans le quotidien tantôt intense, tantôt tortueux mais souvent hilarant du plus improbable des agriculteurs britanniques : Jeremy Clarkson. Pendant une année entière, Jeremy et ses nombreux comparses devront faire face à une météo capricieuse, des animaux désobéissants, des champs instables et une pandémie inattendue. Suivez Jeremy Clarkson tel que vous ne l'avez jamais vu auparavant.",
@@ -2576,20 +2576,6 @@
       ],
       "voteAverage": 8.49,
       "firstAirDate": "2021-06-11"
-    },
-    {
-      "id": 225180,
-      "name": "Blue Eye Samurai",
-      "overview": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/oCMZpwLBcb3dnRuzEKWNWrw1tHz.jpg",
-      "genres": [
-        10759,
-        16,
-        18
-      ],
-      "voteAverage": 8.488,
-      "firstAirDate": "2023-11-03"
     },
     {
       "id": 106600,
@@ -2604,21 +2590,6 @@
       "firstAirDate": "2020-08-19"
     },
     {
-      "id": 30991,
-      "name": "Cowboy Bebop",
-      "overview": "2071. Suite à un accident survenu sur la Lune, la vie sur la planète Terre est devenue impossible. Les Humains ont dû partir, coloniser d'autres planètes. Cet exode a créé un chaos dans tout l'univers, laissant une totale liberté aux criminels les plus dangereux. Un vrai terrain de jeu pour les chasseurs de primes. Parmi cette clique : le Bebop, un vaisseau spatial abritant Spike Spiegel et Jet...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
-      "genres": [
-        16,
-        10759,
-        10765,
-        37
-      ],
-      "voteAverage": 8.488,
-      "firstAirDate": "1998-04-03"
-    },
-    {
       "id": 101172,
       "name": "Swallowed Star",
       "overview": "L'histoire se déroule dans un univers post-apocalyptique suite à l'émergence d'un virus inconnu, le virus RR, qui a muté la faune terrestre en monstres féroces et territoriaux.  Le protagoniste, Luo Feng, est un jeune homme de 18 ans issu d'une famille pauvre qui aspire à devenir Guerrier pour protéger les siens et améliorer leur vie. Après une attaque de monstre qui menace sa ville, Luo Feng découvre un talent exceptionnel pour le combat. Il rejoint une académie militaire et commence son entraînement. Au fil des épisodes, il doit faire face à des ennemis puissants, des trahisons au sein des grandes familles dirigeantes, et des créatures mythiques (comme les dragons). Luo Feng doit constamment repousser ses limites, exploiter son potentiel caché et s'allier à des mentors puissants (comme Hong et Lei Shen) pour survivre et protéger l'humanité.",
@@ -2631,6 +2602,35 @@
       ],
       "voteAverage": 8.488,
       "firstAirDate": "2020-11-29"
+    },
+    {
+      "id": 225180,
+      "name": "Blue Eye Samurai",
+      "overview": "Cherchant à se venger de ceux qui ont fait d'elle une paria dans le Japon de l'époque d'Edo, une jeune guerrière se fraye un chemin sanglant vers son destin.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fXm3JT4WLQVnwukdvghtAblc1wc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/oCMZpwLBcb3dnRuzEKWNWrw1tHz.jpg",
+      "genres": [
+        10759,
+        16,
+        18
+      ],
+      "voteAverage": 8.487,
+      "firstAirDate": "2023-11-03"
+    },
+    {
+      "id": 30991,
+      "name": "Cowboy Bebop",
+      "overview": "2071. Suite à un accident survenu sur la Lune, la vie sur la planète Terre est devenue impossible. Les Humains ont dû partir, coloniser d'autres planètes. Cet exode a créé un chaos dans tout l'univers, laissant une totale liberté aux criminels les plus dangereux. Un vrai terrain de jeu pour les chasseurs de primes. Parmi cette clique : le Bebop, un vaisseau spatial abritant Spike Spiegel et Jet...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+      "genres": [
+        16,
+        10759,
+        10765,
+        37
+      ],
+      "voteAverage": 8.486,
+      "firstAirDate": "1998-04-03"
     },
     {
       "id": 212907,
@@ -2683,7 +2683,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.448,
+      "voteAverage": 8.446,
       "firstAirDate": "2024-04-13"
     },
     {
@@ -2711,8 +2711,22 @@
         10765,
         35
       ],
-      "voteAverage": 8.433,
+      "voteAverage": 8.428,
       "firstAirDate": "2018-10-02"
+    },
+    {
+      "id": 255358,
+      "name": "THE GHOST IN THE SHELL",
+      "overview": "2029, un Japon du futur proche. Le cyborg Motoko Kusanagi envisage une unité de lutte contre les menaces émergentes. Daisuke Aramaki recrute son équipe et forme la Section 9 de la Sécurité publique, alias l'« Unité spéciale ». Un complot se dessine et un hacker émerge : le « Marionnettiste ». Que réserve l'avenir à Kusanagi ? Que veut ce hacker ? Une nouvelle ère d'action cyberpunk commence !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v6D7aBJynhY6opGugGJkofzknw6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.417,
+      "firstAirDate": "2026-07-07"
     },
     {
       "id": 94664,
@@ -2753,6 +2767,20 @@
       "firstAirDate": "2012-10-10"
     },
     {
+      "id": 5920,
+      "name": "Mentalist",
+      "overview": "Un mentaliste utilise ses extraordinaires dons d'observation pour résoudre des crimes en tant que consultant du CBI. Une façon pour lui de contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dGRoQRWjGac97wqp6WuLnRsZDpc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.4,
+      "firstAirDate": "2008-09-23"
+    },
+    {
       "id": 58841,
       "name": "Chicago Police Department",
       "overview": "Des officiers en uniforme qui patrouillent et combattent le crime dans la rue, aux membres de l'unité des renseignements affectés à des affaires majeures (crime organisé, trafic de drogue, homicides...), toutes les recrues du poste de police du district 21 de Chicago risquent quotidiennement leurs vies. Ces énormes responsabilités dépassent souvent le simple cadre professionnel et entâchent la sphère privée de ces hommes et de ces femmes d'exception.\n\nSpin-off de Chicago Fire centré sur une brigade de police de la ville.",
@@ -2778,34 +2806,6 @@
       ],
       "voteAverage": 8.4,
       "firstAirDate": "2020-07-25"
-    },
-    {
-      "id": 255358,
-      "name": "THE GHOST IN THE SHELL",
-      "overview": "2029, un Japon du futur proche. Le cyborg Motoko Kusanagi envisage une unité de lutte contre les menaces émergentes. Daisuke Aramaki recrute son équipe et forme la Section 9 de la Sécurité publique, alias l'« Unité spéciale ». Un complot se dessine et un hacker émerge : le « Marionnettiste ». Que réserve l'avenir à Kusanagi ? Que veut ce hacker ? Une nouvelle ère d'action cyberpunk commence !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/v6D7aBJynhY6opGugGJkofzknw6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/app8YXZ4NS0hMTYZuIA6zx92xVm.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.4,
-      "firstAirDate": "2026-07-07"
-    },
-    {
-      "id": 5920,
-      "name": "Mentalist",
-      "overview": "Un mentaliste utilise ses extraordinaires dons d'observation pour résoudre des crimes en tant que consultant du CBI. Une façon pour lui de contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dGRoQRWjGac97wqp6WuLnRsZDpc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8.396,
-      "firstAirDate": "2008-09-23"
     },
     {
       "id": 94997,
@@ -2874,7 +2874,7 @@
         18,
         35
       ],
-      "voteAverage": 8.366,
+      "voteAverage": 8.367,
       "firstAirDate": "2020-08-14"
     },
     {
@@ -2929,7 +2929,7 @@
         9648,
         10765
       ],
-      "voteAverage": 8.314,
+      "voteAverage": 8.313,
       "firstAirDate": "2005-09-13"
     },
     {
@@ -2944,20 +2944,6 @@
       ],
       "voteAverage": 8.301,
       "firstAirDate": "2009-09-10"
-    },
-    {
-      "id": 95350,
-      "name": "Lanterns",
-      "overview": "Deux flics intergalactiques, la nouvelle recrue John Stewart et le légendaire Hal Jordan, sont confrontés à un sombre mystère sur Terre alors qu’ils enquêtent sur un meurtre au fin fond de l’Amérique.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
-      "genres": [
-        18,
-        9648,
-        10765
-      ],
-      "voteAverage": 8.3,
-      "firstAirDate": "2026-08-16"
     },
     {
       "id": 246246,
@@ -3011,6 +2997,20 @@
       ],
       "voteAverage": 8.298,
       "firstAirDate": "2005-09-22"
+    },
+    {
+      "id": 95350,
+      "name": "Lanterns",
+      "overview": "Deux flics intergalactiques, la nouvelle recrue John Stewart et le légendaire Hal Jordan, sont confrontés à un sombre mystère sur Terre alors qu’ils enquêtent sur un meurtre au fin fond de l’Amérique.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+      "genres": [
+        18,
+        9648,
+        10765
+      ],
+      "voteAverage": 8.279,
+      "firstAirDate": "2026-08-16"
     },
     {
       "id": 4629,
@@ -3168,19 +3168,6 @@
       "firstAirDate": "2005-03-27"
     },
     {
-      "id": 125988,
-      "name": "Silo",
-      "overview": "Dans un monde futur dévasté et toxique, des milliers de survivants habitent un gigantesque silo souterrain. Après la transgression d'une règle d'or par leur shérif et la mort mystérieuse de plusieurs résidents, Juliette, une mécanicienne, perce peu à peu les terribles secrets du Silo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dxktdopZCOlff10ocoEdn2TXBzl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
-      "genres": [
-        10765,
-        18
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2023-05-04"
-    },
-    {
       "id": 34307,
       "name": "Shameless",
       "overview": "Pour les enfants Gallagher, la vie est tout sauf un long fleuve tranquille… Fiona, l'aînée, âgée de 20 ans, élève du mieux possible sa soeur et ses quatre frères. Leur mère, Monica, les a abandonnés pour refaire sa vie avec une femme. Quant à leur père, Frank, paumé, chômeur et alcoolique, il dilapide l'argent des allocations familiales…",
@@ -3289,6 +3276,19 @@
       "firstAirDate": "2022-10-03"
     },
     {
+      "id": 125988,
+      "name": "Silo",
+      "overview": "Dans un monde futur dévasté et toxique, des milliers de survivants habitent un gigantesque silo souterrain. Après la transgression d'une règle d'or par leur shérif et la mort mystérieuse de plusieurs résidents, Juliette, une mécanicienne, perce peu à peu les terribles secrets du Silo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dxktdopZCOlff10ocoEdn2TXBzl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+      "genres": [
+        10765,
+        18
+      ],
+      "voteAverage": 8.194,
+      "firstAirDate": "2023-05-04"
+    },
+    {
       "id": 4604,
       "name": "Smallville",
       "overview": "Dans une petite bourgade qui a connu une pluie de météorites quelques années plus tôt, le jeune Clark Kent est élevé par une famille de fermiers. Contraint de cacher ses pouvoirs exceptionnels, il va apprendre à les utiliser pour aller au secours de son prochain.",
@@ -3354,7 +3354,7 @@
         18,
         10768
       ],
-      "voteAverage": 8.11,
+      "voteAverage": 8.109,
       "firstAirDate": "2023-07-23"
     },
     {
@@ -3465,7 +3465,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.092,
+      "voteAverage": 8.097,
       "firstAirDate": "2019-10-03"
     },
     {
@@ -3810,20 +3810,6 @@
       "firstAirDate": "2004-10-03"
     },
     {
-      "id": 290193,
-      "name": "Comme un rat",
-      "overview": "Un écrivain reclus découvre à son réveil que son identité a été volée. Il doit alors s'allier avec un usurier impitoyable pour traquer le Rat, l'inconnu qui a saccagé sa vie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7J2jPfh45mOyXTiycPpfoiYQAfv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 7.9,
-      "firstAirDate": "2026-08-28"
-    },
-    {
       "id": 80748,
       "name": "FBI",
       "overview": "Les agents spéciaux de la branche new-yorkaise du FBI usent de tous leurs talents et leur expertise pour assurer la protection de la ville et du pays. Les membres de cette unité d'élite combattent aussi bien le terrorisme, le crime organisé que le contre-espionnage.",
@@ -3970,19 +3956,6 @@
       "firstAirDate": "2026-08-03"
     },
     {
-      "id": 79166,
-      "name": "Grand Blue Dreaming",
-      "overview": "Quand Iori Kitahara part pour l‘université, il décide de s’installer dans la boutique de plongée de son oncle à Izu, Grand Blue. Iori a hâte de vivre la vie d’étudiant parmi le grondement des vagues, le soleil brûlant, et sa cousine qui vit avec lui. Mais Iori tombe sur un groupe de gros bras amateurs de parties de strip pierre-papier-ciseaux, et intègre le club de plongée de la fac, Peek-a-Boo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rvxt9lJbJziXPr4XcAZgDVRbAu8.jpg",
-      "genres": [
-        16,
-        35
-      ],
-      "voteAverage": 7.8,
-      "firstAirDate": "2018-07-14"
-    },
-    {
       "id": 1973,
       "name": "24 heures chrono",
       "overview": "Agent fédéral et responsable de la Cellule Anti-Terroriste de Los Angeles, Jack Bauer a 24 heures pour mener à bien sa mission, empêcher que des terroristes ne mettent leur plan à exécution, protéger les siens du danger qui les menace et sauver les États-Unis. Chaque saison correspond à 24 heures dans la vie de Jack Bauer, en temps réel.",
@@ -4022,6 +3995,33 @@
       ],
       "voteAverage": 7.781,
       "firstAirDate": "2024-10-27"
+    },
+    {
+      "id": 290193,
+      "name": "Comme un rat",
+      "overview": "Un écrivain reclus découvre à son réveil que son identité a été volée. Il doit alors s'allier avec un usurier impitoyable pour traquer le Rat, l'inconnu qui a saccagé sa vie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7J2jPfh45mOyXTiycPpfoiYQAfv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 7.762,
+      "firstAirDate": "2026-08-28"
+    },
+    {
+      "id": 79166,
+      "name": "Grand Blue Dreaming",
+      "overview": "Quand Iori Kitahara part pour l‘université, il décide de s’installer dans la boutique de plongée de son oncle à Izu, Grand Blue. Iori a hâte de vivre la vie d’étudiant parmi le grondement des vagues, le soleil brûlant, et sa cousine qui vit avec lui. Mais Iori tombe sur un groupe de gros bras amateurs de parties de strip pierre-papier-ciseaux, et intègre le club de plongée de la fac, Peek-a-Boo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rvxt9lJbJziXPr4XcAZgDVRbAu8.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 7.759,
+      "firstAirDate": "2018-07-14"
     },
     {
       "id": 60735,
