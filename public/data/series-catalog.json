@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:26:05.873Z",
+  "updatedAt": "2026-10-04T20:52:01.256Z",
   "results": [
     {
       "id": 327699,
@@ -50,7 +50,7 @@
         18,
         35
       ],
-      "voteAverage": 9.369,
+      "voteAverage": 9.368,
       "firstAirDate": "2026-06-05"
     },
     {
@@ -62,7 +62,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 9.167,
+      "voteAverage": 9.2,
       "firstAirDate": "2026-08-29"
     },
     {
@@ -75,7 +75,7 @@
         37,
         18
       ],
-      "voteAverage": 9.135,
+      "voteAverage": 9.136,
       "firstAirDate": "2026-05-15"
     },
     {
@@ -213,6 +213,32 @@
       "firstAirDate": "2019-04-21"
     },
     {
+      "id": 219246,
+      "name": "La vie portera ses fruits",
+      "overview": "Cette histoire au long cours d'une jeune fille imaginative et d'un garçon résolu de l'île de Jeju prouve que l'amour défie le temps, au fil des peines et des victoires de la vie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1WQTk3Ot9OGTClKZNPgcUG4JDHt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.8,
+      "firstAirDate": "2025-03-07"
+    },
+    {
+      "id": 246,
+      "name": "Avatar : Le Dernier Maître de l'air",
+      "overview": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.8,
+      "firstAirDate": "2005-02-21"
+    },
+    {
       "id": 137726,
       "name": "毛雪汪",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -235,18 +261,6 @@
       ],
       "voteAverage": 8.8,
       "firstAirDate": "2026-10-02"
-    },
-    {
-      "id": 219246,
-      "name": "La vie portera ses fruits",
-      "overview": "Cette histoire au long cours d'une jeune fille imaginative et d'un garçon résolu de l'île de Jeju prouve que l'amour défie le temps, au fil des peines et des victoires de la vie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1WQTk3Ot9OGTClKZNPgcUG4JDHt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/a9qlroMOHewiDsUR93PYMVfpbF5.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.798,
-      "firstAirDate": "2025-03-07"
     },
     {
       "id": 259666,
@@ -274,20 +288,6 @@
       ],
       "voteAverage": 8.782,
       "firstAirDate": "2025-06-28"
-    },
-    {
-      "id": 246,
-      "name": "Avatar : Le Dernier Maître de l'air",
-      "overview": "Ang est un jeune Maître de l'Air, mais c'est surtout l'Avatar, un être unique qui maîtrise tous les éléments - Feu, Air, Eau et Terre. Lors d'un terrible orage, il sombre dans la mer et hiberne grâce à ses pouvoirs d'Avatar, pour se réveiller un siècle plus tard dans un monde tyrannisé par la puissante Nation du Feu et où il est le dernier représentant de son peuple. Aidé de ses deux amis de la Tribu de l'Eau, Ang va devoir réveiller l'Avatar en lui, apprendre à contrôler tous les éléments et se battre contre la menace que les Maîtres du Feu font peser sur le monde.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8RVWqNc0VUX3vh0gIsMxQRBHmnz.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7oBGhqJIghRBvOwo5Qe0yM0cnMc.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.782,
-      "firstAirDate": "2005-02-21"
     },
     {
       "id": 37854,
@@ -408,6 +408,20 @@
       "firstAirDate": "2025-11-28"
     },
     {
+      "id": 138502,
+      "name": "X-Men '97",
+      "overview": "Une bande de mutants utilise ses dons étranges pour protéger un monde qui les hait et les craint. Ils sont mis au défi comme jamais auparavant, forcés de faire face à un nouvel avenir dangereux et inattendu.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/es8WtRpaw6Ep2yzsVad27ukX1Ve.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.703,
+      "firstAirDate": "2024-03-20"
+    },
+    {
       "id": 200709,
       "name": "Héros fragile",
       "overview": "Yeon Shi Eun est un élève modèle qui se classe parmi les meilleurs de son lycée. Physiquement, Yeon Shi Eun semble faible, mais en utilisant son intelligence et sa psychologie, il lutte contre la violence qui a lieu dans son école.",
@@ -432,20 +446,6 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2015-02-08"
-    },
-    {
-      "id": 138502,
-      "name": "X-Men '97",
-      "overview": "Une bande de mutants utilise ses dons étranges pour protéger un monde qui les hait et les craint. Ils sont mis au défi comme jamais auparavant, forcés de faire face à un nouvel avenir dangereux et inattendu.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/es8WtRpaw6Ep2yzsVad27ukX1Ve.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2024-03-20"
     },
     {
       "id": 131378,
@@ -500,19 +500,6 @@
       "firstAirDate": "2014-11-17"
     },
     {
-      "id": 120224,
-      "name": "Neeya Naana",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pJswvJkie98HCbZuxbO3nM96tOG.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/zU80k36UXYvhyVZTWXWKqXOj7vo.jpg",
-      "genres": [
-        10751,
-        10767
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2006-05-07"
-    },
-    {
       "id": 289078,
       "name": "我不是大师",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -524,6 +511,19 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2026-09-24"
+    },
+    {
+      "id": 120224,
+      "name": "Neeya Naana",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pJswvJkie98HCbZuxbO3nM96tOG.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/zU80k36UXYvhyVZTWXWKqXOj7vo.jpg",
+      "genres": [
+        10751,
+        10767
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "2006-05-07"
     },
     {
       "id": 1429,
@@ -959,6 +959,21 @@
       "firstAirDate": "2016-04-03"
     },
     {
+      "id": 230923,
+      "name": "Lovely Runner",
+      "overview": "Im Sol, une jeune femme pétillante devenue handicapé après un accident, trouve du réconfort dans la musique de la star Ryu Sun-jae. Le jour où elle apprend sa mort tragique, elle est anéantie… jusqu'à ce qu'un miracle la renvoie 15 ans en arrière, à l'époque du lycée. Déterminée à changer le destin, elle décide de sauver celui qu'elle aime, même si cela signifie bouleverser le cours du temps.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9gEp7Rs43Fi3eEEBsIMc8xGewNp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+      "genres": [
+        18,
+        10765,
+        35,
+        9648
+      ],
+      "voteAverage": 8.602,
+      "firstAirDate": "2024-04-08"
+    },
+    {
       "id": 31132,
       "name": "Regular Show",
       "overview": "La série se focalise sur deux compères, un geai bleu nommé Mordecai et un raton-laveur nommé Rigby, tous deux employés dans un parc. Leurs tentatives pour s'amuser plutôt que de travailler les entraînent dans des mésaventures souvent surréalistes…",
@@ -1328,7 +1343,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.57,
+      "voteAverage": 8.572,
       "firstAirDate": "2026-04-06"
     },
     {
@@ -1423,7 +1438,7 @@
         16,
         18
       ],
-      "voteAverage": 8.559,
+      "voteAverage": 8.56,
       "firstAirDate": "1995-10-04"
     },
     {
@@ -1510,6 +1525,19 @@
       ],
       "voteAverage": 8.539,
       "firstAirDate": "2018-10-16"
+    },
+    {
+      "id": 83880,
+      "name": "Notre planète",
+      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+      "genres": [
+        99,
+        10751
+      ],
+      "voteAverage": 8.538,
+      "firstAirDate": "2019-04-05"
     },
     {
       "id": 65844,
@@ -2222,18 +2250,6 @@
       "firstAirDate": "2006-04-05"
     },
     {
-      "id": 94537,
-      "name": "MTV Hustle",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wETCs0ZGQaGPPWWfkBcXhCxcMLE.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ksJaLs7hHV77eGQbLlPThzPz37J.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2019-08-10"
-    },
-    {
       "id": 96462,
       "name": "It's Okay to Not Be Okay",
       "overview": "Cette série raconte la rencontre entre Moon Gang-tae, aide-soignant qui a appris à taire ses émotions, et Ko Moon-young, une écrivaine brillante mais profondément traumatisée. Avec Sang-tae, le frère autiste de Gang-tae, ils affrontent ensemble leurs blessures d'enfance. La série parle de santé mentale, de traumatismes et d'amour imparfait et montre que guérir commence par s'accepter tel que l'on est.",
@@ -2614,19 +2630,6 @@
       "firstAirDate": "2022-08-21"
     },
     {
-      "id": 87940,
-      "name": "Hudson et Rex",
-      "overview": "À Saint-Jean, capitale de la province de Terre-Neuve, un vaillant détective de la police forme une équipe de choc avec un berger allemand spécialement dressé. Grâce à l'odorat et l'ouïe de Rex, ils vont résoudre de nombreuses enquêtes ensemble.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aJmc6p6z92LeuddHYEzI1ccdxNf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/le4TPzIf4ukqTO9vjnzthVEIYxY.jpg",
-      "genres": [
-        18,
-        80
-      ],
-      "voteAverage": 8.372,
-      "firstAirDate": "2019-02-25"
-    },
-    {
       "id": 97546,
       "name": "Ted Lasso",
       "overview": "Ted Lasso, entraîneur de football américain, débarque à Londres pour coacher une équipe de football... pas américain. Face à une équipe et une ville dubitatives, arrivera-t-il à leur faire adopter la méthode Ted Lasso ?",
@@ -2887,20 +2890,6 @@
       "firstAirDate": "2023-05-04"
     },
     {
-      "id": 75219,
-      "name": "9-1-1",
-      "overview": "Du service d'appels d'urgences 911 aux pompiers, secouristes ou policiers, tous ces intervenants sont constamment sous pression, confrontés quotidiennement à des situations stupéfiantes, effrayantes, et parfois même choquantes. S'ils ont pour mission de voler au secours des personnes en danger, ces héros de l'ombre doivent aussi trouver le temps de résoudre les problèmes de leurs propres vies…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
-      "genres": [
-        18,
-        80,
-        10759
-      ],
-      "voteAverage": 8.22,
-      "firstAirDate": "2018-01-03"
-    },
-    {
       "id": 37680,
       "name": "Suits, avocats sur mesure",
       "overview": "Avocat très ambitieux d'une grosse firme de Manhattan, Harvey Specter a besoin de quelqu'un pour l'épauler. Son choix se porte sur Mike Ross, un jeune homme très brillant mais sans diplôme, doté d'un talent certain et d'une mémoire photographique très précieuse. Ensemble, ils forment une équipe gagnante, prête à relever tous les défis. Mike devra cependant user de toutes les ruses pour maintenir sa place sans que personne ne découvre qu'il n'a jamais passé l'examen du barreau.",
@@ -2982,20 +2971,6 @@
       "firstAirDate": "2015-03-12"
     },
     {
-      "id": 14929,
-      "name": "Heartland",
-      "overview": "En dépit des dettes qui s'accumulent et de la banque qui menace de saisir, les Fleming se battent pour permettre à leur ranch de continuer à tourner.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
-      "genres": [
-        10751,
-        18,
-        35
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2007-10-14"
-    },
-    {
       "id": 274556,
       "name": "Uzak Şehir",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3022,6 +2997,20 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2025-10-10"
+    },
+    {
+      "id": 14929,
+      "name": "Heartland",
+      "overview": "En dépit des dettes qui s'accumulent et de la banque qui menace de saisir, les Fleming se battent pour permettre à leur ranch de continuer à tourner.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
+      "genres": [
+        10751,
+        18,
+        35
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2007-10-14"
     },
     {
       "id": 128718,
@@ -3150,6 +3139,21 @@
       "firstAirDate": "2005-08-29"
     },
     {
+      "id": 259140,
+      "name": "Ranma1/2",
+      "overview": "Akane Tendo fait la connaissance de son nouveau fiancé, Ranma Saotomé, prodige des arts martiaux qui possède une particularité : il se transforme en fille au contact de l'eau froide.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paz1BKuMqwOW7FGMe5xqcTEstgx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
+      "genres": [
+        16,
+        10759,
+        35,
+        10765
+      ],
+      "voteAverage": 8.1,
+      "firstAirDate": "2024-10-06"
+    },
+    {
       "id": 68287,
       "name": "Wunderschön!",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -3188,20 +3192,6 @@
       ],
       "voteAverage": 8.077,
       "firstAirDate": "2011-10-05"
-    },
-    {
-      "id": 259140,
-      "name": "Ranma1/2",
-      "overview": "Akane Tendo fait la connaissance de son nouveau fiancé, Ranma Saotomé, prodige des arts martiaux qui possède une particularité : il se transforme en fille au contact de l'eau froide.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paz1BKuMqwOW7FGMe5xqcTEstgx.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xvD9urN8lUtWw5fm4a87Rl3dCZn.jpg",
-      "genres": [
-        16,
-        10759,
-        35
-      ],
-      "voteAverage": 8.069,
-      "firstAirDate": "2024-10-06"
     },
     {
       "id": 65334,
@@ -3258,20 +3248,6 @@
       ],
       "voteAverage": 8.038,
       "firstAirDate": "2017-09-27"
-    },
-    {
-      "id": 44953,
-      "name": "El señor de los cielos",
-      "overview": "L'histoire se déroule dans les années 1990 et raconte la vie et l'histoire d'Amado Carrillo Fuentes, devenu chef du cartel de Juárez. Surnommé « El Señor de los Cielos » (Seigneur des Cieux) en raison de l'importante flotte d'avions qu'il utilisait pour transporter la drogue, il était également connu pour avoir blanchi plus de 200 millions de dollars via la Colombie afin de financer son immense flotte. Il est décrit comme le plus puissant trafiquant de drogue de son époque.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/h3sqf7qkdSvMiBhyzfuXAEFkn5R.jpg",
-      "genres": [
-        80,
-        18,
-        10766
-      ],
-      "voteAverage": 8.027,
-      "firstAirDate": "2013-04-15"
     },
     {
       "id": 71728,
@@ -3408,6 +3384,18 @@
       "firstAirDate": "2021-08-12"
     },
     {
+      "id": 297982,
+      "name": "Irremplaçable",
+      "overview": "Xu Chi se hisse du statut de diplômée à celui de consultante, mais dans cet environnement de travail où règne une compétition féroce, elle doit apprendre à qui faire confiance.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gLbtMLqbN6fgYsTuHFvzJu7Hopi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rNFBrko4F5RQ5E9YktBRXVqwzjl.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2026-09-28"
+    },
+    {
       "id": 316197,
       "name": "Dive into You",
       "overview": "Une actrice et son frère jumeau voyagent dans le temps – et échangent leurs corps – pour sauver la vie de leur ami.",
@@ -3432,18 +3420,6 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "2026-10-02"
-    },
-    {
-      "id": 74337,
-      "name": "Gogglebox Australia",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JrO5ai8PGSdz5YZcn0dvPs8zww.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4xv334VQsy3I5nHyWghcVaUknXj.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2015-02-11"
     },
     {
       "id": 60572,
@@ -3558,20 +3534,6 @@
       ],
       "voteAverage": 7.9,
       "firstAirDate": "2018-09-25"
-    },
-    {
-      "id": 46707,
-      "name": "WWE Main Event",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yVZdqmVMI09F7GzFvDJCc36oBkT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/lswRmm6czR4QTnwXRtacMfyxgJ0.jpg",
-      "genres": [
-        10759,
-        18,
-        10764
-      ],
-      "voteAverage": 7.9,
-      "firstAirDate": "2012-10-03"
     },
     {
       "id": 60761,
@@ -4036,19 +3998,6 @@
       "firstAirDate": "2001-05-06"
     },
     {
-      "id": 61583,
-      "name": "Cuarto Milenio",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fnuPYgBw5UriMqE6bfrtbjZlrqH.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/g8weGWJqH7p3EBbXncqBX3vUdZ4.jpg",
-      "genres": [
-        10764,
-        9648
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2005-11-13"
-    },
-    {
       "id": 2261,
       "name": "The Tonight Show avec Johnny Carson",
       "overview": "Le 1er octobre 1962, Groucho Marx accueillit Johnny Carson comme le nouveau présentateur du The Tonight Show.\n\nL’émission a été filmée à New York pendant pratiquement les dix premières années, avec Johnny Carson en tant que présentateur. Puis à partir de mai 1972, le plateau déménagea au Studio One à Burbank en Californie pour le reste de son « mandat » .",
@@ -4090,18 +4039,6 @@
       "firstAirDate": "1997-03-23"
     },
     {
-      "id": 65282,
-      "name": "나 혼자 산다",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "2013-03-22"
-    },
-    {
       "id": 8514,
       "name": "RuPaul's Drag Race",
       "overview": "Ces reines rivalisent pour décrocher la couronne et remporter les 100 000 $ mis en jeu dans cette série primée aux Emmys et animée par RuPaul.",
@@ -4112,6 +4049,18 @@
       ],
       "voteAverage": 7.5,
       "firstAirDate": "2009-02-02"
+    },
+    {
+      "id": 65282,
+      "name": "나 혼자 산다",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "2013-03-22"
     },
     {
       "id": 65278,
@@ -4152,18 +4101,6 @@
       "firstAirDate": "2021-12-07"
     },
     {
-      "id": 95966,
-      "name": "360° Géo",
-      "overview": "Des histoires passionnantes et des voyages de rêves pour découvrir le monde et rencontrer les petits et grands acteurs de la vie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uaVlJKNqmYua9q97THVimuIfxFQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/vckmiS72F14AkmkGkPty9VADzer.jpg",
-      "genres": [
-        99
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "1999-01-04"
-    },
-    {
       "id": 124045,
       "name": "Drag Race España",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -4174,6 +4111,18 @@
       ],
       "voteAverage": 7.5,
       "firstAirDate": "2021-05-30"
+    },
+    {
+      "id": 95966,
+      "name": "360° Géo",
+      "overview": "Des histoires passionnantes et des voyages de rêves pour découvrir le monde et rencontrer les petits et grands acteurs de la vie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uaVlJKNqmYua9q97THVimuIfxFQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/vckmiS72F14AkmkGkPty9VADzer.jpg",
+      "genres": [
+        99
+      ],
+      "voteAverage": 7.5,
+      "firstAirDate": "1999-01-04"
     },
     {
       "id": 95897,
@@ -4278,6 +4227,19 @@
       "firstAirDate": "2020-03-07"
     },
     {
+      "id": 237150,
+      "name": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+      "overview": "Dans un pays où les nobles manient généralement leurs épées, Ars Louvent utilise sa compétence qui lui permet d'évaluer avec précision le potentiel latent des gens ! Ce jeune garçon réincarné en un fils de nobles œuvre à faire fructifier le modeste domaine de sa famille. Mais ce pouvoir apparemment anodin lui permettra de construire un territoire puissant lorsqu’il s’engage dans un voyage rempli de surprises.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yF9t1erLr7qZu17cTiXggyUcS3R.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
+      "genres": [
+        16,
+        10765
+      ],
+      "voteAverage": 7.4,
+      "firstAirDate": "2024-04-07"
+    },
+    {
       "id": 218038,
       "name": "VIVANT",
       "overview": "Vivant suit l’histoire de Nogi Yusuke, un employé de la société Marubishi Corporation chargé d’un projet dans le domaine de l’énergie solaire en Asie Centrale. Il a été envoyé à Balka pour régler un problème de trop-versé lors d’une transaction où 100 millions de Dollars ont étés versés au lieux des dix prévus. Les choses ne se passant pas aussi bien que prévues, il sera contraint de prendre la fuite avec l’aide de Nozaki Mamoru de la Sécurité Publique et de l’infirmière Yuzuki Kaoru.",
@@ -4305,20 +4267,6 @@
       "firstAirDate": "1995-09-23"
     },
     {
-      "id": 298505,
-      "name": "Sorcières Academy",
-      "overview": "Au cœur envoûtant de La Nouvelle-Orléans, suivez trois jeunes sorcières et leurs homologues masculins — des sorciers au charme dangereux — au sein d'un internat de magie d'élite où le pouvoir est une monnaie d'échange, les secrets peuvent être mortels et l'attirance, un risque majeur. Pris entre des guerres surnaturelles ancestrales et des amours interdites, le clan doit décider jusqu'où il est prêt à aller pour protéger sa ville... et se protéger lui-même.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a3WtN94ghHX7pV44g2za35ApYDm.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-      "genres": [
-        9648,
-        18,
-        35
-      ],
-      "voteAverage": 7.3,
-      "firstAirDate": "2026-10-01"
-    },
-    {
       "id": 14658,
       "name": "Survivor",
       "overview": "Une aventure dans laquelle un groupe de personnes ont échoué sur une ile isolée. Le dernier survivant de cette aventure repartira chez lui avec la somme d'1 millions de dollars.",
@@ -4329,6 +4277,61 @@
       ],
       "voteAverage": 7.3,
       "firstAirDate": "2000-05-31"
+    },
+    {
+      "id": 549,
+      "name": "New York Police Judiciaire",
+      "overview": "À New York, détectives et assistants du procureur tentent de résoudre les affaires les plus délicates. Les uns sur le terrain, les autres devant les tribunaux.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7ZFSCSIuW8wzXJL1JezrKcLzV4x.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 7.286,
+      "firstAirDate": "1990-09-13"
+    },
+    {
+      "id": 306721,
+      "name": "Star Detective PreCure!",
+      "overview": "Le jour de son 14e anniversaire, Anna Akechi rencontre une fée magique et se retrouve soudainement transportée de 2027 à 1999 ! Elle se lie d'amitié avec Mikuru, une jeune fille pleine d'entrain qui rêve de devenir détective. Lorsque de mystérieux vols font naître des rumeurs sur les Voleurs Fantômes, les deux jeunes filles se transforment en Detective Precure et utilisent leur courage, leur esprit de déduction et leur amitié pour résoudre des affaires et découvrir le secret du voyage dans le temps d'Anna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/bOgsRcvQcetWXtVnPgKtYYf9aSV.jpg",
+      "genres": [
+        16,
+        10762,
+        10759,
+        35,
+        10765
+      ],
+      "voteAverage": 7.286,
+      "firstAirDate": "2026-02-01"
+    },
+    {
+      "id": 1220,
+      "name": "The Graham Norton Show",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vrbqaBXB8AALynQzpWz6JdCPEJS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/5UNcEz7Lc3OGilpPn1Tb9cd1xsc.jpg",
+      "genres": [
+        35,
+        10767
+      ],
+      "voteAverage": 7.234,
+      "firstAirDate": "2007-02-22"
+    },
+    {
+      "id": 91121,
+      "name": "놀면 뭐하니?",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/10dL6iCqPIaAoDq1CTBOrOmbsmo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/dgutaqpLcLMoJInkbglyG8cLuji.jpg",
+      "genres": [
+        10764,
+        35
+      ],
+      "voteAverage": 7.2,
+      "firstAirDate": "2019-07-27"
     }
   ]
 }
