@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T20:55:33.923Z",
+  "updatedAt": "2026-10-16T03:07:41.078Z",
   "results": [
     {
       "id": 312359,
@@ -51,7 +51,7 @@
         18,
         35
       ],
-      "voteAverage": 9.367,
+      "voteAverage": 9.366,
       "firstAirDate": "2026-06-05"
     },
     {
@@ -64,7 +64,7 @@
         37,
         18
       ],
-      "voteAverage": 9.124,
+      "voteAverage": 9.126,
       "firstAirDate": "2026-05-15"
     },
     {
@@ -77,7 +77,7 @@
         10765,
         18
       ],
-      "voteAverage": 9.07,
+      "voteAverage": 9.067,
       "firstAirDate": "2026-10-13"
     },
     {
@@ -132,18 +132,6 @@
       "firstAirDate": "2008-01-20"
     },
     {
-      "id": 273240,
-      "name": "Off Campus",
-      "overview": "La romance improbable entre Hannah Wells, étudiante en musique ironique qui déteste le hockey, et Garrett Graham, centre vedette et séducteur de l'université Briar, alors qu'ils concluent un accord pour s'entraider. Mais leur accord se déroulera-t-il comme prévu ?",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.9,
-      "firstAirDate": "2026-05-13"
-    },
-    {
       "id": 214999,
       "name": "Une Mauvaise Mère ?",
       "overview": "Après un tragique accident, un procureur ambitieux se retrouve avec les facultés mentales d'un enfant, l'obligeant lui et sa mère à recoller les morceaux de leur relation complexe.",
@@ -171,19 +159,6 @@
       "firstAirDate": "2026-10-09"
     },
     {
-      "id": 322430,
-      "name": "The Polygamist",
-      "overview": "Joyce, chouchoute des réseaux sociaux, est l'image même de la perfection conjugale, jusqu'à ce que les conquêtes de son mari infidèle déclenchent une crise qui tourne au scandale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2vuwqi1lb5TB2cpi7VuVCm2tTSZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
-      "genres": [
-        18,
-        10766
-      ],
-      "voteAverage": 8.85,
-      "firstAirDate": "2026-06-12"
-    },
-    {
       "id": 284833,
       "name": "Avatar : Les Sept Refuges",
       "overview": "Après une catastrophe planétaire, une jeune maîtresse de la terre découvre qu'elle est l'Avatar succédant à Korra. Désormais considérée comme un présage de fin du monde, elle se lance dans une course contre-la-montre pour sauver les Sept Refuges.",
@@ -195,8 +170,33 @@
         10765,
         10751
       ],
-      "voteAverage": 8.849,
+      "voteAverage": 8.885,
       "firstAirDate": "2026-10-09"
+    },
+    {
+      "id": 273240,
+      "name": "Off Campus",
+      "overview": "La romance improbable entre Hannah Wells, étudiante en musique ironique qui déteste le hockey, et Garrett Graham, centre vedette et séducteur de l'université Briar, alors qu'ils concluent un accord pour s'entraider. Mais leur accord se déroulera-t-il comme prévu ?",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.878,
+      "firstAirDate": "2026-05-13"
+    },
+    {
+      "id": 322430,
+      "name": "The Polygamist",
+      "overview": "Joyce, chouchoute des réseaux sociaux, est l'image même de la perfection conjugale, jusqu'à ce que les conquêtes de son mari infidèle déclenchent une crise qui tourne au scandale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2vuwqi1lb5TB2cpi7VuVCm2tTSZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+      "genres": [
+        18,
+        10766
+      ],
+      "voteAverage": 8.85,
+      "firstAirDate": "2026-06-12"
     },
     {
       "id": 85077,
@@ -236,7 +236,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.801,
+      "voteAverage": 8.802,
       "firstAirDate": "2025-03-07"
     },
     {
@@ -348,7 +348,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.746,
+      "voteAverage": 8.745,
       "firstAirDate": "2021-11-06"
     },
     {
@@ -389,6 +389,18 @@
       ],
       "voteAverage": 8.702,
       "firstAirDate": "2024-03-20"
+    },
+    {
+      "id": 301507,
+      "name": "Heated Rivalry",
+      "overview": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.701,
+      "firstAirDate": "2025-11-28"
     },
     {
       "id": 250307,
@@ -454,20 +466,6 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2022-11-18"
-    },
-    {
-      "id": 1429,
-      "name": "L'Attaque des Titans",
-      "overview": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cEnxvrGIGwLz7ZfCx3g8oULJxrr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-      "genres": [
-        16,
-        10765,
-        10759
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2013-04-07"
     },
     {
       "id": 127532,
@@ -611,16 +609,18 @@
       "firstAirDate": "2019-10-08"
     },
     {
-      "id": 301507,
-      "name": "Heated Rivalry",
-      "overview": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
+      "id": 1429,
+      "name": "L'Attaque des Titans",
+      "overview": "Dans un monde ravagé par des titans mangeurs d’homme depuis plus d’un siècle, les rares survivants de l’Humanité n’ont d’autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren, témoin de la mort de sa mère dévorée par un titan, n’a qu’un rêve : entrer dans le corps d’élite chargé de découvrir l’origine des titans, et les annihiler jusqu’au dernier…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cEnxvrGIGwLz7ZfCx3g8oULJxrr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
       "genres": [
-        18
+        16,
+        10765,
+        10759
       ],
-      "voteAverage": 8.697,
-      "firstAirDate": "2025-11-28"
+      "voteAverage": 8.688,
+      "firstAirDate": "2013-04-07"
     },
     {
       "id": 196950,
@@ -887,6 +887,18 @@
       "firstAirDate": "2018-04-25"
     },
     {
+      "id": 2316,
+      "name": "The Office",
+      "overview": "Le quotidien d'un groupe d'employés de bureau dans une fabrique de papier en Pennsylvanie. Michael Scott, le responsable régional, pense être le mec le plus drôle du bureau. Il ne se doute pas que ses employés le tolèrent uniquement parce que c'est lui qui signe les chèques. S'efforçant de paraître cool et apprécié de tous, Michael est en fait perçu comme étant pathétique…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2dApsoX4bd98szjrbj5i3syYOh2.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2005-03-24"
+    },
+    {
       "id": 80040,
       "name": "Desafío Champions Sendokai",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -1085,6 +1097,18 @@
       "firstAirDate": "2004-05-10"
     },
     {
+      "id": 119464,
+      "name": "Navillera",
+      "overview": "Un septuagénaire obsédé par un vieux rêve et un jeune de 23 ans très doué se soustraient mutuellement à la dure réalité en relevant le défi de devenir danseurs de ballet. Pour eux, rien n'est impossible.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8XNj2fN7TwSazpRfvE27VJA65SJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ylS5KdDgb8s4Y7P3sDifrizvmA4.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2021-03-22"
+    },
+    {
       "id": 62914,
       "name": "#Philo",
       "overview": "Série télévisée sur un professeur de philosophie au lycée, Merlí, qui enseigne de manière originale, et sur les élèves de sa classe, y compris son propre fils, et la relation, l'amitié, l'amour et les problèmes entre les élèves de la classe.",
@@ -1269,18 +1293,6 @@
       "firstAirDate": "2023-01-12"
     },
     {
-      "id": 119464,
-      "name": "Navillera",
-      "overview": "Un septuagénaire obsédé par un vieux rêve et un jeune de 23 ans très doué se soustraient mutuellement à la dure réalité en relevant le défi de devenir danseurs de ballet. Pour eux, rien n'est impossible.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8XNj2fN7TwSazpRfvE27VJA65SJ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ylS5KdDgb8s4Y7P3sDifrizvmA4.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.599,
-      "firstAirDate": "2021-03-22"
-    },
-    {
       "id": 2098,
       "name": "Batman : La Série animée",
       "overview": "Homme d'affaires le jour, Bruce Wayne devient Batman la nuit pour protéger Gotham City avec sa Batmobile. Avec l'aide de Robin et Batgirl il affronte de nombreux criminels légendaires.",
@@ -1294,18 +1306,6 @@
       ],
       "voteAverage": 8.589,
       "firstAirDate": "1992-09-05"
-    },
-    {
-      "id": 2316,
-      "name": "The Office",
-      "overview": "Le quotidien d'un groupe d'employés de bureau dans une fabrique de papier en Pennsylvanie. Michael Scott, le responsable régional, pense être le mec le plus drôle du bureau. Il ne se doute pas que ses employés le tolèrent uniquement parce que c'est lui qui signe les chèques. S'efforçant de paraître cool et apprécié de tous, Michael est en fait perçu comme étant pathétique…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2dApsoX4bd98szjrbj5i3syYOh2.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/9vMzIrMIncPmtalcxh1MOrgcE6C.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.583,
-      "firstAirDate": "2005-03-24"
     },
     {
       "id": 46896,
@@ -1347,6 +1347,19 @@
       ],
       "voteAverage": 8.579,
       "firstAirDate": "2018-10-01"
+    },
+    {
+      "id": 289423,
+      "name": "Recharge mon Coeur",
+      "overview": "Un héritier d’entreprise doté d’un cœur artificiel rencontre une femme littéralement électrique. Ils concluent un marché qui fait battre son cœur, et pas seulement au sens propre.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+      "genres": [
+        10765,
+        35
+      ],
+      "voteAverage": 8.577,
+      "firstAirDate": "2026-10-09"
     },
     {
       "id": 95479,
@@ -1567,19 +1580,6 @@
       "firstAirDate": "2019-07-05"
     },
     {
-      "id": 83880,
-      "name": "Notre planète",
-      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
-      "genres": [
-        99,
-        10751
-      ],
-      "voteAverage": 8.529,
-      "firstAirDate": "2019-04-05"
-    },
-    {
       "id": 31910,
       "name": "Naruto Shippuden",
       "overview": "Cela fait désormais trois ans que Naruto est parti de Konoha en entraînement spécial avec le Sannin légendaire Jiraya, avec toujours en tête son fol espoir de retrouver son ami Sasuke et de le ramener parmi les siens au village. Cette suite des aventures du ninja à la tignasse dorée reprend avec son retour dans le village de Konoha, marquées par diverses retrouvailles avec ses amis de toujours et le danger imminent que représente l'organisation Akatsuki à son encontre... ",
@@ -1594,6 +1594,19 @@
       "firstAirDate": "2007-02-15"
     },
     {
+      "id": 83880,
+      "name": "Notre planète",
+      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+      "genres": [
+        99,
+        10751
+      ],
+      "voteAverage": 8.528,
+      "firstAirDate": "2019-04-05"
+    },
+    {
       "id": 83121,
       "name": "Kaguya-sama : Love is War",
       "overview": "L’académie Shūchiin compte parmi ses rangs les élèves les plus brillants, sur lesquels tous les espoirs reposent. Un jour, au BDE, la vice-présidente Kaguya Shinomiya et le président Miyuki Shirogane se rencontrent et tout laisse à penser qu’ils se plaisent. Mais six mois s’écoulent sans que rien ne se passe ! Ils sont tous deux aveuglés par leur fierté, et ne cherchent qu’à pousser l’autre à se déclarer. Tout le plaisir de l’amour s’éprouve avant qu’il soit avoué ! Une comédie romantique et psychologique qui va faire sensation ! C’est la guerre !",
@@ -1605,20 +1618,6 @@
       ],
       "voteAverage": 8.526,
       "firstAirDate": "2019-01-12"
-    },
-    {
-      "id": 28136,
-      "name": "Kenshin le Vagabond",
-      "overview": "Au milieu du siècle dernier, le Japon s'apprête à entrer dans l'ère Meiji, passant sans transition du Moyen Age à l'industrialisation. Les samouraïs n'ont plus leur place dans cette société moderne où les guerriers sont moins utiles que les commerçants. Sans emploi, n'ayant plus le droit de porter le sabre, confrontés aux fusils et aux canons, les samouraïs vont peu à peu disparaître pour entrer dans la légende. Kenshin est l'un de ces guerriers perdus. Grand maître de sabre il est devenu un vagabond errant sur les routes du Japon. Mais son esprit chevaleresque et son courage vont faire de cet ancien mercenaire un justicier aimé et respecté.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qft385RNPuxSylHUIm8tv5zkVyT.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/orEvS2rzYhH1WPnmDF7rPAkUt1r.jpg",
-      "genres": [
-        10759,
-        16,
-        35
-      ],
-      "voteAverage": 8.526,
-      "firstAirDate": "1996-01-10"
     },
     {
       "id": 60574,
@@ -1769,6 +1768,19 @@
       "firstAirDate": "2014-03-09"
     },
     {
+      "id": 247718,
+      "name": "MobLand",
+      "overview": "Deux familles du crime s'affrontent dans une lutte à mort qui menace de faire tomber des empires. Pris entre deux feux, Harry Da Souza, un « fixer », connaît mieux que personne la valeur de la loyauté quand des forces opposées entrent en collision.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fs1GCzfveWH8A8xG7UunUYNmQPP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.507,
+      "firstAirDate": "2025-03-30"
+    },
+    {
       "id": 66433,
       "name": "Moon Lovers Scarlet Heart Ryeo",
       "overview": "Lors d'une éclipse solaire totale, Hae-Soo est transportée au temps de la dynastie Goryeo, où elle rencontre les nombreux fils du roi Taejo, condamnés à s’entre-tuer pour le trône.",
@@ -1781,19 +1793,6 @@
       ],
       "voteAverage": 8.507,
       "firstAirDate": "2016-08-29"
-    },
-    {
-      "id": 247718,
-      "name": "MobLand",
-      "overview": "Deux familles du crime s'affrontent dans une lutte à mort qui menace de faire tomber des empires. Pris entre deux feux, Harry Da Souza, un « fixer », connaît mieux que personne la valeur de la loyauté quand des forces opposées entrent en collision.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fs1GCzfveWH8A8xG7UunUYNmQPP.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.506,
-      "firstAirDate": "2025-03-30"
     },
     {
       "id": 15260,
@@ -1849,19 +1848,6 @@
       ],
       "voteAverage": 8.501,
       "firstAirDate": "2020-06-20"
-    },
-    {
-      "id": 289423,
-      "name": "Recharge mon Coeur",
-      "overview": "Un héritier d’entreprise doté d’un cœur artificiel rencontre une femme littéralement électrique. Ils concluent un marché qui fait battre son cœur, et pas seulement au sens propre.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
-      "genres": [
-        10765,
-        35
-      ],
-      "voteAverage": 8.5,
-      "firstAirDate": "2026-10-09"
     },
     {
       "id": 71712,
@@ -1972,6 +1958,20 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "2018-03-21"
+    },
+    {
+      "id": 28136,
+      "name": "Kenshin le Vagabond",
+      "overview": "Au milieu du siècle dernier, le Japon s'apprête à entrer dans l'ère Meiji, passant sans transition du Moyen Age à l'industrialisation. Les samouraïs n'ont plus leur place dans cette société moderne où les guerriers sont moins utiles que les commerçants. Sans emploi, n'ayant plus le droit de porter le sabre, confrontés aux fusils et aux canons, les samouraïs vont peu à peu disparaître pour entrer dans la légende. Kenshin est l'un de ces guerriers perdus. Grand maître de sabre il est devenu un vagabond errant sur les routes du Japon. Mais son esprit chevaleresque et son courage vont faire de cet ancien mercenaire un justicier aimé et respecté.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qft385RNPuxSylHUIm8tv5zkVyT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/orEvS2rzYhH1WPnmDF7rPAkUt1r.jpg",
+      "genres": [
+        10759,
+        16,
+        35
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "1996-01-10"
     },
     {
       "id": 126485,
@@ -2400,7 +2400,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.488,
+      "voteAverage": 8.489,
       "firstAirDate": "2022-02-20"
     },
     {
@@ -2456,7 +2456,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.441,
+      "voteAverage": 8.438,
       "firstAirDate": "2021-01-11"
     },
     {
@@ -2470,7 +2470,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.428,
+      "voteAverage": 8.429,
       "firstAirDate": "2026-10-07"
     },
     {
@@ -2594,6 +2594,20 @@
       "firstAirDate": "2021-04-11"
     },
     {
+      "id": 274556,
+      "name": "Uzak Şehir",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lnpbBuBqKJMGh68sNEWE5tLDl8U.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3B6KkxzOj3P3zxfPExbbbVXtzeo.jpg",
+      "genres": [
+        18,
+        10751,
+        10759
+      ],
+      "voteAverage": 8.391,
+      "firstAirDate": "2024-11-11"
+    },
+    {
       "id": 12971,
       "name": "Dragon Ball Z",
       "overview": "Dragon Ball Z reprend l'histoire de Sangoku plusieurs années après son mariage avec Chichi. Le couple a un fils nommé Sangohan en hommage à son arrière grand-père du même nom.",
@@ -2661,20 +2675,6 @@
       ],
       "voteAverage": 8.362,
       "firstAirDate": "2020-08-14"
-    },
-    {
-      "id": 274556,
-      "name": "Uzak Şehir",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lnpbBuBqKJMGh68sNEWE5tLDl8U.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3B6KkxzOj3P3zxfPExbbbVXtzeo.jpg",
-      "genres": [
-        18,
-        10751,
-        10759
-      ],
-      "voteAverage": 8.356,
-      "firstAirDate": "2024-11-11"
     },
     {
       "id": 2190,
@@ -2899,18 +2899,6 @@
       "firstAirDate": "2013-09-17"
     },
     {
-      "id": 1416,
-      "name": "Grey's Anatomy",
-      "overview": "Meredith Grey, fille d'un chirurgien très réputé, commence son internat de première année en médecine chirurgicale dans un hôpital de Seattle. La jeune femme s'efforce de maintenir de bonnes relations avec ses camarades internes, mais dans ce métier difficile la compétition fait rage.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.205,
-      "firstAirDate": "2005-03-27"
-    },
-    {
       "id": 33238,
       "name": "Running Man",
       "overview": "Les présentateurs de l'émission sont au nombre de 7, ils affrontent seul ou ensemble les invités afin de gagner la « course finale » et de gagner des « Running Ball ». Ces dernières sont utiles pour éviter tout genre de punitions qui varient selon les épisodes. Les présentateurs sont la plupart du temps mélangés avec les invités pour rendre les défis plus équitables étant donné que les présentateurs connaissent déjà à l'avance certains jeux contrairement aux invités.",
@@ -2922,6 +2910,18 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2010-07-11"
+    },
+    {
+      "id": 1416,
+      "name": "Grey's Anatomy",
+      "overview": "Meredith Grey, fille d'un chirurgien très réputé, commence son internat de première année en médecine chirurgicale dans un hôpital de Seattle. La jeune femme s'efforce de maintenir de bonnes relations avec ses camarades internes, mais dans ce métier difficile la compétition fait rage.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.2,
+      "firstAirDate": "2005-03-27"
     },
     {
       "id": 1911,
@@ -3123,7 +3123,7 @@
       "genres": [
         35
       ],
-      "voteAverage": 8.113,
+      "voteAverage": 8.114,
       "firstAirDate": "2005-09-19"
     },
     {
@@ -3286,18 +3286,6 @@
       "firstAirDate": "2013-04-15"
     },
     {
-      "id": 243875,
-      "name": "Georgie & Mandy's First Marriage",
-      "overview": "Cette suite de Young Sheldon suit Georgie et Mandy alors qu'ils élèvent leur jeune famille au Texas.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vonR5GlaCJpSqIQMUcBm6VQYYuu.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 8.026,
-      "firstAirDate": "2024-10-17"
-    },
-    {
       "id": 456,
       "name": "Les Simpson",
       "overview": "Située à Springfield, ville américaine moyenne, la série se concentre sur les singeries et les aventures quotidiennes de la famille Simpson : Homer, Marge, Bart, Lisa et Maggie, ainsi que des milliers d'autres personnages.",
@@ -3338,20 +3326,6 @@
       "firstAirDate": "2016-10-02"
     },
     {
-      "id": 2734,
-      "name": "New York Unité Spéciale",
-      "overview": "Les inspecteurs qui font partie de la division des Crimes sexuels (SVU) du service de police de la ville de New York (NYPD) enquêtent sur des crimes de nature sexuelle. Alors que les autres émissions de la franchise de \"La loi et l'ordre\" se sont largement concentrées sur les cas de meurtres, les inspecteurs de la division des Crimes sexuels (SVU) ont souvent affaire à des crimes, tel le viol, auquel la victime survit et elle aide les autorités lors de l'enquête.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/95flTYCxEPNFSdZVrHy9nMIeLbw.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "1999-09-20"
-    },
-    {
       "id": 71790,
       "name": "S.W.A.T.",
       "overview": "Un lieutenant du S.W.A.T est tiraillé entre sa loyauté envers ses origines modestes, dont ses amis de la rue avec qui il a grandi et qui n'ont pas aussi bien tourné que lui, et son devoir envers ses co-équipiers. Une dualité qui finit par prendre tout son sens lorsqu'il se voit chargé d'organiser une unité hautement qualifiée pour résoudre les crimes à Los Angeles.",
@@ -3379,6 +3353,32 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "1996-01-08"
+    },
+    {
+      "id": 243875,
+      "name": "Georgie & Mandy's First Marriage",
+      "overview": "Cette suite de Young Sheldon suit Georgie et Mandy alors qu'ils élèvent leur jeune famille au Texas.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vonR5GlaCJpSqIQMUcBm6VQYYuu.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2024-10-17"
+    },
+    {
+      "id": 111998,
+      "name": "꼬리에 꼬리를 무는 그날 이야기",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ty9wVEbzvJre9ClM7ETgBFreJZG.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/v3UInGINgDu1a6L9AwJOcERkz0R.jpg",
+      "genres": [
+        10767,
+        9648,
+        80
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2020-09-17"
     },
     {
       "id": 46917,
@@ -3446,6 +3446,20 @@
       ],
       "voteAverage": 7.96,
       "firstAirDate": "2004-09-22"
+    },
+    {
+      "id": 2734,
+      "name": "New York Unité Spéciale",
+      "overview": "Les inspecteurs qui font partie de la division des Crimes sexuels (SVU) du service de police de la ville de New York (NYPD) enquêtent sur des crimes de nature sexuelle. Alors que les autres émissions de la franchise de \"La loi et l'ordre\" se sont largement concentrées sur les cas de meurtres, les inspecteurs de la division des Crimes sexuels (SVU) ont souvent affaire à des crimes, tel le viol, auquel la victime survit et elle aide les autorités lors de l'enquête.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/95flTYCxEPNFSdZVrHy9nMIeLbw.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 7.959,
+      "firstAirDate": "1999-09-20"
     },
     {
       "id": 290856,
@@ -3692,18 +3706,6 @@
       "firstAirDate": "2014-10-07"
     },
     {
-      "id": 4239,
-      "name": "Mariés, deux enfants",
-      "overview": "Cette série met en scène la vie quotidienne d'une famille américaine.\n\nLe père, profondément machiste, déteste son boulot de vendeur de chaussures, et n'est heureux que dans son canapé devant la télé avec une main dans le pantalon ; sa famille l'exaspère\n\nSa fille, Kelly, est l'exemple type de la blonde complètement idiote, son fils Bud tente désespérément de ramener des filles à la maison, et sa femme Peggy est mère au foyer, mais en 20 ans de mariage elle n'a jamais fait la cuisine, la vaisselle, ni lavé le linge, et adore rester devant la télé quand Al est au travail, ou faire du shopping avec le peu d'argent que gagne son mari.\n\nComme si cela ne suffisait pas, Al doit également supporter Marcy, la voisine qu'il qualifie de « dinde aux mamelles atrophiées » et qui passe son temps à le critiquer avec l'aide de Peggy. Heureusement, il y a Jefferson et Steeve, deux hommes prisonniers de Marcy par le mariage, qui eux aussi fréquentent le « Nibar'bar ».",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u8qgRXYg0CL5PCh4PEtMfjvUyMl.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 7.738,
-      "firstAirDate": "1987-04-05"
-    },
-    {
       "id": 32798,
       "name": "Hawaii 5-0",
       "overview": "Le détective Steve McGarrett se rend à Oahu pour enquêter sur l'assassinat de son père. Une fois sur place, le gouverneur le persuade de rester et rejoindre l'unité des forces spéciales, qui combat le crime à Hawaii…",
@@ -3756,6 +3758,18 @@
       ],
       "voteAverage": 7.7,
       "firstAirDate": "2005-04-23"
+    },
+    {
+      "id": 4239,
+      "name": "Mariés, deux enfants",
+      "overview": "Cette série met en scène la vie quotidienne d'une famille américaine.\n\nLe père, profondément machiste, déteste son boulot de vendeur de chaussures, et n'est heureux que dans son canapé devant la télé avec une main dans le pantalon ; sa famille l'exaspère\n\nSa fille, Kelly, est l'exemple type de la blonde complètement idiote, son fils Bud tente désespérément de ramener des filles à la maison, et sa femme Peggy est mère au foyer, mais en 20 ans de mariage elle n'a jamais fait la cuisine, la vaisselle, ni lavé le linge, et adore rester devant la télé quand Al est au travail, ou faire du shopping avec le peu d'argent que gagne son mari.\n\nComme si cela ne suffisait pas, Al doit également supporter Marcy, la voisine qu'il qualifie de « dinde aux mamelles atrophiées » et qui passe son temps à le critiquer avec l'aide de Peggy. Heureusement, il y a Jefferson et Steeve, deux hommes prisonniers de Marcy par le mariage, qui eux aussi fréquentent le « Nibar'bar ».",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u8qgRXYg0CL5PCh4PEtMfjvUyMl.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 7.7,
+      "firstAirDate": "1987-04-05"
     },
     {
       "id": 55546,
@@ -4242,21 +4256,6 @@
       ],
       "voteAverage": 7.2,
       "firstAirDate": "2019-07-27"
-    },
-    {
-      "id": 107116,
-      "name": "Supreme God Emperor",
-      "overview": "Il y a dix mille ans, le roi immortel Mu Yun a été trahi par ses pairs pour avoir détenu le Zhu Xiantu, un artefact puissant. Après un long sommeil, son âme se réveille dans le corps de « Trash Mu Yun », un jeune homme méprisé de l'Empire des Nuages du Sud sur le continent du Destin Céleste. Déterminé à retrouver sa puissance, Mu Yun entreprend un voyage de cultivation pour redevenir le Dieu Suprême.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8vmZErkbw5d5iwXHO23zVmvixOB.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/tPXHTm4Z48AMwLN43E7DYNxeQpT.jpg",
-      "genres": [
-        16,
-        10765,
-        18,
-        10759
-      ],
-      "voteAverage": 7.2,
-      "firstAirDate": "2020-05-18"
     },
     {
       "id": 306215,
