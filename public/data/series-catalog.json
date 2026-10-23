@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T21:11:43.895Z",
+  "updatedAt": "2026-10-23T03:23:00.158Z",
   "results": [
     {
       "id": 312359,
@@ -62,7 +62,7 @@
         18,
         35
       ],
-      "voteAverage": 9.353,
+      "voteAverage": 9.352,
       "firstAirDate": "2026-06-05"
     },
     {
@@ -94,6 +94,19 @@
       "firstAirDate": "2026-10-09"
     },
     {
+      "id": 1396,
+      "name": "Breaking Bad",
+      "overview": "Un professeur de chimie atteint d'un cancer s'associe à un ancien élève pour fabriquer et vendre de la méthamphétamine afin d'assurer l'avenir financier de sa famille.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hVVxgGZFR3JaXmkstnG1IR9Qbt6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+      "genres": [
+        18,
+        80
+      ],
+      "voteAverage": 9,
+      "firstAirDate": "2008-01-20"
+    },
+    {
       "id": 229544,
       "name": "Among Us",
       "overview": "Des membres de votre équipage ont été remplacés par un métamorphe extraterrestre déterminé à semer la confusion, à saboter le vaisseau et à tuer tout le monde. Éliminez l'imposteur ou devenez la victime de ses plans meurtriers.",
@@ -120,19 +133,6 @@
       ],
       "voteAverage": 8.974,
       "firstAirDate": "2026-04-10"
-    },
-    {
-      "id": 1396,
-      "name": "Breaking Bad",
-      "overview": "Un professeur de chimie atteint d'un cancer s'associe à un ancien élève pour fabriquer et vendre de la méthamphétamine afin d'assurer l'avenir financier de sa famille.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hVVxgGZFR3JaXmkstnG1IR9Qbt6.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
-      "genres": [
-        18,
-        80
-      ],
-      "voteAverage": 8.957,
-      "firstAirDate": "2008-01-20"
     },
     {
       "id": 273240,
@@ -185,7 +185,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.825,
+      "voteAverage": 8.824,
       "firstAirDate": "2023-09-29"
     },
     {
@@ -211,7 +211,7 @@
         18,
         35
       ],
-      "voteAverage": 8.803,
+      "voteAverage": 8.806,
       "firstAirDate": "2024-08-09"
     },
     {
@@ -310,6 +310,19 @@
       "firstAirDate": "2005-02-21"
     },
     {
+      "id": 213375,
+      "name": "VisionQuest",
+      "overview": "Une nouvelle version de Vision ayant échappé à ceux qui cherchaient à faire de lui une arme, vit dans la clandestinité. En quête d’un nouveau sens à sa vie, il consulte les IA intégrées à son programme, notamment Friday, Edith, Jarvis et le tristement célèbre Ultron. Son existence discrète prend fin lorsque sa tête est mise à prix, le contraignant à prendre la fuite avec Thomas Shepherd, un garçon mystérieux qui pourrait bien être la réincarnation du fils de Vision. Tout en échappant à ses poursuivants, Vision doit se confronter à sa propre nature, résister à l’influence d’Ultron et percer le mystère qui entoure son jeune compagnon s’il veut survivre.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bWPktguPGslrdM79SNQt4OWYyJS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
+      "genres": [
+        10765,
+        18
+      ],
+      "voteAverage": 8.781,
+      "firstAirDate": "2026-10-13"
+    },
+    {
       "id": 37854,
       "name": "One Piece",
       "overview": "Il fut un temps où Gold Roger était le plus grand de tous les pirates, le \"Roi des Pirates\" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de \"One Piece\" fut caché quelque part sur \"Grand Line\". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau \"Roi des Pirates\". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !",
@@ -320,7 +333,7 @@
         35,
         16
       ],
-      "voteAverage": 8.753,
+      "voteAverage": 8.754,
       "firstAirDate": "1999-10-20"
     },
     {
@@ -346,7 +359,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.737,
+      "voteAverage": 8.738,
       "firstAirDate": "2025-01-09"
     },
     {
@@ -415,6 +428,20 @@
       "firstAirDate": "2025-11-28"
     },
     {
+      "id": 138502,
+      "name": "X-Men '97",
+      "overview": "Une bande de mutants utilise ses dons étranges pour protéger un monde qui les hait et les craint. Ils sont mis au défi comme jamais auparavant, forcés de faire face à un nouvel avenir dangereux et inattendu.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/es8WtRpaw6Ep2yzsVad27ukX1Ve.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.704,
+      "firstAirDate": "2024-03-20"
+    },
+    {
       "id": 200709,
       "name": "Héros fragile",
       "overview": "Yeon Shi Eun est un élève modèle qui se classe parmi les meilleurs de son lycée. Physiquement, Yeon Shi Eun semble faible, mais en utilisant son intelligence et sa psychologie, il lutte contre la violence qui a lieu dans son école.",
@@ -428,19 +455,6 @@
       "firstAirDate": "2022-11-18"
     },
     {
-      "id": 213375,
-      "name": "VisionQuest",
-      "overview": "Une nouvelle version de Vision ayant échappé à ceux qui cherchaient à faire de lui une arme, vit dans la clandestinité. En quête d’un nouveau sens à sa vie, il consulte les IA intégrées à son programme, notamment Friday, Edith, Jarvis et le tristement célèbre Ultron. Son existence discrète prend fin lorsque sa tête est mise à prix, le contraignant à prendre la fuite avec Thomas Shepherd, un garçon mystérieux qui pourrait bien être la réincarnation du fils de Vision. Tout en échappant à ses poursuivants, Vision doit se confronter à sa propre nature, résister à l’influence d’Ultron et percer le mystère qui entoure son jeune compagnon s’il veut survivre.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bWPktguPGslrdM79SNQt4OWYyJS.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
-      "genres": [
-        10765,
-        18
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2026-10-13"
-    },
-    {
       "id": 64010,
       "name": "Reply 1988",
       "overview": "Replongez dans la nostalgie de la fin des années 80 en suivant la vie de cinq familles et de leurs cinq adolescents dans un petit quartier de Séoul.",
@@ -451,20 +465,6 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2015-11-06"
-    },
-    {
-      "id": 138502,
-      "name": "X-Men '97",
-      "overview": "Une bande de mutants utilise ses dons étranges pour protéger un monde qui les hait et les craint. Ils sont mis au défi comme jamais auparavant, forcés de faire face à un nouvel avenir dangereux et inattendu.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/es8WtRpaw6Ep2yzsVad27ukX1Ve.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.7,
-      "firstAirDate": "2024-03-20"
     },
     {
       "id": 196950,
@@ -590,7 +590,7 @@
         10765,
         10759
       ],
-      "voteAverage": 8.679,
+      "voteAverage": 8.68,
       "firstAirDate": "2013-12-02"
     },
     {
@@ -690,17 +690,17 @@
       "firstAirDate": "2019-10-08"
     },
     {
-      "id": 1438,
-      "name": "Sur écoute",
-      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/aQTtua5pG490fMfeKgtYg5B853e.jpg",
+      "id": 68595,
+      "name": "Planète Terre II",
+      "overview": "L’incroyable technologie déployée par la BBC laisse bouche bée face au spectacle enchanteur de la faune. « Planète Terre II » explore le moindre centimètre de notre planète pour en exposer les recoins les plus intimes: îles, montagnes, jungles, déserts, prairies et villes du mondes. Un voyage aux quatre coins du globe pour découvrir les forces extrêmes qui façonnent la vie dans chacun de ces paysages emblématiques et les adaptations remarquables des animaux pour surmonter les défis associé à la survie dans les endroits les plus sauvages sur Terre. Des rencontres avec des créatures incroyables, des voyages épiques au travers d'étendues sauvages à couper le souffle : découvrez l'émerveillement du monde naturel !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nQQ5FbbmaFaCtdrzLaLH1hmlzAv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
       "genres": [
-        80,
-        18
+        99,
+        10751
       ],
-      "voteAverage": 8.641,
-      "firstAirDate": "2002-06-02"
+      "voteAverage": 8.637,
+      "firstAirDate": "2016-11-06"
     },
     {
       "id": 31132,
@@ -718,17 +718,29 @@
       "firstAirDate": "2010-09-06"
     },
     {
-      "id": 68595,
-      "name": "Planète Terre II",
-      "overview": "L’incroyable technologie déployée par la BBC laisse bouche bée face au spectacle enchanteur de la faune. « Planète Terre II » explore le moindre centimètre de notre planète pour en exposer les recoins les plus intimes: îles, montagnes, jungles, déserts, prairies et villes du mondes. Un voyage aux quatre coins du globe pour découvrir les forces extrêmes qui façonnent la vie dans chacun de ces paysages emblématiques et les adaptations remarquables des animaux pour surmonter les défis associé à la survie dans les endroits les plus sauvages sur Terre. Des rencontres avec des créatures incroyables, des voyages épiques au travers d'étendues sauvages à couper le souffle : découvrez l'émerveillement du monde naturel !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nQQ5FbbmaFaCtdrzLaLH1hmlzAv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
+      "id": 1044,
+      "name": "Planète Terre",
+      "overview": "Cinq ans de tournage, 2 000 jours sur le terrain et 71 cameramen dans 62 pays auront été nécessaires pour réaliser un des plus gros budgets documentaires de la BBC : Planète Terre. Périple spectaculaire à travers les saisons, cette série qui nous transporte de l'Arctique, à l'Antarctique se veut «l'ultime portrait de notre planète». Les toutes dernières technologies en matière de prise de vue en haute définition ont permis de tourner des images d'une beauté à couper le souffle.\n\nLa série Planète Terre est la seule en son genre à avoir été entièrement tournée en haute définition.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q60DbqXtrJ6BJvz0BhMyzowOdA3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/qmRUwosX4BsCj6QanpBYScLl3Sp.jpg",
       "genres": [
-        99,
-        10751
+        99
       ],
       "voteAverage": 8.637,
-      "firstAirDate": "2016-11-06"
+      "firstAirDate": "2006-03-05"
+    },
+    {
+      "id": 1438,
+      "name": "Sur écoute",
+      "overview": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/efV8dprxpU1JXNGqepVY68ZaHKZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/aQTtua5pG490fMfeKgtYg5B853e.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.636,
+      "firstAirDate": "2002-06-02"
     },
     {
       "id": 85937,
@@ -743,18 +755,6 @@
       ],
       "voteAverage": 8.636,
       "firstAirDate": "2019-04-06"
-    },
-    {
-      "id": 1044,
-      "name": "Planète Terre",
-      "overview": "Cinq ans de tournage, 2 000 jours sur le terrain et 71 cameramen dans 62 pays auront été nécessaires pour réaliser un des plus gros budgets documentaires de la BBC : Planète Terre. Périple spectaculaire à travers les saisons, cette série qui nous transporte de l'Arctique, à l'Antarctique se veut «l'ultime portrait de notre planète». Les toutes dernières technologies en matière de prise de vue en haute définition ont permis de tourner des images d'une beauté à couper le souffle.\n\nLa série Planète Terre est la seule en son genre à avoir été entièrement tournée en haute définition.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q60DbqXtrJ6BJvz0BhMyzowOdA3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/qmRUwosX4BsCj6QanpBYScLl3Sp.jpg",
-      "genres": [
-        99
-      ],
-      "voteAverage": 8.636,
-      "firstAirDate": "2006-03-05"
     },
     {
       "id": 43,
@@ -1621,6 +1621,19 @@
       "firstAirDate": "1976-10-01"
     },
     {
+      "id": 83880,
+      "name": "Notre planète",
+      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
+      "genres": [
+        99,
+        10751
+      ],
+      "voteAverage": 8.531,
+      "firstAirDate": "2019-04-05"
+    },
+    {
       "id": 31910,
       "name": "Naruto Shippuden",
       "overview": "Cela fait désormais trois ans que Naruto est parti de Konoha en entraînement spécial avec le Sannin légendaire Jiraya, avec toujours en tête son fol espoir de retrouver son ami Sasuke et de le ramener parmi les siens au village. Cette suite des aventures du ninja à la tignasse dorée reprend avec son retour dans le village de Konoha, marquées par diverses retrouvailles avec ses amis de toujours et le danger imminent que représente l'organisation Akatsuki à son encontre... ",
@@ -1647,19 +1660,6 @@
       ],
       "voteAverage": 8.529,
       "firstAirDate": "2014-08-22"
-    },
-    {
-      "id": 83880,
-      "name": "Notre planète",
-      "overview": "Ce documentaire ambitieux et spectaculaire révèle la beauté naturelle de notre planète, mais aussi l'impact du changement climatique sur toutes les créatures vivantes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3zADtCUCrcQ2Ea5cvfmWFfMIwDk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/p8EUX6MPSNLxVwqO3fCYTi896Ro.jpg",
-      "genres": [
-        99,
-        10751
-      ],
-      "voteAverage": 8.528,
-      "firstAirDate": "2019-04-05"
     },
     {
       "id": 210733,
@@ -1699,19 +1699,6 @@
       ],
       "voteAverage": 8.525,
       "firstAirDate": "2013-09-12"
-    },
-    {
-      "id": 83121,
-      "name": "Kaguya-sama : Love is War",
-      "overview": "L’académie Shūchiin compte parmi ses rangs les élèves les plus brillants, sur lesquels tous les espoirs reposent. Un jour, au BDE, la vice-présidente Kaguya Shinomiya et le président Miyuki Shirogane se rencontrent et tout laisse à penser qu’ils se plaisent. Mais six mois s’écoulent sans que rien ne se passe ! Ils sont tous deux aveuglés par leur fierté, et ne cherchent qu’à pousser l’autre à se déclarer. Tout le plaisir de l’amour s’éprouve avant qu’il soit avoué ! Une comédie romantique et psychologique qui va faire sensation ! C’est la guerre !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tvemh1UGxnDKWPFYj40Zs6IWN7y.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
-      "genres": [
-        35,
-        16
-      ],
-      "voteAverage": 8.523,
-      "firstAirDate": "2019-01-12"
     },
     {
       "id": 229480,
@@ -1973,7 +1960,7 @@
         10759,
         16
       ],
-      "voteAverage": 8.503,
+      "voteAverage": 8.505,
       "firstAirDate": "2023-11-03"
     },
     {
@@ -2086,6 +2073,19 @@
       ],
       "voteAverage": 8.5,
       "firstAirDate": "1996-01-10"
+    },
+    {
+      "id": 83121,
+      "name": "Kaguya-sama : Love is War",
+      "overview": "L’académie Shūchiin compte parmi ses rangs les élèves les plus brillants, sur lesquels tous les espoirs reposent. Un jour, au BDE, la vice-présidente Kaguya Shinomiya et le président Miyuki Shirogane se rencontrent et tout laisse à penser qu’ils se plaisent. Mais six mois s’écoulent sans que rien ne se passe ! Ils sont tous deux aveuglés par leur fierté, et ne cherchent qu’à pousser l’autre à se déclarer. Tout le plaisir de l’amour s’éprouve avant qu’il soit avoué ! Une comédie romantique et psychologique qui va faire sensation ! C’est la guerre !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tvemh1UGxnDKWPFYj40Zs6IWN7y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/dJ8yrSokdTMnhKJw06MllSfCegb.jpg",
+      "genres": [
+        35,
+        16
+      ],
+      "voteAverage": 8.5,
+      "firstAirDate": "2019-01-12"
     },
     {
       "id": 240411,
@@ -2309,6 +2309,21 @@
       "firstAirDate": "2016-11-16"
     },
     {
+      "id": 105248,
+      "name": "Cyberpunk: Edgerunners",
+      "overview": "L'histoire d'un gamin des rues qui tente de survivre dans Night City, une ville du futur obsédée par la technologie et la transformation du corps. Démuni, mais pas totalement désespéré, le jeune garçon parvient à rester en vie en devenant un \"edgerunner\", un mercenaire hors-la-loi également connu sous le nom de \"cyberpunk\".",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/khwap5JuTGVLpGA5xuZqRPlyHtD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
+      "genres": [
+        16,
+        10759,
+        10765,
+        80
+      ],
+      "voteAverage": 8.497,
+      "firstAirDate": "2022-09-13"
+    },
+    {
       "id": 83639,
       "name": "Girl From Nowhere",
       "overview": "Une fille aussi mystérieuse que brillante appelée Nanno passe d'une école à l'autre, dévoilant dans la foulée les mensonges et méfaits des élèves et professeurs.",
@@ -2364,21 +2379,6 @@
       "firstAirDate": "2012-01-06"
     },
     {
-      "id": 105248,
-      "name": "Cyberpunk: Edgerunners",
-      "overview": "L'histoire d'un gamin des rues qui tente de survivre dans Night City, une ville du futur obsédée par la technologie et la transformation du corps. Démuni, mais pas totalement désespéré, le jeune garçon parvient à rester en vie en devenant un \"edgerunner\", un mercenaire hors-la-loi également connu sous le nom de \"cyberpunk\".",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/khwap5JuTGVLpGA5xuZqRPlyHtD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3UbHGmu9vIMSC5uNfnGt7DjetqT.jpg",
-      "genres": [
-        16,
-        10759,
-        10765,
-        80
-      ],
-      "voteAverage": 8.493,
-      "firstAirDate": "2022-09-13"
-    },
-    {
       "id": 90447,
       "name": "Hotel Del Luna",
       "overview": "Hôtel Del Luna suit Jang Man-wol, la propriétaire d'un hôtel unique où les âmes en peine viennent trouver la paix. Coincée par une malédiction millénaire, elle rencontre Goo Chan-sung, un jeune directeur humain, qui bouleverse sa routine glaciale. Ensemble, ils aident les fantômes à tourner la page, tout en affrontant les blessures et secrets du passé de Man-wol. Mélange de romance, d'humour et de fantastique, la série explore le pardon, le deuil et la possibilité de se libérer... même après la mort.",
@@ -2416,7 +2416,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.489,
+      "voteAverage": 8.49,
       "firstAirDate": "2022-02-20"
     },
     {
@@ -2468,7 +2468,7 @@
         16,
         10765
       ],
-      "voteAverage": 8.432,
+      "voteAverage": 8.433,
       "firstAirDate": "2021-01-11"
     },
     {
@@ -2536,17 +2536,18 @@
       "firstAirDate": "1994-09-22"
     },
     {
-      "id": 97546,
-      "name": "Ted Lasso",
-      "overview": "Ted Lasso, entraîneur de football américain, débarque à Londres pour coacher une équipe de football... pas américain. Face à une équipe et une ville dubitatives, arrivera-t-il à leur faire adopter la méthode Ted Lasso ?",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "id": 30984,
+      "name": "Bleach",
+      "overview": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d'une belle Shinigami (un être spirituel) en train de pourchasser une « âme perdue », un esprit maléfique qui hante notre monde et n'arrive pas à trouver le repos. Mise en difficulté par son ennemi, la jeune fille décide alors de prêter une partie de ses pouvoirs à Ichigo, mais ce dernier hérite finalement de toute la puissance du Shinigami. Contraint d'assumer son nouveau statut, Ichigo va devoir gérer ses deux vies : celle de lycéen ordinaire, et celle de chasseur de démons…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
       "genres": [
-        18,
-        35
+        10759,
+        16,
+        10765
       ],
       "voteAverage": 8.4,
-      "firstAirDate": "2020-08-14"
+      "firstAirDate": "2004-10-05"
     },
     {
       "id": 274556,
@@ -2607,6 +2608,19 @@
       "firstAirDate": "1993-09-10"
     },
     {
+      "id": 97546,
+      "name": "Ted Lasso",
+      "overview": "Ted Lasso, entraîneur de football américain, débarque à Londres pour coacher une équipe de football... pas américain. Face à une équipe et une ville dubitatives, arrivera-t-il à leur faire adopter la méthode Ted Lasso ?",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+      "genres": [
+        18,
+        35
+      ],
+      "voteAverage": 8.364,
+      "firstAirDate": "2020-08-14"
+    },
+    {
       "id": 46260,
       "name": "Naruto",
       "overview": "Dans le village de Konoha vit Naruto, un jeune garçon détesté et craint des villageois du fait qu'il détienne en lui Kyuubi (démon renard à neuf queues) d'une incroyable force, qui a tué un grand nombre de personnes. Le ninja le plus puissant de Konoha à l'époque, le quatrième Hokage, Minato Namikaze, réussit à sceller ce démon dans le corps de Naruto. Malheureusement il y laissa la vie.\n\nC'est ainsi que douze ans plus tard, Naruto rêve de devenir le plus grand Hokage de Konoha afin que tous le reconnaissent à sa juste valeur. Mais la route pour devenir Hokage est très longue et Naruto sera confronté à un bon nombre d'épreuves et devra affronter de nombreux ennemis pour atteindre son but !",
@@ -2632,20 +2646,6 @@
       ],
       "voteAverage": 8.361,
       "firstAirDate": "2019-02-25"
-    },
-    {
-      "id": 30984,
-      "name": "Bleach",
-      "overview": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d'une belle Shinigami (un être spirituel) en train de pourchasser une « âme perdue », un esprit maléfique qui hante notre monde et n'arrive pas à trouver le repos. Mise en difficulté par son ennemi, la jeune fille décide alors de prêter une partie de ses pouvoirs à Ichigo, mais ce dernier hérite finalement de toute la puissance du Shinigami. Contraint d'assumer son nouveau statut, Ichigo va devoir gérer ses deux vies : celle de lycéen ordinaire, et celle de chasseur de démons…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "genres": [
-        10759,
-        16,
-        10765
-      ],
-      "voteAverage": 8.35,
-      "firstAirDate": "2004-10-05"
     },
     {
       "id": 288673,
@@ -2857,6 +2857,18 @@
       "firstAirDate": "2011-06-23"
     },
     {
+      "id": 1416,
+      "name": "Grey's Anatomy",
+      "overview": "Meredith Grey, fille d'un chirurgien très réputé, commence son internat de première année en médecine chirurgicale dans un hôpital de Seattle. La jeune femme s'efforce de maintenir de bonnes relations avec ses camarades internes, mais dans ce métier difficile la compétition fait rage.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.204,
+      "firstAirDate": "2005-03-27"
+    },
+    {
       "id": 33238,
       "name": "Running Man",
       "overview": "Les présentateurs de l'émission sont au nombre de 7, ils affrontent seul ou ensemble les invités afin de gagner la « course finale » et de gagner des « Running Ball ». Ces dernières sont utiles pour éviter tout genre de punitions qui varient selon les épisodes. Les présentateurs sont la plupart du temps mélangés avec les invités pour rendre les défis plus équitables étant donné que les présentateurs connaissent déjà à l'avance certains jeux contrairement aux invités.",
@@ -2868,18 +2880,6 @@
       ],
       "voteAverage": 8.2,
       "firstAirDate": "2010-07-11"
-    },
-    {
-      "id": 1416,
-      "name": "Grey's Anatomy",
-      "overview": "Meredith Grey, fille d'un chirurgien très réputé, commence son internat de première année en médecine chirurgicale dans un hôpital de Seattle. La jeune femme s'efforce de maintenir de bonnes relations avec ses camarades internes, mais dans ce métier difficile la compétition fait rage.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/meLc14IucQOzlqRn3ERCWjt5BEC.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/A4NwkQXTXElE5iAsne5RpvS8R2Z.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.2,
-      "firstAirDate": "2005-03-27"
     },
     {
       "id": 1405,
@@ -2975,7 +2975,7 @@
         10759,
         18
       ],
-      "voteAverage": 8.191,
+      "voteAverage": 8.192,
       "firstAirDate": "2001-10-16"
     },
     {
@@ -3042,7 +3042,7 @@
         18,
         35
       ],
-      "voteAverage": 8.153,
+      "voteAverage": 8.155,
       "firstAirDate": "2022-06-23"
     },
     {
@@ -3055,7 +3055,7 @@
         10759,
         80
       ],
-      "voteAverage": 8.13,
+      "voteAverage": 8.131,
       "firstAirDate": "2022-02-03"
     },
     {
@@ -3292,7 +3292,7 @@
         35,
         10765
       ],
-      "voteAverage": 8,
+      "voteAverage": 8.003,
       "firstAirDate": "2019-03-27"
     },
     {
@@ -3335,6 +3335,20 @@
       ],
       "voteAverage": 8,
       "firstAirDate": "2009-03-09"
+    },
+    {
+      "id": 4607,
+      "name": "Lost : Les Disparus",
+      "overview": "Après le crash de leur avion sur une île perdue, les survivants doivent apprendre à cohabiter et survivre dans cet environnement hostile. Bien vite, ils se rendent compte qu'une menace semble planer sur l'île...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lJpYSqKmae4Rk57InDZoFa6mPzU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+      "genres": [
+        9648,
+        10759,
+        18
+      ],
+      "voteAverage": 8,
+      "firstAirDate": "2004-09-22"
     },
     {
       "id": 71728,
@@ -3402,20 +3416,6 @@
       "firstAirDate": "2021-08-12"
     },
     {
-      "id": 4607,
-      "name": "Lost : Les Disparus",
-      "overview": "Après le crash de leur avion sur une île perdue, les survivants doivent apprendre à cohabiter et survivre dans cet environnement hostile. Bien vite, ils se rendent compte qu'une menace semble planer sur l'île...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lJpYSqKmae4Rk57InDZoFa6mPzU.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
-      "genres": [
-        9648,
-        10759,
-        18
-      ],
-      "voteAverage": 7.964,
-      "firstAirDate": "2004-09-22"
-    },
-    {
       "id": 290856,
       "name": "Marshals: A Yellowstone Story",
       "overview": "Le ranch du Yellowstone derrière lui, Kayce Dutton rejoint une unité des U.S. Marhals. Cowboy et ancien Navy SEAL, il apporte la justice dans le Montana. Lui et ses coéquipiers sont le dernier rempart de la région dans la guerre contre la violence.",
@@ -3452,7 +3452,7 @@
       "genres": [
         35
       ],
-      "voteAverage": 7.912,
+      "voteAverage": 7.911,
       "firstAirDate": "2009-09-23"
     },
     {
@@ -3481,6 +3481,19 @@
       ],
       "voteAverage": 7.901,
       "firstAirDate": "1963-11-23"
+    },
+    {
+      "id": 254492,
+      "name": "Hana-Kimi",
+      "overview": "Pour se rapprocher de son idole, Mizuki se déguise en garçon dans son école pour garçons. Problème : ils sont maintenant colocataires.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 7.9,
+      "firstAirDate": "2026-01-04"
     },
     {
       "id": 1877,
@@ -3536,19 +3549,6 @@
       ],
       "voteAverage": 7.899,
       "firstAirDate": "2004-10-03"
-    },
-    {
-      "id": 254492,
-      "name": "Hana-Kimi",
-      "overview": "Pour se rapprocher de son idole, Mizuki se déguise en garçon dans son école pour garçons. Problème : ils sont maintenant colocataires.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2RT3KHdE54JXchZJBQyQOFXUx5q.jpg",
-      "genres": [
-        16,
-        35
-      ],
-      "voteAverage": 7.875,
-      "firstAirDate": "2026-01-04"
     },
     {
       "id": 60761,
@@ -3655,7 +3655,7 @@
         35,
         10763
       ],
-      "voteAverage": 7.753,
+      "voteAverage": 7.754,
       "firstAirDate": "2014-04-27"
     },
     {
@@ -3766,6 +3766,20 @@
       "firstAirDate": "2003-09-01"
     },
     {
+      "id": 46952,
+      "name": "Blacklist",
+      "overview": "Raymond « Red » Reddington, l’un des fugitifs les plus recherchés par le FBI, se rend en personne au quartier général du FBI à Washington. Il affirme avoir les mêmes intérêts que le FBI : faire tomber des criminels dangereux et des terroristes. Reddington coopérera, mais insiste pour ne parler qu’à Elizabeth Keen, une profileuse inexpérimentée du FBI. Keen s’interroge sur l’intérêt soudain que Reddington lui porte, bien qu’il soutienne que Keen est très spéciale. Après que le FBI a fait tomber un terroriste sur lequel il a fourni des informations, Reddington révèle que ce terroriste n’est que le premier de beaucoup d’autres à venir : durant les deux dernières décennies, il a fait une liste des criminels et terroristes qu'il croit introuvable par le FBI parce que ce dernier ignorait leur existence et que ce sont les plus importants. Reddington l’appelle « La Liste noire » (« The Blacklist »).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dIR6njcRuUtX3ShXECil3a2W5U7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "genres": [
+        18,
+        80,
+        9648
+      ],
+      "voteAverage": 7.634,
+      "firstAirDate": "2013-09-23"
+    },
+    {
       "id": 57243,
       "name": "Doctor Who",
       "overview": "Dernier représentant des Seigneurs du temps et âgé de plus de 900 ans, Le Docteur parcourt l'espace et le temps dans son TARDIS. Amoureux de la race humaine, il se fait régulièrement accompagner par une femme ou un homme. Partagé entre folie et génie, insouciant mais conscient de ses responsabilités, il défendra l'humanité quel que soit le prix à payer.",
@@ -3793,6 +3807,20 @@
       "firstAirDate": "2024-02-11"
     },
     {
+      "id": 4614,
+      "name": "NCIS : Enquêtes Spéciales",
+      "overview": "L'agent spécial Leroy Jethro Gibbs, de la Section criminelle de la Gendarmerie maritime, dirige un groupe de personnes aux personnalités colorées qui enquête sur les crimes. Ceux-ci vont du meurtre et de l'espionnage au terrorisme, et sont reliés de manière assurée au personnel du corps de la Marine. L'équipe est composée d'Anthony DiNozzo, un ex-inspecteur plein d'esprit spécialisé en homicides, d'Abby Sciuto, l'excentrique spécialiste d'enquête en technique de laboratoire, de Timothy McGee, brillant lorsqu'inquiet, et de Ziva David, ex-officier de liaison du Mossad. Le Dr Donald \"Ducky\" Mallard contribue à la résolution de cas grâce à sa grande expérience dans le domaine de la médecine légale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
+      "genres": [
+        80,
+        18,
+        10759
+      ],
+      "voteAverage": 7.613,
+      "firstAirDate": "2003-09-23"
+    },
+    {
       "id": 1431,
       "name": "Les Experts",
       "overview": "À Las Vegas, un groupe d'experts scientifiques de la police recueille des indices sur les scènes de crime pour résoudre des enquêtes complexes. Un temps conduite par Gil Grissom, un entomologiste qui garde toujours son sang-froid, l'équipe enchaîne les affaires délicates : meurtres sanglants, viols, disparitions, leur taux d'efficacité est impressionnant. D.B. Russell, qui prend la suite des opérations après le départ de Gil Grissom et l'intérim de Raymond Langston, tente de maintenir la réputation d'excellence du service.",
@@ -3805,34 +3833,6 @@
       ],
       "voteAverage": 7.607,
       "firstAirDate": "2000-10-06"
-    },
-    {
-      "id": 4614,
-      "name": "NCIS : Enquêtes Spéciales",
-      "overview": "L'agent spécial Leroy Jethro Gibbs, de la Section criminelle de la Gendarmerie maritime, dirige un groupe de personnes aux personnalités colorées qui enquête sur les crimes. Ceux-ci vont du meurtre et de l'espionnage au terrorisme, et sont reliés de manière assurée au personnel du corps de la Marine. L'équipe est composée d'Anthony DiNozzo, un ex-inspecteur plein d'esprit spécialisé en homicides, d'Abby Sciuto, l'excentrique spécialiste d'enquête en technique de laboratoire, de Timothy McGee, brillant lorsqu'inquiet, et de Ziva David, ex-officier de liaison du Mossad. Le Dr Donald \"Ducky\" Mallard contribue à la résolution de cas grâce à sa grande expérience dans le domaine de la médecine légale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/salC1Yhi3QW8DW5iIJGFQOzPWVQ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/c1aBrG5s5xFa6Tbnihu2Hhj4t2q.jpg",
-      "genres": [
-        80,
-        18,
-        10759
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2003-09-23"
-    },
-    {
-      "id": 46952,
-      "name": "Blacklist",
-      "overview": "Raymond « Red » Reddington, l’un des fugitifs les plus recherchés par le FBI, se rend en personne au quartier général du FBI à Washington. Il affirme avoir les mêmes intérêts que le FBI : faire tomber des criminels dangereux et des terroristes. Reddington coopérera, mais insiste pour ne parler qu’à Elizabeth Keen, une profileuse inexpérimentée du FBI. Keen s’interroge sur l’intérêt soudain que Reddington lui porte, bien qu’il soutienne que Keen est très spéciale. Après que le FBI a fait tomber un terroriste sur lequel il a fourni des informations, Reddington révèle que ce terroriste n’est que le premier de beaucoup d’autres à venir : durant les deux dernières décennies, il a fait une liste des criminels et terroristes qu'il croit introuvable par le FBI parce que ce dernier ignorait leur existence et que ce sont les plus importants. Reddington l’appelle « La Liste noire » (« The Blacklist »).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dIR6njcRuUtX3ShXECil3a2W5U7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
-      "genres": [
-        18,
-        80,
-        9648
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2013-09-23"
     },
     {
       "id": 224,
@@ -4119,7 +4119,7 @@
         80,
         18
       ],
-      "voteAverage": 7.293,
+      "voteAverage": 7.285,
       "firstAirDate": "1990-09-13"
     },
     {
