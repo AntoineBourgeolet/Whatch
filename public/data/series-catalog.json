@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T20:59:04.875Z",
+  "updatedAt": "2026-10-24T03:16:45.866Z",
   "results": [
     {
       "id": 312359,
@@ -12,7 +12,7 @@
         10759,
         10765
       ],
-      "voteAverage": 9.673,
+      "voteAverage": 9.676,
       "firstAirDate": "2026-10-11"
     },
     {
@@ -38,7 +38,7 @@
         18,
         80
       ],
-      "voteAverage": 9.4,
+      "voteAverage": 9.45,
       "firstAirDate": "2026-10-09"
     },
     {
@@ -64,7 +64,7 @@
         18,
         35
       ],
-      "voteAverage": 9.352,
+      "voteAverage": 9.353,
       "firstAirDate": "2026-06-05"
     },
     {
@@ -79,7 +79,7 @@
         10765,
         10751
       ],
-      "voteAverage": 9.129,
+      "voteAverage": 9.153,
       "firstAirDate": "2026-10-09"
     },
     {
@@ -92,7 +92,7 @@
         37,
         18
       ],
-      "voteAverage": 9.128,
+      "voteAverage": 9.129,
       "firstAirDate": "2026-05-15"
     },
     {
@@ -146,7 +146,7 @@
         18,
         80
       ],
-      "voteAverage": 8.956,
+      "voteAverage": 8.957,
       "firstAirDate": "2008-01-20"
     },
     {
@@ -158,7 +158,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.867,
+      "voteAverage": 8.868,
       "firstAirDate": "2026-05-13"
     },
     {
@@ -185,7 +185,7 @@
         10751,
         18
       ],
-      "voteAverage": 8.839,
+      "voteAverage": 8.84,
       "firstAirDate": "2019-04-21"
     },
     {
@@ -200,7 +200,7 @@
         18,
         10765
       ],
-      "voteAverage": 8.824,
+      "voteAverage": 8.825,
       "firstAirDate": "2023-09-29"
     },
     {
@@ -362,7 +362,7 @@
       "genres": [
         18
       ],
-      "voteAverage": 8.738,
+      "voteAverage": 8.739,
       "firstAirDate": "2025-01-09"
     },
     {
@@ -391,6 +391,19 @@
       "firstAirDate": "2019-05-06"
     },
     {
+      "id": 60059,
+      "name": "Better Call Saul",
+      "overview": "Six ans avant de croiser le chemin de Walter White, Saul Goodman, connu sous le nom de Jimmy McGill, est un avocat qui peine à joindre les deux bouts, à Albuquerque, au Nouveau-Mexique. Pour boucler ses fins de mois, il n'aura d'autres choix que se livrer à quelques petites escroqueries. Chemin faisant, il va faire des rencontres qui vont se révéler déterminantes dans son parcours : Nacho Varga, ou encore Mike Ehrmantraut, un criminel spécialisé dans le \"nettoyage\", qui deviendra son futur homme de main.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7KyuCBjxsr4sNQga16DcN9ccEyf.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rfxryDIv8huejujg4JueDJx8zCz.jpg",
+      "genres": [
+        80,
+        18
+      ],
+      "voteAverage": 8.718,
+      "firstAirDate": "2015-02-08"
+    },
+    {
       "id": 31911,
       "name": "Fullmetal Alchemist : Brotherhood",
       "overview": "Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist.\n\nMais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.",
@@ -404,19 +417,6 @@
       ],
       "voteAverage": 8.718,
       "firstAirDate": "2009-04-05"
-    },
-    {
-      "id": 60059,
-      "name": "Better Call Saul",
-      "overview": "Six ans avant de croiser le chemin de Walter White, Saul Goodman, connu sous le nom de Jimmy McGill, est un avocat qui peine à joindre les deux bouts, à Albuquerque, au Nouveau-Mexique. Pour boucler ses fins de mois, il n'aura d'autres choix que se livrer à quelques petites escroqueries. Chemin faisant, il va faire des rencontres qui vont se révéler déterminantes dans son parcours : Nacho Varga, ou encore Mike Ehrmantraut, un criminel spécialisé dans le \"nettoyage\", qui deviendra son futur homme de main.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7KyuCBjxsr4sNQga16DcN9ccEyf.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rfxryDIv8huejujg4JueDJx8zCz.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.717,
-      "firstAirDate": "2015-02-08"
     },
     {
       "id": 138502,
@@ -473,18 +473,17 @@
       "firstAirDate": "2013-12-02"
     },
     {
-      "id": 220542,
-      "name": "Les Carnets de l'apothicaire",
-      "overview": "Formée dès son plus jeune âge par son père apothicaire, Mao Mao est un jour vendue comme servante au palais de l'empereur. Prisonnière dans les arcanes du pouvoir, elle attire l’attention de Jinshi, un séduisant haut fonctionnaire qui la promeut lorsqu’il découvre son talent pour confectionner des potions. Désormais goûteuse, Mao Mao met ses connaissances au service des gens du palais pour les soigner, mais aussi pour déjouer les mystères et les complots qui se trament…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/47pSay5Ao7SFeyQBZVkW5ifyhAZ.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "id": 1398,
+      "name": "Les Soprano",
+      "overview": "USA, New Jersey, Tony Soprano, dit « T » descend d'une lignée de caïds dans le crime organisé. Son père Johnny et son oncle Corrado Junior dit « Junior » ont développé le réseau local et les connexions avec la Mafia de New York.\n\nIl doit faire face à des problèmes de succession au sein de la mafia, des vendettas personnelles, et aux enquêtes du FBI. Il souffre de crises d'angoisse et consulte, en secret, un psychiatre, le Dr Jennifer Melfi. Son rang dans la Mafia ne lui autorise aucune faiblesse. Si l'argent coule à flot, Tony doit aussi gérer sa famille, sa mère Livia, sa sœur Janice, sa femme Carmela, sa fille Meadow et son fils Anthony Jr. mais aussi ses amantes et le tout n'est pas des plus reposants...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qxEIC2pMudIdnPTyfSXr0y866I8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
       "genres": [
-        16,
-        18,
-        9648
+        80,
+        18
       ],
       "voteAverage": 8.7,
-      "firstAirDate": "2023-10-22"
+      "firstAirDate": "1999-01-10"
     },
     {
       "id": 64010,
@@ -542,6 +541,21 @@
       "firstAirDate": "1993-10-16"
     },
     {
+      "id": 261145,
+      "name": "The Amazing Digital Circus",
+      "overview": "Pris au piège dans un étrange monde virtuel, une femme et cinq autres humains se retrouvent à la merci d'une IA loufoque et en proie à leurs propres traumatismes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8RNKSk4gJEYd0g8EKr2ZdkHML48.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+      "genres": [
+        16,
+        35,
+        18,
+        10765
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "2023-10-13"
+    },
+    {
       "id": 131378,
       "name": "Adventure Time: Fionna and Cake",
       "overview": "Fionna et Cake - avec l'aide de l'ancien roi des glaces, Simon Petrikov - se lancent dans une aventure à travers les multivers et un voyage à la découverte de soi. Pendant ce temps, un nouvel antagoniste puissant, déterminé à les traquer et à les effacer de l'existence, se cache dans l'ombre.",
@@ -555,6 +569,20 @@
       ],
       "voteAverage": 8.7,
       "firstAirDate": "2023-08-31"
+    },
+    {
+      "id": 220542,
+      "name": "Les Carnets de l'apothicaire",
+      "overview": "Formée dès son plus jeune âge par son père apothicaire, Mao Mao est un jour vendue comme servante au palais de l'empereur. Prisonnière dans les arcanes du pouvoir, elle attire l’attention de Jinshi, un séduisant haut fonctionnaire qui la promeut lorsqu’il découvre son talent pour confectionner des potions. Désormais goûteuse, Mao Mao met ses connaissances au service des gens du palais pour les soigner, mais aussi pour déjouer les mystères et les complots qui se trament…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/47pSay5Ao7SFeyQBZVkW5ifyhAZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "genres": [
+        16,
+        18,
+        9648
+      ],
+      "voteAverage": 8.7,
+      "firstAirDate": "2023-10-22"
     },
     {
       "id": 70785,
@@ -598,19 +626,6 @@
       "firstAirDate": "2024-01-07"
     },
     {
-      "id": 1398,
-      "name": "Les Soprano",
-      "overview": "USA, New Jersey, Tony Soprano, dit « T » descend d'une lignée de caïds dans le crime organisé. Son père Johnny et son oncle Corrado Junior dit « Junior » ont développé le réseau local et les connexions avec la Mafia de New York.\n\nIl doit faire face à des problèmes de succession au sein de la mafia, des vendettas personnelles, et aux enquêtes du FBI. Il souffre de crises d'angoisse et consulte, en secret, un psychiatre, le Dr Jennifer Melfi. Son rang dans la Mafia ne lui autorise aucune faiblesse. Si l'argent coule à flot, Tony doit aussi gérer sa famille, sa mère Livia, sa sœur Janice, sa femme Carmela, sa fille Meadow et son fils Anthony Jr. mais aussi ses amantes et le tout n'est pas des plus reposants...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qxEIC2pMudIdnPTyfSXr0y866I8.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/lNpkvX2s8LGB0mjGODMT4o6Up7j.jpg",
-      "genres": [
-        80,
-        18
-      ],
-      "voteAverage": 8.676,
-      "firstAirDate": "1999-01-10"
-    },
-    {
       "id": 42705,
       "name": "Hajime no Ippo : The Fighting",
       "overview": "Ippo est un jeune lycéen de 16 ans qui n'a pas d'amis car il occupe tous son temps libre à aider sa mère pour tenir son affaire de pêche. Mais il ne sait pas encore qu'un prestigieux destin l'attend ; alors qu'il se faisait martyriser par la bande d'Amezawa, Takamura (un grand boxeur japonais) vient lui porter secours. Les voyous hors d'état de nuire Takamura emmène le jeune lycéen dans son club de boxe. Ippo remis sur pied, Takamura lui proposera de se défouler sur un sac du club avec un dessin de Furyô dessus. Là se révélera une grande force et Ippo se découvrira une passion pour la boxe. Après avoir visionné une cassette et passé le test de Takamura avec brio, il entrera dans le club de boxe de Kamogawa. À la surprise générale il tiendra tête à l'un des génies du club de boxe ce qui va attirer l'attention de l’entraîneur du club.",
@@ -640,21 +655,6 @@
       "firstAirDate": "2011-10-02"
     },
     {
-      "id": 261145,
-      "name": "The Amazing Digital Circus",
-      "overview": "Pris au piège dans un étrange monde virtuel, une femme et cinq autres humains se retrouvent à la merci d'une IA loufoque et en proie à leurs propres traumatismes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8RNKSk4gJEYd0g8EKr2ZdkHML48.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
-      "genres": [
-        16,
-        35,
-        18,
-        10765
-      ],
-      "voteAverage": 8.665,
-      "firstAirDate": "2023-10-13"
-    },
-    {
       "id": 1430,
       "name": "Cosmos: A Personal Voyage",
       "overview": "Pas encore de synopsis pour cette série.",
@@ -678,19 +678,6 @@
       ],
       "voteAverage": 8.652,
       "firstAirDate": "2019-10-08"
-    },
-    {
-      "id": 68595,
-      "name": "Planète Terre II",
-      "overview": "L’incroyable technologie déployée par la BBC laisse bouche bée face au spectacle enchanteur de la faune. « Planète Terre II » explore le moindre centimètre de notre planète pour en exposer les recoins les plus intimes: îles, montagnes, jungles, déserts, prairies et villes du mondes. Un voyage aux quatre coins du globe pour découvrir les forces extrêmes qui façonnent la vie dans chacun de ces paysages emblématiques et les adaptations remarquables des animaux pour surmonter les défis associé à la survie dans les endroits les plus sauvages sur Terre. Des rencontres avec des créatures incroyables, des voyages épiques au travers d'étendues sauvages à couper le souffle : découvrez l'émerveillement du monde naturel !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nQQ5FbbmaFaCtdrzLaLH1hmlzAv.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
-      "genres": [
-        99,
-        10751
-      ],
-      "voteAverage": 8.639,
-      "firstAirDate": "2016-11-06"
     },
     {
       "id": 1044,
@@ -857,6 +844,23 @@
       "firstAirDate": "2007-10-12"
     },
     {
+      "id": 40075,
+      "name": "Souvenirs de Gravity Falls",
+      "overview": "Gravity Falls raconte les aventures des jumeaux Pines, Dipper le frère et Mabel sa sœur, âgés de 12 ans, dont les plans pour l'été sont anéantis lorsque leurs parents les envoient chez grand-tonton Stan à Gravity Falls.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2b7zIe5BHkaM4SzppCS6MyZX1T.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
+      "genres": [
+        10759,
+        16,
+        35,
+        10751,
+        9648,
+        10765
+      ],
+      "voteAverage": 8.622,
+      "firstAirDate": "2012-06-15"
+    },
+    {
       "id": 62741,
       "name": "Kamisama Kiss",
       "overview": "Désespérée d’avoir été abandonnée par son père, criblé de dettes, Nanami se retrouve à la rue et fait la rencontre de l’étrange Mikage. Bouleversé par son histoire, ce dernier lui confie son sceau et sa demeure… qui n’est autre qu’un sanctuaire consacré au dieu de la Terre ! Promue malgré elle au rang de divinité des lieux, la jeune fille va devoir s’adapter à ses nouvelles fonctions, sous le regard quelque peu hostile de Tomoe, son messager attitré. Nanami arrivera-t-elle à devenir une déesse digne de ce nom ?",
@@ -899,20 +903,6 @@
       "firstAirDate": "2016-12-02"
     },
     {
-      "id": 35790,
-      "name": "Sakura, chasseuse de cartes",
-      "overview": "La vie de Sakura bascule le jour où, dans la bibliothèque de son père, elle ouvre le livre de Clow et laisse accidentellement s'échapper les cartes magiques qui s'y trouvaient. Devenue chasseuse de cartes, elle doit, avec l'aide de Kero, le gardien du livre, retrouver les cartes disparues...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gQP9xOcOOuJeNUNwkV92gL9oLF4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
-      "genres": [
-        16,
-        10765,
-        10759
-      ],
-      "voteAverage": 8.615,
-      "firstAirDate": "1998-04-07"
-    },
-    {
       "id": 4613,
       "name": "Frères d'armes",
       "overview": "Vivez la Seconde Guerre mondiale aux côtés de la Easy Company, un groupe de soldats américains. Suivez-les en tant que groupe, ou individuellement, depuis leur formation en 1942, jusqu'à la libération de l'Allemagne nazie en 1945, en passant par leur parachutage en Normandie le 6 juin 1944.",
@@ -924,6 +914,21 @@
       ],
       "voteAverage": 8.61,
       "firstAirDate": "2001-09-09"
+    },
+    {
+      "id": 230923,
+      "name": "Lovely Runner",
+      "overview": "Im Sol, une jeune femme pétillante devenue handicapé après un accident, trouve du réconfort dans la musique de la star Ryu Sun-jae. Le jour où elle apprend sa mort tragique, elle est anéantie… jusqu'à ce qu'un miracle la renvoie 15 ans en arrière, à l'époque du lycée. Déterminée à changer le destin, elle décide de sauver celui qu'elle aime, même si cela signifie bouleverser le cours du temps.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9gEp7Rs43Fi3eEEBsIMc8xGewNp.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
+      "genres": [
+        18,
+        10765,
+        35,
+        9648
+      ],
+      "voteAverage": 8.606,
+      "firstAirDate": "2024-04-08"
     },
     {
       "id": 79141,
@@ -953,6 +958,19 @@
       ],
       "voteAverage": 8.602,
       "firstAirDate": "2016-04-03"
+    },
+    {
+      "id": 68595,
+      "name": "Planète Terre II",
+      "overview": "L’incroyable technologie déployée par la BBC laisse bouche bée face au spectacle enchanteur de la faune. « Planète Terre II » explore le moindre centimètre de notre planète pour en exposer les recoins les plus intimes: îles, montagnes, jungles, déserts, prairies et villes du mondes. Un voyage aux quatre coins du globe pour découvrir les forces extrêmes qui façonnent la vie dans chacun de ces paysages emblématiques et les adaptations remarquables des animaux pour surmonter les défis associé à la survie dans les endroits les plus sauvages sur Terre. Des rencontres avec des créatures incroyables, des voyages épiques au travers d'étendues sauvages à couper le souffle : découvrez l'émerveillement du monde naturel !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nQQ5FbbmaFaCtdrzLaLH1hmlzAv.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/1DYpBOVdb7Mzc9DgMCdIBTN1JEC.jpg",
+      "genres": [
+        99,
+        10751
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "2016-11-06"
     },
     {
       "id": 1438,
@@ -997,23 +1015,6 @@
       "firstAirDate": "2017-06-19"
     },
     {
-      "id": 40075,
-      "name": "Souvenirs de Gravity Falls",
-      "overview": "Gravity Falls raconte les aventures des jumeaux Pines, Dipper le frère et Mabel sa sœur, âgés de 12 ans, dont les plans pour l'été sont anéantis lorsque leurs parents les envoient chez grand-tonton Stan à Gravity Falls.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2b7zIe5BHkaM4SzppCS6MyZX1T.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/lhg7eA6CTOCL10QNVdKiyxkgPsL.jpg",
-      "genres": [
-        10759,
-        16,
-        35,
-        10751,
-        9648,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2012-06-15"
-    },
-    {
       "id": 57706,
       "name": "Ranma ½",
       "overview": "Ranma Saotome, jeune expert en arts martiaux, n’est plus le même depuis qu’il est revenu d’un entraînement en Chine. Là-bas, il chutait avec son père Genma dans une source magique aux vertus mystèrieuses. Depuis, Ranma et son père sont victimes d’étranges métamorphoses au contact de l’eau froide. Soun Tendô, qui a arrangé le mariage de Ranma avec l’une de ses filles, est pour le moins sidéré lorsqu’il découvre que Ranma se révèle finalement être… une fille !",
@@ -1027,6 +1028,20 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "1989-04-15"
+    },
+    {
+      "id": 35790,
+      "name": "Sakura, chasseuse de cartes",
+      "overview": "La vie de Sakura bascule le jour où, dans la bibliothèque de son père, elle ouvre le livre de Clow et laisse accidentellement s'échapper les cartes magiques qui s'y trouvaient. Devenue chasseuse de cartes, elle doit, avec l'aide de Kero, le gardien du livre, retrouver les cartes disparues...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gQP9xOcOOuJeNUNwkV92gL9oLF4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/w6a3S1E5p3UfFcP3jkieXlAY5mz.jpg",
+      "genres": [
+        16,
+        10765,
+        10759
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "1998-04-07"
     },
     {
       "id": 85349,
@@ -1057,21 +1072,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2014-04-06"
-    },
-    {
-      "id": 230923,
-      "name": "Lovely Runner",
-      "overview": "Im Sol, une jeune femme pétillante devenue handicapé après un accident, trouve du réconfort dans la musique de la star Ryu Sun-jae. Le jour où elle apprend sa mort tragique, elle est anéantie… jusqu'à ce qu'un miracle la renvoie 15 ans en arrière, à l'époque du lycée. Déterminée à changer le destin, elle décide de sauver celui qu'elle aime, même si cela signifie bouleverser le cours du temps.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9gEp7Rs43Fi3eEEBsIMc8xGewNp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg",
-      "genres": [
-        18,
-        10765,
-        35,
-        9648
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2024-04-08"
     },
     {
       "id": 100,
@@ -1130,6 +1130,21 @@
       "firstAirDate": "1999-09-04"
     },
     {
+      "id": 2098,
+      "name": "Batman : La Série animée",
+      "overview": "Homme d'affaires le jour, Bruce Wayne devient Batman la nuit pour protéger Gotham City avec sa Batmobile. Avec l'aide de Robin et Batgirl il affronte de nombreux criminels légendaires.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bzeuZHxk0lSPafsgNiwENmI26zt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
+      "genres": [
+        10759,
+        16,
+        18,
+        9648
+      ],
+      "voteAverage": 8.6,
+      "firstAirDate": "1992-09-05"
+    },
+    {
       "id": 207250,
       "name": "The Dangers in My Heart",
       "overview": "Kyotaro Ichikawa est un garçon qui pense être secrètement le personnage principal torturé d'un thriller psychologique. Il passe ses journées à observer ses camarades de classe et en particulier Anna Yamada, l'idole de la classe, qui est la personne qu'il veut le plus tuer. Mais Kyotaro est loin d'être l'adolescent perturbé qu'il prétend être et il s'avère qu'Anna est elle-même un peu bizarre !",
@@ -1141,20 +1156,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "2023-04-02"
-    },
-    {
-      "id": 46896,
-      "name": "The Originals",
-      "overview": "Le vampire originel Klaus fait son retour au Vieux Carré, un quartier français de la Nouvelle Orléans. Dans cette ville qu’il a aidé à construire quelques siècles plus tôt, il y retrouve son ancien protégé, le diabolique et charismatique Marcel. Dans l’espoir d’aider son jeune frère à trouver la rédemption, Elijah est contraint de s’allier avec des ennemis de Marcel...",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dVp9y0uxpz3GDvMhg2c43bfOE10.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2OAoGOvysScieVhIazrWTXj2ESp.jpg",
-      "genres": [
-        10765,
-        18,
-        9648
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2013-10-03"
     },
     {
       "id": 95269,
@@ -1183,20 +1184,6 @@
       ],
       "voteAverage": 8.6,
       "firstAirDate": "1985-03-04"
-    },
-    {
-      "id": 35610,
-      "name": "InuYasha",
-      "overview": "Kagome, jeune Japonaise de 15 ans, mène une vie paisible au sein de sa famille auprès d’un temple de Tokyo jusqu’au jour où tombant dans un puits, elle fait un bond dans le temps et se retrouve à l’époque Sengoku dans un Japon où monstres et esprits malins abondent. Elle fait alors la rencontre d’Inu-Yasha, un être hybride tenant à la fois de l’humain, du chien et du démon. Celui-ci est à la recherche de la perle de Shikon. A la suite de péripéties, la perle de Shikon est éclatée et Kagome se retrouve en la possession d’un de ses fragments… Kagome et Inu-Yasha vont être contraints de faire équipe pour retrouver les parties manquantes de la perle de Shikon. Sans cesse oscillant entre Japon moderne et Japon féodal, l’aventure peut alors commencer !",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
-      "genres": [
-        16,
-        10759,
-        10765
-      ],
-      "voteAverage": 8.6,
-      "firstAirDate": "2000-10-16"
     },
     {
       "id": 61617,
@@ -1268,21 +1255,6 @@
       "firstAirDate": "2015-09-14"
     },
     {
-      "id": 2098,
-      "name": "Batman : La Série animée",
-      "overview": "Homme d'affaires le jour, Bruce Wayne devient Batman la nuit pour protéger Gotham City avec sa Batmobile. Avec l'aide de Robin et Batgirl il affronte de nombreux criminels légendaires.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bzeuZHxk0lSPafsgNiwENmI26zt.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/4QnFxk03yAn7U2ZTL5oMCCqxlPc.jpg",
-      "genres": [
-        10759,
-        16,
-        18,
-        9648
-      ],
-      "voteAverage": 8.59,
-      "firstAirDate": "1992-09-05"
-    },
-    {
       "id": 2316,
       "name": "The Office",
       "overview": "Le quotidien d'un groupe d'employés de bureau dans une fabrique de papier en Pennsylvanie. Michael Scott, le responsable régional, pense être le mec le plus drôle du bureau. Il ne se doute pas que ses employés le tolèrent uniquement parce que c'est lui qui signe les chèques. S'efforçant de paraître cool et apprécié de tous, Michael est en fait perçu comme étant pathétique…",
@@ -1293,6 +1265,20 @@
       ],
       "voteAverage": 8.586,
       "firstAirDate": "2005-03-24"
+    },
+    {
+      "id": 46896,
+      "name": "The Originals",
+      "overview": "Le vampire originel Klaus fait son retour au Vieux Carré, un quartier français de la Nouvelle Orléans. Dans cette ville qu’il a aidé à construire quelques siècles plus tôt, il y retrouve son ancien protégé, le diabolique et charismatique Marcel. Dans l’espoir d’aider son jeune frère à trouver la rédemption, Elijah est contraint de s’allier avec des ennemis de Marcel...",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dVp9y0uxpz3GDvMhg2c43bfOE10.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2OAoGOvysScieVhIazrWTXj2ESp.jpg",
+      "genres": [
+        10765,
+        18,
+        9648
+      ],
+      "voteAverage": 8.583,
+      "firstAirDate": "2013-10-03"
     },
     {
       "id": 36189,
@@ -1344,8 +1330,22 @@
         10765,
         10759
       ],
-      "voteAverage": 8.575,
+      "voteAverage": 8.576,
       "firstAirDate": "2020-10-03"
+    },
+    {
+      "id": 35610,
+      "name": "InuYasha",
+      "overview": "Kagome, jeune Japonaise de 15 ans, mène une vie paisible au sein de sa famille auprès d’un temple de Tokyo jusqu’au jour où tombant dans un puits, elle fait un bond dans le temps et se retrouve à l’époque Sengoku dans un Japon où monstres et esprits malins abondent. Elle fait alors la rencontre d’Inu-Yasha, un être hybride tenant à la fois de l’humain, du chien et du démon. Celui-ci est à la recherche de la perle de Shikon. A la suite de péripéties, la perle de Shikon est éclatée et Kagome se retrouve en la possession d’un de ses fragments… Kagome et Inu-Yasha vont être contraints de faire équipe pour retrouver les parties manquantes de la perle de Shikon. Sans cesse oscillant entre Japon moderne et Japon féodal, l’aventure peut alors commencer !",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+      "genres": [
+        16,
+        10759,
+        10765
+      ],
+      "voteAverage": 8.567,
+      "firstAirDate": "2000-10-16"
     },
     {
       "id": 124834,
@@ -1373,18 +1373,6 @@
       "firstAirDate": "2009-11-28"
     },
     {
-      "id": 1408,
-      "name": "Dr. House",
-      "overview": "Le docteur Gregory House est un brillant médecin à tendance misanthrope, qui dirige une équipe d'internistes au sein de l'hôpital fictif de Princeton-Plainsboro dans le New Jersey. House est un personnage arrogant, cynique, anticonformiste et asocial. Il souffre d'une claudication provenant d'une douleur chronique à la jambe droite due à un infarctus du muscle de la cuisse. Il marche avec une canne et abuse de Vicodin, un analgésique opiacé, pour soulager sa douleur.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2Bw00vWztWFeTFpWTuPbUMkyDCA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
-      "genres": [
-        18
-      ],
-      "voteAverage": 8.561,
-      "firstAirDate": "2004-11-16"
-    },
-    {
       "id": 61663,
       "name": "Your Lie in April",
       "overview": "Kôsei Arima était un pianiste de génie jusqu’à ce que la mort subite de sa mère le prive de sa capacité à jouer. Chaque jour est alors une peine pour le jeune homme. Mais un jour, il rencontre une violoniste prénommée Kaori Miyazono. Il est immédiatement fasciné par son jeu excentrique et son côté insouciant, indépendant, et parfois colérique. Sa vie monotone s’apprête à changer pour toujours. Cette série a gagné le 37e Kodansha Manga Award ! Venez vivre une histoire empreinte de jeunesse, de musique et de romance !",
@@ -1395,8 +1383,20 @@
         35,
         18
       ],
-      "voteAverage": 8.561,
+      "voteAverage": 8.563,
       "firstAirDate": "2014-10-10"
+    },
+    {
+      "id": 1408,
+      "name": "Dr. House",
+      "overview": "Le docteur Gregory House est un brillant médecin à tendance misanthrope, qui dirige une équipe d'internistes au sein de l'hôpital fictif de Princeton-Plainsboro dans le New Jersey. House est un personnage arrogant, cynique, anticonformiste et asocial. Il souffre d'une claudication provenant d'une douleur chronique à la jambe droite due à un infarctus du muscle de la cuisse. Il marche avec une canne et abuse de Vicodin, un analgésique opiacé, pour soulager sa douleur.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2Bw00vWztWFeTFpWTuPbUMkyDCA.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+      "genres": [
+        18
+      ],
+      "voteAverage": 8.561,
+      "firstAirDate": "2004-11-16"
     },
     {
       "id": 890,
@@ -1439,7 +1439,7 @@
         9648,
         80
       ],
-      "voteAverage": 8.556,
+      "voteAverage": 8.557,
       "firstAirDate": "2018-07-06"
     },
     {
@@ -1480,7 +1480,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.549,
+      "voteAverage": 8.55,
       "firstAirDate": "2012-10-06"
     },
     {
@@ -1648,7 +1648,7 @@
         35,
         18
       ],
-      "voteAverage": 8.529,
+      "voteAverage": 8.53,
       "firstAirDate": "2014-08-22"
     },
     {
@@ -2229,16 +2229,16 @@
       "firstAirDate": "2012-02-14"
     },
     {
-      "id": 279914,
-      "name": "Sľub",
+      "id": 74277,
+      "name": "ドキュメント72時間",
       "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ywaHSBDEAgxqjebw5CQoAjISwA5.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/kUbFHFrbVBpo1XiNCczFqfhvRvG.jpg",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nVGFaga1eALOjX11vgwZs4FvMEa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/kq9cFwaFzhJjl2UEsoQVHFBw3C8.jpg",
       "genres": [
-        10751
+        99
       ],
       "voteAverage": 8.5,
-      "firstAirDate": "2025-01-13"
+      "firstAirDate": "2006-10-03"
     },
     {
       "id": 3793,
@@ -2436,6 +2436,20 @@
       "firstAirDate": "2019-07-25"
     },
     {
+      "id": 5920,
+      "name": "Mentalist",
+      "overview": "Un mentaliste utilise ses extraordinaires dons d'observation pour résoudre des crimes en tant que consultant du CBI. Une façon pour lui de contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dGRoQRWjGac97wqp6WuLnRsZDpc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 8.42,
+      "firstAirDate": "2008-09-23"
+    },
+    {
       "id": 58841,
       "name": "Chicago Police Department",
       "overview": "Des officiers en uniforme qui patrouillent et combattent le crime dans la rue, aux membres de l'unité des renseignements affectés à des affaires majeures (crime organisé, trafic de drogue, homicides...), toutes les recrues du poste de police du district 21 de Chicago risquent quotidiennement leurs vies. Ces énormes responsabilités dépassent souvent le simple cadre professionnel et entâchent la sphère privée de ces hommes et de ces femmes d'exception.\n\nSpin-off de Chicago Fire centré sur une brigade de police de la ville.",
@@ -2471,34 +2485,6 @@
       ],
       "voteAverage": 8.407,
       "firstAirDate": "1994-09-22"
-    },
-    {
-      "id": 5920,
-      "name": "Mentalist",
-      "overview": "Un mentaliste utilise ses extraordinaires dons d'observation pour résoudre des crimes en tant que consultant du CBI. Une façon pour lui de contribuer à la justice et de démasquer le mystérieux tueur en série qui a assassiné son épouse et sa fille…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dGRoQRWjGac97wqp6WuLnRsZDpc.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 8.4,
-      "firstAirDate": "2008-09-23"
-    },
-    {
-      "id": 30984,
-      "name": "Bleach",
-      "overview": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d'une belle Shinigami (un être spirituel) en train de pourchasser une « âme perdue », un esprit maléfique qui hante notre monde et n'arrive pas à trouver le repos. Mise en difficulté par son ennemi, la jeune fille décide alors de prêter une partie de ses pouvoirs à Ichigo, mais ce dernier hérite finalement de toute la puissance du Shinigami. Contraint d'assumer son nouveau statut, Ichigo va devoir gérer ses deux vies : celle de lycéen ordinaire, et celle de chasseur de démons…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-      "genres": [
-        10759,
-        16,
-        10765
-      ],
-      "voteAverage": 8.4,
-      "firstAirDate": "2004-10-05"
     },
     {
       "id": 274556,
@@ -2596,7 +2582,7 @@
         10759,
         10765
       ],
-      "voteAverage": 8.362,
+      "voteAverage": 8.363,
       "firstAirDate": "2002-10-03"
     },
     {
@@ -2625,6 +2611,20 @@
       ],
       "voteAverage": 8.36,
       "firstAirDate": "2025-10-10"
+    },
+    {
+      "id": 30984,
+      "name": "Bleach",
+      "overview": "Adolescent de quinze ans, Ichigo Kurosaki possède un don particulier : celui de voir les esprits. Un jour, il croise la route d'une belle Shinigami (un être spirituel) en train de pourchasser une « âme perdue », un esprit maléfique qui hante notre monde et n'arrive pas à trouver le repos. Mise en difficulté par son ennemi, la jeune fille décide alors de prêter une partie de ses pouvoirs à Ichigo, mais ce dernier hérite finalement de toute la puissance du Shinigami. Contraint d'assumer son nouveau statut, Ichigo va devoir gérer ses deux vies : celle de lycéen ordinaire, et celle de chasseur de démons…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "genres": [
+        10759,
+        16,
+        10765
+      ],
+      "voteAverage": 8.351,
+      "firstAirDate": "2004-10-05"
     },
     {
       "id": 288673,
@@ -2762,6 +2762,19 @@
       "firstAirDate": "2023-09-25"
     },
     {
+      "id": 314360,
+      "name": "YAGA",
+      "overview": "Alors qu’un détective privé enquête sur la disparition du jeune héritier d’une puissante entreprise de pêche, il se retrouve en désaccord avec un détective local méfiant, un charismatique professeur d’université qui aime les hommes plus jeunes, et un labyrinthe de suspects énigmatiques, de vies secrètes et de magie ancienne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2kxIViR7g3e08ZHLlvNFFJkgJtI.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+      "genres": [
+        18,
+        10765
+      ],
+      "voteAverage": 8.3,
+      "firstAirDate": "2026-10-23"
+    },
+    {
       "id": 113962,
       "name": "Lioness",
       "overview": "Cruz Manuelos, une jeune Marine un peu brutale mais passionnée, a été recrutée pour rejoindre la mission Lioness afin d'aider à démanteler une organisation terroriste. Joe, la cheffe de station du programme Lioness, est chargée de former, de gérer et de diriger ces agents féminins infiltrés.",
@@ -2795,7 +2808,7 @@
       "genres": [
         35
       ],
-      "voteAverage": 8.251,
+      "voteAverage": 8.25,
       "firstAirDate": "1989-07-05"
     },
     {
@@ -3008,21 +3021,22 @@
         10759,
         80
       ],
-      "voteAverage": 8.132,
+      "voteAverage": 8.13,
       "firstAirDate": "2022-02-03"
     },
     {
-      "id": 126027,
-      "name": "Ghosts : Fantômes à la maison",
-      "overview": "A la mort de sa grand-tante, Sam hérite d'un manoir en ruine habité par les esprits de différents personnages morts sur les lieux à travers les siècles. Elle projette, avec son mari Jay, de transformer le manoir en hôtel. Suite à un accident qui l'a rapprochée de la mort, elle peut voir et entendre les fantômes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eeQxQnvX8RjvNLWzeaHXgLjjQsk.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
+      "id": 1411,
+      "name": "Person of Interest",
+      "overview": "Un agent paramilitaire de la CIA, présumé mort, est recruté par un millionnaire reclu pour travailler sur un projet top-secret : prévenir le crime avant qu'il ne se produise ! Un ingénieux programme élaboré par Finch identifie chaque jour des personnes qui vont être impliquées dans un crime. Victime ou coupable ? Reese va devoir mener l'enquête pour découvrir qui est en danger et empêcher qu'un nouveau meurtre soit commis…",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
       "genres": [
-        35,
+        10759,
+        80,
         10765
       ],
-      "voteAverage": 8.131,
-      "firstAirDate": "2021-10-07"
+      "voteAverage": 8.1,
+      "firstAirDate": "2011-09-22"
     },
     {
       "id": 65733,
@@ -3070,18 +3084,17 @@
       "firstAirDate": "2015-10-19"
     },
     {
-      "id": 1411,
-      "name": "Person of Interest",
-      "overview": "Un agent paramilitaire de la CIA, présumé mort, est recruté par un millionnaire reclu pour travailler sur un projet top-secret : prévenir le crime avant qu'il ne se produise ! Un ingénieux programme élaboré par Finch identifie chaque jour des personnes qui vont être impliquées dans un crime. Victime ou coupable ? Reese va devoir mener l'enquête pour découvrir qui est en danger et empêcher qu'un nouveau meurtre soit commis…",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6FuKOyJgViZXgMDOq9djFJLWPqX.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/efeMgQn6iRALsOqDa2cqlf6Pw5O.jpg",
+      "id": 126027,
+      "name": "Ghosts : Fantômes à la maison",
+      "overview": "A la mort de sa grand-tante, Sam hérite d'un manoir en ruine habité par les esprits de différents personnages morts sur les lieux à travers les siècles. Elle projette, avec son mari Jay, de transformer le manoir en hôtel. Suite à un accident qui l'a rapprochée de la mort, elle peut voir et entendre les fantômes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eeQxQnvX8RjvNLWzeaHXgLjjQsk.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg",
       "genres": [
-        10759,
-        80,
+        35,
         10765
       ],
       "voteAverage": 8.1,
-      "firstAirDate": "2011-09-22"
+      "firstAirDate": "2021-10-07"
     },
     {
       "id": 1413,
@@ -3181,6 +3194,33 @@
       "firstAirDate": "2017-11-02"
     },
     {
+      "id": 456,
+      "name": "Les Simpson",
+      "overview": "Située à Springfield, ville américaine moyenne, la série se concentre sur les singeries et les aventures quotidiennes de la famille Simpson : Homer, Marge, Bart, Lisa et Maggie, ainsi que des milliers d'autres personnages.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "genres": [
+        16,
+        35
+      ],
+      "voteAverage": 8.026,
+      "firstAirDate": "1989-12-17"
+    },
+    {
+      "id": 71728,
+      "name": "Young Sheldon",
+      "overview": "Au Texas, un état où le football et la religion règnent, il n'est pas facile d'être un esprit scientifique hors du commun. Cette série raconte la jeunesse de Sheldon Cooper, personnage atypique et excentrique de la série THE BIG BANG THEORY. Alors que le jeune garçon cherche comment évoluer au sein de sa très normale famille, cette dernière doit aussi trouver un moyen de comprendre cet être à la fois malaisant et attachant.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
+      "genres": [
+        35,
+        10751,
+        18
+      ],
+      "voteAverage": 8.022,
+      "firstAirDate": "2017-09-25"
+    },
+    {
       "id": 30983,
       "name": "Détective Conan",
       "overview": "Shinichi Kudo est un jeune lycéen de renom au Japon. Grâce à sa perspicacité et son intelligence, il est souvent amené à résoudre des affaires criminelles pour la police. Un jour, dans un parc d’attraction, il est témoin d’une étrange affaire qu'il voudra élucider : malgré son expérience et sa vigilance habituelle, Shinichi est enlevé par les membres d’une mystérieuse organisation, \"les hommes en noir\". Ces derniers lui font alors avaler une étrange pilule. Shinichi s'évanoui pour se réveiller dans le corps d'un enfant de 7 ans...",
@@ -3205,34 +3245,21 @@
         35,
         10765
       ],
-      "voteAverage": 8.003,
+      "voteAverage": 8.006,
       "firstAirDate": "2019-03-27"
     },
     {
-      "id": 456,
-      "name": "Les Simpson",
-      "overview": "Située à Springfield, ville américaine moyenne, la série se concentre sur les singeries et les aventures quotidiennes de la famille Simpson : Homer, Marge, Bart, Lisa et Maggie, ainsi que des milliers d'autres personnages.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/py1CAYqgpKKtLBdtctLIXfDYDjW.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "id": 70528,
+      "name": "Chicago Typewriter",
+      "overview": "Croyez-vous en la réincarnation ? C'est en tout cas ce qui arrive à Seo Hwi Yeong, Ryu Su Yeon et Shin Yool, 3 amis qui vécurent dans les années 30 sous l'occupation japonaise en Corée et étaient des révolutionnaires qui sacrifièrent leur vie pour rendre à leur pays sa liberté. En 2017, Han Se Ju est un écrivain de renom, idolâtré par des milliers de fans à travers le monde. Parmi eux Jeon Seol est certainement la plus grande fan de Se Ju. Suite à une expérience traumatisante, Se Ju fera la douloureuse expérience du syndrome de la page blanche. Incapable d'écrire son nouveau roman attendu par des milliers de personnes, un homme inconnu se nommera lui-même son prête plume, mais ceci sous certaines conditions… Cependant, Se Ju et Jeon Seol auront soudainement des visions de leur vie dans les années 30, et devront alors comprendre ce qui s'est passé il y a près de 90 ans pour que, soudainement, les souvenirs de leur vie antérieure et leur tumultueux destin refassent surface en 2017.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5qD8pAFPGuioviwaam20YNrjH8q.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/f44Ykw0MnAcFvBeYhmdKekcX35J.jpg",
       "genres": [
-        16,
-        35
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "1989-12-17"
-    },
-    {
-      "id": 120911,
-      "name": "The Terminal List",
-      "overview": "Le commandant James Reece décide de se venger alors qu'il soupçonne que des puissances mystérieuses sont derrière le meurtre de toute son unité. Libéré de son obéissance à l'armée, il va appliquer les leçons qu'il a apprises pendant ses vingt ans au service de la traque de coupables.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1dRsDRj8tfvTbNyJDItdBLNVsO7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
-      "genres": [
-        10759,
+        10765,
         18
       ],
       "voteAverage": 8,
-      "firstAirDate": "2022-06-30"
+      "firstAirDate": "2017-04-07"
     },
     {
       "id": 79481,
@@ -3261,32 +3288,6 @@
       "firstAirDate": "2026-10-12"
     },
     {
-      "id": 131040,
-      "name": "披荆斩棘",
-      "overview": "Pas encore de synopsis pour cette série.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hB5wJgHi7g04zcTTn92bshEKkQ4.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/ySzItvbTqSJ3feKiueMFwAlH17y.jpg",
-      "genres": [
-        10764
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2021-08-12"
-    },
-    {
-      "id": 71728,
-      "name": "Young Sheldon",
-      "overview": "Au Texas, un état où le football et la religion règnent, il n'est pas facile d'être un esprit scientifique hors du commun. Cette série raconte la jeunesse de Sheldon Cooper, personnage atypique et excentrique de la série THE BIG BANG THEORY. Alors que le jeune garçon cherche comment évoluer au sein de sa très normale famille, cette dernière doit aussi trouver un moyen de comprendre cet être à la fois malaisant et attachant.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/nlDBlCtorM7nx130wYnfR5ZmyLX.jpg",
-      "genres": [
-        35,
-        10751,
-        18
-      ],
-      "voteAverage": 8,
-      "firstAirDate": "2017-09-25"
-    },
-    {
       "id": 60572,
       "name": "Pokémon",
       "overview": "L'histoire suit les aventures d'un jeune garçon nommé Sacha dont le but est de devenir un jour Maître Pokémon. Pour cela, il va faire connaissance d'un Pikachu à très mauvais caractère au début, mais qui va vite devenir par la suite son meilleur ami. Sacha va aussi rencontrer d'autres dresseurs avec qui il partagera ses aventures. Lors de son voyage dans plusieurs régions, il va devoir continuer à progresser pour découvrir de nouveaux Pokémon et peut-être les capturer. Et avec ces derniers comme amis, il va aussi devoir affronter des groupes de bandits, surtout la Team Rocket. Mais il va aussi faire face à d'autres personnes malintentionnées. Heureusement, Sacha peut compter sur ses amis pour l'aider. Ensemble et parfois avec d'autres personnages en plus, la grande quête leur réservera bien des surprises...",
@@ -3299,6 +3300,19 @@
       ],
       "voteAverage": 7.986,
       "firstAirDate": "1997-04-01"
+    },
+    {
+      "id": 120911,
+      "name": "The Terminal List",
+      "overview": "Le commandant James Reece décide de se venger alors qu'il soupçonne que des puissances mystérieuses sont derrière le meurtre de toute son unité. Libéré de son obéissance à l'armée, il va appliquer les leçons qu'il a apprises pendant ses vingt ans au service de la traque de coupables.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1dRsDRj8tfvTbNyJDItdBLNVsO7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+      "genres": [
+        10759,
+        18
+      ],
+      "voteAverage": 7.985,
+      "firstAirDate": "2022-06-30"
     },
     {
       "id": 2734,
@@ -3383,19 +3397,6 @@
       "firstAirDate": "2023-06-24"
     },
     {
-      "id": 91555,
-      "name": "All Elite Wrestling: Dynamite",
-      "overview": "All Elite Wrestling (AEW) est une fédération de catch américaine basée à Jacksonville en Floride. La compagnie a été fondée par l’entrepreneur et dirigeant de football américain Tony Khan. Les lutteurs professionnels Cody Rhodes, ainsi que Matt et Nick Jackson, membre connus sous le nom de The Elite, sont les premiers talents sous contrat avec la compagnie en tant que lutteur. Ils sont aussi les vice-présidents exécutifs.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2xAAC0Hwm9yxMn9ukgglfIuABc1.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
-      "genres": [
-        10759,
-        18
-      ],
-      "voteAverage": 7.907,
-      "firstAirDate": "2019-10-02"
-    },
-    {
       "id": 121,
       "name": "Doctor Who",
       "overview": "Les aventures du Docteur, un extraterrestre, un Seigneur du Temps originaire de la planète Gallifrey, qui voyage à bord d'un TARDIS (Temps À Relativité Dimensionnelle Inter-Spatiale), une machine pouvant voyager dans l'espace et dans le temps. Le TARDIS a l'apparence d'une cabine de police (construction typiquement britannique ressemblant à une cabine téléphonique), le système de camouflage étant resté bloqué. Comme tous les Seigneur du Temps, le Docteur possède treize vies, ce qui explique sa capacité à changer de corps lorsqu'il est proche de la mort.",
@@ -3422,6 +3423,19 @@
       ],
       "voteAverage": 7.9,
       "firstAirDate": "2004-10-03"
+    },
+    {
+      "id": 91555,
+      "name": "All Elite Wrestling: Dynamite",
+      "overview": "All Elite Wrestling (AEW) est une fédération de catch américaine basée à Jacksonville en Floride. La compagnie a été fondée par l’entrepreneur et dirigeant de football américain Tony Khan. Les lutteurs professionnels Cody Rhodes, ainsi que Matt et Nick Jackson, membre connus sous le nom de The Elite, sont les premiers talents sous contrat avec la compagnie en tant que lutteur. Ils sont aussi les vice-présidents exécutifs.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2xAAC0Hwm9yxMn9ukgglfIuABc1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/veIrzS2AkYm0UaYYcVw9ziWkJoB.jpg",
+      "genres": [
+        10759,
+        18
+      ],
+      "voteAverage": 7.9,
+      "firstAirDate": "2019-10-02"
     },
     {
       "id": 14951,
@@ -3465,20 +3479,6 @@
       "firstAirDate": "2007-08-17"
     },
     {
-      "id": 1426,
-      "name": "Luther",
-      "overview": "Un inspecteur de police consciencieux tente de ne pas partir à la dérive tandis qu'il démêle les facteurs psychologiques qui sous-tendent ses affaires criminelles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 7.86,
-      "firstAirDate": "2010-05-04"
-    },
-    {
       "id": 60761,
       "name": "Ace of Diamond",
       "overview": "L'équipe de baseball du collège Takagi termine sa saison sans une seule victoire. Son lanceur, Eijun Sawamura, a à coeur de prendre sa revanche avec ses coéquipiers, une fois au lycée.",
@@ -3489,6 +3489,20 @@
       ],
       "voteAverage": 7.857,
       "firstAirDate": "2013-10-06"
+    },
+    {
+      "id": 1426,
+      "name": "Luther",
+      "overview": "Un inspecteur de police consciencieux tente de ne pas partir à la dérive tandis qu'il démêle les facteurs psychologiques qui sous-tendent ses affaires criminelles.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 7.854,
+      "firstAirDate": "2010-05-04"
     },
     {
       "id": 57775,
@@ -3555,7 +3569,7 @@
         10751,
         10762
       ],
-      "voteAverage": 7.787,
+      "voteAverage": 7.791,
       "firstAirDate": "2016-05-02"
     },
     {
@@ -3667,20 +3681,6 @@
       "firstAirDate": "2005-04-23"
     },
     {
-      "id": 96677,
-      "name": "Lupin",
-      "overview": "Inspiré par les aventures d'Arsène Lupin, le gentleman cambrioleur Assane Diop décide de venger son père d'une terrible injustice.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sOUWRai0215iUSMackrZx3Y1j05.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
-      "genres": [
-        80,
-        18,
-        9648
-      ],
-      "voteAverage": 7.7,
-      "firstAirDate": "2021-01-08"
-    },
-    {
       "id": 253811,
       "name": "TOUGEN ANKI",
       "overview": "Les lignées « Oni » et « Momotaro » ont été transmises de génération en génération chez certains humains. Il y a longtemps, les ogres étaient conscients de leur nature féroce et vivaient reclus. Cependant, leur paix a été brisée par des envahisseurs menés par Momotaro. Pendant des milliers d'années, ces deux factions ont formé respectivement l'« Organisation Momotaro » et l'« Organisation Oni », et sont en guerre depuis lors. La protagoniste, Shiki Ichinose, apprend soudain qu'elle est de la lignée des Oni à la suite d'une attaque inattendue de Momotaro. Cette révélation met Shiki sur la voie de la découverte du destin dans son sang - la rencontre avec le démon qui réside en lui. - L'histoire d'une nouvelle génération de héros et de démons sombres commence ici !",
@@ -3693,6 +3693,20 @@
       ],
       "voteAverage": 7.7,
       "firstAirDate": "2025-07-11"
+    },
+    {
+      "id": 96677,
+      "name": "Lupin",
+      "overview": "Inspiré par les aventures d'Arsène Lupin, le gentleman cambrioleur Assane Diop décide de venger son père d'une terrible injustice.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sOUWRai0215iUSMackrZx3Y1j05.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/aY7zv2pfk9H0QxaaL3PBjvalbKQ.jpg",
+      "genres": [
+        80,
+        18,
+        9648
+      ],
+      "voteAverage": 7.678,
+      "firstAirDate": "2021-01-08"
     },
     {
       "id": 76806,
@@ -3737,6 +3751,20 @@
       "firstAirDate": "2003-09-01"
     },
     {
+      "id": 46952,
+      "name": "Blacklist",
+      "overview": "Raymond « Red » Reddington, l’un des fugitifs les plus recherchés par le FBI, se rend en personne au quartier général du FBI à Washington. Il affirme avoir les mêmes intérêts que le FBI : faire tomber des criminels dangereux et des terroristes. Reddington coopérera, mais insiste pour ne parler qu’à Elizabeth Keen, une profileuse inexpérimentée du FBI. Keen s’interroge sur l’intérêt soudain que Reddington lui porte, bien qu’il soutienne que Keen est très spéciale. Après que le FBI a fait tomber un terroriste sur lequel il a fourni des informations, Reddington révèle que ce terroriste n’est que le premier de beaucoup d’autres à venir : durant les deux dernières décennies, il a fait une liste des criminels et terroristes qu'il croit introuvable par le FBI parce que ce dernier ignorait leur existence et que ce sont les plus importants. Reddington l’appelle « La Liste noire » (« The Blacklist »).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dIR6njcRuUtX3ShXECil3a2W5U7.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "genres": [
+        18,
+        80,
+        9648
+      ],
+      "voteAverage": 7.635,
+      "firstAirDate": "2013-09-23"
+    },
+    {
       "id": 211288,
       "name": "Tracker",
       "overview": "Colter Shaw est un loup solitaire, qui parcourt le pays à bord de son camping-car, utilisant ses talents de pisteur pour aider les particuliers et les forces de l'ordre à résoudre toutes sortes de crimes ou à retrouver les personnes disparues.",
@@ -3760,7 +3788,7 @@
         18,
         10759
       ],
-      "voteAverage": 7.613,
+      "voteAverage": 7.614,
       "firstAirDate": "2003-09-23"
     },
     {
@@ -3790,20 +3818,6 @@
       ],
       "voteAverage": 7.6,
       "firstAirDate": "2005-03-26"
-    },
-    {
-      "id": 46952,
-      "name": "Blacklist",
-      "overview": "Raymond « Red » Reddington, l’un des fugitifs les plus recherchés par le FBI, se rend en personne au quartier général du FBI à Washington. Il affirme avoir les mêmes intérêts que le FBI : faire tomber des criminels dangereux et des terroristes. Reddington coopérera, mais insiste pour ne parler qu’à Elizabeth Keen, une profileuse inexpérimentée du FBI. Keen s’interroge sur l’intérêt soudain que Reddington lui porte, bien qu’il soutienne que Keen est très spéciale. Après que le FBI a fait tomber un terroriste sur lequel il a fourni des informations, Reddington révèle que ce terroriste n’est que le premier de beaucoup d’autres à venir : durant les deux dernières décennies, il a fait une liste des criminels et terroristes qu'il croit introuvable par le FBI parce que ce dernier ignorait leur existence et que ce sont les plus importants. Reddington l’appelle « La Liste noire » (« The Blacklist »).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dIR6njcRuUtX3ShXECil3a2W5U7.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
-      "genres": [
-        18,
-        80,
-        9648
-      ],
-      "voteAverage": 7.6,
-      "firstAirDate": "2013-09-23"
     },
     {
       "id": 224,
@@ -3856,6 +3870,18 @@
       "firstAirDate": "2001-09-30"
     },
     {
+      "id": 131040,
+      "name": "披荆斩棘",
+      "overview": "Pas encore de synopsis pour cette série.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hB5wJgHi7g04zcTTn92bshEKkQ4.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/ySzItvbTqSJ3feKiueMFwAlH17y.jpg",
+      "genres": [
+        10764
+      ],
+      "voteAverage": 7.571,
+      "firstAirDate": "2021-08-12"
+    },
+    {
       "id": 2261,
       "name": "The Tonight Show avec Johnny Carson",
       "overview": "Le 1er octobre 1962, Groucho Marx accueillit Johnny Carson comme le nouveau présentateur du The Tonight Show.\n\nL’émission a été filmée à New York pendant pratiquement les dix premières années, avec Johnny Carson en tant que présentateur. Puis à partir de mai 1972, le plateau déménagea au Studio One à Burbank en Californie pour le reste de son « mandat » .",
@@ -3866,6 +3892,18 @@
       ],
       "voteAverage": 7.562,
       "firstAirDate": "1962-10-01"
+    },
+    {
+      "id": 125935,
+      "name": "Abbott Elementary",
+      "overview": "Dans cette comédie en milieu de travail, un groupe d'enseignants dévoués et passionnés - et un directeur légèrement sourd - sont réunis dans une école publique de Philadelphie où, malgré les obstacles qui leur sont opposés, ils sont déterminés à aider leurs élèves à réussir dans la vie. Bien que ces incroyables fonctionnaires soient en infériorité numérique et sous-financés, ils aiment ce qu'ils font - même s'ils n'aiment pas l'attitude moins que stellaire du district scolaire envers l'éducation des enfants.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zk2aNVIHoapdWKOcaYp7PhX9SxD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
+      "genres": [
+        35
+      ],
+      "voteAverage": 7.513,
+      "firstAirDate": "2021-12-07"
     },
     {
       "id": 41956,
@@ -3949,18 +3987,6 @@
       "firstAirDate": "1998-02-01"
     },
     {
-      "id": 125935,
-      "name": "Abbott Elementary",
-      "overview": "Dans cette comédie en milieu de travail, un groupe d'enseignants dévoués et passionnés - et un directeur légèrement sourd - sont réunis dans une école publique de Philadelphie où, malgré les obstacles qui leur sont opposés, ils sont déterminés à aider leurs élèves à réussir dans la vie. Bien que ces incroyables fonctionnaires soient en infériorité numérique et sous-financés, ils aiment ce qu'ils font - même s'ils n'aiment pas l'attitude moins que stellaire du district scolaire envers l'éducation des enfants.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zk2aNVIHoapdWKOcaYp7PhX9SxD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/s3owzvmihtDrunVxB2DyGjn9iJt.jpg",
-      "genres": [
-        35
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "2021-12-07"
-    },
-    {
       "id": 289892,
       "name": "Helluva Boss",
       "overview": "En enfer, l'imp Blitzø (le « o » est muet) dirige une entreprise d'assassins qui cible le monde des vivants, à l'aide d'un grimoire emprunté à un prince des enfers. Avec ses employés Moxxie, Millie et Loona, ils tentent de survivre les uns aux autres tout en maintenant leur entreprise à flot.",
@@ -3974,19 +4000,6 @@
       ],
       "voteAverage": 7.5,
       "firstAirDate": "2020-10-31"
-    },
-    {
-      "id": 231620,
-      "name": "Natural High",
-      "overview": "Rejoignez Shen Teng et ses amis alors qu'ils s'éloignent des villes surpeuplées et animées pour renouer avec la beauté de la nature sauvage.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uEoAOCIm4W275u00vx6UmhW6ruA.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/kQ58qbyCGkdmqKZtxMZbLNpgSxX.jpg",
-      "genres": [
-        10764,
-        35
-      ],
-      "voteAverage": 7.5,
-      "firstAirDate": "2023-08-13"
     },
     {
       "id": 2691,
@@ -4248,19 +4261,6 @@
       "firstAirDate": "2010-11-08"
     },
     {
-      "id": 502,
-      "name": "1 Rue Sesame",
-      "overview": "Emission de télévision éducative pour les jeunes enfants.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
-      "genres": [
-        10762,
-        35
-      ],
-      "voteAverage": 7.132,
-      "firstAirDate": "1969-11-10"
-    },
-    {
       "id": 72649,
       "name": "Hot Ones",
       "overview": "Des stars répondent à des questions tout en dégustant des ailes de poulet de plus en plus épicées.",
@@ -4285,6 +4285,19 @@
       ],
       "voteAverage": 7.102,
       "firstAirDate": "1990-09-28"
+    },
+    {
+      "id": 502,
+      "name": "1 Rue Sesame",
+      "overview": "Emission de télévision éducative pour les jeunes enfants.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w500/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+      "genres": [
+        10762,
+        35
+      ],
+      "voteAverage": 7.1,
+      "firstAirDate": "1969-11-10"
     },
     {
       "id": 3562,
@@ -4339,19 +4352,6 @@
       ],
       "voteAverage": 7,
       "firstAirDate": "2005-02-06"
-    },
-    {
-      "id": 57532,
-      "name": "La Pat' Patrouille",
-      "overview": "La Pat’ Patrouille compte six chiots héroïques qui répondent aux noms de Chase, Marcus, Rocky, Ruben, Zuma, et Stella. Ils sont menés par Ryder, un garçon de 10 ans féru de technologie. Tous ensemble, ils vivent des aventures palpitantes pour protéger la communauté de la Grande Vallée. La devise de Ryder ? « Aucune mission n'est trop dure car mes amis, ils assurent ! »",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nw2jRlCbBapEsRAMtsLONBbqXxp.jpg",
-      "backdropUrl": "https://image.tmdb.org/t/p/w500/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
-      "genres": [
-        16,
-        10762
-      ],
-      "voteAverage": 7,
-      "firstAirDate": "2013-08-12"
     }
   ]
 }
